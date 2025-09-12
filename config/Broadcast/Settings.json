@@ -1,0 +1,11 @@
+{
+    "AllowedFactions": [
+        "Mercenaries"
+    ],
+    "TimeToFirstBroadcast": 60.0,
+    "MinTimeForNextBroadcast": 900.0,
+    "MaxTimeForNextBroadcast": 5400.0,
+    "MinBroadcastChance": 0.30000001192092898,
+    "MaxBroadcastChance": 0.699999988079071,
+    "AISearchRadius": 2500.0
+}

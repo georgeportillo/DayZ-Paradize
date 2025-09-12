@@ -1,0 +1,1337 @@
+{
+    "Types": [
+        "ALL",
+        "",
+        "BorderCrossing",
+        "City",
+        "FlatAreaCitySmall",
+        "Hill",
+        "Local",
+        "Marine",
+        "RockArea",
+        "ViewPoint",
+        "Village"
+    ],
+    "Locations": [
+        {
+            "Type": "Marine",
+            "Name": "Akhuntsman's Retreat",
+            "Position": [
+                10363.1904296875,
+                0.0,
+                7160.740234375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Alica",
+            "Position": [
+                4982.93994140625,
+                0.0,
+                4881.2001953125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Alpha Crest",
+            "Position": [
+                14745.8095703125,
+                0.0,
+                6570.64013671875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Amos cave",
+            "Position": [
+                8827.2001953125,
+                0.0,
+                14930.0400390625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "Archon",
+            "Position": [
+                12338.8798828125,
+                0.0,
+                14908.2099609375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "BorderCrossing",
+            "Name": "Archon X",
+            "Position": [
+                3579.090087890625,
+                0.0,
+                12508.48046875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "Arsteinen",
+            "Position": [
+                1114.18994140625,
+                0.0,
+                6711.89990234375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "RockArea",
+            "Name": "Asgard hrad",
+            "Position": [
+                8882.509765625,
+                0.0,
+                13158.0703125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "Astrovill Lake",
+            "Position": [
+                6026.97998046875,
+                0.0,
+                14088.7900390625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "BUD`s place",
+            "Position": [
+                12804.0595703125,
+                0.0,
+                13489.2099609375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "BanovLand",
+            "Position": [
+                7097.43994140625,
+                0.0,
+                12075.8203125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "City",
+            "Name": "Banovce nad Bebravou",
+            "Position": [
+                6055.68994140625,
+                0.0,
+                1895.06005859375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "RockArea",
+            "Name": "Barok Lom",
+            "Position": [
+                5171.91015625,
+                0.0,
+                10328.1298828125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "BaziLake",
+            "Position": [
+                14097.1904296875,
+                0.0,
+                6648.6201171875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Biskupice",
+            "Position": [
+                4906.0400390625,
+                0.0,
+                440.07000732421877
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Bobot",
+            "Position": [
+                1419.27001953125,
+                0.0,
+                10471.4697265625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Boesen lake",
+            "Position": [
+                14743.6298828125,
+                0.0,
+                10799.9599609375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "Booky",
+            "Position": [
+                11882.669921875,
+                0.0,
+                11308.9599609375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "BorderCrossing",
+            "Name": "Brasil",
+            "Position": [
+                14084.08984375,
+                0.0,
+                2291.050048828125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Camp Fortuna",
+            "Position": [
+                11931.3095703125,
+                0.0,
+                3231.02001953125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "BorderCrossing",
+            "Name": "Camp Spartan",
+            "Position": [
+                1085.43994140625,
+                0.0,
+                6264.669921875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "RockArea",
+            "Name": "Candy Hero Lagoon",
+            "Position": [
+                5825.33984375,
+                0.0,
+                11020.9599609375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "RockArea",
+            "Name": "Castle Hrad Uhrovec",
+            "Position": [
+                14307.330078125,
+                0.0,
+                5224.22021484375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Catherine Antena",
+            "Position": [
+                14635.1298828125,
+                0.0,
+                15056.1201171875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Col. Flankz Radar Station",
+            "Position": [
+                2763.5,
+                0.0,
+                8772.91015625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "Congregation lake",
+            "Position": [
+                5080.33984375,
+                0.0,
+                4828.77978515625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "Deg",
+            "Position": [
+                11132.9697265625,
+                0.0,
+                8537.5703125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Dezerice",
+            "Position": [
+                3045.409912109375,
+                0.0,
+                6224.7900390625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "DiesAlotol",
+            "Position": [
+                12578.23046875,
+                0.0,
+                7940.490234375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Dolne Motesice",
+            "Position": [
+                372.0799865722656,
+                0.0,
+                11725.599609375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Domain of Droc",
+            "Position": [
+                5624.240234375,
+                0.0,
+                14521.0498046875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Dubnicka",
+            "Position": [
+                9282.2197265625,
+                0.0,
+                6562.4599609375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Dvorec",
+            "Position": [
+                3680.77001953125,
+                0.0,
+                609.8499755859375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "Eaglesnest",
+            "Position": [
+                5470.669921875,
+                0.0,
+                12936.6201171875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Easthaven",
+            "Position": [
+                14503.66015625,
+                0.0,
+                9666.3896484375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "Elnavajas lake",
+            "Position": [
+                11467.1904296875,
+                0.0,
+                10763.9599609375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "RockArea",
+            "Name": "Erebor",
+            "Position": [
+                12492.75,
+                0.0,
+                12450.3203125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "Fallout",
+            "Position": [
+                13993.16015625,
+                0.0,
+                14019.8701171875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Farma Pod rohom",
+            "Position": [
+                1055.1300048828126,
+                0.0,
+                264.0199890136719
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Faulis Outpost",
+            "Position": [
+                9951.9697265625,
+                0.0,
+                8713.8095703125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Forgotten Hiros",
+            "Position": [
+                10040.0595703125,
+                0.0,
+                13104.25
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Fort Leroy",
+            "Position": [
+                14790.2197265625,
+                0.0,
+                13893.419921875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "Goofs",
+            "Position": [
+                3801.1298828125,
+                0.0,
+                8923.7099609375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "BorderCrossing",
+            "Name": "Green Camp",
+            "Position": [
+                1716.43994140625,
+                0.0,
+                808.6599731445313
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "BorderCrossing",
+            "Name": "Green Mountain",
+            "Position": [
+                2476.659912109375,
+                0.0,
+                14058.8798828125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "BorderCrossing",
+            "Name": "HRABICE",
+            "Position": [
+                1998.4200439453126,
+                0.0,
+                11792.1396484375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Haywood Jabologma",
+            "Position": [
+                6497.3798828125,
+                0.0,
+                10983.099609375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Hornany",
+            "Position": [
+                1823.219970703125,
+                0.0,
+                7977.3798828125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Horne Nastice",
+            "Position": [
+                8850.2900390625,
+                0.0,
+                3176.2900390625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Horne Ozorovce",
+            "Position": [
+                4417.18994140625,
+                0.0,
+                3539.419921875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Hotel Delta",
+            "Position": [
+                671.9400024414063,
+                0.0,
+                7156.31982421875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "BorderCrossing",
+            "Name": "Huntsmen Complex",
+            "Position": [
+                11857.919921875,
+                0.0,
+                9039.76953125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Hvozdy",
+            "Position": [
+                7366.47021484375,
+                0.0,
+                13715.08984375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "InSaNiTy Lake",
+            "Position": [
+                5189.1298828125,
+                0.0,
+                10268.6796875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "BorderCrossing",
+            "Name": "Jankov vrsok",
+            "Position": [
+                13832.2998046875,
+                0.0,
+                3724.35009765625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Joshua Camp",
+            "Position": [
+                15221.9404296875,
+                0.0,
+                2797.530029296875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "Joy lake",
+            "Position": [
+                9113.7001953125,
+                0.0,
+                7906.8798828125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Kastiel Panny",
+            "Position": [
+                863.8900146484375,
+                0.0,
+                13277.6201171875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "Kat's Lake",
+            "Position": [
+                9883.58984375,
+                0.0,
+                10506.990234375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "BorderCrossing",
+            "Name": "Katapan",
+            "Position": [
+                5120.56005859375,
+                0.0,
+                8862.8095703125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "Koukolai",
+            "Position": [
+                1043.1300048828126,
+                0.0,
+                13494.51953125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Krasna Ves",
+            "Position": [
+                4152.330078125,
+                0.0,
+                13659.26953125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Ksinna",
+            "Position": [
+                12716.3798828125,
+                0.0,
+                10970.5498046875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "KubeloWood",
+            "Position": [
+                332.25,
+                0.0,
+                14422.009765625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "Lad Ness Monster",
+            "Position": [
+                3103.469970703125,
+                0.0,
+                7726.02978515625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "Lake Shadow",
+            "Position": [
+                4857.8798828125,
+                0.0,
+                9332.3896484375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Latkovce",
+            "Position": [
+                13083.25,
+                0.0,
+                560.9000244140625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Lazarus",
+            "Position": [
+                9493.7802734375,
+                0.0,
+                5972.14990234375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "BorderCrossing",
+            "Name": "Lean",
+            "Position": [
+                9666.83984375,
+                0.0,
+                3748.030029296875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "Leiaria",
+            "Position": [
+                6294.27978515625,
+                0.0,
+                12131.7099609375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Liana",
+            "Position": [
+                14450.0,
+                0.0,
+                12678.4697265625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "RockArea",
+            "Name": "Lom Podluzany",
+            "Position": [
+                5870.52978515625,
+                0.0,
+                9404.23046875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "LostLake",
+            "Position": [
+                11376.9501953125,
+                0.0,
+                676.1799926757813
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Lutov",
+            "Position": [
+                7780.58984375,
+                0.0,
+                7697.18017578125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "BorderCrossing",
+            "Name": "M B Barmby",
+            "Position": [
+                875.5,
+                0.0,
+                8984.4404296875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "Maccas",
+            "Position": [
+                13154.6103515625,
+                0.0,
+                682.989990234375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "Mastodon Geothermal Park",
+            "Position": [
+                13820.25,
+                0.0,
+                9174.5302734375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Miezgovce",
+            "Position": [
+                9901.8798828125,
+                0.0,
+                1650.4100341796876
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "BorderCrossing",
+            "Name": "Military Tisovik",
+            "Position": [
+                12038.1796875,
+                0.0,
+                14935.349609375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "BorderCrossing",
+            "Name": "Misfit Mercenaries FOB",
+            "Position": [
+                13207.9697265625,
+                0.0,
+                1281.68994140625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Motesice",
+            "Position": [
+                918.7999877929688,
+                0.0,
+                13020.400390625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "RockArea",
+            "Name": "Mucho",
+            "Position": [
+                8629.919921875,
+                0.0,
+                10997.33984375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Nad Rybnikami",
+            "Position": [
+                526.6099853515625,
+                0.0,
+                14564.01953125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Negans Sanctuary",
+            "Position": [
+                2023.5,
+                0.0,
+                9470.76953125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Nove Spoli",
+            "Position": [
+                8226.51953125,
+                0.0,
+                13821.599609375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Omastina",
+            "Position": [
+                14073.2802734375,
+                0.0,
+                6759.06005859375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Optimum",
+            "Position": [
+                13615.0595703125,
+                0.0,
+                8169.669921875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Outpost Brana",
+            "Position": [
+                6189.27001953125,
+                0.0,
+                2033.31005859375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "OverAmuse",
+            "Position": [
+                13083.6904296875,
+                0.0,
+                12855.0400390625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "BorderCrossing",
+            "Name": "OverGrown Military",
+            "Position": [
+                8130.1298828125,
+                0.0,
+                9819.2099609375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "Parzival",
+            "Position": [
+                14839.98046875,
+                0.0,
+                14997.58984375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "BorderCrossing",
+            "Name": "Pepelova Military",
+            "Position": [
+                313.44000244140627,
+                0.0,
+                5908.14990234375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Petra",
+            "Position": [
+                3535.050048828125,
+                0.0,
+                9928.5498046875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "PineLand",
+            "Position": [
+                7706.0400390625,
+                0.0,
+                11017.7900390625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Podluzany",
+            "Position": [
+                4880.169921875,
+                0.0,
+                6758.89990234375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Prison Veronika",
+            "Position": [
+                2307.81005859375,
+                0.0,
+                4886.83984375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Prusy",
+            "Position": [
+                6184.16015625,
+                0.0,
+                5373.9599609375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "RABBIT",
+            "Position": [
+                13321.6904296875,
+                0.0,
+                11543.48046875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Radio North Exile",
+            "Position": [
+                10878.91015625,
+                0.0,
+                12654.6103515625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "FlatAreaCitySmall",
+            "Name": "Red Farm",
+            "Position": [
+                5017.81005859375,
+                0.0,
+                199.0500030517578
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "Regimen armado",
+            "Position": [
+                3828.830078125,
+                0.0,
+                14239.8896484375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "Reservoir",
+            "Position": [
+                2594.590087890625,
+                0.0,
+                944.0499877929688
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "Rhubarbs Rest",
+            "Position": [
+                875.3499755859375,
+                0.0,
+                803.489990234375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Ruskovce",
+            "Position": [
+                1313.81005859375,
+                0.0,
+                4224.759765625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Rybarska Basta",
+            "Position": [
+                6950.22998046875,
+                0.0,
+                3586.93994140625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "Savaena",
+            "Position": [
+                8928.240234375,
+                0.0,
+                6174.10986328125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "Serenity",
+            "Position": [
+                13812.419921875,
+                0.0,
+                8179.2001953125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Sid ranc",
+            "Position": [
+                8740.08984375,
+                0.0,
+                1650.27001953125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "Sissi",
+            "Position": [
+                731.4400024414063,
+                0.0,
+                11087.6904296875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Skol",
+            "Position": [
+                14845.4501953125,
+                0.0,
+                11989.2001953125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Slatina nad Bebravou",
+            "Position": [
+                6603.2001953125,
+                0.0,
+                13756.4404296875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Sliezska Osada",
+            "Position": [
+                2287.139892578125,
+                0.0,
+                2162.510009765625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "BorderCrossing",
+            "Name": "Sumrak",
+            "Position": [
+                14892.76953125,
+                0.0,
+                607.8900146484375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Svinna",
+            "Position": [
+                14637.51953125,
+                0.0,
+                14459.9404296875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Tha Dirty Dogz Rock",
+            "Position": [
+                9964.4404296875,
+                0.0,
+                10947.8203125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "TheRunningManZ Industrial",
+            "Position": [
+                153.83999633789063,
+                0.0,
+                7976.64990234375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Timoradza",
+            "Position": [
+                4565.52978515625,
+                0.0,
+                10960.099609375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Tower Orion",
+            "Position": [
+                13071.98046875,
+                0.0,
+                10289.009765625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Trebichava",
+            "Position": [
+                9124.08984375,
+                0.0,
+                12311.5595703125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Trident Industrial",
+            "Position": [
+                6448.52978515625,
+                0.0,
+                14991.8603515625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Uhrovec",
+            "Position": [
+                11778.3095703125,
+                0.0,
+                4110.6298828125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Velke Drzkovce",
+            "Position": [
+                537.8499755859375,
+                0.0,
+                2835.75
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Vlckovo",
+            "Position": [
+                2132.639892578125,
+                0.0,
+                6301.43994140625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "Vodna nadrz Prusy",
+            "Position": [
+                6965.16015625,
+                0.0,
+                4410.509765625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Vybor Farm",
+            "Position": [
+                8283.580078125,
+                0.0,
+                12599.9599609375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "ViewPoint",
+            "Name": "WOLF",
+            "Position": [
+                6099.81005859375,
+                0.0,
+                1197.81005859375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Wolf Camp",
+            "Position": [
+                2818.2099609375,
+                0.0,
+                15298.400390625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "Wrecker",
+            "Position": [
+                8929.0595703125,
+                0.0,
+                14937.400390625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "Yama",
+            "Position": [
+                2457.860107421875,
+                0.0,
+                13234.08984375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Zavada pod Ciernym vrchom",
+            "Position": [
+                13095.5302734375,
+                0.0,
+                12496.6103515625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Zitna Radisa",
+            "Position": [
+                12152.509765625,
+                0.0,
+                7008.009765625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "BorderCrossing",
+            "Name": "mcdonaldsinternet",
+            "Position": [
+                11069.1298828125,
+                0.0,
+                7120.81005859375
+            ],
+            "Radius": 4.0
+        }
+    ]
+}
