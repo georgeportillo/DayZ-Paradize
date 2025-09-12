@@ -1,0 +1,359 @@
+{
+    "x": 3689.395263671875,
+    "y": 5985.54248046875,
+    "z": 403.7464599609375,
+    "building_x": 3686.41552734375,
+    "building_y": 5982.14892578125,
+    "building_z": 407.6746520996094,
+    "door_indices": [
+        0,
+        1,
+        2,
+        3
+    ],
+    "use_announcement": 1,
+    "announcement_title": "Red Keycard",
+    "announcement_text": "A red keycard has been activated at Green Mountain.",
+    "Location_Name": "Door_Land_Mil_Barracks5_3689_5986_404",
+    "BuildingClassName": "Land_Mil_Barracks5",
+    "keycard_class_name": "BS_keycard_lab_red",
+    "use_alarm": 1,
+    "alarm_sound": "Alarm_Military",
+    "alarm_duration": 45,
+    "alarm_loop_delay": 1.8,
+    "min_unlock_time": 0,
+    "max_unlock_time": 0,
+    "min_restock_time": 70,
+    "max_restock_time": 70,
+    "min_containers_to_spawn": 2,
+    "max_containers_to_spawn": 3,
+    "containers_only": 0,
+    "persistCooldownOnRestart": 0,
+    "containers": [
+        {
+            "referenceName": "BOX1",
+            "className": "BS_Box1_Black",
+            "position": [
+                3685.79834,
+                403.9133,
+                5989.234375
+            ],
+            "orientation": [
+                -20.001272,
+                0.0,
+                0.0
+            ],
+            "lootPoolName": "Vest",
+            "lootMin": 1,
+            "lootMax": 1,
+            "spawnChance": 1.0,
+            "useFixedLoot": 1,
+            "fixedItems": [
+                {
+                    "name": "AliceBag_NearBubble",
+                    "quantity": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "BallisticHelmet_Navy",
+                    "quantity": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "BalaclavaMask_Black",
+                    "quantity": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "CombatBoots_Black",
+                    "quantity": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "AmmoBox_762x54Tracer_20Rnd",
+                    "quantity": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "AmmoBox_308WinTracer_20Rnd",
+                    "quantity": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "AmmoBox_12gaSlug_10Rnd",
+                    "quantity": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "M79",
+                    "quantity": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "Grenade_ChemGas",
+                    "quantity": 2,
+                    "attachments": []
+                }
+            ],
+            "preventDuplicateLoot": 0
+        },
+        {
+            "referenceName": "Guncase1",
+            "className": "BS_Guncase",
+            "position": [
+                3678.131348,
+                407.20047,
+                5993.55957
+            ],
+            "orientation": [
+                -123.196495,
+                0.0,
+                0.0
+            ],
+            "lootPoolName": "Weapons1",
+            "lootMin": 2,
+            "lootMax": 2,
+            "spawnChance": 1.0,
+            "useFixedLoot": 0,
+            "fixedItems": [],
+            "preventDuplicateLoot": 1
+        },
+        {
+            "referenceName": "Box2",
+            "className": "BS_Box4_Green",
+            "position": [
+                3676.057373,
+                407.980103,
+                5992.253418
+            ],
+            "orientation": [
+                -12.47082,
+                0.0,
+                0.0
+            ],
+            "lootPoolName": "Explosives",
+            "lootMin": 2,
+            "lootMax": 2,
+            "spawnChance": 1.0,
+            "useFixedLoot": 1,
+            "fixedItems": [
+                {
+                    "name": "FAL",
+                    "quantity": 1,
+                    "attachments": [
+                        {
+                            "name": "Fal_OeBttstck",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "M4_T3NRDSOptic",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Mag_FAL_20Rnd",
+                            "quantity": 20
+                        }
+                    ]
+                },
+                {
+                    "name": "Grenade_ChemGas",
+                    "quantity": 2,
+                    "attachments": []
+                },
+                {
+                    "name": "TacticalBaconCan_Opened",
+                    "quantity": 1,
+                    "quantityMinPercent": 0.5,
+                    "quantityMaxPercent": 1.0,
+                    "attachments": []
+                },
+                {
+                    "name": "TacticalBaconCan",
+                    "quantity": 2,
+                    "attachments": []
+                }
+            ],
+            "preventDuplicateLoot": 1
+        }
+    ],
+    "doorSpecificLootPools": [
+        {
+            "lootPoolName": "Weapons1",
+            "rewards": [
+                {
+                    "name": "SVD_Wooden",
+                    "chanceToSpawn": 0.50,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "PSO1Optic",
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "AK_Suppressor",
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "Mag_SVD_10Rnd",
+                            "quantity": 10,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "M4A1",
+                    "chanceToSpawn": 0.50,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "Mag_STANAGCoupled_30Rnd",
+                            "quantity": 30,
+                            "attachments": []
+                        },
+                        {
+                            "name": "M9A1_Bayonet",
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "M4_OEBttstck",
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "M4_RISHndgrd",
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "UniversalLight",
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "M4_T3NRDSOptic",
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "lootPoolName": "Vest",
+            "rewards": [
+                {
+                    "name": "PlateCarrierVest_Green",
+                    "chanceToSpawn": 0.20,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "PlateCarrierPouches",
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "PlateCarrierHolster",
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "PlateCarrierVest_Camo",
+                    "chanceToSpawn": 0.20,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "PlateCarrierPouches",
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "PlateCarrierHolster",
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "PlateCarrierVest_Black",
+                    "chanceToSpawn": 0.20,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "PlateCarrierPouches",
+                            "quantity": 1,
+                            "attachments": []
+                        },
+                        {
+                            "name": "PlateCarrierHolster",
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "PressVest_Blue",
+                    "chanceToSpawn": 0.20,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "PoliceVest",
+                    "chanceToSpawn": 0.20,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "lootPoolName": "Explosives",
+            "rewards": [
+                {
+                    "name": "Plastic_Explosive",
+                    "chanceToSpawn": 0.50,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "ImprovisedExplosive",
+                    "chanceToSpawn": 0.25,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                },
+                {
+                    "name": "ClaymoreMine",
+                    "chanceToSpawn": 0.25,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                 }
+            ]
+        }
+    ],
+    "spawn_hacked_crate": 0,
+    "hacked_crate_classname": "BS_Hacked_Crate_White",
+    "hacked_crate_position": [
+        3675.442627,
+        402.69162,
+        5990.323242
+    ],
+    "hacked_crate_orientation": [
+        41.465607,
+        0.0,
+        0.0
+    ],
+    "hacked_crate_config_id": "Example_ID_HackedCrate"
+}

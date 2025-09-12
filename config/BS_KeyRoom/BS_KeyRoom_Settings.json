@@ -1,0 +1,55 @@
+{
+    "enableRandomContainerRespawn": 1,
+    "maxRandomContainers": 50,
+    "debug_build": 1,
+    "admin_log": 0,
+    "showDoorTimerText": 1,
+    "KeyCard_Locations": [],
+    "lootPools": [
+        {
+            "lootPoolName": "Military_Default",
+            "rewards": [
+                {
+                    "name": "AKM",
+                    "chanceToSpawn": 1.0,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": [
+                        {
+                            "name": "Mag_AKM_30Rnd",
+                            "random_names": [],
+                            "quantity": 1,
+                            "attachments": []
+                        }
+                    ]
+                },
+                {
+                    "name": "PlateCarrierVest",
+                    "chanceToSpawn": 0.5,
+                    "quantityMin": 1,
+                    "quantityMax": 1,
+                    "attachments": []
+                }
+            ]
+        },
+        {
+            "lootPoolName": "Medical_Default",
+            "rewards": [
+                {
+                    "name": "BandageDressing",
+                    "chanceToSpawn": 1.0,
+                    "quantityMin": 5,
+                    "quantityMax": 10,
+                    "attachments": []
+                },
+                {
+                    "name": "Morphine",
+                    "chanceToSpawn": 0.800000011920929,
+                    "quantityMin": 2,
+                    "quantityMax": 4,
+                    "attachments": []
+                }
+            ]
+        }
+    ]
+}

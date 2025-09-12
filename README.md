@@ -1,2 +1,0 @@
-# dayzOffline.enoch
-

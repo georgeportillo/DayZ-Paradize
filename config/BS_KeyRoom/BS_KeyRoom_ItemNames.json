@@ -1,0 +1,194 @@
+{
+    "KeyCardEntries": [
+        {
+            "ClassName": "BS_Key1",
+            "DisplayAndDescription": "Grey Key (Fire Dept.)|Access key for the Chernogorsk Fire Station.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_Key2",
+            "DisplayAndDescription": "Grey Key (Police Booth)|Access key for the police booth at Balota Airfield.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_Key3",
+            "DisplayAndDescription": "Grey Key (Hunting Cabin)|Access key for the hunting cabin on Skalisty Island.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_Key4",
+            "DisplayAndDescription": "Grey Key (Police Dept.)|Access key for the main Police Department in Elektrozavodsk.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_Key5",
+            "DisplayAndDescription": "Grey Key (Police Office)|Access key for an office inside the Elektrozavodsk Police Dept.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_Key6",
+            "DisplayAndDescription": "Grey Key (Medical)|Access key for a medical clinic in Berezino.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_Key7",
+            "DisplayAndDescription": "Grey Key (Factory)|Access key to a factory in the industrial area of Berezino.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_Key8",
+            "DisplayAndDescription": "Grey Key (Garages)|Access to a row of garages in Chernogorsk.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_Key9",
+            "DisplayAndDescription": "Grey Key (Industrial)|Access key for the Orlets Factory offices.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_Key10",
+            "DisplayAndDescription": "Grey Key (Restaurant)|Access key for the restaurant in Svetlojarsk.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_Key11",
+            "DisplayAndDescription": "Grey Key (Hospital)|Access key to a medical area in the Chernogorsk Hospital.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_Key12",
+            "DisplayAndDescription": "Grey Key (ATC Tower)|Access to the Air Traffic Control tower at Krasnostav Airfield.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_Key13",
+            "DisplayAndDescription": "Grey Key (Pub)|Access to the pub in Severograd.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_Key14",
+            "DisplayAndDescription": "Grey Key (Guardhouse)|Access to a guardhouse in the Myshkino military tents.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_Key23",
+            "DisplayAndDescription": "Grey Key (Shop)|Access to the general store in Zelenogorsk.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_bluekey1",
+            "DisplayAndDescription": "Blue Key (Prison)|Access to the prison block at Tisy Military Base.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_bluekey2",
+            "DisplayAndDescription": "Blue Key (Police HQ)|Access to the main Police HQ in Severograd.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_bluekey3",
+            "DisplayAndDescription": "Blue Key (Barracks)|Access to the officer barracks at NWAF.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_bluekey4",
+            "DisplayAndDescription": "Blue Key (ATC)|Access to the NEAF ATC Tower.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_greenkey1",
+            "DisplayAndDescription": "Green Key (Checkpoint)|Access to the main checkpoint at Pavlovo Military Base.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_greenkey2",
+            "DisplayAndDescription": "Green Key (Hangar)|Access to a large hangar at NWAF.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_greenkey3",
+            "DisplayAndDescription": "Green Key (Radar Command)|Access to the Radar Command building at Tisy.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_greenkey4",
+            "DisplayAndDescription": "Green Key (Industrial Barracks)|Access to the Industrial Barracks at the Veresnik military base.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_redkey1",
+            "DisplayAndDescription": "Red Key (Fire Station)|Access to the fire station at Tisy Military Base.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_redkey2",
+            "DisplayAndDescription": "Red Key (HQ)|Access to the HQ building at Krasnostav Airfield.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_redkey3",
+            "DisplayAndDescription": "Red Key (Medical)|Access to the main hospital at Pavlovo Military.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_redkey4",
+            "DisplayAndDescription": "Red Key (Guard Tower)|Access to a guard tower at a hidden military outpost.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_yellowkey1",
+            "DisplayAndDescription": "Yellow Key (Prison Cells)|Access to the holding cells at Myshkino Tents.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_yellowkey2",
+            "DisplayAndDescription": "Yellow Key (Bunker)|Access to a hidden underground bunker.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_yellowkey3",
+            "DisplayAndDescription": "Yellow Key (Shipwreck)|Access to the captain's quarters on the Rify shipwreck.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_keycard_lab_white",
+            "DisplayAndDescription": "White Keycard|An access card of unknown purpose.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_keycard_lab_green",
+            "DisplayAndDescription": "Green Keycard|Single-use access to a restricted office in the Tisy Command Center.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_keycard_lab_blue",
+            "DisplayAndDescription": "Blue Keycard|Single-use access to the NEAF ATC Tower control room.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_keycard_lab_orange",
+            "DisplayAndDescription": "Orange Keycard|Single-use access to the main hangar at NWAF.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_keycard_lab_red",
+            "DisplayAndDescription": "Red Keycard|A high-clearance access card for top-secret locations.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_keycard_lab_violet",
+            "DisplayAndDescription": "Violet Keycard|A mysterious keycard, rumored to open experimental labs.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_keycard_lab_yellow",
+            "DisplayAndDescription": "Yellow Keycard|Single-use access to the contaminated area at the Rify shipwreck.",
+            "MaxUses": 1
+        },
+        {
+            "ClassName": "BS_keycard_lab_black",
+            "DisplayAndDescription": "Black Keycard|Single-use access to a fortified underground bunker.",
+            "MaxUses": 1
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+{
+    "ServerStartGracePeriod": 5,
+    "PeriodicTickIntervalSeconds": 3600
+}

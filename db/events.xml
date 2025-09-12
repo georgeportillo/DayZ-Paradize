@@ -1,5 +1,122 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <events>
+    <event name="InfectedBunkerLVL1">
+        <nominal>20</nominal>
+        <min>10</min>
+        <max>30</max>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <saferadius>0</saferadius>
+        <distanceradius>25</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="0"/>
+        <position>fixed</position>
+        <limit>child</limit>
+        <active>1</active>
+        <children>
+            <child type="ZmbM_SoldierNormal" min="2" max="5" />
+            <child type="ZmbM_usSoldier_normal_Woodland" min="2" max="5" />
+            <child type="ZmbM_usSoldier_Heavy_Navy" min="2" max="5" />
+            <child type="ZmbM_eastSoldier_normal_Navy" min="2" max="5" />
+            <child type="ZmbM_PatrolNormal_Summer" min="1" max="2" />
+        </children>
+    </event>
+    <event name="InfectedBunkerLVL2">
+        <nominal>20</nominal>
+        <min>10</min>
+        <max>30</max>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <saferadius>0</saferadius>
+        <distanceradius>25</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="0"/>
+        <position>fixed</position>
+        <limit>child</limit>
+        <active>1</active>
+        <children>
+            <child type="ZmbM_PrisonerSkinny" min="2" max="5" />
+            <child type="ZmbM_SoldierNormal" min="2" max="5" />
+            <child type="ZmbM_usSoldier_normal_Woodland" min="2" max="5" />
+            <child type="ZmbM_usSoldier_Heavy_Navy" min="2" max="5" />
+            <child type="ZmbM_eastSoldier_normal_Navy" min="2" max="5" />
+            <child type="ZmbM_PatrolNormal_Summer" min="1" max="2" />
+        </children>
+    </event>
+    <event name="InfectedBunkerLVL2Md">
+        <nominal>20</nominal>
+        <min>10</min>
+        <max>30</max>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <saferadius>0</saferadius>
+        <distanceradius>25</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="0"/>
+        <position>fixed</position>
+        <limit>child</limit>
+        <active>1</active>
+        <children>
+            <child type="ZmbM_NBC_Grey" min="1" max="3" />
+            <child type="ZmbM_NBC_Yellow" min="1" max="3" />
+            <child type="ZmbM_NBC_White" min="1" max="3" />
+            <child type="ZmbM_PatientSkinny_Winter" min="1" max="3" />
+            <child type="ZmbM_PatientSkinny" min="1" max="3" />
+            <child type="ZmbF_PatientOld" min="1" max="3" />
+            <child type="ZmbF_PatientOld_Winter" min="1" max="3" />
+            <child type="ZmbF_ParamedicNormal_Blue" min="1" max="3" />
+            <child type="ZmbF_ParamedicNormal_Green" min="1" max="3" />
+            <child type="ZmbF_ParamedicNormal_Red" min="1" max="3" />
+            <child type="ZmbM_ParamedicNormal_Blue" min="1" max="3" />
+            <child type="ZmbM_ParamedicNormal_Green" min="1" max="3" />
+            <child type="ZmbM_ParamedicNormal_Red" min="1" max="3" />
+            <child type="ZmbM_ParamedicNormal_Black" min="1" max="3" />
+            <child type="ZmbM_DoctorFat_Winter" min="1" max="3" />
+            <child type="ZmbM_DoctorFat" min="1" max="3" />
+            <child type="ZmbF_DoctorSkinny" min="1" max="3" />
+            <child type="ZmbF_NurseFat" min="1" max="3" />
+            <child type="ZmbF_NurseFat_Winter" min="1" max="3" />
+        </children>
+    </event>
+    <event name="InfectedBunkerLVL3">
+        <nominal>20</nominal>
+        <min>10</min>
+        <max>30</max>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <saferadius>0</saferadius>
+        <distanceradius>25</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="0"/>
+        <position>fixed</position>
+        <limit>child</limit>
+        <active>1</active>
+        <children>
+            <child type="ZmbM_SoldierNormal" min="2" max="5" />
+            <child type="ZmbM_usSoldier_normal_Woodland" min="2" max="5" />
+            <child type="ZmbM_usSoldier_Heavy_Navy" min="2" max="5" />
+            <child type="ZmbM_eastSoldier_normal_Navy" min="2" max="5" />
+            <child type="ZmbM_PatrolNormal_Summer" min="1" max="2" />
+        </children>
+    </event>
+    <event name="InfectedBunkerBosses">
+        <nominal>2</nominal>
+        <min>2</min>
+        <max>2</max>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <saferadius>0</saferadius>
+        <distanceradius>25</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="0" />
+        <position>fixed</position>
+        <limit>child</limit>
+        <active>1</active>
+        <children>
+            <child type="ZmbM_Mummy" min="2" max="5" />
+        </children>
+    </event>
+
     <event name="AmbientFox">
         <nominal>0</nominal>
         <min>0</min>
@@ -808,7 +925,8 @@
         <limit>child</limit>
         <active>1</active>
         <children>
-            <child lootmax="15" lootmin="10" max="3" min="1" type="Wreck_Mi8_Crashed"/>
+            <child lootmax="20" lootmin="15" max="3" min="1" type="Wreck_Mi8_Crashed"/>
+            <child lootmax="20" lootmin="15" max="3" min="1" type="Wreck_UH1Y"/>
         </children>
     </event>
     <event name="StaticMilitaryConvoy">

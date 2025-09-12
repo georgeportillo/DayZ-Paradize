@@ -1,0 +1,4752 @@
+{
+    "ModVersion": "1.2",
+    "ConfigVersion": 3,
+    "ZombieSpawnLocationData": [
+        {
+            "Label": "LVL1 - 1",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 300,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        709.263,
+                        531.414,
+                        1228.44
+                    ],
+                    "TriggerRadius": 50.0
+                }
+            ],
+            "SpawnLocation": [
+                709.263,
+                531.414,
+                1228.44
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_Vest_MMAC_Black",
+                        "FOG_TV110T_GrenadePouch_FG",
+                        "FOG_Pouch_Mag_Dope_AOR1",
+                        "PlateCarrierVest"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_Vest_MMAC_Black",
+                        "FOG_Vest_Gen4_EMR",
+                        "FOG_SniperHood_RG",
+                        "PlateCarrierVest"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Vest_MMAC_Black",
+                        "FOG_Vest_Gen4_EMR",
+                        "FOG_Vest_SSMK4_M81",
+                        "PlateCarrierVest"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_eastSoldier_normal_Navy",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_eastSoldier_normal_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Vest_MMAC_Black",
+                        "FOG_Vest_MMAC_AOR2",
+                        "FOG_GhillieAtt_BushYellow",
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": [
+                        "FOG_GhillieAtt_BushYellow",
+                        "FOG_Vest_SSMK4_M81",
+                        "FOG_Tshirt_White"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": [
+                        "FOG_Helmet_FASTMT_MCAL",
+                        "FOG_SniperHood_MCB"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_308WinTracer",
+                        "Ammo_Flare"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_Vest_PACA_Black",
+                        "FOG_SniperHood_RG"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_9x19",
+                        "Ammo_762x39"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        },
+        {
+            "Label": "LVL1 - 2",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 300,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        702.134,
+                        531.451,
+                        1208.31
+                    ],
+                    "TriggerRadius": 50.0
+                }
+            ],
+            "SpawnLocation": [
+                702.134,
+                531.451,
+                1208.31
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_Vest_MMAC_Black",
+                        "FOG_Vest_Gen4_EMR",
+                        "FOG_Pouch_Mag_Dope_AOR1",
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_Vest_Gen4_EMR",
+                        "FOG_GhillieBushrag_RagsMCB",
+                        "FOG_Tshirt_White"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": [
+                        "FOG_SniperHood_RG",
+                        "FOG_Vest_MMAC_AOR2",
+                        "FOG_Vest_MMAC_Black",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_eastSoldier_normal_Navy",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_eastSoldier_normal_Navy",
+                    "SpawnAttachments": [
+                        "FOG_GhillieBushrag_RagsMCB",
+                        "FOG_SniperHood_RG",
+                        "FOG_Vest_SSMK4_M81",
+                        "PlateCarrierVest"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": [
+                        "FOG_Pouch_Mag_Dope_AOR1",
+                        "FOG_Vest_Gen4_EMR",
+                        "FOG_Vest_SSMK4_M81",
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": [
+                        "FOG_Vest_LBT6094_Blue",
+                        "FOG_Hoodie_Jacket_Patagonia"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_40mm_Smoke_Red",
+                        "Ammo_CupidsBolt"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Bag_BlackJack_MCB",
+                        "FOG_Hoodie_Jacket_Thrasher"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_9x39AP",
+                        "Ammo_308Win"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        },
+        {
+            "Label": "LVL1 - 3",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 300,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        711.568,
+                        531.543,
+                        1193.58
+                    ],
+                    "TriggerRadius": 50.0
+                }
+            ],
+            "SpawnLocation": [
+                711.568,
+                531.543,
+                1193.58
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_Vest_MMAC_Black",
+                        "FOG_SniperHood_RG",
+                        "FOG_GhillieAtt_BushYellow",
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_GhillieBushrag_RagsMCB",
+                        "FOG_Vest_SSMK4_M81",
+                        "FOG_SniperHood_RG"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Vest_MMAC_AOR2",
+                        "FOG_TV110T_GrenadePouch_FG",
+                        "FOG_SniperHood_RG",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_eastSoldier_normal_Navy",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_eastSoldier_normal_Navy",
+                    "SpawnAttachments": [
+                        "FOG_GhillieBushrag_RagsMCB",
+                        "FOG_TV110T_GrenadePouch_FG",
+                        "FOG_Vest_Gen4_EMR",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": [
+                        "FOG_GhillieBushrag_RagsMCB",
+                        "FOG_Vest_Gen4_EMR",
+                        "FOG_SniperHood_RG"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_Bag_6ShBagT_Black"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_Flare",
+                        "Ammo_762x54"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_Bag_F4Terminator_BlackTiger"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_762x54Tracer",
+                        "Ammo_380"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        },
+        {
+            "Label": "LVL1 - 4",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 300,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        692.358,
+                        531.547,
+                        1195.74
+                    ],
+                    "TriggerRadius": 50.0
+                }
+            ],
+            "SpawnLocation": [
+                692.358,
+                531.547,
+                1195.74
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_Vest_MMAC_AOR2",
+                        "FOG_SniperHood_RG",
+                        "FOG_GhillieAtt_BushYellow",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_TV110T_GrenadePouch_FG",
+                        "FOG_GhillieBushrag_RagsMCB",
+                        "FOG_Vest_SSMK4_M81",
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Vest_MMAC_AOR2",
+                        "FOG_Tshirt_White",
+                        "FOG_GhillieBushrag_RagsMCB",
+                        "PlateCarrierVest"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_eastSoldier_normal_Navy",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_eastSoldier_normal_Navy",
+                    "SpawnAttachments": [
+                        "FOG_TV110T_GrenadePouch_FG",
+                        "FOG_Tshirt_White",
+                        "FOG_Vest_MMAC_AOR2",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": [
+                        "FOG_GhillieBushrag_RagsMCB",
+                        "FOG_Vest_MMAC_Black",
+                        "FOG_Tshirt_White",
+                        "PlateCarrierVest"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": [
+                        "FOG_Vest_PhoneCase1_Black",
+                        "FOG_Hooded_Parka_ALP"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_762x54Tracer",
+                        "Ammo_545x39Tracer"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Helmet_MTEK_Flux_KBTGR"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_FlareGreen",
+                        "Ammo_545x39Tracer"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        },
+        {
+            "Label": "LVL1 - 5",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 300,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        721.872,
+                        532.016,
+                        1181.44
+                    ],
+                    "TriggerRadius": 50.0
+                }
+            ],
+            "SpawnLocation": [
+                721.872,
+                532.016,
+                1181.44
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_Vest_MMAC_AOR2",
+                        "FOG_Vest_SSMK4_M81",
+                        "FOG_Tshirt_White",
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_Pouch_Mag_Dope_AOR1",
+                        "FOG_Vest_SSMK4_M81",
+                        "FOG_SniperHood_RG"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Vest_MMAC_AOR2",
+                        "FOG_Pouch_Mag_Dope_AOR1",
+                        "FOG_Vest_MMAC_Black"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_eastSoldier_normal_Navy",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_eastSoldier_normal_Navy",
+                    "SpawnAttachments": [
+                        "FOG_GhillieBushrag_RagsMCB",
+                        "FOG_Pouch_Mag_Dope_AOR1",
+                        "FOG_GhillieAtt_BushYellow"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": [
+                        "FOG_Vest_SSMK4_M81",
+                        "FOG_Vest_MMAC_Black",
+                        "FOG_SniperHood_RG",
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": [
+                        "FOG_Hoodie_Jacket_MC"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_9x39",
+                        "Ammo_308WinTracer"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_Vest_CPC_MCA",
+                        "FOG_SniperHood_Black"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_22",
+                        "Ammo_12gaRubberSlug"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        },
+        {
+            "Label": "LVL1 - 6",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 300,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        678.895,
+                        531.418,
+                        1186.93
+                    ],
+                    "TriggerRadius": 50.0
+                }
+            ],
+            "SpawnLocation": [
+                678.895,
+                531.418,
+                1186.93
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_SniperHood_RG",
+                        "FOG_GhillieAtt_BushYellow",
+                        "FOG_Pouch_Mag_Dope_AOR1",
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_Vest_SSMK4_M81",
+                        "FOG_Tshirt_White",
+                        "FOG_Pouch_Mag_Dope_AOR1",
+                        "PlateCarrierVest"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Tshirt_White",
+                        "FOG_SniperHood_RG",
+                        "FOG_Vest_SSMK4_M81"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_eastSoldier_normal_Navy",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_eastSoldier_normal_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Vest_MMAC_AOR2",
+                        "FOG_TV110T_GrenadePouch_FG",
+                        "FOG_Tshirt_White",
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": [
+                        "FOG_Pouch_Mag_Dope_AOR1",
+                        "FOG_Vest_Gen4_EMR",
+                        "FOG_Vest_MMAC_Black",
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": [
+                        "FOG_Panel_MapPackMed_RG",
+                        "FOG_G3_Hoodie_Blue"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_45ACP",
+                        "Ammo_556x45Tracer"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_Helmet_FASTMT_AOR2",
+                        "FOG_Tactical_Hoodie_White"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_762x39Tracer",
+                        "Ammo_12gaPellets"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        },
+        {
+            "Label": "LVL1 - 7",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 300,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        687.399,
+                        531.418,
+                        1188.14
+                    ],
+                    "TriggerRadius": 50.0
+                }
+            ],
+            "SpawnLocation": [
+                687.399,
+                531.418,
+                1188.14
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_Tshirt_White",
+                        "FOG_TV110T_GrenadePouch_FG",
+                        "FOG_GhillieAtt_BushYellow",
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_Tshirt_White",
+                        "FOG_GhillieAtt_BushYellow",
+                        "FOG_Pouch_Mag_Dope_AOR1",
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Vest_MMAC_Black",
+                        "FOG_SniperHood_RG",
+                        "FOG_Vest_Gen4_EMR",
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_eastSoldier_normal_Navy",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_eastSoldier_normal_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Vest_SSMK4_M81",
+                        "FOG_Vest_MMAC_Black",
+                        "FOG_GhillieBushrag_RagsMCB",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": [
+                        "FOG_Tshirt_White",
+                        "FOG_Vest_MMAC_AOR2",
+                        "FOG_GhillieAtt_BushYellow"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_eastSoldier_normal_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Vest_SPC_M81",
+                        "FOG_Hoodie_Jacket_Thrasher"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_40mm_Smoke_Black",
+                        "Ammo_9x19"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_Hoodie_Jacket_MLG"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_12gaSlug",
+                        "Ammo_762x39"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        },
+        {
+            "Label": "LVL1 - 8",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 300,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        701.638,
+                        532.068,
+                        1177.43
+                    ],
+                    "TriggerRadius": 50.0
+                }
+            ],
+            "SpawnLocation": [
+                701.638,
+                532.068,
+                1177.43
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_GhillieAtt_BushYellow",
+                        "FOG_Vest_MMAC_Black",
+                        "FOG_Tshirt_White",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_Vest_Gen4_EMR",
+                        "FOG_GhillieBushrag_RagsMCB",
+                        "FOG_Vest_SSMK4_M81",
+                        "PlateCarrierVest"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": [
+                        "FOG_TV110T_GrenadePouch_FG",
+                        "FOG_SniperHood_RG",
+                        "FOG_Vest_MMAC_AOR2",
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_eastSoldier_normal_Navy",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_eastSoldier_normal_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Tshirt_White",
+                        "FOG_GhillieBushrag_RagsMCB",
+                        "FOG_TV110T_GrenadePouch_FG",
+                        "PlateCarrierVest"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": [
+                        "FOG_TV110T_GrenadePouch_FG",
+                        "FOG_Vest_Gen4_EMR",
+                        "FOG_GhillieAtt_BushYellow"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": [
+                        "FOG_SniperHood_M81"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_40mm_Smoke_Black",
+                        "Ammo_545x39"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_SniperHood_MC_Black"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_22",
+                        "Ammo_HuntingBolt"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        },
+        {
+            "Label": "LVL1 - 9",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 300,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        701.064,
+                        531.414,
+                        1146.72
+                    ],
+                    "TriggerRadius": 50.0
+                }
+            ],
+            "SpawnLocation": [
+                701.064,
+                531.414,
+                1146.72
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_Vest_MMAC_Black",
+                        "FOG_Pouch_Mag_Dope_AOR1",
+                        "FOG_GhillieBushrag_RagsMCB",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_TV110T_GrenadePouch_FG",
+                        "FOG_Vest_MMAC_AOR2",
+                        "FOG_SniperHood_RG",
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": [
+                        "FOG_TV110T_GrenadePouch_FG",
+                        "FOG_Tshirt_White",
+                        "FOG_SniperHood_RG",
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_eastSoldier_normal_Navy",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_eastSoldier_normal_Navy",
+                    "SpawnAttachments": [
+                        "FOG_TV110T_GrenadePouch_FG",
+                        "FOG_Vest_SSMK4_M81",
+                        "FOG_GhillieAtt_BushYellow",
+                        "PlateCarrierVest"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": [
+                        "FOG_Vest_MMAC_Black",
+                        "FOG_SniperHood_RG",
+                        "FOG_GhillieBushrag_RagsMCB",
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_Bag_DrawBridge_RG"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_45ACP",
+                        "Ammo_762x39Tracer"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_Helmet_MICH2000_Grey"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_762x54Tracer",
+                        "Ammo_545x39Tracer"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        },
+        {
+            "Label": "LVL1 - 10",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 300,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        680.248,
+                        531.411,
+                        1142.96
+                    ],
+                    "TriggerRadius": 50.0
+                }
+            ],
+            "SpawnLocation": [
+                680.248,
+                531.411,
+                1142.96
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_Pouch_Mag_Dope_AOR1",
+                        "FOG_Vest_SSMK4_M81",
+                        "FOG_SniperHood_RG",
+                        "PlateCarrierVest"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_Vest_SSMK4_M81",
+                        "FOG_Vest_Gen4_EMR",
+                        "FOG_Tshirt_White",
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Vest_SSMK4_M81",
+                        "FOG_Vest_Gen4_EMR",
+                        "FOG_SniperHood_RG",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_eastSoldier_normal_Navy",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_eastSoldier_normal_Navy",
+                    "SpawnAttachments": [
+                        "FOG_GhillieBushrag_RagsMCB",
+                        "FOG_Vest_Gen4_EMR",
+                        "FOG_Pouch_Mag_Dope_AOR1",
+                        "PlateCarrierVest"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": [
+                        "FOG_Vest_SSMK4_M81",
+                        "FOG_Vest_Gen4_EMR",
+                        "FOG_Vest_MMAC_Black",
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_Vest_Osprey_MCAL",
+                        "FOG_G3_Hoodie_Blue"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_762x39Tracer",
+                        "Ammo_40mm_Smoke_White"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_eastSoldier_normal_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Vest_CPC_Black"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_762x39Tracer",
+                        "Ammo_308WinTracer"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        },
+        {
+            "Label": "LVL1 - 11",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 300,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        650.886,
+                        531.427,
+                        1142.94
+                    ],
+                    "TriggerRadius": 50.0
+                }
+            ],
+            "SpawnLocation": [
+                650.886,
+                531.427,
+                1142.94
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_Vest_MMAC_AOR2",
+                        "FOG_GhillieBushrag_RagsMCB",
+                        "FOG_SniperHood_RG"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_TV110T_GrenadePouch_FG",
+                        "FOG_GhillieAtt_BushYellow",
+                        "FOG_SniperHood_RG",
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Vest_MMAC_AOR2",
+                        "FOG_Vest_Gen4_EMR",
+                        "FOG_Tshirt_White",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_eastSoldier_normal_Navy",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_eastSoldier_normal_Navy",
+                    "SpawnAttachments": [
+                        "FOG_SniperHood_RG",
+                        "FOG_GhillieBushrag_RagsMCB",
+                        "FOG_Vest_SSMK4_M81"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": [
+                        "FOG_TV110T_GrenadePouch_FG",
+                        "FOG_GhillieBushrag_RagsMCB",
+                        "FOG_Pouch_Mag_Dope_AOR1"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_Bag_CommsBag_CB",
+                        "FOG_GhillieHood_MCBrowns"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_545x39Tracer",
+                        "Ammo_Flare"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_Bag_6ShBagT_White"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_Flare",
+                        "Ammo_762x54Tracer"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        },
+        {
+            "Label": "LVL1 - 12",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 300,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        645.384,
+                        531.409,
+                        1151.31
+                    ],
+                    "TriggerRadius": 50.0
+                }
+            ],
+            "SpawnLocation": [
+                645.384,
+                531.409,
+                1151.31
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_SniperHood_RG",
+                        "FOG_Tshirt_White",
+                        "FOG_Vest_MMAC_Black"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_Vest_SSMK4_M81",
+                        "FOG_TV110T_GrenadePouch_FG",
+                        "FOG_SniperHood_RG",
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Vest_SSMK4_M81",
+                        "FOG_Tshirt_White",
+                        "FOG_Vest_Gen4_EMR"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_eastSoldier_normal_Navy",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_eastSoldier_normal_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Vest_Gen4_EMR",
+                        "FOG_GhillieAtt_BushYellow",
+                        "FOG_SniperHood_RG",
+                        "PlateCarrierVest"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": [
+                        "FOG_Tshirt_White",
+                        "FOG_Vest_MMAC_Black",
+                        "FOG_Vest_MMAC_AOR2",
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": [
+                        "FOG_Helmet_Airframe_OD"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_22",
+                        "Ammo_380"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_SniperHood_MCB"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_40mm_Explosive",
+                        "Ammo_22"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        },
+        {
+            "Label": "LVL1 - 13",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 300,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        648.939,
+                        531.409,
+                        1168.43
+                    ],
+                    "TriggerRadius": 50.0
+                }
+            ],
+            "SpawnLocation": [
+                648.939,
+                531.409,
+                1168.43
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_Pouch_Mag_Dope_AOR1",
+                        "FOG_GhillieBushrag_RagsMCB",
+                        "FOG_GhillieAtt_BushYellow",
+                        "PlateCarrierVest"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_TV110T_GrenadePouch_FG",
+                        "FOG_Pouch_Mag_Dope_AOR1",
+                        "FOG_Vest_MMAC_Black",
+                        "PlateCarrierVest"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": [
+                        "FOG_GhillieAtt_BushYellow",
+                        "FOG_Tshirt_White",
+                        "FOG_Vest_MMAC_Black",
+                        "PlateCarrierVest"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_eastSoldier_normal_Navy",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_eastSoldier_normal_Navy",
+                    "SpawnAttachments": [
+                        "FOG_GhillieBushrag_RagsMCB",
+                        "FOG_Vest_MMAC_AOR2",
+                        "FOG_Vest_MMAC_Black",
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": [
+                        "FOG_SniperHood_RG",
+                        "FOG_Vest_Gen4_EMR",
+                        "FOG_Vest_MMAC_AOR2",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": [
+                        "FOG_SniperHood_RG"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_308Win",
+                        "Ammo_9x39"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": [
+                        "FOG_GhillieHood_Green"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_762x54Tracer",
+                        "Ammo_545x39Tracer"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        },
+        {
+            "Label": "LVL1 - 14",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 300,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        642.431,
+                        531.561,
+                        1152.95
+                    ],
+                    "TriggerRadius": 50.0
+                }
+            ],
+            "SpawnLocation": [
+                642.431,
+                531.561,
+                1152.95
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_Vest_SSMK4_M81",
+                        "FOG_Vest_Gen4_EMR",
+                        "FOG_TV110T_GrenadePouch_FG",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_GhillieAtt_BushYellow",
+                        "FOG_GhillieBushrag_RagsMCB",
+                        "FOG_Pouch_Mag_Dope_AOR1",
+                        "PlateCarrierVest"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Tshirt_White",
+                        "FOG_GhillieAtt_BushYellow",
+                        "FOG_TV110T_GrenadePouch_FG",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_eastSoldier_normal_Navy",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_eastSoldier_normal_Navy",
+                    "SpawnAttachments": [
+                        "FOG_SniperHood_RG",
+                        "FOG_GhillieAtt_BushYellow",
+                        "FOG_Vest_Gen4_EMR",
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": [
+                        "FOG_Vest_MMAC_Black",
+                        "FOG_Vest_SSMK4_M81",
+                        "FOG_Tshirt_White",
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": [
+                        "FOG_FC_Torus_BattPack_MC",
+                        "FOG_Hoodie_Jacket_MLG"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_380",
+                        "Ammo_556x45"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_Helmet_FAST_SF_CB_BLK"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_545x39Tracer",
+                        "Ammo_40mm_Smoke_Black"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        },
+        {
+            "Label": "LVL1 - 16",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 300,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        627.037,
+                        531.408,
+                        1160.96
+                    ],
+                    "TriggerRadius": 50.0
+                }
+            ],
+            "SpawnLocation": [
+                627.037,
+                531.408,
+                1160.96
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_GhillieAtt_BushYellow",
+                        "FOG_Pouch_Mag_Dope_AOR1",
+                        "FOG_Vest_SSMK4_M81",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_GhillieBushrag_RagsMCB",
+                        "FOG_GhillieAtt_BushYellow",
+                        "FOG_SniperHood_RG",
+                        "PlateCarrierVest"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": [
+                        "FOG_TV110T_GrenadePouch_FG",
+                        "FOG_Tshirt_White",
+                        "FOG_Vest_Gen4_EMR",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_Hooded_Parka_MC"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_FlareGreen",
+                        "Ammo_12gaPellets"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_Tactical_Hoodie_CB"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_CupidsBolt",
+                        "Ammo_40mm_Smoke_Black"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        },
+        {
+            "Label": "LVL1 - 17",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 300,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        627.028,
+                        531.408,
+                        1169.34
+                    ],
+                    "TriggerRadius": 50.0
+                }
+            ],
+            "SpawnLocation": [
+                627.028,
+                531.408,
+                1169.34
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_TV110T_GrenadePouch_FG",
+                        "FOG_GhillieAtt_BushYellow",
+                        "FOG_Tshirt_White",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_Vest_SSMK4_M81",
+                        "FOG_GhillieAtt_BushYellow",
+                        "FOG_Tshirt_White",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": [
+                        "FOG_Vest_MMAC_Black",
+                        "FOG_GhillieAtt_BushYellow",
+                        "FOG_TV110T_GrenadePouch_FG",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_eastSoldier_normal_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Vest_Thor_MC"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_ImprovisedBolt_1",
+                        "Ammo_40mm_Smoke_Red"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Vest_JPC_CB"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_762x39",
+                        "Ammo_762x39Tracer"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        },
+        {
+            "Label": "LVL1 - 18",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 300,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        615.401,
+                        531.586,
+                        1128.02
+                    ],
+                    "TriggerRadius": 50.0
+                }
+            ],
+            "SpawnLocation": [
+                615.401,
+                531.586,
+                1128.02
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_TV110T_GrenadePouch_FG",
+                        "FOG_GhillieBushrag_RagsMCB",
+                        "FOG_Pouch_Mag_Dope_AOR1",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_Pouch_Mag_Dope_AOR1",
+                        "FOG_Vest_Gen4_EMR",
+                        "FOG_TV110T_GrenadePouch_FG",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": [
+                        "FOG_Vest_SSMK4_M81",
+                        "FOG_SniperHood_RG",
+                        "FOG_Pouch_Mag_Dope_AOR1",
+                        "PlateCarrierVest"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_Helmet_MICH2000_Grey"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_12gaPellets",
+                        "Ammo_762x39Tracer"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Tactical_Hoodie_UWU"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_FlareBlue",
+                        "Ammo_9x39"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        },
+        {
+            "Label": "LVL1 - 19",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 300,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        608.349,
+                        531.412,
+                        1126.28
+                    ],
+                    "TriggerRadius": 50.0
+                }
+            ],
+            "SpawnLocation": [
+                608.349,
+                531.412,
+                1126.28
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_GhillieBushrag_RagsMCB",
+                        "FOG_Vest_Gen4_EMR",
+                        "FOG_Vest_MMAC_Black",
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_Tshirt_White",
+                        "FOG_SniperHood_RG",
+                        "FOG_Vest_MMAC_Black",
+                        "PlateCarrierVest"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": [
+                        "FOG_Vest_Gen4_EMR",
+                        "FOG_TV110T_GrenadePouch_FG",
+                        "FOG_Vest_MMAC_AOR2",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_eastSoldier_normal_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Vest_SPC_AOR1"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_545x39",
+                        "Ammo_22"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Bag_DrawBridge_MC",
+                        "FOG_SniperHood_MC"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_308WinTracer",
+                        "Ammo_FlareGreen"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        },
+        {
+            "Label": "LVL1 - 20",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 300,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        601.24,
+                        531.412,
+                        1117.05
+                    ],
+                    "TriggerRadius": 50.0
+                }
+            ],
+            "SpawnLocation": [
+                601.24,
+                531.412,
+                1117.05
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_Vest_SSMK4_M81",
+                        "FOG_Vest_MMAC_Black",
+                        "FOG_TV110T_GrenadePouch_FG",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_GhillieAtt_BushYellow",
+                        "FOG_GhillieBushrag_RagsMCB",
+                        "FOG_Vest_MMAC_AOR2"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": [
+                        "FOG_Vest_MMAC_AOR2",
+                        "FOG_GhillieBushrag_RagsMCB",
+                        "FOG_Tshirt_White",
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": [
+                        "FOG_G3_Hoodie_DPM"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_308Win",
+                        "Ammo_40mm_ChemGas"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": [
+                        "FOG_Hoodie_Jacket_CDAJ"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_ImprovisedBolt_2",
+                        "Ammo_9x39"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        },
+        {
+            "Label": "LVL1 - 21",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 300,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        595.392,
+                        531.495,
+                        1158.47
+                    ],
+                    "TriggerRadius": 50.0
+                }
+            ],
+            "SpawnLocation": [
+                595.392,
+                531.495,
+                1158.47
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_Pouch_Mag_Dope_AOR1",
+                        "FOG_Vest_MMAC_AOR2",
+                        "FOG_Vest_MMAC_Black",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_Vest_MMAC_Black",
+                        "FOG_GhillieBushrag_RagsMCB",
+                        "FOG_TV110T_GrenadePouch_FG",
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": [
+                        "FOG_Vest_Gen4_EMR",
+                        "FOG_Vest_SSMK4_M81",
+                        "FOG_Tshirt_White",
+                        "PlateCarrierVest"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_Panel_MapPackMed_Black",
+                        "FOG_Hoodie_Jacket_FOG"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_Flare",
+                        "Ammo_40mm_Smoke_White"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_GhillieHood_GrassMulti"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_FlareBlue",
+                        "Ammo_380"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        },
+        {
+            "Label": "LVL1 - 22",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 300,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        594.964,
+                        532.06,
+                        1143.13
+                    ],
+                    "TriggerRadius": 50.0
+                }
+            ],
+            "SpawnLocation": [
+                594.964,
+                532.06,
+                1143.13
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_Vest_Gen4_EMR",
+                        "FOG_SniperHood_RG",
+                        "FOG_GhillieAtt_BushYellow",
+                        "PlateCarrierVest"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_Tshirt_White",
+                        "FOG_SniperHood_RG",
+                        "FOG_Vest_Gen4_EMR",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": [
+                        "FOG_GhillieBushrag_RagsMCB",
+                        "FOG_Pouch_Mag_Dope_AOR1",
+                        "FOG_Tshirt_White",
+                        "PlateCarrierVest"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_eastSoldier_normal_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Bag_SSO_MCB"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_FlareBlue",
+                        "Ammo_ImprovisedBolt_2"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_SniperHood_RG"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_40mm_Smoke_White",
+                        "Ammo_762x54Tracer"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        },
+        {
+            "Label": "LVL1 - 23",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 300,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        641.106,
+                        524.063,
+                        1158.64
+                    ],
+                    "TriggerRadius": 50.0
+                }
+            ],
+            "SpawnLocation": [
+                641.106,
+                524.063,
+                1158.64
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_GhillieBushrag_RagsMCB",
+                        "FOG_GhillieAtt_BushYellow",
+                        "FOG_SniperHood_RG"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_GhillieBushrag_RagsMCB",
+                        "FOG_SniperHood_RG",
+                        "FOG_TV110T_GrenadePouch_FG",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": [
+                        "FOG_Tshirt_White",
+                        "FOG_TV110T_GrenadePouch_FG",
+                        "FOG_Vest_MMAC_AOR2"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_Vest_LBT6094_MC",
+                        "FOG_G3_Hoodie_AOR1"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_45ACP",
+                        "Ammo_12gaPellets"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_SniperHood_Grey"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_40mm_Explosive",
+                        "Ammo_ImprovisedBolt_1"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        },
+        {
+            "Label": "LVL1 - 24",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 300,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        640.484,
+                        516.476,
+                        1153.21
+                    ],
+                    "TriggerRadius": 50.0
+                }
+            ],
+            "SpawnLocation": [
+                640.484,
+                516.476,
+                1153.21
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_Vest_SSMK4_M81",
+                        "FOG_Vest_Gen4_EMR",
+                        "FOG_GhillieAtt_BushYellow",
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_Vest_SSMK4_M81",
+                        "FOG_Vest_Gen4_EMR",
+                        "FOG_TV110T_GrenadePouch_FG",
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": [
+                        "FOG_Vest_SSMK4_M81",
+                        "FOG_Vest_MMAC_AOR2",
+                        "FOG_Vest_MMAC_Black",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_eastSoldier_normal_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Vest_LBT6094_RG",
+                        "FOG_G3_Hoodie_AOR2"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_308Win",
+                        "Ammo_ImprovisedBolt_1"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_GhillieHood_RagsMCB"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_12gaRubberSlug",
+                        "Ammo_40mm_Explosive"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        },
+        {
+            "Label": "LVL1 - 25",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 300,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        641.213,
+                        503.976,
+                        1158.53
+                    ],
+                    "TriggerRadius": 50.0
+                }
+            ],
+            "SpawnLocation": [
+                641.213,
+                503.976,
+                1158.53
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_SniperHood_RG",
+                        "FOG_Vest_Gen4_EMR",
+                        "FOG_Tshirt_White",
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_GhillieAtt_BushYellow",
+                        "FOG_Vest_MMAC_AOR2",
+                        "FOG_Vest_Gen4_EMR",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": [
+                        "FOG_GhillieBushrag_RagsMCB",
+                        "FOG_Vest_SSMK4_M81",
+                        "FOG_Tshirt_White"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_Bag_DrawBridge_Black"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_FlareRed",
+                        "Ammo_545x39"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_Helmet_FAST_SF_RG"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_12gaRubberSlug",
+                        "Ammo_40mm_Smoke_Green"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        },
+        {
+            "Label": "LVL1 - 26",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 300,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        640.68,
+                        486.341,
+                        1152.09
+                    ],
+                    "TriggerRadius": 50.0
+                }
+            ],
+            "SpawnLocation": [
+                640.68,
+                486.341,
+                1152.09
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_TV110T_GrenadePouch_FG",
+                        "FOG_Vest_Gen4_EMR",
+                        "FOG_Vest_MMAC_Black",
+                        "PlateCarrierVest"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_GhillieAtt_BushYellow",
+                        "FOG_Pouch_Mag_Dope_AOR1",
+                        "FOG_TV110T_GrenadePouch_FG"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": [
+                        "FOG_GhillieBushrag_RagsMCB",
+                        "FOG_Pouch_Mag_Dope_AOR1",
+                        "FOG_Vest_Gen4_EMR",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_eastSoldier_normal_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Helmet_AJs_FAST_SF_RG_BLK",
+                        "FOG_Hooded_Parka_MC"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_Flare",
+                        "Ammo_CupidsBolt"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_SniperHood_Black"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_12gaSlug",
+                        "Ammo_FlareBlue"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        },
+        {
+            "Label": "LVL1 - 27",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 300,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        648.557,
+                        486.362,
+                        1142.98
+                    ],
+                    "TriggerRadius": 50.0
+                }
+            ],
+            "SpawnLocation": [
+                648.557,
+                486.362,
+                1142.98
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_Pouch_Mag_Dope_AOR1",
+                        "FOG_Tshirt_White",
+                        "FOG_Vest_SSMK4_M81"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_Tshirt_White",
+                        "FOG_Vest_MMAC_Black",
+                        "FOG_Vest_Gen4_EMR"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": [
+                        "FOG_GhillieAtt_BushYellow",
+                        "FOG_Pouch_Mag_Dope_AOR1",
+                        "FOG_Vest_MMAC_Black",
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_eastSoldier_normal_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Vest_D3CRX_RG",
+                        "FOG_SniperHood_MCAL"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_357",
+                        "Ammo_545x39"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Bag_F4Terminator_CB",
+                        "FOG_Hooded_Parka_MC"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_762x54Tracer",
+                        "Ammo_357"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        },
+        {
+            "Label": "LVL1 - 28",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 300,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        644.759,
+                        486.362,
+                        1149.17
+                    ],
+                    "TriggerRadius": 50.0
+                }
+            ],
+            "SpawnLocation": [
+                644.759,
+                486.362,
+                1149.17
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_TV110T_GrenadePouch_FG",
+                        "FOG_Tshirt_White",
+                        "FOG_Pouch_Mag_Dope_AOR1",
+                        "PlateCarrierVest"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_Vest_MMAC_Black",
+                        "FOG_GhillieBushrag_RagsMCB",
+                        "FOG_Vest_MMAC_AOR2",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": [
+                        "FOG_Vest_SSMK4_M81",
+                        "FOG_GhillieBushrag_RagsMCB",
+                        "FOG_Tshirt_White",
+                        "PlateCarrierVest"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Helmet_Airframe_OD",
+                        "FOG_GhillieHood_Rags"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_545x39",
+                        "Ammo_308Win"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_Vest_Osprey_CB"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_40mm_Smoke_Red",
+                        "Ammo_40mm_Smoke_Black"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        },
+        {
+            "Label": "LVL1 - 29",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 300,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        639.35,
+                        486.392,
+                        1134.94
+                    ],
+                    "TriggerRadius": 50.0
+                }
+            ],
+            "SpawnLocation": [
+                639.35,
+                486.392,
+                1134.94
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_TV110T_GrenadePouch_FG",
+                        "FOG_Vest_Gen4_EMR",
+                        "FOG_Pouch_Mag_Dope_AOR1",
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_Pouch_Mag_Dope_AOR1",
+                        "FOG_SniperHood_RG",
+                        "FOG_GhillieAtt_BushYellow"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": [
+                        "FOG_Vest_Gen4_EMR",
+                        "FOG_GhillieAtt_BushYellow",
+                        "FOG_TV110T_GrenadePouch_FG",
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_Vest_CPC_AOR1"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_12gaPellets",
+                        "Ammo_308WinTracer"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_Vest_SSMK4_Black"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_545x39",
+                        "Ammo_22"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        },
+        {
+            "Label": "LVL2 - 1",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 300,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        591.25,
+                        516.332,
+                        1143.38
+                    ],
+                    "TriggerRadius": 50.0
+                }
+            ],
+            "SpawnLocation": [
+                591.25,
+                516.332,
+                1143.38
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_PrisonerSkinny",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_PrisonerSkinny",
+                    "SpawnAttachments": [
+                        "FOG_Vest_MMAC_Black",
+                        "FOG_Tshirt_White",
+                        "FOG_GhillieAtt_BushYellow",
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_Vest_SSMK4_M81",
+                        "FOG_Vest_MMAC_Black",
+                        "FOG_Vest_MMAC_AOR2",
+                        "PlateCarrierVest"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_Tshirt_White",
+                        "FOG_GhillieAtt_BushYellow",
+                        "FOG_GhillieBushrag_RagsMCB",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Helmet_HGU56_Black",
+                        "FOG_Tactical_Hoodie_MCB"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_22",
+                        "Ammo_40mm_Smoke_Black"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Bag_F4Terminator_RG"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_FlareGreen",
+                        "Ammo_FlareRed"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        },
+        {
+            "Label": "LVL2 - 2",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 300,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        618.699,
+                        516.454,
+                        1152.47
+                    ],
+                    "TriggerRadius": 50.0
+                }
+            ],
+            "SpawnLocation": [
+                618.699,
+                516.454,
+                1152.47
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_PrisonerSkinny",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_PrisonerSkinny",
+                    "SpawnAttachments": [
+                        "FOG_SniperHood_RG",
+                        "FOG_Vest_MMAC_Black",
+                        "FOG_Tshirt_White",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_Vest_Gen4_EMR",
+                        "FOG_Vest_SSMK4_M81",
+                        "FOG_GhillieBushrag_RagsMCB",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Vest_SSMK4_M81",
+                        "FOG_Pouch_Mag_Dope_AOR1",
+                        "FOG_Tshirt_White"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Helmet_FASTMT_MCT"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_556x45Tracer",
+                        "Ammo_Flare"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_Vest_FCPC_MCAL",
+                        "FOG_Hoodie_Jacket_PERDL"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_9x39",
+                        "Ammo_12gaRubberSlug"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        },
+        {
+            "Label": "LVL2 - 3 (cage1)",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 300,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        629.682,
+                        516.352,
+                        1121.38
+                    ],
+                    "TriggerRadius": 40.0
+                }
+            ],
+            "SpawnLocation": [
+                629.682,
+                516.352,
+                1121.38
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_PrisonerSkinny",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_PrisonerSkinny",
+                    "SpawnAttachments": [
+                        "FOG_GhillieBushrag_RagsMCB",
+                        "FOG_GhillieAtt_BushYellow",
+                        "FOG_Vest_MMAC_Black",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_GhillieBushrag_RagsMCB",
+                        "FOG_Vest_Gen4_EMR",
+                        "FOG_SniperHood_RG",
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_Vest_Osprey_Black",
+                        "FOG_G3_Hoodie_Black"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_22",
+                        "Ammo_762x39Tracer"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": [
+                        "FOG_Tactical_Hoodie_MC"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_9x39AP",
+                        "Ammo_556x45"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        },
+        {
+            "Label": "LVL2 - 4 (cage2)",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 300,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        622.78,
+                        516.352,
+                        1121.32
+                    ],
+                    "TriggerRadius": 40.0
+                }
+            ],
+            "SpawnLocation": [
+                622.78,
+                516.352,
+                1121.32
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_PrisonerSkinny",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_PrisonerSkinny",
+                    "SpawnAttachments": [
+                        "FOG_TV110T_GrenadePouch_FG",
+                        "FOG_Vest_MMAC_Black",
+                        "FOG_Vest_SSMK4_M81",
+                        "PlateCarrierVest"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_SniperHood_RG",
+                        "FOG_Vest_SSMK4_M81",
+                        "FOG_Tshirt_White",
+                        "PlateCarrierVest"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_Helmet_HGU56_OD"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_40mm_Smoke_Black",
+                        "Ammo_22"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_Vest_SSMK4_M81",
+                        "FOG_Hooded_Cloak_RG"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_12gaSlug",
+                        "Ammo_762x39Tracer"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        },
+        {
+            "Label": "LVL2 - 5 (cage3)",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 300,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        629.98,
+                        516.352,
+                        1126.39
+                    ],
+                    "TriggerRadius": 40.0
+                }
+            ],
+            "SpawnLocation": [
+                629.98,
+                516.352,
+                1126.39
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_PrisonerSkinny",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_PrisonerSkinny",
+                    "SpawnAttachments": [
+                        "FOG_GhillieBushrag_RagsMCB",
+                        "FOG_Vest_MMAC_AOR2",
+                        "FOG_Vest_SSMK4_M81",
+                        "PlateCarrierVest"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_eastSoldier_normal_Navy",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_eastSoldier_normal_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Vest_SSMK4_M81",
+                        "FOG_GhillieBushrag_RagsMCB",
+                        "FOG_Pouch_Mag_Dope_AOR1",
+                        "PlateCarrierVest"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_Vest_CPC_MC"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_9x39AP",
+                        "Ammo_380"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": [
+                        "FOG_Vest_SPC_CB"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_CupidsBolt",
+                        "Ammo_9x39AP"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        },
+        {
+            "Label": "LVL2 - 6 (cage4)",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 300,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        622.315,
+                        516.432,
+                        1131.27
+                    ],
+                    "TriggerRadius": 40.0
+                }
+            ],
+            "SpawnLocation": [
+                622.315,
+                516.432,
+                1131.27
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_PrisonerSkinny",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_PrisonerSkinny",
+                    "SpawnAttachments": [
+                        "FOG_Tshirt_White",
+                        "FOG_Vest_MMAC_AOR2",
+                        "FOG_Pouch_Mag_Dope_AOR1"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_GhillieBushrag_RagsMCB",
+                        "FOG_GhillieAtt_BushYellow",
+                        "FOG_Vest_MMAC_Black",
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": [
+                        "FOG_Hoodie_Jacket_Supreme"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_CupidsBolt",
+                        "Ammo_ImprovisedBolt_2"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Helmet_MTEK_Flux_KBTGR"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_40mm_Smoke_Red",
+                        "Ammo_308Win"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        },
+        {
+            "Label": "LVL2 - 7",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 300,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        658.037,
+                        516.343,
+                        1140.22
+                    ],
+                    "TriggerRadius": 50.0
+                }
+            ],
+            "SpawnLocation": [
+                658.037,
+                516.343,
+                1140.22
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_Vest_MMAC_AOR2",
+                        "FOG_GhillieAtt_BushYellow",
+                        "FOG_Vest_Gen4_EMR",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_GhillieBushrag_RagsMCB",
+                        "FOG_TV110T_GrenadePouch_FG",
+                        "FOG_Pouch_Mag_Dope_AOR1",
+                        "PlateCarrierVest"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_eastSoldier_normal_Navy",
+                    "SpawnAttachments": [
+                        "FOG_SniperHood_CB"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_545x39",
+                        "Ammo_545x39Tracer"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Hooded_Parka_CB"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_45ACP",
+                        "Ammo_308WinTracer"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        },
+        {
+            "Label": "LVL2 - 8",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 300,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        650.222,
+                        516.354,
+                        1142.91
+                    ],
+                    "TriggerRadius": 50.0
+                }
+            ],
+            "SpawnLocation": [
+                650.222,
+                516.354,
+                1142.91
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_Vest_MMAC_AOR2",
+                        "FOG_Vest_Gen4_EMR",
+                        "FOG_GhillieBushrag_RagsMCB",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": [
+                        "FOG_GhillieAtt_BushYellow",
+                        "FOG_Pouch_Mag_Dope_AOR1",
+                        "FOG_Vest_SSMK4_M81"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": [
+                        "FOG_Helmet_FAST_SF_RG",
+                        "FOG_SniperHood_MCT"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_12gaPellets",
+                        "Ammo_FlareGreen"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_Helmet_FAST_SF_MC"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_ImprovisedBolt_2",
+                        "Ammo_762x39"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        },
+        {
+            "Label": "LVL2 - 9",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 300,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        638.86,
+                        516.469,
+                        1133.95
+                    ],
+                    "TriggerRadius": 50.0
+                }
+            ],
+            "SpawnLocation": [
+                638.86,
+                516.469,
+                1133.95
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_Pouch_Mag_Dope_AOR1",
+                        "FOG_Vest_Gen4_EMR",
+                        "FOG_GhillieBushrag_RagsMCB",
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_eastSoldier_normal_Navy",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_eastSoldier_normal_Navy",
+                    "SpawnAttachments": [
+                        "FOG_TV110T_GrenadePouch_FG",
+                        "FOG_Vest_Gen4_EMR",
+                        "FOG_GhillieBushrag_RagsMCB"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": [
+                        "FOG_Vest_Thor_MC",
+                        "FOG_Hooded_Cloak_Grey"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_545x39",
+                        "Ammo_9x19"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": [
+                        "FOG_SniperHood_MC"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_HuntingBolt",
+                        "Ammo_9x19"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        },
+        {
+            "Label": "LVL2Md - 1",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 300,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        646.161,
+                        516.342,
+                        1166.05
+                    ],
+                    "TriggerRadius": 50.0
+                }
+            ],
+            "SpawnLocation": [
+                646.161,
+                516.342,
+                1166.05
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_NBC_Grey",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_NBC_Grey",
+                    "SpawnAttachments": [
+                        "FOG_Vest_MMAC_AOR2",
+                        "FOG_GhillieBushrag_RagsMCB",
+                        "FOG_Tshirt_White"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatientSkinny",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatientSkinny",
+                    "SpawnAttachments": [
+                        "FOG_Vest_SSMK4_M81",
+                        "FOG_TV110T_GrenadePouch_FG",
+                        "FOG_Vest_Gen4_EMR",
+                        "PlateCarrierVest"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbF_ParamedicNormal_Blue",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbF_ParamedicNormal_Blue",
+                    "SpawnAttachments": [
+                        "FOG_TV110T_GrenadePouch_FG",
+                        "FOG_Vest_MMAC_Black",
+                        "FOG_Tshirt_White",
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_Tactical_Hoodie_ERDL_Blk"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_762x39",
+                        "Ammo_ImprovisedBolt_2"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_eastSoldier_normal_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Tactical_Hoodie_White"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_40mm_Smoke_White",
+                        "Ammo_357"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        },
+        {
+            "Label": "LVL2Md - 2",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 300,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        656.81,
+                        516.342,
+                        1167.24
+                    ],
+                    "TriggerRadius": 50.0
+                }
+            ],
+            "SpawnLocation": [
+                656.81,
+                516.342,
+                1167.24
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_NBC_Yellow",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_NBC_Yellow",
+                    "SpawnAttachments": [
+                        "FOG_Vest_MMAC_AOR2",
+                        "FOG_Vest_Gen4_EMR",
+                        "FOG_GhillieBushrag_RagsMCB"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbF_NurseFat",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbF_NurseFat",
+                    "SpawnAttachments": [
+                        "FOG_Vest_SSMK4_M81",
+                        "FOG_GhillieAtt_BushYellow",
+                        "FOG_Vest_Gen4_EMR",
+                        "PlateCarrierVest"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_ParamedicNormal_Red",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_ParamedicNormal_Red",
+                    "SpawnAttachments": [
+                        "FOG_Vest_MMAC_Black",
+                        "FOG_GhillieBushrag_RagsMCB",
+                        "FOG_Vest_Gen4_EMR",
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": [
+                        "FOG_SniperHood_CB"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_40mm_ChemGas",
+                        "Ammo_545x39Tracer"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_Vest_SPC_RG"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_9x39AP",
+                        "Ammo_12gaSlug"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        },
+        {
+            "Label": "LVL2Md - 3",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 300,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        655.454,
+                        516.342,
+                        1152.56
+                    ],
+                    "TriggerRadius": 50.0
+                }
+            ],
+            "SpawnLocation": [
+                655.454,
+                516.342,
+                1152.56
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_NBC_White",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_NBC_White",
+                    "SpawnAttachments": [
+                        "FOG_Vest_MMAC_Black",
+                        "FOG_Tshirt_White",
+                        "FOG_Vest_MMAC_AOR2"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatientSkinny_Winter",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatientSkinny_Winter",
+                    "SpawnAttachments": [
+                        "FOG_GhillieAtt_BushYellow",
+                        "FOG_Vest_SSMK4_M81",
+                        "FOG_TV110T_GrenadePouch_FG",
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbF_ParamedicNormal_Green",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbF_ParamedicNormal_Green",
+                    "SpawnAttachments": [
+                        "FOG_TV110T_GrenadePouch_FG",
+                        "FOG_SniperHood_RG",
+                        "FOG_Vest_SSMK4_M81"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_eastSoldier_normal_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Vest_LVMBAV_Tan",
+                        "FOG_GhillieHood_Green"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_40mm_Smoke_White",
+                        "Ammo_545x39Tracer"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Vest_TV110T_AU"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_308WinTracer",
+                        "Ammo_762x39Tracer"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        },
+        {
+            "Label": "LVL2Md - 4",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 300,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        646.41,
+                        516.953,
+                        1151.96
+                    ],
+                    "TriggerRadius": 50.0
+                }
+            ],
+            "SpawnLocation": [
+                646.41,
+                516.953,
+                1151.96
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_DoctorFat",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_DoctorFat",
+                    "SpawnAttachments": [
+                        "FOG_Pouch_Mag_Dope_AOR1",
+                        "FOG_Tshirt_White",
+                        "FOG_Vest_MMAC_Black",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbF_DoctorSkinny",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbF_DoctorSkinny",
+                    "SpawnAttachments": [
+                        "FOG_Vest_SSMK4_M81",
+                        "FOG_Vest_Gen4_EMR",
+                        "FOG_Tshirt_White",
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbF_NurseFat_Winter",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbF_NurseFat_Winter",
+                    "SpawnAttachments": [
+                        "FOG_Vest_Gen4_EMR",
+                        "FOG_Vest_MMAC_Black",
+                        "FOG_Vest_SSMK4_M81"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_eastSoldier_normal_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Helmet_AJs_FAST_SF_RG"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_12gaSlug",
+                        "Ammo_12gaPellets"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_Vest_D3CRX_Black",
+                        "FOG_Hoodie_Jacket_PERDL"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_9x19",
+                        "Ammo_12gaSlug"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        },
+        {
+            "Label": "LVL2Md - 5",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 300,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        630.428,
+                        516.333,
+                        1162.75
+                    ],
+                    "TriggerRadius": 50.0
+                }
+            ],
+            "SpawnLocation": [
+                630.428,
+                516.333,
+                1162.75
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_ParamedicNormal_Blue",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_ParamedicNormal_Blue",
+                    "SpawnAttachments": [
+                        "FOG_Vest_MMAC_Black",
+                        "FOG_Vest_SSMK4_M81",
+                        "FOG_Vest_MMAC_AOR2",
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_ParamedicNormal_Red",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_ParamedicNormal_Red",
+                    "SpawnAttachments": [
+                        "FOG_SniperHood_RG",
+                        "FOG_Vest_SSMK4_M81",
+                        "FOG_Vest_Gen4_EMR",
+                        "PlateCarrierVest"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": [
+                        "FOG_GhillieHood_Grass"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_Flare",
+                        "Ammo_12gaPellets"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_Tactical_Hoodie_CB"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_CupidsBolt",
+                        "Ammo_40mm_Smoke_Black"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        },
+        {
+            "Label": "LVL2Md - 6",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 300,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        631.844,
+                        516.333,
+                        1168.12
+                    ],
+                    "TriggerRadius": 50.0
+                }
+            ],
+            "SpawnLocation": [
+                631.844,
+                516.333,
+                1168.12
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbF_PatientOld",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbF_PatientOld",
+                    "SpawnAttachments": [
+                        "FOG_GhillieAtt_BushYellow",
+                        "FOG_Vest_SSMK4_M81",
+                        "FOG_Vest_Gen4_EMR"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_DoctorFat_Winter",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_DoctorFat_Winter",
+                    "SpawnAttachments": [
+                        "FOG_GhillieAtt_BushYellow",
+                        "FOG_TV110T_GrenadePouch_FG",
+                        "FOG_Vest_Gen4_EMR",
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_Vest_AVS_CB"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_40mm_Explosive",
+                        "Ammo_Flare"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_Bag_SSO_CB",
+                        "FOG_G3_Hoodie_Blue"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_9x19",
+                        "Ammo_40mm_Smoke_White"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        },
+        {
+            "Label": "LVL2Md - 7",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 300,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        625.917,
+                        516.333,
+                        1157.66
+                    ],
+                    "TriggerRadius": 50.0
+                }
+            ],
+            "SpawnLocation": [
+                625.917,
+                516.333,
+                1157.66
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbF_NurseFat",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbF_NurseFat",
+                    "SpawnAttachments": [
+                        "FOG_Tshirt_White",
+                        "FOG_GhillieAtt_BushYellow",
+                        "FOG_Vest_MMAC_AOR2",
+                        "PlateCarrierVest"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbF_ParamedicNormal_Red",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbF_ParamedicNormal_Red",
+                    "SpawnAttachments": [
+                        "FOG_TV110T_GrenadePouch_FG",
+                        "FOG_Vest_MMAC_Black",
+                        "FOG_Vest_Gen4_EMR",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": [
+                        "FOG_Helmet_FAST_FTHS_MC"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_762x54Tracer",
+                        "Ammo_40mm_Smoke_White"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_Helmet_MTEK_Flux_KBTGR"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_FlareRed",
+                        "Ammo_545x39Tracer"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        },
+        {
+            "Label": "LVL2Md - 8",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 300,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        637.48,
+                        516.343,
+                        1146.31
+                    ],
+                    "TriggerRadius": 50.0
+                }
+            ],
+            "SpawnLocation": [
+                637.48,
+                516.343,
+                1146.31
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_PatientSkinny_Winter",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatientSkinny_Winter",
+                    "SpawnAttachments": [
+                        "FOG_Vest_SSMK4_M81",
+                        "FOG_Tshirt_White",
+                        "FOG_Vest_MMAC_AOR2",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbF_PatientOld_Winter",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbF_PatientOld_Winter",
+                    "SpawnAttachments": [
+                        "FOG_GhillieBushrag_RagsMCB",
+                        "FOG_TV110T_GrenadePouch_FG",
+                        "FOG_Vest_MMAC_Black",
+                        "PlateCarrierVest"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_Hooded_Cloak_Grey"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_CupidsBolt",
+                        "Ammo_40mm_Explosive"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_Vest_Gen4_MARPAT",
+                        "FOG_SniperHood_CB"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_12gaPellets",
+                        "Ammo_22"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        },
+        {
+            "Label": "LVL3 - 1",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 300,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        617.385,
+                        498.942,
+                        1158.8
+                    ],
+                    "TriggerRadius": 50.0
+                }
+            ],
+            "SpawnLocation": [
+                617.385,
+                498.942,
+                1158.8
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Pouch_Mag_Dope_AOR1",
+                        "FOG_Vest_Gen4_EMR",
+                        "FOG_Tshirt_White"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": [
+                        "FOG_Tshirt_White",
+                        "FOG_GhillieBushrag_RagsMCB",
+                        "FOG_Pouch_Mag_Dope_AOR1",
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Tactical_Hoodie_RG"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_12gaRubberSlug",
+                        "Ammo_40mm_Smoke_Green"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_GhillieHood_GrassMulti"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_308Win",
+                        "Ammo_ImprovisedBolt_1"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        },
+        {
+            "Label": "LVL3 - 2",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 300,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        627.332,
+                        501.263,
+                        1144.42
+                    ],
+                    "TriggerRadius": 50.0
+                }
+            ],
+            "SpawnLocation": [
+                627.332,
+                501.263,
+                1144.42
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Vest_MMAC_AOR2",
+                        "FOG_Vest_Gen4_EMR",
+                        "FOG_Tshirt_White",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_Vest_Gen4_EMR",
+                        "FOG_Pouch_Mag_Dope_AOR1",
+                        "FOG_Vest_MMAC_AOR2",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_GhillieHood_Rags"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_357",
+                        "Ammo_9x39"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Bag_BlackJack_MC",
+                        "FOG_GhillieHood_GrassGreen"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_9x19",
+                        "Ammo_40mm_Smoke_White"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        },
+        {
+            "Label": "LVL3 - 3",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 300,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        631.971,
+                        501.259,
+                        1127.63
+                    ],
+                    "TriggerRadius": 50.0
+                }
+            ],
+            "SpawnLocation": [
+                631.971,
+                501.259,
+                1127.63
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_eastSoldier_normal_Navy",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_eastSoldier_normal_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Vest_SSMK4_M81",
+                        "FOG_Pouch_Mag_Dope_AOR1",
+                        "FOG_Vest_Gen4_EMR",
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_Tshirt_White",
+                        "FOG_TV110T_GrenadePouch_FG",
+                        "FOG_GhillieBushrag_RagsMCB",
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Helmet_FASTMT_AOR2"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_762x54Tracer",
+                        "Ammo_762x39"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_Vest_D3CRX_RG",
+                        "FOG_GhillieHood_Urban"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_556x45Tracer",
+                        "Ammo_762x39Tracer"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        },
+        {
+            "Label": "LVL3 - 4",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 300,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        622.252,
+                        501.259,
+                        1124.09
+                    ],
+                    "TriggerRadius": 50.0
+                }
+            ],
+            "SpawnLocation": [
+                622.252,
+                501.259,
+                1124.09
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_TV110T_GrenadePouch_FG",
+                        "FOG_Vest_MMAC_Black",
+                        "FOG_Pouch_Mag_Dope_AOR1"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnAttachments": [
+                        "FOG_GhillieAtt_BushYellow",
+                        "FOG_TV110T_GrenadePouch_FG",
+                        "FOG_Vest_MMAC_Black"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_SniperHood_CB"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_9x39AP",
+                        "Ammo_762x54"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_eastSoldier_normal_Navy",
+                    "SpawnAttachments": [
+                        "FOG_GhillieHood_Urban"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_762x54",
+                        "Ammo_308WinTracer"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        },
+        {
+            "Label": "LVL3 - 5",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 300,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        616.841,
+                        501.745,
+                        1143.27
+                    ],
+                    "TriggerRadius": 50.0
+                }
+            ],
+            "SpawnLocation": [
+                616.841,
+                501.745,
+                1143.27
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_TV110T_GrenadePouch_FG",
+                        "FOG_Vest_SSMK4_M81",
+                        "FOG_GhillieBushrag_RagsMCB"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_SoldierNormal",
+                    "SpawnAttachments": [
+                        "FOG_GhillieAtt_BushYellow",
+                        "FOG_Vest_SSMK4_M81",
+                        "FOG_GhillieBushrag_RagsMCB",
+                        "PlateCarrierVest"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_Hooded_Cloak_Grey"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_9x39AP",
+                        "Ammo_762x54"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_Bag_6ShBagT_Green"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_22",
+                        "Ammo_40mm_ChemGas"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        },
+        {
+            "Label": "LVL3 - 6",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 300,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        602.64,
+                        501.288,
+                        1143.33
+                    ],
+                    "TriggerRadius": 50.0
+                }
+            ],
+            "SpawnLocation": [
+                602.64,
+                501.288,
+                1143.33
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Vest_MMAC_AOR2",
+                        "FOG_GhillieBushrag_RagsMCB",
+                        "FOG_GhillieAtt_BushYellow",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_eastSoldier_normal_Navy",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_eastSoldier_normal_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Vest_SSMK4_M81",
+                        "FOG_Vest_Gen4_EMR",
+                        "FOG_Vest_MMAC_AOR2",
+                        "PlateCarrierVest"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_eastSoldier_normal_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Helmet_Exfil_RG"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_12gaSlug",
+                        "Ammo_357"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Bag_CommsBag_MCAL"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_ImprovisedBolt_2",
+                        "Ammo_12gaRubberSlug"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        },
+        {
+            "Label": "Boss - 1",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 900,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        639.463,
+                        531.537,
+                        1134.24
+                    ],
+                    "TriggerRadius": 80.0
+                }
+            ],
+            "SpawnLocation": [
+                639.463,
+                531.537,
+                1134.24
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_Mummy",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_Mummy",
+                    "SpawnAttachments": [
+                        "FOG_GhillieBushrag_RagsMCB",
+                        "FOG_Vest_MMAC_Black",
+                        "FOG_Vest_Gen4_EMR",
+                        "PlateCarrierVest"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_Bag_Trizip_Black"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_380",
+                        "Ammo_9x39"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Vest_SPC_MC"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_40mm_Smoke_White",
+                        "Ammo_ImprovisedBolt_2"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        },
+        {
+            "Label": "Boss - 2",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 1,
+            "SpawnMaxRadius": 2.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 900,
+            "FirstSpawnDelaySeconds": 5,
+            "PlayerSafeDistance": 0.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        583.892,
+                        516.738,
+                        1149.07
+                    ],
+                    "TriggerRadius": 80.0
+                }
+            ],
+            "SpawnLocation": [
+                583.892,
+                516.738,
+                1149.07
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_Mummy",
+                    "SpawnAttachments": []
+                },
+                {
+                    "SpawnClassName": "ZmbM_Mummy",
+                    "SpawnAttachments": [
+                        "FOG_Vest_Gen4_EMR",
+                        "FOG_Tshirt_White",
+                        "FOG_Pouch_Mag_Dope_AOR1",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "FOG_Helmet_MTEK_Flux_MCB",
+                        "FOG_Hoodie_Jacket_FOG"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_40mm_Smoke_Red",
+                        "Ammo_9x19"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_Heavy_Navy",
+                    "SpawnAttachments": [
+                        "FOG_Pouch_FannyPack_Black",
+                        "FOG_Hooded_Parka_ALP"
+                    ],
+                    "SpawnCargo": [
+                        "Ammo_9x39",
+                        "Ammo_40mm_Smoke_Green"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        }
+    ]
+}

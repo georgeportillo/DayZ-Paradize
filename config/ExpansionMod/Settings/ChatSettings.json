@@ -5,7 +5,7 @@
     "EnableTransportChat": 1,
     "EnableExpansionChat": 1,
     "ChatColors": {
-        "SystemChatColor": "EB45EBFF",
+        "SystemChatColor": "71E300FF",
         "AdminChatColor": "FF392BFF",
         "GlobalChatColor": "58C3FFFF",
         "DirectChatColor": "FFFFFFFF",

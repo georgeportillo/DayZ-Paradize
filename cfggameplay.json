@@ -14,15 +14,15 @@
 		{
 			"sprintStaminaModifierErc": 1.0,
 			"sprintStaminaModifierCro": 1.0,
-			"staminaWeightLimitThreshold": 6000.0,
-			"staminaMax": 100.0,
-			"staminaKgToStaminaPercentPenalty": 1.75,
+			"staminaWeightLimitThreshold": 30000.0,
+			"staminaMax": 300.0,
+			"staminaKgToStaminaPercentPenalty": 0.25,
 			"staminaMinCap": 5.0,
 			"sprintSwimmingStaminaModifier": 1.0,
 			"sprintLadderStaminaModifier": 1.0,
 			"meleeStaminaModifier": 1.0,
 			"obstacleTraversalStaminaModifier": 1.0,
-			"holdBreathStaminaModifier": 1.0
+			"holdBreathStaminaModifier": 0.5
 		},
 		"ShockHandlingData":
 		{

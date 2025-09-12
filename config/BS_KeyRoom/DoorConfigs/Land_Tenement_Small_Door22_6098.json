@@ -1,0 +1,56 @@
+{
+    "x": 6098.1396484375,
+    "y": 4039.898193359375,
+    "z": 405.78936767578127,
+    "building_x": 6098.89501953125,
+    "building_y": 4041.169921875,
+    "building_z": 398.53564453125,
+    "door_indices": [
+        22
+    ],
+    "use_announcement": 0,
+    "announcement_title": "",
+    "announcement_text": "",
+    "announcement_color_rgba": "255,255,165,0",
+    "Location_Name": "Door_Land_Tenement_Small_6098_4040_406",
+    "BuildingClassName": "Land_Tenement_Small",
+    "keycard_class_name": "Keycard_Tier1_Example",
+    "use_alarm": 0,
+    "alarm_sound": "Alarm_Military",
+    "alarm_duration": 15,
+    "alarm_loop_delay": 1.7999999523162842,
+    "min_unlock_time": 180,
+    "max_unlock_time": 300,
+    "min_restock_time": 1800,
+    "max_restock_time": 2700,
+    "min_containers_to_spawn": -1,
+    "max_containers_to_spawn": -1,
+    "containers_only": 0,
+    "persistCooldownOnRestart": 1,
+    "use_safety_teleport": 1,
+    "safety_teleport_radius": 30.0,
+    "use_custom_teleport_points": 0,
+    "custom_teleport_points": [
+        [
+            1.0,
+            1.0,
+            1.0
+        ]
+    ],
+    "containers": [],
+    "doorSpecificLootPools": [],
+    "spawn_hacked_crate": 0,
+    "hacked_crate_classname": "BS_Hacked_Crate",
+    "hacked_crate_position": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "hacked_crate_orientation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "hacked_crate_config_id": "Example_ID_for_HackeableCrate",
+    "unlockOnly": 0
+}
