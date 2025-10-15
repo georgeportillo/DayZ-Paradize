@@ -1,0 +1,287 @@
+18:18:17.936 [AI Patrol 00015] Spawning 2 East bots at <7656.113770, 296.750000, 2641.960449>
+18:18:25.673 [AI Patrol 00015] Global patrol count: 1
+18:18:25.683 [AI Patrol 00015] Patrol category patrol count: 1
+18:18:25.693 [AI Patrol 00016] Spawning 3 West bots at <7303.086914, 293.260010, 2914.555176>
+18:18:25.728 [AI Patrol 00016] Global patrol count: 2
+18:18:25.738 [AI Patrol 00016] Patrol category patrol count: 2
+19:00:43.858 [VehicleEnter] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8339.38, 334.75, 1644.55>) as pilot
+19:00:45.072 [VehicleEngine] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8339.38, 334.75, 1644.55>)
+19:02:22.049 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8904.07, 476.68, 2040.71>)
+19:02:22.082 [VehicleLeave] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8904.07, 476.68, 2040.71>)
+19:04:10.930 [AI Object Patrol 00030] Spawning 2 East bots at <6888.046387, 377.624451, 4162.773438>
+19:04:10.985 [AI Object Patrol 00030] Global patrol count: 3
+19:04:10.996 [AI Object Patrol 00030] HelicopterWreck category patrol count: 1
+19:05:53.193 [VehicleEnter] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8904.07, 476.68, 2040.71>) as pilot
+19:05:56.212 [VehicleEngine] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8904.07, 476.68, 2040.71>)
+19:07:56.915 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8341.54, 334.75, 1642.78>)
+19:07:56.968 [VehicleLeave] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8341.54, 334.75, 1642.78>)
+19:08:02.605 [AI Object Patrol 00030] East bots were wiped out (spawn position <6888.046387, 377.624451, 4162.773438>, 2/2 deceased)
+19:08:02.616 [AI Object Patrol 00030] Global patrol count: 2
+19:08:02.626 [AI Object Patrol 00030] HelicopterWreck category patrol count: 0
+19:08:12.657 [VehicleEnter] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle UAZ 469 Cargo Roofless (id=878B4C6AEE4146F4FCBF22A711F98754 pos=<8343.2, 322.66, 1650.05>) as driver
+19:08:14.020 [VehicleEngine] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle UAZ 469 Cargo Roofless (id=878B4C6AEE4146F4FCBF22A711F98754 pos=<8343.2, 322.66, 1650.05>)
+19:08:35.477 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle UAZ 469 Cargo Roofless (id=878B4C6AEE4146F4FCBF22A711F98754 pos=<8342.8, 322.67, 1649.72>)
+19:08:35.511 [VehicleLeave] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle UAZ 469 Cargo Roofless (id=878B4C6AEE4146F4FCBF22A711F98754 pos=<8342.8, 322.67, 1649.72>)
+19:08:46.194 [AI Patrol 00015] East bots were wiped out (spawn position <7656.113770, 296.750000, 2641.960449>, 2/2 deceased)
+19:08:46.205 [AI Patrol 00015] Global patrol count: 1
+19:08:46.216 [AI Patrol 00015] Patrol category patrol count: 1
+19:09:38.203 [VehicleEnter] Player "Survivor (2)" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) entered vehicle Olga 24 (id=82C384AAFC423622F65203B2324EDDAD pos=<5924.87, 396.25, 4184.54>) as driver
+19:09:46.264 [VehicleEngine] Player "Survivor (2)" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) started vehicle Olga 24 (id=82C384AAFC423622F65203B2324EDDAD pos=<5924.88, 396.25, 4184.54>)
+19:10:10.215 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Olga 24 (id=82C384AAFC423622F65203B2324EDDAD pos=<5936.8, 396.24, 4189.39>)
+19:10:10.302 [VehicleLeave] Player "Survivor (2)" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) left vehicle Olga 24 (id=82C384AAFC423622F65203B2324EDDAD pos=<5936.8, 396.24, 4189.39>)
+19:10:50.835 [VehicleEnter] Player "Survivor (2)" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) entered vehicle Olga 24 (id=82C384AAFC423622F65203B2324EDDAD pos=<5936.43, 396.18, 4189.46>) as driver
+19:10:52.577 [VehicleEngine] Player "Survivor (2)" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) started vehicle Olga 24 (id=82C384AAFC423622F65203B2324EDDAD pos=<5936.43, 396.18, 4189.46>)
+19:11:45.328 [VehicleEngine] Player "Survivor (2)" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) stopped vehicle Olga 24 (id=82C384AAFC423622F65203B2324EDDAD pos=<5925, 396.25, 4185.1>)
+19:11:47.978 [VehicleLeave] Player "Survivor (2)" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) left vehicle Olga 24 (id=82C384AAFC423622F65203B2324EDDAD pos=<5925, 396.25, 4185.1>)
+19:14:44.127 [AI Object Patrol 00033] Spawning 2 West bots at <6133.933594, 388.442627, 4038.663330>
+19:14:44.169 [AI Object Patrol 00033] Global patrol count: 2
+19:14:44.179 [AI Object Patrol 00033] ContaminatedArea category patrol count: 1
+19:16:19.434 [AI Patrol 00017] Spawning 1 Civilian bots at <7058.530762, 319.965790, 3258.706299>
+19:16:19.475 [AI Patrol 00017] Global patrol count: 3
+19:16:19.485 [AI Patrol 00017] Patrol category patrol count: 2
+19:29:47.643 [AI Patrol 00017] Despawning 1 Civilian bots (spawn position <7058.530762, 319.965790, 3258.706299>, 0/1 deceased)
+19:29:47.653 [AI Patrol 00017] Global patrol count: 2
+19:29:47.662 [AI Patrol 00017] Patrol category patrol count: 1
+19:33:58.542 [AI Object Patrol 00033] West bots were wiped out (spawn position <6133.933594, 388.442627, 4038.663330>, 2/2 deceased)
+19:33:58.553 [AI Object Patrol 00033] Global patrol count: 1
+19:33:58.564 [AI Object Patrol 00033] ContaminatedArea category patrol count: 0
+19:34:56.859 [AI Object Patrol 00033] Despawning 0 West bots (spawn position <6115.294434, 384.600616, 4209.986816>, 2/2 deceased)
+19:41:27.674 [AI Object Patrol 00030] Despawning 0 East bots (spawn position <6869.073730, 377.530792, 4153.823730>, 2/2 deceased)
+20:03:03.280 [AI Object Patrol 00047] Spawning 1 East bots at <9795.690430, 281.909058, 5992.098145>
+20:03:03.360 [AI Object Patrol 00047] Global patrol count: 2
+20:03:03.370 [AI Object Patrol 00047] HelicopterWreck category patrol count: 1
+20:04:41.477 [VehicleEnter] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) entered vehicle Gyrocopter (id=913596B1174B8BF29CD95FA627BA9E67 pos=<10337.2, 224, 5903.63>) as pilot
+20:04:48.465 [VehicleLeave] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) left vehicle Gyrocopter (id=913596B1174B8BF29CD95FA627BA9E67 pos=<10337.2, 224, 5903.63>)
+20:05:17.017 [VehicleEnter] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) entered vehicle Gyrocopter (id=913596B1174B8BF29CD95FA627BA9E67 pos=<10337.2, 224, 5903.63>) as pilot
+20:05:19.345 [VehicleEngine] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) started vehicle Gyrocopter (id=913596B1174B8BF29CD95FA627BA9E67 pos=<10337.2, 224, 5903.63>)
+20:07:33.824 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=913596B1174B8BF29CD95FA627BA9E67 pos=<10258.2, 222.72, 6041.91>)
+20:07:33.857 [VehicleLeave] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) left vehicle Gyrocopter (id=913596B1174B8BF29CD95FA627BA9E67 pos=<10258.2, 222.72, 6041.91>)
+20:09:02.569 [VehicleEnter] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) entered vehicle Gyrocopter (id=913596B1174B8BF29CD95FA627BA9E67 pos=<10258.2, 222.71, 6042.78>) as pilot
+20:09:04.393 [VehicleEngine] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) started vehicle Gyrocopter (id=913596B1174B8BF29CD95FA627BA9E67 pos=<10258.2, 222.71, 6042.81>)
+20:10:19.958 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=913596B1174B8BF29CD95FA627BA9E67 pos=<9495.49, 292.03, 5984.51>)
+20:10:19.972 [VehicleLeave] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) left vehicle Gyrocopter (id=913596B1174B8BF29CD95FA627BA9E67 pos=<9495.49, 292.03, 5984.51>)
+20:11:02.832 [AI Object Patrol 00047] East bots were wiped out (spawn position <9795.690430, 281.909058, 5992.098145>, 1/1 deceased)
+20:11:02.842 [AI Object Patrol 00047] Global patrol count: 1
+20:11:02.853 [AI Object Patrol 00047] HelicopterWreck category patrol count: 0
+20:14:15.805 [VehicleEnter] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) entered vehicle Gyrocopter (id=913596B1174B8BF29CD95FA627BA9E67 pos=<9495.46, 292.02, 5984.71>) as pilot
+20:14:17.167 [VehicleEngine] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) started vehicle Gyrocopter (id=913596B1174B8BF29CD95FA627BA9E67 pos=<9495.46, 292.02, 5984.71>)
+20:15:04.186 [AI Object Patrol 00009] Spawning 1 West bots at <7817.825684, 250.248627, 5972.044922>
+20:15:04.218 [AI Object Patrol 00009] Global patrol count: 2
+20:15:04.228 [AI Object Patrol 00009] ContaminatedArea category patrol count: 1
+20:15:04.238 [AI Object Patrol 00011] Spawning 2 West bots at <7727.698730, 243.735489, 6205.122559>
+20:15:04.288 [AI Object Patrol 00011] Global patrol count: 3
+20:15:04.299 [AI Object Patrol 00011] ContaminatedArea category patrol count: 2
+20:18:18.560 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=913596B1174B8BF29CD95FA627BA9E67 pos=<5492.16, 397.72, 4141.53>)
+20:18:18.590 [VehicleLeave] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) left vehicle Gyrocopter (id=913596B1174B8BF29CD95FA627BA9E67 pos=<5492.16, 397.72, 4141.53>)
+20:23:00.865 [AI Object Patrol 00047] Despawning 0 East bots (spawn position <9802.450195, 281.618225, 5994.082031>, 1/1 deceased)
+20:25:50.891 [VehicleEnter] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) entered vehicle Gyrocopter (id=913596B1174B8BF29CD95FA627BA9E67 pos=<5492.13, 397.72, 4141.7>) as pilot
+20:25:53.274 [VehicleEngine] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) started vehicle Gyrocopter (id=913596B1174B8BF29CD95FA627BA9E67 pos=<5492.13, 397.72, 4141.7>)
+20:26:09.832 [AI Object Patrol 00011] Despawning 2 West bots (spawn position <7727.698730, 243.735489, 6205.122559>, 0/2 deceased)
+20:26:10.040 [AI Object Patrol 00011] Global patrol count: 2
+20:26:10.077 [AI Object Patrol 00011] ContaminatedArea category patrol count: 1
+20:26:14.640 [AI Object Patrol 00009] Despawning 1 West bots (spawn position <7817.825684, 250.248627, 5972.044922>, 0/1 deceased)
+20:26:14.652 [AI Object Patrol 00009] Global patrol count: 1
+20:26:14.663 [AI Object Patrol 00009] ContaminatedArea category patrol count: 0
+20:27:22.000 [AI Object Patrol 00054] Spawning 2 West bots at <3263.856201, 501.637360, 2098.678711>
+20:27:22.038 [AI Object Patrol 00054] Global patrol count: 2
+20:27:22.049 [AI Object Patrol 00054] ContaminatedArea category patrol count: 1
+20:27:49.457 [BaseRaiding] ExpansionWall6x3 (<773.211731, 225.491562, 8558.877930>) Code set by "player "SGT. Saggy Sax" (ID = "mzOdm3HvWBvOK_c4KMjlCsgwtphSfGrM_ONiwgzQ7HM=" at <774.502136, 225.524094, 8558.017578>)" and the code is 8630
+20:29:55.933 [AI Object Patrol 00055] Spawning 1 East bots at <6363.049316, 324.368317, 5405.704102>
+20:29:55.975 [AI Object Patrol 00055] Global patrol count: 3
+20:29:55.985 [AI Object Patrol 00055] HelicopterWreck category patrol count: 1
+20:31:52.303 [VehicleEngine] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) stopped vehicle Gyrocopter (id=913596B1174B8BF29CD95FA627BA9E67 pos=<6074.33, 336.34, 5378.6>)
+20:31:56.519 [VehicleLeave] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) left vehicle Gyrocopter (id=913596B1174B8BF29CD95FA627BA9E67 pos=<6074.31, 335.34, 5379.39>)
+20:32:40.079 [AI Object Patrol 00055] East bots were wiped out (spawn position <6363.049316, 324.368317, 5405.704102>, 1/1 deceased)
+20:32:40.089 [AI Object Patrol 00055] Global patrol count: 2
+20:32:40.101 [AI Object Patrol 00055] HelicopterWreck category patrol count: 0
+20:35:49.457 [VehicleEnter] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) entered vehicle Gyrocopter (id=913596B1174B8BF29CD95FA627BA9E67 pos=<6075.67, 335.29, 5379.73>) as pilot
+20:35:50.896 [VehicleEngine] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) started vehicle Gyrocopter (id=913596B1174B8BF29CD95FA627BA9E67 pos=<6075.67, 335.29, 5379.73>)
+20:36:24.146 [AI Object Patrol 00010] Spawning 3 West bots at <7583.830078, 231.069397, 5909.550293>
+20:36:24.194 [AI Object Patrol 00010] Global patrol count: 3
+20:36:24.206 [AI Object Patrol 00010] ContaminatedArea category patrol count: 2
+20:36:47.147 [AI Object Patrol 00056] Spawning 1 East bots at <8237.654297, 285.141876, 6030.565918>
+20:36:47.192 [AI Object Patrol 00056] Global patrol count: 4
+20:36:47.202 [AI Object Patrol 00056] HelicopterWreck category patrol count: 1
+20:38:00.628 [AI Object Patrol 00054] Despawning 2 West bots (spawn position <3263.856201, 501.637360, 2098.678711>, 0/2 deceased)
+20:38:00.640 [AI Object Patrol 00054] Global patrol count: 3
+20:38:00.650 [AI Object Patrol 00054] ContaminatedArea category patrol count: 1
+20:39:31.849 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=913596B1174B8BF29CD95FA627BA9E67 pos=<10337.8, 223.98, 5908.38>)
+20:39:31.873 [VehicleLeave] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) left vehicle Gyrocopter (id=913596B1174B8BF29CD95FA627BA9E67 pos=<10337.8, 223.98, 5908.38>)
+20:39:56.973 [VehicleEnter] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8345.15, 322.6, 1648.13>) as driver
+20:39:58.977 [VehicleLeave] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8345.15, 322.6, 1648.13>)
+20:46:49.234 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:46:49.244 [BaseBuildingRaiding] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8324.65, 322.94, 1638.53>) damaged ExpansionWall6x3 at <8332.43, 322.44, 1641.33>
+20:46:49.253 [BaseBuildingRaiding] They dealt 8.7479 * 1 = 8.7479 damage with Bullet_762x39Tracer from AKM
+20:46:49.263 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29550 to 29541.3
+20:46:49.273 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:47:27.320 [AI Object Patrol 00053] Spawning 1 West bots at <893.814331, 242.194809, 5554.346191>
+20:47:27.357 [AI Object Patrol 00053] Global patrol count: 4
+20:47:27.369 [AI Object Patrol 00053] ContaminatedArea category patrol count: 2
+20:47:33.869 [AI Object Patrol 00010] Despawning 3 West bots (spawn position <7583.830078, 231.069397, 5909.550293>, 0/3 deceased)
+20:47:33.883 [AI Object Patrol 00010] Global patrol count: 3
+20:47:33.902 [AI Object Patrol 00010] ContaminatedArea category patrol count: 1
+20:47:53.240 [AI Object Patrol 00056] Despawning 1 East bots (spawn position <8237.654297, 285.141876, 6030.565918>, 0/1 deceased)
+20:47:53.250 [AI Object Patrol 00056] Global patrol count: 2
+20:47:53.260 [AI Object Patrol 00056] HelicopterWreck category patrol count: 0
+20:54:57.532 [AI Object Patrol 00053] Despawning 1 West bots (spawn position <893.814331, 242.194809, 5554.346191>, 0/1 deceased)
+20:54:57.541 [AI Object Patrol 00053] Global patrol count: 1
+20:54:57.552 [AI Object Patrol 00053] ContaminatedArea category patrol count: 0
+20:54:57.562 [AI Object Patrol 00055] Despawning 0 East bots (spawn position <6351.061523, 325.221619, 5394.020020>, 1/1 deceased)
+21:14:21.778 [VehicleEnter] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8345.15, 322.6, 1648.13>) as driver
+21:14:31.038 [VehicleEngine] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8345.15, 322.6, 1648.13>)
+21:15:02.754 [VehicleEnter] Player "Survivor (2)" (id=oPo0xbQ-Vz8-zqCwycwUaw3_yywgQp1aCTyh2xhVvg4=) entered vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8345.15, 322.6, 1648.13>) as passenger
+21:15:15.469 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8334.12, 322.46, 1640.06>)
+21:15:15.498 [VehicleLeave] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8334.12, 322.46, 1640.06>)
+21:15:23.180 [VehicleEnter] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8334.1, 322.45, 1640.05>) as driver
+21:15:24.187 [VehicleEngine] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8334.1, 322.45, 1640.05>)
+21:15:29.519 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8329.46, 322.31, 1633.9>)
+21:15:29.552 [VehicleLeave] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8329.46, 322.31, 1633.9>)
+21:15:35.375 [VehicleEnter] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8329.46, 322.31, 1633.9>) as driver
+21:15:36.633 [VehicleEngine] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8329.46, 322.31, 1633.9>)
+21:17:53.528 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<7599.46, 383.73, 1232.87>)
+21:17:53.572 [VehicleLeave] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<7599.46, 383.73, 1232.87>)
+21:17:59.485 [VehicleLeave] Player "Survivor (2)" (id=oPo0xbQ-Vz8-zqCwycwUaw3_yywgQp1aCTyh2xhVvg4=) left vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<7599.46, 383.73, 1232.87>)
+21:19:47.480 [VehicleEnter] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<7599.46, 383.73, 1232.87>) as driver
+21:19:50.264 [VehicleEngine] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<7599.46, 383.73, 1232.87>)
+21:20:15.947 [VehicleEnter] Player "Survivor (2)" (id=oPo0xbQ-Vz8-zqCwycwUaw3_yywgQp1aCTyh2xhVvg4=) entered vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<7638.61, 361.98, 1155.19>) as passenger
+21:20:25.615 [VehicleLeave] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<7668.15, 357.7, 1117.22>)
+21:20:28.270 [VehicleLeave] Player "Survivor (2)" (id=oPo0xbQ-Vz8-zqCwycwUaw3_yywgQp1aCTyh2xhVvg4=) left vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<7668.15, 357.7, 1117.22>)
+21:25:33.409 [VehicleEnter] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<7668.15, 357.7, 1117.22>) as driver
+21:25:36.156 [VehicleLeave] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<7668.15, 357.7, 1117.22>)
+21:25:39.809 [VehicleEnter] Player "Survivor (2)" (id=oPo0xbQ-Vz8-zqCwycwUaw3_yywgQp1aCTyh2xhVvg4=) entered vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<7668.15, 357.7, 1117.22>) as passenger
+21:25:46.613 [VehicleEnter] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<7668.15, 357.7, 1117.22>) as driver
+21:26:13.459 [VehicleLeave] Player "Survivor (2)" (id=oPo0xbQ-Vz8-zqCwycwUaw3_yywgQp1aCTyh2xhVvg4=) left vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<7691.33, 356.93, 1138.6>)
+21:26:13.874 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<7691.33, 356.93, 1138.6>)
+21:26:13.911 [VehicleLeave] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<7691.33, 356.93, 1138.6>)
+21:33:46.162 [VehicleEnter] Player "SGT. Saggy Sax" (id=mzOdm3HvWBvOK_c4KMjlCsgwtphSfGrM_ONiwgzQ7HM=) entered vehicle Olga 24 (id=EA37AA1E974FCF84D9172BAFAEB9599D pos=<4324.11, 183.77, 8980.6>) as driver
+21:33:49.007 [VehicleLeave] Player "SGT. Saggy Sax" (id=mzOdm3HvWBvOK_c4KMjlCsgwtphSfGrM_ONiwgzQ7HM=) left vehicle Olga 24 (id=EA37AA1E974FCF84D9172BAFAEB9599D pos=<4324.11, 183.77, 8980.6>)
+21:36:00.836 [VehicleEnter] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<7691.33, 356.93, 1138.6>) as driver
+21:36:03.405 [VehicleEnter] Player "Survivor (2)" (id=oPo0xbQ-Vz8-zqCwycwUaw3_yywgQp1aCTyh2xhVvg4=) entered vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<7691.33, 356.93, 1138.6>) as passenger
+21:36:05.340 [VehicleLeave] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<7691.33, 356.93, 1138.6>)
+21:36:08.310 [VehicleEnter] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<7691.33, 356.93, 1138.6>) as driver
+21:36:09.652 [VehicleEngine] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<7691.33, 356.93, 1138.6>)
+21:38:16.687 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8323.92, 322.49, 1634.23>)
+21:38:16.722 [VehicleLeave] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8323.92, 322.49, 1634.23>)
+21:38:25.001 [VehicleEnter] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8323.92, 322.49, 1634.23>) as driver
+21:38:27.773 [VehicleEngine] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8323.92, 322.5, 1634.24>)
+21:39:17.098 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8344.97, 322.59, 1647.56>)
+21:39:17.165 [VehicleLeave] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8344.97, 322.59, 1647.56>)
+21:43:53.040 [Chat - Global]("Survivor"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): yo
+21:44:26.701 [Chat - Global]("Survivor"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): other survivors out there?
+21:44:41.183 [Chat - Global]("SGT. Saggy Sax"(id=mzOdm3HvWBvOK_c4KMjlCsgwtphSfGrM_ONiwgzQ7HM=)): yes
+21:45:09.647 [Chat - Global]("Survivor"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): hows the gameplay? added more realism
+21:56:55.669 [VehicleEnter] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8341.54, 334.75, 1642.41>) as pilot
+21:56:58.152 [VehicleEngine] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8341.54, 334.75, 1642.39>)
+21:57:40.294 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8340.12, 334.75, 1643.98>)
+21:57:40.317 [VehicleLeave] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8340.12, 334.75, 1643.98>)
+21:58:04.921 [VehicleEnter] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8340.12, 334.75, 1643.8>) as pilot
+21:58:07.361 [VehicleEngine] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8340.12, 334.75, 1643.78>)
+21:58:26.434 [AI Object Patrol 00078] Spawning 2 West bots at <7518.756836, 284.950409, 2443.471436>
+21:58:26.476 [AI Object Patrol 00078] Global patrol count: 2
+21:58:26.487 [AI Object Patrol 00078] ContaminatedArea category patrol count: 1
+21:58:35.521 [AI Object Patrol 00084] Spawning 1 West bots at <7339.736816, 287.230499, 2575.999268>
+21:58:35.571 [AI Object Patrol 00084] Global patrol count: 3
+21:58:35.584 [AI Object Patrol 00084] ContaminatedArea category patrol count: 2
+21:59:55.339 [AI Object Patrol 00074] Spawning 2 East bots at <6778.037598, 344.147614, 4831.727051>
+21:59:55.528 [AI Object Patrol 00074] Global patrol count: 4
+21:59:55.704 [AI Object Patrol 00074] HelicopterWreck category patrol count: 1
+22:00:16.656 [AI Object Patrol 00080] Spawning 1 East bots at <5532.216309, 386.408173, 4914.446289>
+22:00:16.692 [AI Object Patrol 00080] Global patrol count: 5
+22:00:16.702 [AI Object Patrol 00080] HelicopterWreck category patrol count: 2
+22:01:15.127 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<6072.18, 386.34, 4189.39>)
+22:01:15.295 [VehicleLeave] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<6072.18, 386.34, 4189.39>)
+22:02:37.132 [VehicleEnter] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<6072.18, 386.34, 4190.24>) as pilot
+22:02:41.350 [VehicleEngine] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<6072.19, 386.34, 4190.32>)
+22:03:48.711 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<6431.89, 357.2, 4759.69>)
+22:03:48.747 [VehicleLeave] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<6431.89, 357.2, 4759.69>)
+22:05:13.458 [AI Object Patrol 00074] East bots were wiped out (spawn position <6778.037598, 344.147614, 4831.727051>, 2/2 deceased)
+22:05:13.468 [AI Object Patrol 00074] Global patrol count: 4
+22:05:13.478 [AI Object Patrol 00074] HelicopterWreck category patrol count: 1
+22:05:30.572 [VehicleEnter] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<6431.89, 357.2, 4759.69>) as pilot
+22:05:31.961 [VehicleEngine] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<6431.89, 357.2, 4759.69>)
+22:07:20.568 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<6748.12, 341.46, 4827.51>)
+22:07:20.600 [VehicleLeave] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<6748.12, 341.46, 4827.51>)
+22:08:48.669 [VehicleEnter] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<6748.09, 341.46, 4827.52>) as pilot
+22:08:50.392 [VehicleEngine] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<6748.09, 341.46, 4827.52>)
+22:09:25.846 [AI Object Patrol 00077] Spawning 2 East bots at <6381.140137, 299.260773, 6152.038574>
+22:09:26.011 [AI Object Patrol 00077] Global patrol count: 5
+22:09:26.025 [AI Object Patrol 00077] HelicopterWreck category patrol count: 2
+22:09:33.068 [AI Object Patrol 00078] Despawning 2 West bots (spawn position <7518.756836, 284.950409, 2443.471436>, 0/2 deceased)
+22:09:33.079 [AI Object Patrol 00078] Global patrol count: 4
+22:09:33.090 [AI Object Patrol 00078] ContaminatedArea category patrol count: 1
+22:09:33.686 [AI Object Patrol 00007] Spawning 2 West bots at <7592.500488, 239.493637, 6267.928223>
+22:09:33.733 [AI Object Patrol 00007] Global patrol count: 5
+22:09:33.745 [AI Object Patrol 00007] ContaminatedArea category patrol count: 2
+22:09:38.484 [AI Object Patrol 00084] Despawning 1 West bots (spawn position <7339.736816, 287.230499, 2575.999268>, 0/1 deceased)
+22:09:38.496 [AI Object Patrol 00084] Global patrol count: 4
+22:09:38.506 [AI Object Patrol 00084] ContaminatedArea category patrol count: 1
+22:09:38.840 [AI Object Patrol 00008] Spawning 1 West bots at <7343.977051, 226.992752, 6335.761719>
+22:09:38.866 [AI Object Patrol 00008] Global patrol count: 5
+22:09:38.876 [AI Object Patrol 00008] ContaminatedArea category patrol count: 2
+22:09:43.967 [AI Object Patrol 00074] Despawning 0 East bots (spawn position <6797.670898, 343.979553, 4827.722168>, 2/2 deceased)
+22:11:17.007 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<6360.64, 299.32, 6072.19>)
+22:11:17.030 [VehicleLeave] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<6360.64, 299.32, 6072.19>)
+22:12:23.717 [AI Object Patrol 00077] East bots were wiped out (spawn position <6381.140137, 299.260773, 6152.038574>, 2/2 deceased)
+22:12:23.731 [AI Object Patrol 00077] Global patrol count: 4
+22:12:23.742 [AI Object Patrol 00077] HelicopterWreck category patrol count: 1
+22:13:57.636 [VehicleEnter] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<6360.67, 299.34, 6072.43>) as pilot
+22:13:59.765 [VehicleEngine] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<6360.68, 299.34, 6072.44>)
+22:14:43.535 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<6523.12, 289.12, 6254.45>)
+22:14:43.569 [VehicleLeave] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<6523.12, 289.12, 6254.45>)
+22:15:09.947 [VehicleEnter] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<6522.65, 289.12, 6254.45>) as pilot
+22:15:11.795 [VehicleEngine] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<6522.62, 289.12, 6254.45>)
+22:15:36.608 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<6553.92, 291.31, 6175.99>)
+22:15:36.631 [VehicleLeave] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<6553.92, 291.31, 6175.99>)
+22:16:49.897 [VehicleEnter] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<6553.93, 291.31, 6176.91>) as pilot
+22:16:51.478 [VehicleEngine] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<6553.93, 291.31, 6176.94>)
+22:17:01.437 [AI Object Patrol 00080] Despawning 1 East bots (spawn position <5532.216309, 386.408173, 4914.446289>, 0/1 deceased)
+22:17:01.627 [AI Object Patrol 00080] Global patrol count: 3
+22:17:01.818 [AI Object Patrol 00080] HelicopterWreck category patrol count: 0
+22:17:41.233 [AI Object Patrol 00077] Despawning 0 East bots (spawn position <6372.173340, 299.875610, 6132.328613>, 2/2 deceased)
+22:19:08.456 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<9057.64, 298.81, 6589.55>)
+22:19:08.471 [VehicleLeave] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<9057.64, 298.81, 6589.55>)
+22:24:29.891 [AI Object Patrol 00007] Despawning 2 West bots (spawn position <7592.500488, 239.493637, 6267.928223>, 0/2 deceased)
+22:24:29.901 [AI Object Patrol 00007] Global patrol count: 2
+22:24:29.910 [AI Object Patrol 00007] ContaminatedArea category patrol count: 1
+22:25:26.066 [VehicleEnter] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<9057.64, 298.81, 6589.45>) as pilot
+22:25:28.117 [VehicleEngine] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<9057.64, 298.81, 6589.45>)
+22:25:58.608 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8987.78, 303.85, 6609.56>)
+22:25:58.653 [VehicleLeave] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8987.78, 303.85, 6609.56>)
+22:27:15.140 [AI Object Patrol 00008] Despawning 1 West bots (spawn position <7343.977051, 226.992752, 6335.761719>, 0/1 deceased)
+22:27:15.158 [AI Object Patrol 00008] Global patrol count: 1
+22:27:15.176 [AI Object Patrol 00008] ContaminatedArea category patrol count: 0
+22:27:25.737 [VehicleEnter] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8987.79, 303.85, 6609.56>) as pilot
+22:27:27.629 [VehicleEngine] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8987.79, 303.85, 6609.56>)
+22:31:01.389 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<9892.44, 351.83, 3800.5>)
+22:31:01.423 [VehicleLeave] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<9892.44, 351.83, 3800.5>)
+22:39:04.968 [VehicleEnter] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<9892.44, 351.83, 3800.5>) as pilot
+22:39:06.751 [VehicleEngine] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<9892.44, 351.83, 3800.5>)
+22:39:59.980 [Chat - Global]("Survivor"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): anyone still online?
+22:40:56.431 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8922.54, 472.74, 2065.41>)
+22:40:56.475 [VehicleLeave] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8922.54, 472.74, 2065.41>)
+22:41:02.717 [VehicleEnter] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8922.54, 472.74, 2065.41>) as pilot
+22:41:07.400 [VehicleLeave] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8922.54, 472.74, 2065.41>)
+22:42:17.587 [VehicleEnter] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8922.54, 472.74, 2065.41>) as pilot
+22:42:19.272 [VehicleEngine] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8922.54, 472.74, 2065.41>)
+22:43:44.016 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8336.39, 324.85, 1659.52>)
+22:43:44.061 [VehicleLeave] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8336.42, 324.83, 1659.5>)
+22:45:57.519 [VehicleEnter] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8336.74, 323.53, 1659.33>) as pilot
+22:45:58.740 [VehicleEngine] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8336.74, 323.53, 1659.34>)
+22:46:46.777 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8340.86, 334.75, 1640.81>)
+22:46:46.820 [VehicleLeave] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8340.86, 334.75, 1640.81>)
+23:43:40.758 [VehicleEnter] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8340.86, 334.75, 1640.66>) as pilot
+23:43:42.938 [VehicleLeave] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8340.86, 334.75, 1640.65>)
+23:44:05.207 [VehicleEnter] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8340.86, 334.75, 1640.64>) as pilot
+23:44:06.496 [VehicleEngine] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8340.86, 334.75, 1640.63>)
+23:44:36.494 [AI Object Patrol 00104] Spawning 2 West bots at <7452.409668, 317.824585, 2792.589844>
+23:44:36.524 [AI Object Patrol 00104] Global patrol count: 2
+23:44:36.534 [AI Object Patrol 00104] ContaminatedArea category patrol count: 1
+23:48:07.109 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<10337.6, 223.98, 5903.5>)
+23:48:07.131 [VehicleLeave] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<10337.6, 223.98, 5903.5>)
+23:49:01.704 [AI Object Patrol 00104] Despawning 2 West bots (spawn position <7452.409668, 317.824585, 2792.589844>, 0/2 deceased)
+23:49:01.713 [AI Object Patrol 00104] Global patrol count: 1
+23:49:01.723 [AI Object Patrol 00104] ContaminatedArea category patrol count: 0
+23:51:36.466 [VehicleEnter] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<10337.6, 223.98, 5903.5>) as pilot
+23:51:38.291 [VehicleEngine] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<10337.6, 223.98, 5903.49>)
+23:56:41.417 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8341.56, 336.47, 1639.29>)
+23:56:41.441 [VehicleLeave] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8341.56, 336.47, 1639.29>)

@@ -1,0 +1,455 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "ExpansionWall6x3",
+            "m_LocalPosition": [
+                8405.3330078125,
+                325.58062744140627,
+                1683.2552490234376
+            ],
+            "m_LocalRotation": [
+                173.67144775390626,
+                0.0,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 30000.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "wood_wallfinished",
+                "wood_wallframe",
+                "wood_base"
+            ],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "ExpansionWall6x3",
+            "m_LocalPosition": [
+                8416.337890625,
+                337.6355285644531,
+                1679.6387939453126
+            ],
+            "m_LocalRotation": [
+                26.330121994018556,
+                0.0,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 30000.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "wood_wallfinished",
+                "wood_wallframe",
+                "wood_base"
+            ],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "ExpansionWall6x3",
+            "m_LocalPosition": [
+                8393.4052734375,
+                325.5797119140625,
+                1681.9324951171876
+            ],
+            "m_LocalRotation": [
+                173.67144775390626,
+                0.0,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 30000.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "wood_wallfinished",
+                "wood_wallframe",
+                "wood_base"
+            ],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "ExpansionWall6x3",
+            "m_LocalPosition": [
+                8399.369140625,
+                325.5801696777344,
+                1682.5938720703126
+            ],
+            "m_LocalRotation": [
+                173.67144775390626,
+                0.0,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 30000.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "wood_wallfinished",
+                "wood_wallframe",
+                "wood_base"
+            ],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "ExpansionWall6x3",
+            "m_LocalPosition": [
+                8410.9599609375,
+                334.63140869140627,
+                1682.300048828125
+            ],
+            "m_LocalRotation": [
+                26.330121994018556,
+                0.0,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 30000.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "wood_wallfinished",
+                "wood_wallframe",
+                "wood_base"
+            ],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "ExpansionWall6x3",
+            "m_LocalPosition": [
+                8416.337890625,
+                334.6309509277344,
+                1679.638671875
+            ],
+            "m_LocalRotation": [
+                26.330127716064454,
+                0.0,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 30000.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "wood_wallfinished",
+                "wood_wallframe",
+                "wood_base"
+            ],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "ExpansionWall6x3",
+            "m_LocalPosition": [
+                8387.44140625,
+                328.5820007324219,
+                1681.27099609375
+            ],
+            "m_LocalRotation": [
+                -6.32853889465332,
+                0.0,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 30000.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "wood_wallfinished",
+                "wood_wallframe",
+                "wood_base"
+            ],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "ExpansionWall6x3",
+            "m_LocalPosition": [
+                8405.3330078125,
+                328.5833740234375,
+                1683.255126953125
+            ],
+            "m_LocalRotation": [
+                173.67144775390626,
+                0.0,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 30000.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "wood_wallfinished",
+                "wood_wallframe",
+                "wood_base"
+            ],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "ExpansionWall6x3",
+            "m_LocalPosition": [
+                8416.337890625,
+                328.6254577636719,
+                1679.638671875
+            ],
+            "m_LocalRotation": [
+                -153.6698455810547,
+                0.0,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 30000.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "wood_wallfinished",
+                "wood_wallframe",
+                "wood_base"
+            ],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "ExpansionWall6x3",
+            "m_LocalPosition": [
+                8387.44140625,
+                325.5792541503906,
+                1681.2711181640626
+            ],
+            "m_LocalRotation": [
+                173.67144775390626,
+                0.0,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 30000.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "wood_wallfinished",
+                "wood_wallframe",
+                "wood_base"
+            ],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "ExpansionWall6x3",
+            "m_LocalPosition": [
+                8399.369140625,
+                331.5865783691406,
+                1682.5936279296876
+            ],
+            "m_LocalRotation": [
+                -6.3285441398620609,
+                0.0,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 30000.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "wood_wallfinished",
+                "wood_wallframe",
+                "wood_base"
+            ],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "ExpansionWall6x3",
+            "m_LocalPosition": [
+                8410.9599609375,
+                331.62774658203127,
+                1682.300048828125
+            ],
+            "m_LocalRotation": [
+                26.330127716064454,
+                0.0,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 30000.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "wood_wallfinished",
+                "wood_wallframe",
+                "wood_base"
+            ],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "ExpansionWall6x3",
+            "m_LocalPosition": [
+                8393.4052734375,
+                328.58245849609377,
+                1681.932373046875
+            ],
+            "m_LocalRotation": [
+                -6.32853889465332,
+                0.0,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 30000.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "wood_wallfinished",
+                "wood_wallframe",
+                "wood_base"
+            ],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "ExpansionWall6x3",
+            "m_LocalPosition": [
+                8387.44140625,
+                322.5765075683594,
+                1681.271240234375
+            ],
+            "m_LocalRotation": [
+                173.67144775390626,
+                0.0,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 30000.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "wood_wallfinished",
+                "wood_wallframe",
+                "wood_base"
+            ],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "ExpansionWall6x3",
+            "m_LocalPosition": [
+                8399.369140625,
+                328.5829162597656,
+                1682.59375
+            ],
+            "m_LocalRotation": [
+                -6.32853889465332,
+                0.0,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 30000.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "wood_wallfinished",
+                "wood_wallframe",
+                "wood_base"
+            ],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "ExpansionWall6x3",
+            "m_LocalPosition": [
+                8416.337890625,
+                331.6282043457031,
+                1679.638671875
+            ],
+            "m_LocalRotation": [
+                -153.6698455810547,
+                0.0,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 30000.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "wood_wallfinished",
+                "wood_wallframe",
+                "wood_base"
+            ],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "ExpansionWall6x3",
+            "m_LocalPosition": [
+                8405.3330078125,
+                331.58612060546877,
+                1683.2550048828126
+            ],
+            "m_LocalRotation": [
+                -6.32853889465332,
+                0.0,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 30000.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "wood_wallfinished",
+                "wood_wallframe",
+                "wood_base"
+            ],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "ExpansionWall6x3",
+            "m_LocalPosition": [
+                8410.9599609375,
+                328.625,
+                1682.300048828125
+            ],
+            "m_LocalRotation": [
+                -153.67098999023438,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 29930.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [
+                "wood_wallfinished",
+                "wood_wallframe",
+                "wood_base"
+            ],
+            "m_Attachments": []
+        }
+    ]
+}

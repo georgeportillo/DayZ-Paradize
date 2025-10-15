@@ -1,0 +1,210 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "eAI_SurvivorF_Gabi",
+            "m_LocalPosition": [
+                7581.8095703125,
+                296.7449035644531,
+                2660.305908203125
+            ],
+            "m_LocalRotation": [
+                -52.27011489868164,
+                0.3331046998500824,
+                -1.4794490337371827
+            ],
+            "m_Data": {
+                "m_Health": 0.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 18
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "GorkaEJacket_Flat",
+                    "m_Data": {
+                        "m_Health": 0.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "GorkaPants_Flat",
+                    "m_Data": {
+                        "m_Health": 25.47046661376953,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CombatBoots_Green",
+                    "m_Data": {
+                        "m_Health": 141.32615661621095,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "TortillaBag",
+                    "m_Data": {
+                        "m_Health": 68.99118041992188,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "Chemlight_Green",
+                            "m_Data": {
+                                "m_Health": 20.0,
+                                "m_Quantity": 100.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "UKAssVest_Camo",
+                    "m_Data": {
+                        "m_Health": 0.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "PilotkaCap",
+                    "m_Data": {
+                        "m_Health": 76.99844360351563,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "OMNOGloves_Brown",
+                    "m_Data": {
+                        "m_Health": 148.6006622314453,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "MilitaryBelt",
+                    "m_Data": {
+                        "m_Health": 84.36988067626953,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "eAI_SurvivorF_Linda",
+            "m_LocalPosition": [
+                7423.509765625,
+                304.06573486328127,
+                2706.392333984375
+            ],
+            "m_LocalRotation": [
+                -20.61907196044922,
+                -4.869891166687012,
+                -15.274024963378907
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 36
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "BomberJacket_SkyBlue",
+                    "m_Data": {
+                        "m_Health": 115.65901947021485,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Jeans_Black",
+                    "m_Data": {
+                        "m_Health": 117.34330749511719,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "WorkingBoots_Beige",
+                    "m_Data": {
+                        "m_Health": 121.33492279052735,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "WorkingGloves_Yellow",
+                    "m_Data": {
+                        "m_Health": 127.82891082763672,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "BalaclavaMask_Blue",
+                    "m_Data": {
+                        "m_Health": 94.82161712646485,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "UKAssVest_Olive",
+                    "m_Data": {
+                        "m_Health": 102.49275207519531,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CivilianBelt",
+                    "m_Data": {
+                        "m_Health": 69.6167221069336,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        }
+    ]
+}

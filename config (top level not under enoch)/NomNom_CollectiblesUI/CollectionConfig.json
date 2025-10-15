@@ -1,0 +1,335 @@
+{
+    "Categories": [
+        {
+            "CategoryName": "Gameboy Cartridges",
+            "Sets": [
+                {
+                    "SetName": "Cartridges",
+                    "SetGhostIcon": "set:HGC_Icon image:icon",
+                    "MaxTurnInCount": 2,
+                    "ClassNames": [
+                        "NomNom_Cartridge_Donkey_Kong",
+                        "NomNom_Cartridge_Medarot",
+                        "NomNom_Cartridge_Pokemon_Red_Version",
+                        "NomNom_Cartridge_Sneaky_Snakes",
+                        "NomNom_Cartridge_Super_Mario_Land",
+                        "NomNom_Cartridge_Tetris",
+                        "NomNom_Cartridge_Pokemon_Yellow_Version",
+                        "NomNom_Cartridge_Yoshi",
+                        "NomNom_Cartridge_Zelda"
+                    ]
+                }
+            ]
+        },
+        {
+            "CategoryName": "Gameboy Advance Cartridges",
+            "Sets": [
+                {
+                    "SetName": "Advance Cartridges",
+                    "SetGhostIcon": "set:HGC_Icon image:icon",
+                    "MaxTurnInCount": 2,
+                    "ClassNames": [
+                        "NomNom_Adv_Cartridge_Crash_Nitro_Kart",
+                        "NomNom_Adv_Cartridge_DK_Country2",
+                        "NomNom_Adv_Cartridge_FIFI",
+                        "NomNom_Adv_Cartridge_Kirby",
+                        "NomNom_Adv_Cartridge_Mario_Kart",
+                        "NomNom_Adv_Cartridge_Megaman",
+                        "NomNom_Adv_Cartridge_Pokemon_Fire_Red",
+                        "NomNom_Adv_Cartridge_Spyro",
+                        "NomNom_Adv_Cartridge_Super_Mario_Bros",
+                        "NomNom_Adv_Cartridge_Super_Mario_World",
+                        "NomNom_Adv_Cartridge_Tony_Hawk",
+                        "NomNom_Adv_Cartridge_Zelda"
+                    ]
+                }
+            ]
+        },
+        {
+            "CategoryName": "Comics",
+            "Sets": [
+                {
+                    "SetName": "Top 10 Most Expensive Comics",
+                    "SetGhostIcon": "set:extra_icons image:boom",
+                    "MaxTurnInCount": 2,
+                    "ClassNames": [
+                        "NomNom_Comic_Action_Comics1938",
+                        "NomNom_Comic_All_Star_Comics1941",
+                        "NomNom_Comic_Amazing_Fantasy1962",
+                        "NomNom_Comic_Batman1940",
+                        "NomNom_Comic_Captain_America1941",
+                        "NomNom_Comic_Detective_Comics1939",
+                        "NomNom_Comic_Fantastic_Four1961",
+                        "NomNom_Comic_Marvel_Comics1939",
+                        "NomNom_Comic_Superman1939",
+                        "NomNom_Comic_X_Men_1963"
+                    ]
+                }
+            ]
+        },
+        {
+            "CategoryName": "HGC Funko Pops",
+            "Sets": [
+                {
+                    "SetName": "NomNom's Original 20",
+                    "SetGhostIcon": "set:extra_icons image:funko",
+                    "MaxTurnInCount": 2,
+                    "ClassNames": [
+                        "NomNom_FP_Thor",
+                        "NomNom_FP_IronMan",
+                        "NomNom_FP_CaptainAmerica",
+                        "NomNom_FP_Hulk",
+                        "NomNom_FP_BlackWidow",
+                        "NomNom_FP_Hawkeye",
+                        "NomNom_FP_Blossom",
+                        "NomNom_FP_Bubbles",
+                        "NomNom_FP_Buttercup",
+                        "NomNom_FP_WhiteRanger",
+                        "NomNom_FP_RedRanger",
+                        "NomNom_FP_PinkRanger",
+                        "NomNom_FP_GreenRanger",
+                        "NomNom_FP_BlkRanger",
+                        "NomNom_FP_YellowRanger",
+                        "NomNom_FP_BlueRanger",
+                        "NomNom_FP_Don",
+                        "NomNom_FP_Raph",
+                        "NomNom_FP_Mich",
+                        "NomNom_FP_Leo"
+                    ]
+                },
+                {
+                    "SetName": "Copper Variants",
+                    "SetGhostIcon": "set:extra_icons image:funko",
+                    "MaxTurnInCount": 2,
+                    "ClassNames": [
+                        "NomNom_FP_Blossom_Copper",
+                        "NomNom_FP_Bubbles_Copper",
+                        "NomNom_FP_Buttercup_Copper"
+                    ]
+                },
+                {
+                    "SetName": "Moss Variants",
+                    "SetGhostIcon": "set:extra_icons image:funko",
+                    "MaxTurnInCount": 2,
+                    "ClassNames": [
+                        "NomNom_FP_WhiteRanger_Moss",
+                        "NomNom_FP_RedRanger_Moss",
+                        "NomNom_FP_PinkRanger_Moss",
+                        "NomNom_FP_GreenRanger_Moss",
+                        "NomNom_FP_BlkRanger_Moss",
+                        "NomNom_FP_YellowRanger_Moss",
+                        "NomNom_FP_BlueRanger_Moss"
+                    ]
+                },
+                {
+                    "SetName": "Metallic Variants",
+                    "SetGhostIcon": "set:extra_icons image:funko",
+                    "MaxTurnInCount": 2,
+                    "ClassNames": [
+                        "NomNom_FP_Don_Metal",
+                        "NomNom_FP_Raph_Metal",
+                        "NomNom_FP_Mich_Metal",
+                        "NomNom_FP_Leo_Metal"
+                    ]
+                }
+            ]
+        },
+        {
+            "CategoryName": "Chibi Statues",
+            "Sets": [
+                {
+                    "SetName": "Anime One Piece",
+                    "SetGhostIcon": "set:extra_icons image:chibi",
+                    "MaxTurnInCount": 2,
+                    "ClassNames": [
+                        "NomNom_Chibi_Luffy",
+                        "NomNom_Chibi_Zoro",
+                        "NomNom_Chibi_Nami",
+                        "NomNom_Chibi_Usopp",
+                        "NomNom_Chibi_Sanji",
+                        "NomNom_Chibi_Chopper",
+                        "NomNom_Chibi_Robin",
+                        "NomNom_Chibi_Franky",
+                        "NomNom_Chibi_Brook",
+                        "NomNom_Chibi_Jinbe"
+                    ]
+                }
+            ]
+        },
+        {
+            "CategoryName": "Posters",
+            "Sets": [
+                {
+                    "SetName": "Halloween 2024",
+                    "SetGhostIcon": "set:HGC_Icon image:icon",
+                    "MaxTurnInCount": 2,
+                    "ClassNames": [
+                        "NomNom_Posters_Halloween_Chucky",
+                        "NomNom_Posters_Halloween_Freddy",
+                        "NomNom_Posters_Halloween_Friends",
+                        "NomNom_Posters_Halloween_Halloween",
+                        "NomNom_Posters_Halloween_It",
+                        "NomNom_Posters_Halloween_Jason",
+                        "NomNom_Posters_Halloween_JasonMike",
+                        "NomNom_Posters_Halloween_Mike",
+                        "NomNom_Posters_Halloween_Saw",
+                        "NomNom_Posters_Halloween_Scream"
+                    ]
+                }
+            ]
+        },
+        {
+            "CategoryName": "Boardgames",
+            "Sets": [
+                {
+                    "SetName": "Top 10 Oldest",
+                    "SetGhostIcon": "set:boardgame_icon image:boardgame",
+                    "MaxTurnInCount": 2,
+                    "ClassNames": [
+                        "NomNom_Boardgames_Candyland_New",
+                        "NomNom_Boardgames_Checkers_New",
+                        "NomNom_Boardgames_Chess_New",
+                        "NomNom_Boardgames_ChutesAndLadders_New",
+                        "NomNom_Boardgames_Clue_New",
+                        "NomNom_Boardgames_Life_New",
+                        "NomNom_Boardgames_Monopoly_New",
+                        "NomNom_Boardgames_Operation_New",
+                        "NomNom_Boardgames_Scrabble_New",
+                        "NomNom_Boardgames_Sorry_New"
+                    ]
+                }
+            ]
+        },
+        {
+            "CategoryName": "Heavenly Stones",
+            "Sets": [
+                {
+                    "SetName": "Marvel Inspired",
+                    "SetGhostIcon": "set:HGC_Icon image:icon",
+                    "MaxTurnInCount": 2,
+                    "ClassNames": [
+                        "NomNom_Mind_Stone",
+                        "NomNom_Power_Stone",
+                        "NomNom_Reality_Stone",
+                        "NomNom_Soul_Stone",
+                        "NomNom_Space_Stone",
+                        "NomNom_Time_Stone"
+                    ]
+                }
+            ]
+        },
+        {
+            "CategoryName": "TCG Pokemon",
+            "Sets": [
+                {
+                    "SetName": "Base Set (1996)",
+                    "SetGhostIcon": "set:tcg_poke_slots image:pokecard_icon",
+                    "MaxTurnInCount": 2,
+                    "ClassNames": [
+                        "NomNom_Poke_Card_G1_1",
+                        "NomNom_Poke_Card_G1_2",
+                        "NomNom_Poke_Card_G1_3",
+                        "NomNom_Poke_Card_G1_4",
+                        "NomNom_Poke_Card_G1_5",
+                        "NomNom_Poke_Card_G1_6",
+                        "NomNom_Poke_Card_G1_7",
+                        "NomNom_Poke_Card_G1_8",
+                        "NomNom_Poke_Card_G1_9",
+                        "NomNom_Poke_Card_G1_10",
+                        "NomNom_Poke_Card_G1_11",
+                        "NomNom_Poke_Card_G1_12",
+                        "NomNom_Poke_Card_G1_13",
+                        "NomNom_Poke_Card_G1_14",
+                        "NomNom_Poke_Card_G1_15",
+                        "NomNom_Poke_Card_G1_16",
+                        "NomNom_Poke_Card_G1_17",
+                        "NomNom_Poke_Card_G1_18",
+                        "NomNom_Poke_Card_G1_19",
+                        "NomNom_Poke_Card_G1_20",
+                        "NomNom_Poke_Card_G1_21",
+                        "NomNom_Poke_Card_G1_22",
+                        "NomNom_Poke_Card_G1_23",
+                        "NomNom_Poke_Card_G1_24",
+                        "NomNom_Poke_Card_G1_25",
+                        "NomNom_Poke_Card_G1_26",
+                        "NomNom_Poke_Card_G1_27",
+                        "NomNom_Poke_Card_G1_28",
+                        "NomNom_Poke_Card_G1_29",
+                        "NomNom_Poke_Card_G1_30",
+                        "NomNom_Poke_Card_G1_31",
+                        "NomNom_Poke_Card_G1_32",
+                        "NomNom_Poke_Card_G1_33",
+                        "NomNom_Poke_Card_G1_34",
+                        "NomNom_Poke_Card_G1_35",
+                        "NomNom_Poke_Card_G1_36",
+                        "NomNom_Poke_Card_G1_37",
+                        "NomNom_Poke_Card_G1_38",
+                        "NomNom_Poke_Card_G1_39",
+                        "NomNom_Poke_Card_G1_40",
+                        "NomNom_Poke_Card_G1_41",
+                        "NomNom_Poke_Card_G1_42",
+                        "NomNom_Poke_Card_G1_43",
+                        "NomNom_Poke_Card_G1_44",
+                        "NomNom_Poke_Card_G1_45",
+                        "NomNom_Poke_Card_G1_46",
+                        "NomNom_Poke_Card_G1_47",
+                        "NomNom_Poke_Card_G1_48",
+                        "NomNom_Poke_Card_G1_49",
+                        "NomNom_Poke_Card_G1_50",
+                        "NomNom_Poke_Card_G1_51",
+                        "NomNom_Poke_Card_G1_52",
+                        "NomNom_Poke_Card_G1_53",
+                        "NomNom_Poke_Card_G1_54",
+                        "NomNom_Poke_Card_G1_55",
+                        "NomNom_Poke_Card_G1_56",
+                        "NomNom_Poke_Card_G1_57",
+                        "NomNom_Poke_Card_G1_58",
+                        "NomNom_Poke_Card_G1_59",
+                        "NomNom_Poke_Card_G1_60",
+                        "NomNom_Poke_Card_G1_61",
+                        "NomNom_Poke_Card_G1_62",
+                        "NomNom_Poke_Card_G1_63",
+                        "NomNom_Poke_Card_G1_64",
+                        "NomNom_Poke_Card_G1_65",
+                        "NomNom_Poke_Card_G1_66",
+                        "NomNom_Poke_Card_G1_67",
+                        "NomNom_Poke_Card_G1_68",
+                        "NomNom_Poke_Card_G1_69",
+                        "NomNom_Poke_Card_G1_70",
+                        "NomNom_Poke_Card_G1_71",
+                        "NomNom_Poke_Card_G1_72",
+                        "NomNom_Poke_Card_G1_73",
+                        "NomNom_Poke_Card_G1_74",
+                        "NomNom_Poke_Card_G1_75",
+                        "NomNom_Poke_Card_G1_76",
+                        "NomNom_Poke_Card_G1_77",
+                        "NomNom_Poke_Card_G1_78",
+                        "NomNom_Poke_Card_G1_79",
+                        "NomNom_Poke_Card_G1_80",
+                        "NomNom_Poke_Card_G1_81",
+                        "NomNom_Poke_Card_G1_82",
+                        "NomNom_Poke_Card_G1_83",
+                        "NomNom_Poke_Card_G1_84",
+                        "NomNom_Poke_Card_G1_85",
+                        "NomNom_Poke_Card_G1_86",
+                        "NomNom_Poke_Card_G1_87",
+                        "NomNom_Poke_Card_G1_89",
+                        "NomNom_Poke_Card_G1_90",
+                        "NomNom_Poke_Card_G1_91",
+                        "NomNom_Poke_Card_G1_92",
+                        "NomNom_Poke_Card_G1_93",
+                        "NomNom_Poke_Card_G1_94",
+                        "NomNom_Poke_Card_G1_95",
+                        "NomNom_Poke_Card_G1_96",
+                        "NomNom_Poke_Card_G1_97",
+                        "NomNom_Poke_Card_G1_98",
+                        "NomNom_Poke_Card_G1_99",
+                        "NomNom_Poke_Card_G1_100",
+                        "NomNom_Poke_Card_G1_101",
+                        "NomNom_Poke_Card_G1_102"
+                    ]
+                }
+            ]
+        }
+    ]
+}

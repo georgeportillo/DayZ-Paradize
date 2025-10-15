@@ -1,0 +1,89 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "Animal_CanisLupus_Grey",
+            "m_LocalPosition": [
+                8334.1044921875,
+                322.5598449707031,
+                1643.93896484375
+            ],
+            "m_LocalRotation": [
+                -136.96974182128907,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 38
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Animal_CanisLupus_Grey",
+            "m_LocalPosition": [
+                8332.365234375,
+                322.42742919921877,
+                1635.0908203125
+            ],
+            "m_LocalRotation": [
+                -30.242874145507814,
+                -0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 38
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Animal_CanisLupus_White",
+            "m_LocalPosition": [
+                8332.072265625,
+                322.4463806152344,
+                1641.926025390625
+            ],
+            "m_LocalRotation": [
+                41.057472229003909,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 38
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Animal_CanisLupus_White",
+            "m_LocalPosition": [
+                8329.94140625,
+                322.6287841796875,
+                1639.60302734375
+            ],
+            "m_LocalRotation": [
+                21.99971580505371,
+                -0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 38
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        }
+    ]
+}

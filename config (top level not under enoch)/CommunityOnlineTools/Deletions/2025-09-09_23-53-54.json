@@ -1,0 +1,26 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "Animal_CanisLupus_Grey",
+            "m_LocalPosition": [
+                8346.5302734375,
+                322.60614013671877,
+                1626.1427001953126
+            ],
+            "m_LocalRotation": [
+                -5.537582874298096,
+                0.0,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 38
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        }
+    ]
+}

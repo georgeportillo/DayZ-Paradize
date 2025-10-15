@@ -1,0 +1,397 @@
+06:12:40.576 [MissionAirdrop] An airdrop is heading towards "Karlin" (pos=<9975.000000, 0.000000, 7242.000000> type=Random_Karlin) with a ExpansionAirdropContainer_Medical
+07:39:47.849 [MissionAirdrop] An airdrop is heading towards "Topolin" (pos=<1367.000000, 0.000000, 7057.000000> type=Random_Topolin) with a ExpansionAirdropContainer_Basebuilding
+07:51:03.394 [Party] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) joined the party "Dragon Unyielding" (id=7 ownerUID=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0= ownerName=Dan)
+08:15:27.168 [Killfeed] [Drago] Dan got killed by AI Mirek (East) with KA-74 from a distance of 6 m.
+08:15:27.295 [Killfeed] AI Mirek (East) got killed by [Drago] Dan with SNAFU Rusty PKP from a distance of 6 m.
+08:15:52.783 [Party] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) joined the party "Dragon Unyielding" (id=7 ownerUID=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0= ownerName=Dan)
+08:15:56.865 [SpawnSelection] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) spawned at <6558.879395, 205.615265, 8379.662109>
+08:18:00.569 [Killfeed] [Drago] Dan got killed by AI Linda (East) with Bizon from a distance of 4 m.
+08:18:24.794 [Party] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) joined the party "Dragon Unyielding" (id=7 ownerUID=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0= ownerName=Dan)
+08:18:27.244 [GraveStone] Spawned GraveStone for Survivor at position 0x00000000b6038684 {<6576.27,207.25,8387.94>}
+08:18:42.436 [SpawnSelection] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) spawned at <9812.469727, 208.270996, 8597.160156>
+08:19:15.984 [VehicleEnter] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<9955.02, 385.62, 428.57>) as pilot
+08:19:22.324 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<9955.02, 385.62, 428.58>)
+08:19:25.544 [Party] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left the party "Dragon Unyielding" (id=7 ownerUID=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0= ownerName=Dan)
+08:20:19.243 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<10330.8, 307.84, 685.27>)
+08:20:19.275 [VehicleLeave] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<10330.8, 307.84, 685.27>)
+08:20:53.181 [VehicleEnter] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<10330.8, 307.84, 685.2>) as pilot
+08:20:54.777 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<10330.8, 307.84, 685.19>)
+08:21:01.691 [GraveStone] Spawned GraveStone for Survivor at position 0x00000000b6038684 {<6561.2,207.063,8381.06>}
+08:21:22.475 [Party] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) joined the party "Dragon Unyielding" (id=7 ownerUID=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0= ownerName=Dan)
+08:21:44.683 [AI Patrol 00014] Spawning 3 East bots at <7712.848145, 316.197357, 2989.740967>
+08:21:44.727 [AI Patrol 00014] Global patrol count: 1
+08:21:44.738 [AI Patrol 00014] Patrol category patrol count: 1
+08:21:44.828 [AI Patrol 00015] Spawning 2 West bots at <7341.222168, 288.000000, 2725.605225>
+08:21:44.865 [AI Patrol 00015] Global patrol count: 2
+08:21:44.876 [AI Patrol 00015] Patrol category patrol count: 2
+08:22:51.167 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8930.29, 472.84, 2061.55>)
+08:22:51.256 [VehicleLeave] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8930.29, 472.84, 2061.55>)
+08:27:16.018 [VehicleEnter] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8931.15, 472.83, 2061.3>) as pilot
+08:27:21.043 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8931.17, 472.83, 2061.31>)
+08:29:01.408 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8342.26, 365.83, 1655>)
+08:29:22.262 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8306.38, 323.45, 1636.8>)
+08:31:01.042 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8349.06, 335.44, 1649.11>)
+08:31:07.244 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8329.09, 328.33, 1656.48>)
+08:31:29.606 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8343.51, 334.76, 1637.77>)
+08:31:29.640 [VehicleLeave] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8343.51, 334.76, 1637.77>)
+08:35:14.240 [Killfeed] AI Boris (East) got killed by AI Keiko (West) with AUR AX from a distance of 2 m.
+08:42:31.430 [Killfeed] AI Irena (East) got killed by AI Keiko (West) with AUR AX from a distance of 14 m.
+08:42:35.792 [AI Patrol 00014] East bots were wiped out (spawn position <7712.848145, 316.197357, 2989.740967>, 3/3 deceased)
+08:42:35.802 [AI Patrol 00014] Global patrol count: 1
+08:42:35.813 [AI Patrol 00014] Patrol category patrol count: 1
+08:42:41.526 [BaseRaiding] ExpansionSafeMini (<9702.060547, 213.914398, 8485.162109>) Damaged "player "Dan" (ID = "J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=" at <9701.254883, 213.955887, 8486.303711>)" by 10 health points. Reason: Failed to enter the correct code.
+08:42:41.538 [BaseRaiding] ExpansionSafeMini (<9702.060547, 213.914398, 8485.162109>) The correct code was 5051 and the player tried 0000
+08:42:53.904 [BaseRaiding] ExpansionSafeMini (<9702.060547, 213.914398, 8485.162109>) Damaged "player "Dan" (ID = "J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=" at <9701.254883, 213.955887, 8486.303711>)" by 10 health points. Reason: Failed to enter the correct code.
+08:42:53.915 [BaseRaiding] ExpansionSafeMini (<9702.060547, 213.914398, 8485.162109>) The correct code was 5051 and the player tried 1234
+08:48:22.813 [Territory] Admin "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) deleted territory "Land of the Bad Boys" at <1321.394531, 373.496002, 11456.469727>
+08:49:57.351 [VehicleDeleted] ExpansionMh6_Resistance (id=FDF6018F8D47146B036D138367E753BA pos=<8297.83, 303.61, 1720.95>)
+08:53:53.993 [AI Object Patrol 00012] Spawning 2 West bots at <4173.037109, 243.117020, 10191.173828>
+08:53:54.035 [AI Object Patrol 00012] Global patrol count: 2
+08:53:54.044 [AI Object Patrol 00012] ContaminatedArea category patrol count: 1
+08:53:54.054 [AI Object Patrol 00011] Spawning 2 West bots at <4451.458496, 231.647858, 10489.809570>
+08:53:54.089 [AI Object Patrol 00011] Global patrol count: 3
+08:53:54.100 [AI Object Patrol 00011] ContaminatedArea category patrol count: 2
+08:54:02.623 [VehicleEnter] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=A73318A422423DC61AD279805C9DB211 pos=<3697.6, 240.62, 10210.8>) as pilot
+08:54:24.251 [VehicleLeave] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=A73318A422423DC61AD279805C9DB211 pos=<3664.4, 238.14, 10032.8>)
+08:54:46.484 [VehicleEnter] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=5177094C3349D84ABC675ABA0962CAD4 pos=<3554.62, 240.51, 10186.8>) as passenger
+08:55:29.553 [AI Object Patrol 00032] Spawning 1 East bots at <7283.816895, 216.194580, 7730.576660>
+08:55:29.669 [AI Object Patrol 00032] Global patrol count: 4
+08:55:29.696 [AI Object Patrol 00032] HelicopterWreck category patrol count: 1
+08:56:18.061 [VehicleLeave] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=5177094C3349D84ABC675ABA0962CAD4 pos=<3731.58, 238.1, 10087.1>)
+08:57:22.517 [VehicleEnter] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=0FB8036C3446971345914782FBD3B664 pos=<8041.86, 175.88, 11710.6>) as pilot
+08:57:50.054 [VehicleLeave] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=0FB8036C3446971345914782FBD3B664 pos=<8044.96, 174.99, 11709.9>)
+08:59:02.295 [AI Patrol 00017] Spawning 3 East bots at <9233.921875, 201.637100, 10820.564453>
+08:59:02.318 [AI Patrol 00017] Global patrol count: 5
+08:59:02.328 [AI Patrol 00017] Patrol category patrol count: 2
+08:59:02.338 [AI Patrol 00018] Spawning 1 East bots at <9558.307617, 243.800903, 10386.237305>
+08:59:02.371 [AI Patrol 00018] Global patrol count: 6
+08:59:02.381 [AI Patrol 00018] Patrol category patrol count: 3
+09:00:36.587 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): wd
+09:00:57.923 [AI Patrol 00015] Despawning 1 West bots (spawn position <7341.222168, 288.000000, 2725.605225>, 1/2 deceased)
+09:00:57.933 [AI Patrol 00015] Global patrol count: 5
+09:00:57.942 [AI Patrol 00015] Patrol category patrol count: 2
+09:01:38.534 [VehicleDeleted] ExpansionMerlin_Vrana (id=9A6C248BCB4C356845FC999CBD1BFF19 pos=<6601.36, 184.44, 11097.3>)
+09:03:13.091 [VehicleDeleted] ExpansionMh6 (id=4B8839CF2543ED3FB3A165BD30B9B7AF pos=<5032.55, 194.06, 10021.4>)
+09:07:13.730 [MissionAirdrop] An airdrop is heading towards "Gieraltow" (pos=<10899.000000, 0.000000, 4515.000000> type=Random_Gieraltow) with a ExpansionAirdropContainer_Medical
+09:09:29.441 [AI Patrol 00018] Despawning 1 East bots (spawn position <9558.307617, 243.800903, 10386.237305>, 0/1 deceased)
+09:09:29.453 [AI Patrol 00018] Global patrol count: 4
+09:09:29.466 [AI Patrol 00018] Patrol category patrol count: 1
+09:09:38.966 [AI Patrol 00017] Despawning 3 East bots (spawn position <9233.921875, 201.637100, 10820.564453>, 0/3 deceased)
+09:09:38.976 [AI Patrol 00017] Global patrol count: 3
+09:09:38.986 [AI Patrol 00017] Patrol category patrol count: 0
+09:12:04.026 [AI Object Patrol 00012] Despawning 2 West bots (spawn position <4173.037109, 243.117020, 10191.173828>, 0/2 deceased)
+09:12:04.134 [AI Object Patrol 00012] Global patrol count: 2
+09:12:04.261 [AI Object Patrol 00012] ContaminatedArea category patrol count: 1
+09:12:04.416 [AI Object Patrol 00011] Despawning 2 West bots (spawn position <4451.458496, 231.647858, 10489.809570>, 0/2 deceased)
+09:12:04.593 [AI Object Patrol 00011] Global patrol count: 1
+09:12:04.788 [AI Object Patrol 00011] ContaminatedArea category patrol count: 0
+10:17:23.006 [Territory] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) created territory "Land of the Bad Boys" at <6098.759766, 179.601440, 10662.853516>
+10:21:29.881 [BaseRaiding] ExpansionWall6x3 (<6088.591309, 173.343842, 10667.726563>) Code set by "player "Bad Boy" (ID = "7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=" at <6089.875977, 173.594025, 10668.126953>)" and the code is 0102
+10:26:10.637 [Party] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left the party "Dragon Unyielding" (id=7 ownerUID=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0= ownerName=Dan)
+10:26:24.963 [AI Object Patrol 00032] Despawning 1 East bots (spawn position <7283.816895, 216.194580, 7730.576660>, 0/1 deceased)
+10:26:24.974 [AI Object Patrol 00032] Global patrol count: 0
+10:26:24.985 [AI Object Patrol 00032] HelicopterWreck category patrol count: 0
+10:36:03.391 [MissionAirdrop] An airdrop is heading towards "Muratyn" (pos=<4559.000000, 0.000000, 6852.000000> type=Random_Muratyn) with a ExpansionAirdropContainer_Basebuilding
+10:37:07.161 [BaseRaiding] ExpansionWall6x3 (<6089.075195, 173.344315, 10663.510742>) Code set by "player "Bad Boy" (ID = "7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=" at <6088.963379, 173.594009, 10661.845703>)" and the code is 0102
+11:10:54.171 [BaseRaiding] ExpansionWall6x3 (<6085.830078, 179.350784, 10654.596680>) Code set by "player "Bad Boy" (ID = "7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=" at <6084.510742, 179.600784, 10654.373047>)" and the code is 0102
+11:22:20.689 [BaseRaiding] ExpansionWall6x3 (<6085.830078, 176.347549, 10654.597656>) Code set by "player "Bad Boy" (ID = "7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=" at <6087.324707, 176.597244, 10654.500977>)" and the code is 0102
+11:24:57.408 [BaseRaiding] ExpansionWall6x3 (<6086.315430, 176.348022, 10650.381836>) Code set by "player "Bad Boy" (ID = "7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=" at <6086.439941, 176.597549, 10648.889648>)" and the code is 0102
+12:02:09.086 [MissionAirdrop] An airdrop is heading towards "Dolnik" (pos=<11491.000000, 0.000000, 763.000000> type=Random_Dolnik) with a ExpansionAirdropContainer_Basebuilding
+12:06:37.203 [Party] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) joined the party "Dragon Unyielding" (id=7 ownerUID=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0= ownerName=Dan)
+12:11:20.988 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<6561.93, 206.76, 8391.24>) as driver
+12:11:24.695 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<6561.93, 206.76, 8391.24>)
+12:14:16.226 [AI Object Patrol 00091] Spawning 2 West bots at <7771.096191, 295.667938, 8979.813477>
+12:14:16.397 [AI Object Patrol 00091] Global patrol count: 1
+12:14:16.541 [AI Object Patrol 00091] HelicopterWreck category patrol count: 1
+12:14:31.246 [AI Object Patrol 00088] Spawning 3 West bots at <8362.321289, 293.793671, 7546.598145>
+12:14:31.276 [AI Object Patrol 00088] Global patrol count: 2
+12:14:31.286 [AI Object Patrol 00088] HelicopterWreck category patrol count: 2
+12:18:53.879 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8540.62, 274.37, 8784.62>)
+12:25:03.538 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8540.62, 274.37, 8784.6>) as driver
+12:25:25.340 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8530.47, 276.96, 8823.2>)
+12:28:19.628 [AI Object Patrol 00088] Despawning 3 West bots (spawn position <8362.321289, 293.793671, 7546.598145>, 0/3 deceased)
+12:28:19.638 [AI Object Patrol 00088] Global patrol count: 1
+12:28:19.648 [AI Object Patrol 00088] HelicopterWreck category patrol count: 1
+12:31:00.982 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8530.47, 276.96, 8823.15>) as driver
+12:31:15.374 [AI Object Patrol 00098] Spawning 3 West bots at <8608.668945, 303.193451, 9853.920898>
+12:31:15.417 [AI Object Patrol 00098] Global patrol count: 2
+12:31:15.427 [AI Object Patrol 00098] ContaminatedArea category patrol count: 1
+12:34:50.518 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8923.55, 266.85, 10045.3>)
+12:34:50.952 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8923.55, 266.85, 10045.3>)
+12:37:21.764 [Killfeed] AI Indar (West) got killed by [Drago] Dan with SNAFU Rusty PKP from a distance of 176 m.
+12:37:28.178 [Killfeed] AI Niki (West) got killed by [Drago] Dan with SNAFU Rusty PKP from a distance of 177 m.
+12:40:22.341 [VehicleAttachments] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) detached M3S Dual Wheel (type=Truck_01_WheelDouble_Ruined) from vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8923.55, 266.85, 10045.3>)
+12:40:38.486 [VehicleAttachments] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) detached M3S Dual Wheel (type=Truck_01_WheelDouble_Ruined) from vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8923.55, 266.88, 10045.3>)
+12:40:56.379 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8923.55, 266.88, 10045.3>) as driver
+12:40:59.746 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8923.55, 266.88, 10045.3>)
+12:43:23.973 [AI Object Patrol 00091] Despawning 2 West bots (spawn position <7771.096191, 295.667938, 8979.813477>, 0/2 deceased)
+12:43:23.986 [AI Object Patrol 00091] Global patrol count: 1
+12:43:23.998 [AI Object Patrol 00091] HelicopterWreck category patrol count: 0
+12:44:21.577 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8723.33, 284.4, 10178.3>)
+12:44:22.051 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8723.34, 284.4, 10178.3>)
+12:44:35.274 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8723.43, 284.38, 10178.3>) as driver
+12:44:38.016 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8723.59, 284.36, 10178.3>)
+12:54:25.719 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) stopped vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8171.16, 215.44, 10757.6>)
+13:01:04.610 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8166.68, 214.66, 10763.1>)
+13:02:49.759 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8193.92, 217.79, 10725.4>)
+13:02:50.233 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8193.92, 217.79, 10725.4>)
+13:05:08.240 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8193.92, 217.79, 10725.4>) as driver
+13:05:11.405 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8193.92, 217.79, 10725.4>)
+13:06:23.767 [AI Object Patrol 00098] Despawning 1 West bots (spawn position <8608.668945, 303.193451, 9853.920898>, 2/3 deceased)
+13:06:23.780 [AI Object Patrol 00098] Global patrol count: 0
+13:06:23.794 [AI Object Patrol 00098] ContaminatedArea category patrol count: 0
+13:08:05.715 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8109.62, 204.7, 10909>)
+13:08:06.197 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8109.62, 204.7, 10909>)
+13:25:02.099 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8109.61, 204.73, 10909>) as driver
+13:25:09.548 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8109.58, 204.72, 10909>)
+13:25:55.486 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8091.97, 197.88, 11125>)
+13:25:55.922 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8091.97, 197.88, 11125>)
+13:31:54.094 [MissionAirdrop] An airdrop is heading towards "Gieraltow" (pos=<10899.000000, 0.000000, 4515.000000> type=Random_Gieraltow) with a ExpansionAirdropContainer_Medical
+13:32:02.934 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8091.97, 197.88, 11125>) as driver
+13:32:05.606 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8091.98, 197.88, 11125>)
+13:33:47.707 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<7968.16, 177.64, 11598.5>)
+13:33:48.142 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<7968.16, 177.64, 11598.5>)
+13:38:01.508 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<7968.16, 177.64, 11598.5>) as driver
+13:38:03.668 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<7968.16, 177.64, 11598.5>)
+13:39:29.073 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8049.75, 175.08, 11705.4>)
+13:39:45.274 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8049.76, 175.08, 11705.4>) as driver
+13:43:21.380 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<7642.99, 174.14, 11581.9>)
+13:43:21.799 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<7642.99, 174.14, 11581.9>)
+13:45:50.712 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle Gyrocopter (id=2894A8FEC04A403AF13340B8A8E06EC0 pos=<7646.66, 175.95, 11522.7>) as pilot
+13:45:53.263 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle Gyrocopter (id=2894A8FEC04A403AF13340B8A8E06EC0 pos=<7646.65, 175.95, 11522.7>)
+13:57:09.129 [Killfeed] AI Francis (East) got killed by AI Helga (West) with M4-A1 from a distance of 44 m.
+13:58:25.138 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) stopped vehicle Gyrocopter (id=2894A8FEC04A403AF13340B8A8E06EC0 pos=<7527.52, 177.28, 11438.5>)
+13:58:30.247 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle Gyrocopter (id=2894A8FEC04A403AF13340B8A8E06EC0 pos=<7527.34, 175.57, 11438.5>)
+13:59:13.315 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<7643, 174.14, 11581.9>) as driver
+13:59:16.241 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<7643, 174.14, 11581.9>)
+13:59:55.483 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<7521.75, 175.27, 11441.7>)
+13:59:55.916 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<7521.75, 175.27, 11441.7>)
+14:00:01.677 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle Gyrocopter (id=2894A8FEC04A403AF13340B8A8E06EC0 pos=<7526.64, 175.55, 11438.6>) as pilot
+14:00:03.952 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle Gyrocopter (id=2894A8FEC04A403AF13340B8A8E06EC0 pos=<7526.62, 175.55, 11438.6>)
+14:02:34.794 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=2894A8FEC04A403AF13340B8A8E06EC0 pos=<7518.41, 176.63, 11426.8>)
+14:02:34.816 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle Gyrocopter (id=2894A8FEC04A403AF13340B8A8E06EC0 pos=<7518.47, 176.63, 11426.8>)
+14:02:47.382 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<7521.76, 175.27, 11441.7>) as driver
+14:02:49.650 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<7521.76, 175.27, 11441.7>)
+14:03:47.541 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<7518.42, 175.17, 11442.8>)
+14:03:52.821 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<7518.42, 175.17, 11442.8>) as driver
+14:03:55.681 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<7518.42, 175.17, 11442.8>)
+14:03:56.126 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<7518.42, 175.17, 11442.8>)
+14:04:00.144 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle Gyrocopter (id=2894A8FEC04A403AF13340B8A8E06EC0 pos=<7513.73, 176.17, 11440.6>) as pilot
+14:04:02.449 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle Gyrocopter (id=2894A8FEC04A403AF13340B8A8E06EC0 pos=<7513.73, 176.17, 11440.6>)
+14:04:46.192 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) stopped vehicle Gyrocopter (id=2894A8FEC04A403AF13340B8A8E06EC0 pos=<7495.42, 176.11, 11426.7>)
+14:04:53.309 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle Gyrocopter (id=2894A8FEC04A403AF13340B8A8E06EC0 pos=<7495.42, 176.11, 11426.7>)
+14:06:02.659 [VehicleDestroyed] ExpansionGyrocopter (id=2894A8FEC04A403AF13340B8A8E06EC0 pos=<7495.42, 176.11, 11426.7>)
+14:06:16.575 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<7518.42, 175.17, 11442.8>) as driver
+14:06:19.968 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<7518.42, 175.17, 11442.8>)
+14:08:06.854 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8045.28, 175.6, 11687>)
+14:08:07.271 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8045.28, 175.6, 11687>)
+14:08:53.068 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle Gyrocopter (id=0FB8036C3446971345914782FBD3B664 pos=<8044.97, 174.99, 11709.9>) as pilot
+14:08:55.189 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle Gyrocopter (id=0FB8036C3446971345914782FBD3B664 pos=<8044.97, 174.99, 11709.9>)
+14:12:13.089 [VehicleDeleted] ExpansionGyrocopter (id=2894A8FEC04A403AF13340B8A8E06EC0 pos=<7495.42, 176.11, 11426.7>)
+14:13:07.260 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=0FB8036C3446971345914782FBD3B664 pos=<8044.32, 178.42, 11690.2>)
+14:13:07.302 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle Gyrocopter (id=0FB8036C3446971345914782FBD3B664 pos=<8044.32, 178.42, 11690.2>)
+14:13:44.733 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8045.26, 175.6, 11687>) as driver
+14:13:48.236 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8045.24, 175.6, 11687>)
+14:14:27.198 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8044.13, 175.42, 11692.6>)
+14:14:27.628 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8044.13, 175.42, 11692.6>)
+14:14:40.337 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle Gyrocopter (id=0FB8036C3446971345914782FBD3B664 pos=<8043.13, 178.21, 11696.3>) as pilot
+14:14:42.724 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle Gyrocopter (id=0FB8036C3446971345914782FBD3B664 pos=<8043.12, 178.21, 11696.3>)
+14:16:42.663 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=0FB8036C3446971345914782FBD3B664 pos=<8044.05, 179.13, 11695.8>)
+14:16:42.725 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle Gyrocopter (id=0FB8036C3446971345914782FBD3B664 pos=<8044.05, 179.13, 11695.8>)
+14:16:56.975 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8044.19, 175.41, 11692.2>) as driver
+14:17:03.726 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8044.19, 175.44, 11692.2>)
+14:17:12.859 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle Gyrocopter (id=0FB8036C3446971345914782FBD3B664 pos=<8042.12, 175.38, 11697.3>) as pilot
+14:17:14.478 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle Gyrocopter (id=0FB8036C3446971345914782FBD3B664 pos=<8042.13, 175.38, 11697.3>)
+14:19:36.936 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=0FB8036C3446971345914782FBD3B664 pos=<8040.57, 177.19, 11694.4>)
+14:19:36.959 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle Gyrocopter (id=0FB8036C3446971345914782FBD3B664 pos=<8040.57, 177.19, 11694.4>)
+14:20:04.992 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8044.21, 175.44, 11692>) as driver
+14:20:10.092 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8044.21, 175.44, 11692>)
+14:20:23.866 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8046.35, 175.71, 11683.9>)
+14:20:24.304 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8046.35, 175.71, 11683.9>)
+14:20:29.846 [VehicleDestroyed] ExpansionGyrocopter (id=0FB8036C3446971345914782FBD3B664 pos=<8040.59, 177.18, 11694.5>)
+14:20:37.739 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8046.35, 175.71, 11683.9>) as driver
+14:20:41.942 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8046.35, 175.71, 11683.9>)
+14:23:47.332 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8108.6, 205.48, 10886.2>)
+14:23:47.775 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8108.6, 205.48, 10886.2>)
+14:26:39.687 [VehicleDeleted] ExpansionGyrocopter (id=0FB8036C3446971345914782FBD3B664 pos=<8040.59, 177.18, 11694.5>)
+14:27:40.076 [VehicleAttachments] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) detached M3S Wheel (type=Truck_01_Wheel) from vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8108.6, 205.48, 10886.2>)
+14:27:55.629 [VehicleAttachments] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) detached M3S Dual Wheel (type=Truck_01_WheelDouble_Ruined) from vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8108.6, 205.48, 10886.2>)
+14:28:14.276 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8108.6, 205.5, 10886.2>) as driver
+14:28:17.912 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8108.6, 205.5, 10886.3>)
+14:33:11.770 [Party] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) joined the party "Dragon Shadowed" (id=4 ownerUID=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU= ownerName=PoiiZoner3)
+14:37:19.115 [AI Object Patrol 00133] Spawning 2 West bots at <6716.590820, 235.731201, 6951.383301>
+14:37:19.149 [AI Object Patrol 00133] Global patrol count: 1
+14:37:19.159 [AI Object Patrol 00133] HelicopterWreck category patrol count: 1
+14:39:11.385 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<6560.52, 206.51, 8388.86>)
+14:39:11.797 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<6560.52, 206.51, 8388.86>)
+14:45:00.038 [Party] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) left the party "Dragon Shadowed" (id=4 ownerUID=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU= ownerName=PoiiZoner3)
+14:48:07.485 [AI Object Patrol 00133] Despawning 2 West bots (spawn position <6716.590820, 235.731201, 6951.383301>, 0/2 deceased)
+14:48:07.497 [AI Object Patrol 00133] Global patrol count: 0
+14:48:07.509 [AI Object Patrol 00133] HelicopterWreck category patrol count: 0
+14:54:15.923 [Party] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left the party "Dragon Unyielding" (id=7 ownerUID=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0= ownerName=Dan)
+14:59:43.508 [MissionAirdrop] An airdrop is heading towards "Zapadlisko" (pos=<8399.000000, 0.000000, 8803.000000> type=Random_Zapadlisko) with a ExpansionAirdropContainer_Military
+15:34:54.015 [Party] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) joined the party "Dragon Shadowed" (id=4 ownerUID=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU= ownerName=PoiiZoner3)
+15:35:38.938 [Party] Player "BoughtComic" (id=7Z0-Qd_l-RdPlxSsjREkkjX-GxvLeS4WEoUXbkvpXr8=) joined the party "Dragon Shadowed" (id=4 ownerUID=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU= ownerName=PoiiZoner3)
+15:35:39.573 [Party] Player "BoughtComic" (id=7Z0-Qd_l-RdPlxSsjREkkjX-GxvLeS4WEoUXbkvpXr8=) left the party "Dragon Shadowed" (id=4 ownerUID=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU= ownerName=PoiiZoner3)
+15:36:37.875 [Territory] Player "BoughtComic" (id=7Z0-Qd_l-RdPlxSsjREkkjX-GxvLeS4WEoUXbkvpXr8= pos=<6466.274414, 393.180817, 3783.309326>) was invited to join the territory Dragonfire at <6467.145020, 392.743378, 3783.404053> by the player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)
+15:37:01.503 [Party] Player "BoughtComic" (id=7Z0-Qd_l-RdPlxSsjREkkjX-GxvLeS4WEoUXbkvpXr8=) joined the party "Dragon Shadowed" (id=4 ownerUID=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU= ownerName=PoiiZoner3)
+15:38:21.557 [Party] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) left the party "Dragon Shadowed" (id=4 ownerUID=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU= ownerName=PoiiZoner3)
+15:47:47.068 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle Gyrocopter (id=FBC192E3984B914601192A881DAD9476 pos=<6077.71, 171.75, 10672.9>) as pilot
+15:48:02.934 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) started vehicle Gyrocopter (id=FBC192E3984B914601192A881DAD9476 pos=<6077.7, 171.75, 10672.9>)
+15:50:11.358 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=FBC192E3984B914601192A881DAD9476 pos=<4977.96, 197.85, 10295.6>)
+15:50:11.381 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle Gyrocopter (id=FBC192E3984B914601192A881DAD9476 pos=<4977.96, 197.85, 10295.6>)
+15:50:43.242 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle Gyrocopter (id=FBC192E3984B914601192A881DAD9476 pos=<4977.88, 197.86, 10295.6>) as pilot
+15:50:49.934 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle Gyrocopter (id=FBC192E3984B914601192A881DAD9476 pos=<4977.87, 197.86, 10295.6>)
+16:05:39.711 [VehicleEnter] Player "BoughtComic" (id=7Z0-Qd_l-RdPlxSsjREkkjX-GxvLeS4WEoUXbkvpXr8=) entered vehicle Ada 4x4 (id=11BF777F6940D3D8EF7E6FA375FE0F24 pos=<6486.89, 392.82, 3768.12>) as driver
+16:05:45.031 [VehicleEngine] Player "BoughtComic" (id=7Z0-Qd_l-RdPlxSsjREkkjX-GxvLeS4WEoUXbkvpXr8=) started vehicle Ada 4x4 (id=11BF777F6940D3D8EF7E6FA375FE0F24 pos=<6486.89, 392.82, 3768.12>)
+16:06:18.120 [VehicleEngine] Player "BoughtComic" (id=7Z0-Qd_l-RdPlxSsjREkkjX-GxvLeS4WEoUXbkvpXr8=) stopped vehicle Ada 4x4 (id=11BF777F6940D3D8EF7E6FA375FE0F24 pos=<6471.91, 392.82, 3778.61>)
+16:06:20.841 [VehicleLeave] Player "BoughtComic" (id=7Z0-Qd_l-RdPlxSsjREkkjX-GxvLeS4WEoUXbkvpXr8=) left vehicle Ada 4x4 (id=11BF777F6940D3D8EF7E6FA375FE0F24 pos=<6471.91, 392.82, 3778.61>)
+16:09:03.221 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle Gyrocopter (id=FBC192E3984B914601192A881DAD9476 pos=<4977.36, 197.89, 10295.6>) as pilot
+16:09:05.370 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) started vehicle Gyrocopter (id=FBC192E3984B914601192A881DAD9476 pos=<4977.35, 197.89, 10295.6>)
+16:09:58.259 [AI Object Patrol 00013] Spawning 1 West bots at <3775.135254, 242.979950, 10303.714844>
+16:09:58.295 [AI Object Patrol 00013] Global patrol count: 1
+16:09:58.304 [AI Object Patrol 00013] ContaminatedArea category patrol count: 1
+16:12:23.556 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=FBC192E3984B914601192A881DAD9476 pos=<6078.82, 173.24, 10663.1>)
+16:12:23.588 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle Gyrocopter (id=FBC192E3984B914601192A881DAD9476 pos=<6078.82, 173.24, 10663.1>)
+16:20:54.005 [AI Object Patrol 00013] Despawning 1 West bots (spawn position <3775.135254, 242.979950, 10303.714844>, 0/1 deceased)
+16:20:54.015 [AI Object Patrol 00013] Global patrol count: 0
+16:20:54.025 [AI Object Patrol 00013] ContaminatedArea category patrol count: 0
+16:25:03.308 [MissionAirdrop] An airdrop is heading towards "Gieraltow" (pos=<10899.000000, 0.000000, 4515.000000> type=Random_Gieraltow) with a ExpansionAirdropContainer_Medical
+17:14:59.530 [Killfeed] AI Denis (East) got killed by AI Mirek (West) with M16-A2 from a distance of 17 m.
+17:53:19.088 [Killfeed] AI Hassan (Shamans) got killed by AI Quinn (West) with AUR AX from a distance of 2 m.
+17:53:54.422 [MissionAirdrop] An airdrop is heading towards "Dolnik" (pos=<11491.000000, 0.000000, 763.000000> type=Random_Dolnik) with a ExpansionAirdropContainer_Basebuilding
+17:59:48.663 [AI Patrol 00016] Spawning 1 Civilian bots at <6584.949707, 385.535065, 3669.256104>
+17:59:48.687 [AI Patrol 00016] Global patrol count: 1
+17:59:48.697 [AI Patrol 00016] Patrol category patrol count: 1
+18:08:39.995 [VehicleEnter] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) entered vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<10342.5, 224, 5907.45>) as pilot
+18:08:45.980 [VehicleEngine] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) started vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<10342.5, 224, 5907.45>)
+18:09:27.614 [AI Object Patrol 00191] Spawning 3 East bots at <11463.711914, 234.370071, 6516.291504>
+18:09:27.645 [AI Object Patrol 00191] Global patrol count: 2
+18:09:27.654 [AI Object Patrol 00191] HelicopterWreck category patrol count: 1
+18:10:43.117 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<11622.4, 253.86, 6911.99>)
+18:10:43.142 [VehicleLeave] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) left vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<11622.4, 253.86, 6911.99>)
+18:11:36.144 [Killfeed] AI Mirek (East) got killed by Mr. Blue with VSD from a distance of 332 m.
+18:11:41.725 [Killfeed] AI Elias (East) got killed by Mr. Blue with VSD from a distance of 329 m.
+18:12:05.687 [Killfeed] AI Irena (East) got killed by Mr. Blue with VSD from a distance of 339 m.
+18:12:06.384 [AI Object Patrol 00191] East bots were wiped out (spawn position <11463.711914, 234.370071, 6516.291504>, 3/3 deceased)
+18:12:06.396 [AI Object Patrol 00191] Global patrol count: 1
+18:12:06.407 [AI Object Patrol 00191] HelicopterWreck category patrol count: 0
+18:12:37.504 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): That killfeed is dope!
+18:12:56.442 [VehicleEnter] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) entered vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<11622.4, 253.86, 6912.03>) as pilot
+18:12:58.451 [VehicleEngine] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) started vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<11622.4, 253.86, 6912.04>)
+18:13:35.792 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<11478.1, 233.92, 6551.34>)
+18:13:35.804 [VehicleLeave] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) left vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<11478.1, 233.92, 6551.34>)
+18:14:02.133 [AI Patrol 00016] Despawning 1 Civilian bots (spawn position <6584.949707, 385.535065, 3669.256104>, 0/1 deceased)
+18:14:02.143 [AI Patrol 00016] Global patrol count: 0
+18:14:02.153 [AI Patrol 00016] Patrol category patrol count: 0
+18:14:57.978 [VehicleEnter] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) entered vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<11478.1, 233.91, 6551.29>) as pilot
+18:14:59.773 [VehicleEngine] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) started vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<11478.1, 233.91, 6551.3>)
+18:17:44.059 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<10341.1, 224.02, 5902.58>)
+18:17:44.074 [VehicleLeave] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) left vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<10341.1, 224.02, 5902.58>)
+18:26:31.027 [AI Object Patrol 00192] Spawning 2 East bots at <6858.248535, 377.037842, 4181.920898>
+18:26:31.064 [AI Object Patrol 00192] Global patrol count: 1
+18:26:31.074 [AI Object Patrol 00192] HelicopterWreck category patrol count: 1
+18:33:08.747 [Party] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) joined the party "Dragon Shadowed" (id=4 ownerUID=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU= ownerName=PoiiZoner3)
+18:40:09.586 [Killfeed] AI Quinn (West) got killed by AI Kaito (East) with KA-M from a distance of 3 m.
+18:41:36.149 [Killfeed] AI Maria (West) got killed by AI Kaito (East) with AUR AX from a distance of 19 m.
+18:45:32.912 [AI Object Patrol 00191] Despawning East patrol (spawn position <11470.329102, 233.540878, 6526.705566>)
+18:48:34.654 [VehicleEnter] Player "BoughtComic" (id=7Z0-Qd_l-RdPlxSsjREkkjX-GxvLeS4WEoUXbkvpXr8=) entered vehicle Ada 4x4 (id=11BF777F6940D3D8EF7E6FA375FE0F24 pos=<6471.91, 392.82, 3778.61>) as driver
+18:48:44.925 [VehicleEngine] Player "BoughtComic" (id=7Z0-Qd_l-RdPlxSsjREkkjX-GxvLeS4WEoUXbkvpXr8=) started vehicle Ada 4x4 (id=11BF777F6940D3D8EF7E6FA375FE0F24 pos=<6471.91, 392.82, 3778.61>)
+18:49:12.273 [VehicleEngine] Player "BoughtComic" (id=7Z0-Qd_l-RdPlxSsjREkkjX-GxvLeS4WEoUXbkvpXr8=) stopped vehicle Ada 4x4 (id=11BF777F6940D3D8EF7E6FA375FE0F24 pos=<6485.41, 392.82, 3770.39>)
+18:49:15.132 [VehicleLeave] Player "BoughtComic" (id=7Z0-Qd_l-RdPlxSsjREkkjX-GxvLeS4WEoUXbkvpXr8=) left vehicle Ada 4x4 (id=11BF777F6940D3D8EF7E6FA375FE0F24 pos=<6485.41, 392.82, 3770.39>)
+18:59:38.396 [AI Object Patrol 00192] Despawning 2 East bots (spawn position <6858.248535, 377.037842, 4181.920898>, 0/2 deceased)
+18:59:38.406 [AI Object Patrol 00192] Global patrol count: 0
+18:59:38.415 [AI Object Patrol 00192] HelicopterWreck category patrol count: 0
+19:02:28.227 [AI Object Patrol 00204] Spawning 1 East bots at <4704.805664, 426.240997, 3215.244385>
+19:02:28.266 [AI Object Patrol 00204] Global patrol count: 1
+19:02:28.276 [AI Object Patrol 00204] HelicopterWreck category patrol count: 1
+19:09:27.033 [Killfeed] AI Keiko (East) got killed by [Drago] PoiiZoner3 with SNAFU Scar-H BK from a distance of 1 m.
+19:09:28.641 [AI Object Patrol 00204] East bots were wiped out (spawn position <4704.805664, 426.240997, 3215.244385>, 1/1 deceased)
+19:09:28.652 [AI Object Patrol 00204] Global patrol count: 0
+19:09:28.664 [AI Object Patrol 00204] HelicopterWreck category patrol count: 0
+19:24:41.620 [MissionAirdrop] An airdrop is heading towards "Karlin" (pos=<9975.000000, 0.000000, 7242.000000> type=Random_Karlin) with a ExpansionAirdropContainer_Medical
+19:28:47.842 [AI Object Patrol 00204] Despawning 0 East bots (spawn position <4729.755859, 427.463043, 3222.011475>, 1/1 deceased)
+19:59:32.190 [AI Object Patrol 00213] Spawning 2 West bots at <9191.751953, 339.261902, 4432.942383>
+19:59:32.232 [AI Object Patrol 00213] Global patrol count: 1
+19:59:32.242 [AI Object Patrol 00213] ContaminatedArea category patrol count: 1
+20:02:23.681 [AI Object Patrol 00008] Spawning 1 West bots at <7736.315918, 233.416916, 5761.158691>
+20:02:23.724 [AI Object Patrol 00008] Global patrol count: 2
+20:02:23.734 [AI Object Patrol 00008] ContaminatedArea category patrol count: 2
+20:05:25.982 [AI Object Patrol 00216] Spawning 1 West bots at <8246.420898, 283.603119, 6038.330078>
+20:05:26.011 [AI Object Patrol 00216] Global patrol count: 3
+20:05:26.021 [AI Object Patrol 00216] HelicopterWreck category patrol count: 1
+20:05:51.876 [AI Object Patrol 00213] Despawning 2 West bots (spawn position <9191.751953, 339.261902, 4432.942383>, 0/2 deceased)
+20:05:51.888 [AI Object Patrol 00213] Global patrol count: 2
+20:05:51.899 [AI Object Patrol 00213] ContaminatedArea category patrol count: 1
+20:05:52.700 [AI Object Patrol 00009] Spawning 1 West bots at <7725.778320, 232.985840, 5810.416016>
+20:05:52.737 [AI Object Patrol 00009] Global patrol count: 3
+20:05:52.747 [AI Object Patrol 00009] ContaminatedArea category patrol count: 2
+20:10:32.842 [AI Object Patrol 00216] Despawning 1 West bots (spawn position <8246.420898, 283.603119, 6038.330078>, 0/1 deceased)
+20:10:32.852 [AI Object Patrol 00216] Global patrol count: 2
+20:10:32.862 [AI Object Patrol 00216] HelicopterWreck category patrol count: 0
+20:16:27.377 [AI Object Patrol 00226] Spawning 1 West bots at <11174.885742, 249.459198, 6260.149902>
+20:16:27.412 [AI Object Patrol 00226] Global patrol count: 3
+20:16:27.421 [AI Object Patrol 00226] HelicopterWreck category patrol count: 1
+20:17:27.922 [AI Object Patrol 00009] Despawning 1 West bots (spawn position <7725.778320, 232.985840, 5810.416016>, 0/1 deceased)
+20:17:28.058 [AI Object Patrol 00009] Global patrol count: 2
+20:17:28.164 [AI Object Patrol 00009] ContaminatedArea category patrol count: 1
+20:19:03.414 [AI Object Patrol 00008] Despawning 1 West bots (spawn position <7736.315918, 233.416916, 5761.158691>, 0/1 deceased)
+20:19:03.492 [AI Object Patrol 00008] Global patrol count: 1
+20:19:03.573 [AI Object Patrol 00008] ContaminatedArea category patrol count: 0
+20:21:05.978 [AI Object Patrol 00227] Spawning 2 East bots at <10507.707031, 271.072693, 7468.020508>
+20:21:06.021 [AI Object Patrol 00227] Global patrol count: 2
+20:21:06.031 [AI Object Patrol 00227] HelicopterWreck category patrol count: 2
+20:35:43.955 [Killfeed] AI Baty (East) got killed by [Drago] BoughtComic with JJFU Nomad from a distance of 1 m.
+20:35:45.812 [Killfeed] AI Irena (East) got killed by [Drago] PoiiZoner3 with SNAFU Scar-H BK from a distance of 25 m.
+20:35:47.719 [AI Object Patrol 00227] East bots were wiped out (spawn position <10507.707031, 271.072693, 7468.020508>, 2/2 deceased)
+20:35:47.757 [AI Object Patrol 00227] Global patrol count: 1
+20:35:47.768 [AI Object Patrol 00227] HelicopterWreck category patrol count: 1
+20:37:21.259 [Killfeed] AI Irena (West) got killed by [Drago] PoiiZoner3 with Barret M82A1 from a distance of 870 m.
+20:37:23.615 [AI Object Patrol 00226] West bots were wiped out (spawn position <11174.885742, 249.459198, 6260.149902>, 1/1 deceased)
+20:37:23.628 [AI Object Patrol 00226] Global patrol count: 0
+20:37:23.643 [AI Object Patrol 00226] HelicopterWreck category patrol count: 0
+20:51:41.450 [MissionAirdrop] An airdrop is heading towards "Muratyn" (pos=<4559.000000, 0.000000, 6852.000000> type=Random_Muratyn) with a ExpansionAirdropContainer_Basebuilding
+20:54:16.015 [AI Object Patrol 00227] Despawning 0 East bots (spawn position <10504.698242, 270.480530, 7445.963867>, 2/2 deceased)
+21:13:00.659 [AI Object Patrol 00226] Despawning 0 West bots (spawn position <11163.301758, 249.244202, 6233.077637>, 1/1 deceased)
+21:33:21.616 [AI Object Patrol 00010] Spawning 3 West bots at <7890.455078, 261.289001, 6065.021484>
+21:33:21.659 [AI Object Patrol 00010] Global patrol count: 1
+21:33:21.669 [AI Object Patrol 00010] ContaminatedArea category patrol count: 1
+21:34:04.315 [VehicleDestroyed] Sedan_02_Grey (id=9CF076AA4540C2E466B243BAA66FD99F pos=<8780.6, 312.71, 6468.44>)
+21:34:18.622 [VehicleAttachments] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) detached Sarka 120 Wheel (type=Sedan_02_Wheel) from vehicle Sarka 120 (id=9CF076AA4540C2E466B243BAA66FD99F pos=<8780.6, 312.71, 6468.44>)
+21:34:22.598 [VehicleAttachments] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) detached Car Radiator (type=CarRadiator) from vehicle Sarka 120 (id=9CF076AA4540C2E466B243BAA66FD99F pos=<8780.59, 312.67, 6468.45>)
+21:34:26.589 [VehicleAttachments] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) detached Sarka 120 Wheel (type=Sedan_02_Wheel) from vehicle Sarka 120 (id=9CF076AA4540C2E466B243BAA66FD99F pos=<8780.59, 312.67, 6468.45>)
+21:34:30.118 [VehicleAttachments] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) detached Sarka 120 Wheel (type=Sedan_02_Wheel) from vehicle Sarka 120 (id=9CF076AA4540C2E466B243BAA66FD99F pos=<8780.6, 312.63, 6468.44>)
+21:34:40.934 [VehicleAttachments] Player "BoughtComic" (id=7Z0-Qd_l-RdPlxSsjREkkjX-GxvLeS4WEoUXbkvpXr8=) detached Sarka 120 Wheel (type=Sedan_02_Wheel) from vehicle Sarka 120 (id=9CF076AA4540C2E466B243BAA66FD99F pos=<8780.6, 312.59, 6468.43>)
+21:38:29.168 [AI Object Patrol 00006] Spawning 3 West bots at <7403.170410, 235.549545, 6091.257813>
+21:38:29.208 [AI Object Patrol 00006] Global patrol count: 2
+21:38:29.218 [AI Object Patrol 00006] ContaminatedArea category patrol count: 2
+21:39:52.100 [VehicleDeleted] Sedan_02_Grey (id=9CF076AA4540C2E466B243BAA66FD99F pos=<8780.59, 312.55, 6468.43>)
+21:47:55.606 [Killfeed] AI Oliver (West) got killed by AI Jose (East) with VSD from a distance of 9 m.
+21:48:45.685 [Killfeed] AI Eva (Shamans) got killed by AI Naomi (West) with LE-MAS from a distance of 10 m.
+21:53:22.678 [AI Object Patrol 00010] Despawning 3 West bots (spawn position <7890.455078, 261.289001, 6065.021484>, 0/3 deceased)
+21:53:22.688 [AI Object Patrol 00010] Global patrol count: 1
+21:53:22.698 [AI Object Patrol 00010] ContaminatedArea category patrol count: 1
+21:53:28.482 [AI Object Patrol 00006] Despawning 3 West bots (spawn position <7403.170410, 235.549545, 6091.257813>, 0/3 deceased)
+21:53:28.550 [AI Object Patrol 00006] Global patrol count: 0
+21:53:28.625 [AI Object Patrol 00006] ContaminatedArea category patrol count: 0
+21:58:03.791 [Party] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) left the party "Dragon Shadowed" (id=4 ownerUID=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU= ownerName=PoiiZoner3)
+22:12:10.177 [Killfeed] AI Baty (West) got killed by AI Linda (Shamans) with LAR from a distance of 8 m.
+22:16:29.218 [Killfeed] AI Naomi (West) got killed by AI Linda (Shamans) with LAR from a distance of 8 m.
+22:16:32.568 [Party] Player "BoughtComic" (id=7Z0-Qd_l-RdPlxSsjREkkjX-GxvLeS4WEoUXbkvpXr8=) left the party "Dragon Shadowed" (id=4 ownerUID=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU= ownerName=PoiiZoner3)
+22:17:36.268 [MissionAirdrop] An airdrop is heading towards "Kolembrody" (pos=<8676.000000, 0.000000, 12114.000000> type=Random_Kolembrody) with a ExpansionAirdropContainer_Medical
+23:45:14.647 [MissionAirdrop] An airdrop is heading towards "Nadbor" (pos=<5996.000000, 0.000000, 4513.000000> type=Random_Nadbor) with a ExpansionAirdropContainer_Military
+01:12:01.386 [MissionAirdrop] An airdrop is heading towards "Nadbor" (pos=<5996.000000, 0.000000, 4513.000000> type=Random_Nadbor) with a ExpansionAirdropContainer_Military
+02:07:39.288 [Party] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) joined the party "Dragon Unyielding" (id=7 ownerUID=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0= ownerName=Dan)
+02:28:16.227 [AI Object Patrol 00268] Spawning 3 East bots at <7271.851074, 215.769287, 7725.524414>
+02:28:16.289 [AI Object Patrol 00268] Global patrol count: 1
+02:28:16.299 [AI Object Patrol 00268] HelicopterWreck category patrol count: 1
+02:31:56.071 [Party] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left the party "Dragon Unyielding" (id=7 ownerUID=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0= ownerName=Dan)
+02:38:03.115 [MissionAirdrop] An airdrop is heading towards "Zapadlisko" (pos=<8399.000000, 0.000000, 8803.000000> type=Random_Zapadlisko) with a ExpansionAirdropContainer_Military
+02:41:39.806 [AI Object Patrol 00268] Despawning 3 East bots (spawn position <7271.851074, 215.769287, 7725.524414>, 0/3 deceased)
+02:41:39.820 [AI Object Patrol 00268] Global patrol count: 0
+02:41:39.832 [AI Object Patrol 00268] HelicopterWreck category patrol count: 0
+04:00:17.779 [Party] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) joined the party "Dragon Unyielding" (id=7 ownerUID=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0= ownerName=Dan)
+04:03:51.808 [MissionAirdrop] An airdrop is heading towards "Dolnik" (pos=<11491.000000, 0.000000, 763.000000> type=Random_Dolnik) with a ExpansionAirdropContainer_Basebuilding
+04:13:26.772 [Party] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left the party "Dragon Unyielding" (id=7 ownerUID=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0= ownerName=Dan)
+05:09:40.912 [VehicleDestroyed] Boat_01_Orange (id=DBD15DAAB84B4A3F95344FB083E991ED pos=<3637.39, 169.73, 9095.25>)
+05:34:56.846 [MissionAirdrop] An airdrop is heading towards "Kolembrody" (pos=<8676.000000, 0.000000, 12114.000000> type=Random_Kolembrody) with a ExpansionAirdropContainer_Medical

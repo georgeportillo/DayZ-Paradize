@@ -1,0 +1,644 @@
+06:06:21.558 [VehicleDestroyed] Boat_01_Black (id=0B740C235D486DB8EF69F9977A3718CB pos=<3636.6, 169.39, 9095.07>)
+06:06:22.614 [VehicleDestroyed] Boat_01_Black (id=8310A4CB3E44AD01E36A3F85386EF7F9 pos=<11240.6, 169.29, 11245.1>)
+06:06:22.656 [VehicleDestroyed] Boat_01_Orange (id=5039B5BBBE4AD70E3DDB0FBA365CA9A5 pos=<7923.37, 170.14, 11882.3>)
+06:06:26.609 [VehicleDeleted] Boat_01_Black (id=2250EB13FD4116DE146FA39429788774 pos=<3636.6, 169.39, 9095.07>)
+06:06:26.619 [VehicleDeleted] Boat_01_Black (id=0C9C73BA8D4A45DD04C781BB81A95CF6 pos=<11240.6, 169.29, 11245.1>)
+06:06:26.629 [VehicleDeleted] Boat_01_Orange (id=731B9F6E584B70FF5CF03FB320336BA4 pos=<7923.37, 170.14, 11882.3>)
+08:54:52.302 [VehicleEnter] Player "Lozergod" (id=f6o5reGZK1apFSzOwnbzYEHfAXAMOXbXZqu1fYDG5tE=) entered vehicle Gyrocopter (id=F62CBCDDE9419F75EE65C396752884D1 pos=<11618.5, 265.63, 1964.27>) as pilot
+08:54:53.811 [VehicleEngine] Player "Lozergod" (id=f6o5reGZK1apFSzOwnbzYEHfAXAMOXbXZqu1fYDG5tE=) started vehicle Gyrocopter (id=F62CBCDDE9419F75EE65C396752884D1 pos=<11618.5, 265.63, 1964.27>)
+08:55:41.428 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=F62CBCDDE9419F75EE65C396752884D1 pos=<11616.8, 265.63, 1960.13>)
+08:55:41.450 [VehicleLeave] Player "Lozergod" (id=f6o5reGZK1apFSzOwnbzYEHfAXAMOXbXZqu1fYDG5tE=) left vehicle Gyrocopter (id=F62CBCDDE9419F75EE65C396752884D1 pos=<11616.8, 265.63, 1960.13>)
+08:56:10.283 [VehicleEnter] Player "Lozergod" (id=f6o5reGZK1apFSzOwnbzYEHfAXAMOXbXZqu1fYDG5tE=) entered vehicle Gyrocopter (id=F62CBCDDE9419F75EE65C396752884D1 pos=<11616.8, 265.63, 1960.33>) as pilot
+08:56:12.450 [VehicleEngine] Player "Lozergod" (id=f6o5reGZK1apFSzOwnbzYEHfAXAMOXbXZqu1fYDG5tE=) started vehicle Gyrocopter (id=F62CBCDDE9419F75EE65C396752884D1 pos=<11616.8, 265.63, 1960.35>)
+08:58:07.300 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=F62CBCDDE9419F75EE65C396752884D1 pos=<9909.44, 351.71, 3792.28>)
+08:58:07.321 [VehicleLeave] Player "Lozergod" (id=f6o5reGZK1apFSzOwnbzYEHfAXAMOXbXZqu1fYDG5tE=) left vehicle Gyrocopter (id=F62CBCDDE9419F75EE65C396752884D1 pos=<9909.44, 351.71, 3792.28>)
+09:01:14.670 [VehicleEnter] Player "Lozergod" (id=f6o5reGZK1apFSzOwnbzYEHfAXAMOXbXZqu1fYDG5tE=) entered vehicle Gyrocopter (id=F62CBCDDE9419F75EE65C396752884D1 pos=<9909.45, 351.71, 3791.84>) as pilot
+09:01:16.465 [VehicleEngine] Player "Lozergod" (id=f6o5reGZK1apFSzOwnbzYEHfAXAMOXbXZqu1fYDG5tE=) started vehicle Gyrocopter (id=F62CBCDDE9419F75EE65C396752884D1 pos=<9909.45, 351.71, 3791.82>)
+09:01:34.504 [AI Patrol 00016] Spawning 3 East bots at <7521.664551, 288.218964, 2585.661133>
+09:01:43.979 [AI Patrol 00016] Global patrol count: 1
+09:01:43.989 [AI Patrol 00016] Patrol category patrol count: 1
+09:01:44.067 [AI Patrol 00017] Spawning 1 West bots at <7360.884277, 287.023987, 2648.408691>
+09:01:44.099 [AI Patrol 00017] Global patrol count: 2
+09:01:44.109 [AI Patrol 00017] Patrol category patrol count: 2
+09:02:55.888 [AI Object Patrol 00004] Spawning 3 East bots at <8283.785156, 310.611084, 1179.049683>
+09:02:55.926 [AI Object Patrol 00004] Global patrol count: 3
+09:02:55.935 [AI Object Patrol 00004] HelicopterWreck category patrol count: 1
+09:05:53.495 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=F62CBCDDE9419F75EE65C396752884D1 pos=<5069.61, 510.46, 2104.36>)
+09:05:53.538 [VehicleLeave] Player "Lozergod" (id=f6o5reGZK1apFSzOwnbzYEHfAXAMOXbXZqu1fYDG5tE=) left vehicle Gyrocopter (id=F62CBCDDE9419F75EE65C396752884D1 pos=<5069.61, 510.46, 2104.36>)
+09:13:42.228 [AI Object Patrol 00004] Despawning 3 East bots (spawn position <8283.785156, 310.611084, 1179.049683>, 0/3 deceased)
+09:13:42.239 [AI Object Patrol 00004] Global patrol count: 2
+09:13:42.249 [AI Object Patrol 00004] HelicopterWreck category patrol count: 0
+09:17:58.151 [VehicleEnter] Player "Lozergod" (id=f6o5reGZK1apFSzOwnbzYEHfAXAMOXbXZqu1fYDG5tE=) entered vehicle Gyrocopter (id=F62CBCDDE9419F75EE65C396752884D1 pos=<5069.61, 510.45, 2103.92>) as pilot
+09:17:59.770 [VehicleEngine] Player "Lozergod" (id=f6o5reGZK1apFSzOwnbzYEHfAXAMOXbXZqu1fYDG5tE=) started vehicle Gyrocopter (id=F62CBCDDE9419F75EE65C396752884D1 pos=<5069.61, 510.45, 2103.9>)
+09:18:56.697 [AI Object Patrol 00022] Spawning 1 West bots at <6053.715332, 390.507538, 4064.471924>
+09:18:56.737 [AI Object Patrol 00022] Global patrol count: 3
+09:18:56.750 [AI Object Patrol 00022] ContaminatedArea category patrol count: 1
+09:19:22.234 [VehicleLeave] Player "Lozergod" (id=f6o5reGZK1apFSzOwnbzYEHfAXAMOXbXZqu1fYDG5tE=) left vehicle Gyrocopter (id=F62CBCDDE9419F75EE65C396752884D1 pos=<5709.7, 419.65, 3769.06>)
+09:19:44.931 [VehicleEnter] Player "Lozergod" (id=f6o5reGZK1apFSzOwnbzYEHfAXAMOXbXZqu1fYDG5tE=) entered vehicle Gyrocopter (id=F62CBCDDE9419F75EE65C396752884D1 pos=<5709.3, 419.65, 3769.1>) as pilot
+09:19:46.620 [VehicleEngine] Player "Lozergod" (id=f6o5reGZK1apFSzOwnbzYEHfAXAMOXbXZqu1fYDG5tE=) stopped vehicle Gyrocopter (id=F62CBCDDE9419F75EE65C396752884D1 pos=<5709.27, 419.65, 3769.11>)
+09:19:50.550 [VehicleLeave] Player "Lozergod" (id=f6o5reGZK1apFSzOwnbzYEHfAXAMOXbXZqu1fYDG5tE=) left vehicle Gyrocopter (id=F62CBCDDE9419F75EE65C396752884D1 pos=<5709.22, 419.65, 3769.12>)
+09:21:11.957 [AI Patrol 00017] West bots were wiped out (spawn position <7360.884277, 287.023987, 2648.408691>, 1/1 deceased)
+09:21:11.968 [AI Patrol 00017] Global patrol count: 2
+09:21:11.977 [AI Patrol 00017] Patrol category patrol count: 1
+09:29:33.944 [AI Object Patrol 00022] Despawning 1 West bots (spawn position <6053.715332, 390.507538, 4064.471924>, 0/1 deceased)
+09:29:33.954 [AI Object Patrol 00022] Global patrol count: 1
+09:29:33.964 [AI Object Patrol 00022] ContaminatedArea category patrol count: 0
+09:35:54.479 [VehicleEnter] Player "Lozergod" (id=f6o5reGZK1apFSzOwnbzYEHfAXAMOXbXZqu1fYDG5tE=) entered vehicle Gyrocopter (id=F62CBCDDE9419F75EE65C396752884D1 pos=<5708.55, 419.65, 3769.21>) as pilot
+09:35:55.935 [VehicleEngine] Player "Lozergod" (id=f6o5reGZK1apFSzOwnbzYEHfAXAMOXbXZqu1fYDG5tE=) started vehicle Gyrocopter (id=F62CBCDDE9419F75EE65C396752884D1 pos=<5708.53, 419.65, 3769.21>)
+09:36:14.225 [AI Patrol 00018] Spawning 1 Civilian bots at <6837.200195, 299.182129, 3237.830322>
+09:36:14.264 [AI Patrol 00018] Global patrol count: 2
+09:36:14.275 [AI Patrol 00018] Patrol category patrol count: 2
+09:39:55.881 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=F62CBCDDE9419F75EE65C396752884D1 pos=<11613.4, 265.87, 1954.7>)
+09:39:55.914 [VehicleLeave] Player "Lozergod" (id=f6o5reGZK1apFSzOwnbzYEHfAXAMOXbXZqu1fYDG5tE=) left vehicle Gyrocopter (id=F62CBCDDE9419F75EE65C396752884D1 pos=<11613.4, 265.87, 1954.7>)
+09:47:17.549 [AI Patrol 00018] Despawning 1 Civilian bots (spawn position <6837.200195, 299.182129, 3237.830322>, 0/1 deceased)
+09:47:17.559 [AI Patrol 00018] Global patrol count: 1
+09:47:17.569 [AI Patrol 00018] Patrol category patrol count: 1
+09:59:07.464 [SpawnSelection] Player "keskinxen" (id=q_KC5bp3uxTWbmuJ_flvdDhr8gGevV8JYgWMRbRmq-o=) spawned at <7653.620117, 239.895004, 5421.660156>
+09:59:07.488 [AI Object Patrol 00008] Spawning 2 West bots at <7566.708008, 231.555756, 6173.227539>
+09:59:07.527 [AI Object Patrol 00008] Global patrol count: 2
+09:59:07.538 [AI Object Patrol 00008] ContaminatedArea category patrol count: 1
+09:59:07.548 [AI Object Patrol 00012] Spawning 2 West bots at <7802.700684, 251.029221, 6135.958984>
+09:59:07.582 [AI Object Patrol 00012] Global patrol count: 3
+09:59:07.592 [AI Object Patrol 00012] ContaminatedArea category patrol count: 2
+10:01:28.805 [AI Patrol 00016] Despawning 2 East bots (spawn position <7521.664551, 288.218964, 2585.661133>, 1/3 deceased)
+10:01:28.815 [AI Patrol 00016] Global patrol count: 2
+10:01:28.824 [AI Patrol 00016] Patrol category patrol count: 0
+10:10:58.618 [AI Object Patrol 00012] Despawning 2 West bots (spawn position <7802.700684, 251.029221, 6135.958984>, 0/2 deceased)
+10:10:58.660 [AI Object Patrol 00012] Global patrol count: 1
+10:10:58.709 [AI Object Patrol 00012] ContaminatedArea category patrol count: 1
+10:10:58.765 [AI Object Patrol 00008] Despawning 2 West bots (spawn position <7566.708008, 231.555756, 6173.227539>, 0/2 deceased)
+10:10:58.831 [AI Object Patrol 00008] Global patrol count: 0
+10:10:58.908 [AI Object Patrol 00008] ContaminatedArea category patrol count: 0
+10:33:26.502 [AI Object Patrol 00011] Spawning 3 West bots at <7522.943359, 237.999985, 5948.711426>
+10:33:26.538 [AI Object Patrol 00011] Global patrol count: 1
+10:33:26.552 [AI Object Patrol 00011] ContaminatedArea category patrol count: 1
+10:33:26.564 [AI Object Patrol 00010] Spawning 2 West bots at <7831.628418, 246.353088, 5861.258789>
+10:33:26.606 [AI Object Patrol 00010] Global patrol count: 2
+10:33:26.619 [AI Object Patrol 00010] ContaminatedArea category patrol count: 2
+10:33:26.632 [AI Object Patrol 00046] Spawning 3 East bots at <8252.584961, 281.562836, 6006.923828>
+10:33:26.675 [AI Object Patrol 00046] Global patrol count: 3
+10:33:26.689 [AI Object Patrol 00046] HelicopterWreck category patrol count: 1
+10:33:52.517 [Chat - Global]("keskinxen"(id=q_KC5bp3uxTWbmuJ_flvdDhr8gGevV8JYgWMRbRmq-o=)): hi
+10:34:07.558 [Chat - Global]("keskinxen"(id=q_KC5bp3uxTWbmuJ_flvdDhr8gGevV8JYgWMRbRmq-o=)): are these gunfire sounds coming for you guys
+10:35:46.606 [AI Object Patrol 00037] Spawning 1 West bots at <6853.505859, 225.496338, 8591.925781>
+10:35:46.640 [AI Object Patrol 00037] Global patrol count: 4
+10:35:46.655 [AI Object Patrol 00037] HelicopterWreck category patrol count: 2
+10:35:52.857 [Chat - Global]("Dan"(id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=)): hi !
+10:35:58.649 [Chat - Global]("Snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): hello!
+10:37:13.472 [Chat - Global]("Dan"(id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=)): how is going ? weather is nice :)
+10:37:29.933 [Chat - Global]("Snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): its going well! about to make a post on reddit :D
+10:37:52.515 [Chat - Global]("Snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): be right back!
+10:38:35.507 [SpawnSelection] Player "keskinxen" (id=q_KC5bp3uxTWbmuJ_flvdDhr8gGevV8JYgWMRbRmq-o=) spawned at <9868.389648, 210.591003, 8463.000000>
+10:38:35.522 [AI Object Patrol 00041] Spawning 2 West bots at <9589.769531, 230.213882, 8937.459961>
+10:38:35.555 [AI Object Patrol 00041] Global patrol count: 5
+10:38:35.568 [AI Object Patrol 00041] HelicopterWreck category patrol count: 3
+10:41:50.150 [Chat - Global]("keskinxen"(id=q_KC5bp3uxTWbmuJ_flvdDhr8gGevV8JYgWMRbRmq-o=)): pvp isnt allowed right
+10:41:51.496 [AI Object Patrol 00037] West bots were wiped out (spawn position <6853.505859, 225.496338, 8591.925781>, 1/1 deceased)
+10:41:51.694 [AI Object Patrol 00037] Global patrol count: 4
+10:41:51.893 [AI Object Patrol 00037] HelicopterWreck category patrol count: 2
+10:42:44.369 [AI Object Patrol 00046] East bots were wiped out (spawn position <8252.584961, 281.562836, 6006.923828>, 3/3 deceased)
+10:42:44.379 [AI Object Patrol 00046] Global patrol count: 3
+10:42:44.389 [AI Object Patrol 00046] HelicopterWreck category patrol count: 1
+10:43:11.735 [Chat - Global]("Dan"(id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=)): we are 3 humans on this server we are gone kill each other
+10:43:17.593 [Chat - Global]("Dan"(id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=)): ?
+10:48:08.749 [AI Object Patrol 00010] Despawning 1 West bots (spawn position <7831.628418, 246.353088, 5861.258789>, 1/2 deceased)
+10:48:08.763 [AI Object Patrol 00010] Global patrol count: 2
+10:48:08.779 [AI Object Patrol 00010] ContaminatedArea category patrol count: 1
+10:48:12.821 [AI Object Patrol 00011] Despawning 3 West bots (spawn position <7522.943359, 237.999985, 5948.711426>, 0/3 deceased)
+10:48:12.831 [AI Object Patrol 00011] Global patrol count: 1
+10:48:12.842 [AI Object Patrol 00011] ContaminatedArea category patrol count: 0
+10:50:21.144 [Chat - Global]("Snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): hey all
+10:50:37.246 [Chat - Global]("Snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): im gonna do something weird and change the night to day (for the photo for reddit)
+10:50:48.171 [Chat - Global]("Snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): then ill turn it back to night, so dont get scared!
+10:51:01.820 [Chat - Global]("keskinxen"(id=q_KC5bp3uxTWbmuJ_flvdDhr8gGevV8JYgWMRbRmq-o=)): okayy
+10:51:15.697 [Chat - Global]("Dan"(id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=)): oky
+10:53:24.291 [Chat - Global]("Snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): ty all
+10:53:52.266 [Chat - Global]("Snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): might need to do it one more time, but for now ill keep taking other screenshots
+10:53:55.847 [Chat - Global]("Snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): this will be a good post
+10:54:23.966 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:54:23.976 [BaseBuildingRaiding] Player "Snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8346.46, 322.64, 1637.72>) damaged ExpansionWall6x3 at <8344.74, 322.45, 1650.42>
+10:54:23.986 [BaseBuildingRaiding] They dealt 57.5367 * 1 = 57.5367 damage with Bullet_762x54 from SkyFall_AK704
+10:54:23.997 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29942.5
+10:54:24.007 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:58:11.944 [Chat - Global]("Lozergod"(id=f6o5reGZK1apFSzOwnbzYEHfAXAMOXbXZqu1fYDG5tE=)): sup fellas
+10:58:29.389 [Chat - Global]("Snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): gonna fast forward the night to dusk for a photo.. sorry to break immersion guys, il 
+10:58:42.740 [Chat - Global]("Snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): ill post the reddit link on discord so you guys can see it
+10:58:49.106 [Chat - Global]("Lozergod"(id=f6o5reGZK1apFSzOwnbzYEHfAXAMOXbXZqu1fYDG5tE=)): go for it
+10:59:16.567 [Chat - Global]("Lozergod"(id=f6o5reGZK1apFSzOwnbzYEHfAXAMOXbXZqu1fYDG5tE=)): and then there was light!
+10:59:52.679 [AI Object Patrol 00046] Despawning 0 East bots (spawn position <8241.937500, 282.136963, 6014.261719>, 3/3 deceased)
+10:59:54.673 [Chat - Global]("keskinxen"(id=q_KC5bp3uxTWbmuJ_flvdDhr8gGevV8JYgWMRbRmq-o=)): is there anyone in borek
+11:00:08.863 [Chat - Global]("Lozergod"(id=f6o5reGZK1apFSzOwnbzYEHfAXAMOXbXZqu1fYDG5tE=)): not me
+11:00:43.681 [Chat - Global]("keskinxen"(id=q_KC5bp3uxTWbmuJ_flvdDhr8gGevV8JYgWMRbRmq-o=)): there is helicrash but i dont have enough equio
+11:00:51.958 [Chat - Global]("Snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): be careful
+11:01:00.523 [Chat - Global]("Snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): AIs got good loot now though, and ammo
+11:01:07.282 [AI Object Patrol 00051] Spawning 2 West bots at <5982.938965, 221.568237, 8155.616211>
+11:01:07.317 [AI Object Patrol 00051] Global patrol count: 2
+11:01:07.327 [AI Object Patrol 00051] ContaminatedArea category patrol count: 1
+11:01:22.913 [Chat - Global]("Lozergod"(id=f6o5reGZK1apFSzOwnbzYEHfAXAMOXbXZqu1fYDG5tE=)): that AI don't play either
+11:01:44.050 [AI Object Patrol 00041] Despawning 2 West bots (spawn position <9589.769531, 230.213882, 8937.459961>, 0/2 deceased)
+11:01:44.060 [AI Object Patrol 00041] Global patrol count: 1
+11:01:44.069 [AI Object Patrol 00041] HelicopterWreck category patrol count: 0
+11:01:57.881 [SpawnSelection] Player "keskinxen" (id=q_KC5bp3uxTWbmuJ_flvdDhr8gGevV8JYgWMRbRmq-o=) spawned at <9812.469727, 208.270996, 8597.160156>
+11:05:01.742 [Chat - Global]("keskinxen"(id=q_KC5bp3uxTWbmuJ_flvdDhr8gGevV8JYgWMRbRmq-o=)): are there freeroam AI's
+11:05:14.157 [Chat - Global]("Snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): sparcely but yes
+11:29:00.079 [AI Object Patrol 00050] Spawning 2 West bots at <9527.714844, 243.993820, 6358.359863>
+11:29:00.141 [AI Object Patrol 00050] Global patrol count: 2
+11:29:00.151 [AI Object Patrol 00050] HelicopterWreck category patrol count: 1
+11:37:39.705 [AI Object Patrol 00051] Despawning 2 West bots (spawn position <5982.938965, 221.568237, 8155.616211>, 0/2 deceased)
+11:37:39.715 [AI Object Patrol 00051] Global patrol count: 1
+11:37:39.725 [AI Object Patrol 00051] ContaminatedArea category patrol count: 0
+11:41:50.439 [AI Object Patrol 00037] Despawning West patrol (spawn position <6833.382813, 222.740479, 8609.992188>)
+11:48:28.603 [AI Object Patrol 00009] Spawning 2 West bots at <7289.996094, 226.733963, 6366.341309>
+11:48:28.634 [AI Object Patrol 00009] Global patrol count: 2
+11:48:28.644 [AI Object Patrol 00009] ContaminatedArea category patrol count: 1
+11:50:35.443 [AI Object Patrol 00059] Spawning 2 West bots at <8361.890625, 276.107880, 5485.571289>
+11:50:35.466 [AI Object Patrol 00059] Global patrol count: 3
+11:50:35.477 [AI Object Patrol 00059] HelicopterWreck category patrol count: 2
+12:00:18.126 [AI Object Patrol 00061] Spawning 1 East bots at <7123.998047, 306.366364, 5106.920410>
+12:00:18.294 [AI Object Patrol 00061] Global patrol count: 4
+12:00:18.465 [AI Object Patrol 00061] HelicopterWreck category patrol count: 3
+12:04:56.503 [AI Object Patrol 00009] Despawning 2 West bots (spawn position <7289.996094, 226.733963, 6366.341309>, 0/2 deceased)
+12:04:56.516 [AI Object Patrol 00009] Global patrol count: 3
+12:04:56.527 [AI Object Patrol 00009] ContaminatedArea category patrol count: 0
+12:05:08.843 [AI Object Patrol 00059] Despawning 2 West bots (spawn position <8361.890625, 276.107880, 5485.571289>, 0/2 deceased)
+12:05:08.853 [AI Object Patrol 00059] Global patrol count: 2
+12:05:08.863 [AI Object Patrol 00059] HelicopterWreck category patrol count: 2
+12:14:38.872 [AI Object Patrol 00061] Despawning 1 East bots (spawn position <7123.998047, 306.366364, 5106.920410>, 0/1 deceased)
+12:14:38.882 [AI Object Patrol 00061] Global patrol count: 1
+12:14:38.892 [AI Object Patrol 00061] HelicopterWreck category patrol count: 1
+12:20:48.244 [AI Object Patrol 00071] Spawning 2 West bots at <8826.918945, 462.008057, 2059.113770>
+12:20:48.282 [AI Object Patrol 00071] Global patrol count: 2
+12:20:48.300 [AI Object Patrol 00071] ContaminatedArea category patrol count: 1
+12:32:09.517 [AI Object Patrol 00050] Despawning 2 West bots (spawn position <9527.714844, 243.993820, 6358.359863>, 0/2 deceased)
+12:32:09.627 [AI Object Patrol 00050] Global patrol count: 1
+12:32:09.750 [AI Object Patrol 00050] HelicopterWreck category patrol count: 0
+12:42:46.496 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+12:42:46.506 [BaseBuildingRaiding] Player "keskinxen" (id=q_KC5bp3uxTWbmuJ_flvdDhr8gGevV8JYgWMRbRmq-o= pos=<8343.61, 324.22, 1642.22>) damaged ExpansionWall6x3 at <8342.42, 325.45, 1643.4>
+12:42:46.516 [BaseBuildingRaiding] They dealt 24.045 * 1 = 24.045 damage with Bullet_12GaugePellets from AA12_Gun
+12:42:46.526 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29976
+12:42:46.537 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+12:42:46.547 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+12:42:46.557 [BaseBuildingRaiding] Player "keskinxen" (id=q_KC5bp3uxTWbmuJ_flvdDhr8gGevV8JYgWMRbRmq-o= pos=<8343.61, 324.22, 1642.22>) damaged ExpansionWall6x3 at <8342.42, 325.45, 1643.4>
+12:42:46.567 [BaseBuildingRaiding] They dealt 24.0584 * 1 = 24.0584 damage with Bullet_12GaugePellets from AA12_Gun
+12:42:46.577 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29976 to 29951.9
+12:42:46.586 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+12:42:46.596 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+12:42:46.606 [BaseBuildingRaiding] Player "keskinxen" (id=q_KC5bp3uxTWbmuJ_flvdDhr8gGevV8JYgWMRbRmq-o= pos=<8343.61, 324.22, 1642.22>) damaged ExpansionWall6x3 at <8342.42, 325.45, 1643.4>
+12:42:46.616 [BaseBuildingRaiding] They dealt 24.0457 * 1 = 24.0457 damage with Bullet_12GaugePellets from AA12_Gun
+12:42:46.626 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29951.9 to 29927.9
+12:42:46.636 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+12:42:46.646 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+12:42:46.655 [BaseBuildingRaiding] Player "keskinxen" (id=q_KC5bp3uxTWbmuJ_flvdDhr8gGevV8JYgWMRbRmq-o= pos=<8343.61, 324.22, 1642.22>) damaged ExpansionWall6x3 at <8342.42, 325.45, 1643.4>
+12:42:46.665 [BaseBuildingRaiding] They dealt 24.0571 * 1 = 24.0571 damage with Bullet_12GaugePellets from AA12_Gun
+12:42:46.675 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29927.9 to 29903.8
+12:42:46.685 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+12:42:46.695 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+12:42:46.705 [BaseBuildingRaiding] Player "keskinxen" (id=q_KC5bp3uxTWbmuJ_flvdDhr8gGevV8JYgWMRbRmq-o= pos=<8343.61, 324.22, 1642.22>) damaged ExpansionWall6x3 at <8342.42, 325.45, 1643.4>
+12:42:46.714 [BaseBuildingRaiding] They dealt 24.0429 * 1 = 24.0429 damage with Bullet_12GaugePellets from AA12_Gun
+12:42:46.724 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29903.8 to 29879.8
+12:42:46.734 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+12:42:46.744 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+12:42:46.754 [BaseBuildingRaiding] Player "keskinxen" (id=q_KC5bp3uxTWbmuJ_flvdDhr8gGevV8JYgWMRbRmq-o= pos=<8343.61, 324.22, 1642.22>) damaged ExpansionWall6x3 at <8342.42, 325.45, 1643.4>
+12:42:46.764 [BaseBuildingRaiding] They dealt 24.0434 * 1 = 24.0434 damage with Bullet_12GaugePellets from AA12_Gun
+12:42:46.774 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29879.8 to 29855.7
+12:42:46.784 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+12:42:46.794 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+12:42:46.804 [BaseBuildingRaiding] Player "keskinxen" (id=q_KC5bp3uxTWbmuJ_flvdDhr8gGevV8JYgWMRbRmq-o= pos=<8343.61, 324.22, 1642.22>) damaged ExpansionWall6x3 at <8342.42, 325.45, 1643.4>
+12:42:46.814 [BaseBuildingRaiding] They dealt 24.043 * 1 = 24.043 damage with Bullet_12GaugePellets from AA12_Gun
+12:42:46.823 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29855.7 to 29831.7
+12:42:46.833 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+12:42:46.843 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+12:42:46.852 [BaseBuildingRaiding] Player "keskinxen" (id=q_KC5bp3uxTWbmuJ_flvdDhr8gGevV8JYgWMRbRmq-o= pos=<8343.61, 324.22, 1642.22>) damaged ExpansionWall6x3 at <8342.42, 325.45, 1643.4>
+12:42:46.861 [BaseBuildingRaiding] They dealt 24.0455 * 1 = 24.0455 damage with Bullet_12GaugePellets from AA12_Gun
+12:42:46.871 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29831.7 to 29807.6
+12:42:46.881 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+12:47:56.613 [AI Object Patrol 00075] Spawning 3 West bots at <7377.446777, 290.747864, 2891.814697>
+12:47:56.650 [AI Object Patrol 00075] Global patrol count: 2
+12:47:56.659 [AI Object Patrol 00075] ContaminatedArea category patrol count: 2
+12:57:16.855 [AI Object Patrol 00071] Despawning 2 West bots (spawn position <8826.918945, 462.008057, 2059.113770>, 0/2 deceased)
+12:57:16.866 [AI Object Patrol 00071] Global patrol count: 1
+12:57:16.877 [AI Object Patrol 00071] ContaminatedArea category patrol count: 1
+13:06:08.246 [AI Object Patrol 00075] Despawning 3 West bots (spawn position <7377.446777, 290.747864, 2891.814697>, 0/3 deceased)
+13:06:08.258 [AI Object Patrol 00075] Global patrol count: 0
+13:06:08.270 [AI Object Patrol 00075] ContaminatedArea category patrol count: 0
+15:28:38.756 [VehicleDestroyed] OffroadHatchback_GreenRust (id=FF0B6CBB2F40E72494AB42AF3F2D67E2 pos=<3345.83, 487.01, 2020.08>)
+15:34:44.103 [VehicleDeleted] OffroadHatchback_GreenRust (id=FF0B6CBB2F40E72494AB42AF3F2D67E2 pos=<3345.83, 487.01, 2020.08>)
+15:38:22.190 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): come across any ai yet?
+15:38:37.261 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Funny you should say that
+15:38:59.242 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): lmao
+15:54:11.436 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Are the bots supposed to still be using vanilla guns?
+15:59:00.178 [AI Object Patrol 00126] Spawning 3 West bots at <11149.220703, 248.816086, 6255.710449>
+15:59:00.204 [AI Object Patrol 00126] Global patrol count: 1
+15:59:00.215 [AI Object Patrol 00126] HelicopterWreck category patrol count: 1
+15:59:00.225 [AI Object Patrol 00130] Spawning 2 West bots at <9949.039063, 231.080505, 5463.623535>
+15:59:00.254 [AI Object Patrol 00130] Global patrol count: 2
+15:59:00.266 [AI Object Patrol 00130] HelicopterWreck category patrol count: 2
+15:59:34.582 [VehicleEnter] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) entered vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<10338.4, 223.98, 5901.73>) as pilot
+15:59:35.882 [VehicleEngine] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) started vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<10338.4, 223.98, 5901.73>)
+16:00:28.821 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<10558.6, 242.6, 6633.01>)
+16:00:28.854 [VehicleLeave] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) left vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<10558.6, 242.6, 6633.01>)
+16:04:48.740 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): Yo these AI are some tanky fuckers now. Three shots of .308 doesn't kill lol
+16:04:59.630 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Modded Rigs go brrrrrrr
+16:05:30.107 [VehicleEnter] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) entered vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<10558.6, 242.6, 6632.99>) as pilot
+16:06:08.570 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): I told Snake to give them more ammo yesterday and he was messing with them. They got more hp, or maybe armor. I got to get close
+16:06:10.966 [VehicleEngine] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) started vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<10558.6, 242.6, 6632.99>)
+16:06:57.519 [VehicleLeave] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) left vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<11094, 236.63, 6401.06>)
+16:06:59.866 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): some are tanky yes, i can fimetune
+16:07:15.247 [VehicleEnter] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) entered vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<11094, 236.63, 6401.16>) as pilot
+16:07:16.006 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): noted fsedback
+16:07:18.293 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<11094, 236.62, 6401.18>)
+16:07:18.305 [VehicleLeave] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) left vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<11094, 236.62, 6401.18>)
+16:07:32.254 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+16:07:32.283 [BaseBuildingRaiding] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8344.57, 331.7, 1631.61>) damaged ExpansionWall6x3 at <8345.55, 331.45, 1633.46>
+16:07:32.315 [BaseBuildingRaiding] They dealt 160 * 1 = 160 damage with Bullet_762x54 from SkyFall_AK704
+16:07:32.351 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29840
+16:07:32.392 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+16:07:33.483 [AI Object Patrol 00126] West bots were wiped out (spawn position <11149.220703, 248.816086, 6255.710449>, 3/3 deceased)
+16:07:33.518 [AI Object Patrol 00126] Global patrol count: 1
+16:07:33.572 [AI Object Patrol 00126] HelicopterWreck category patrol count: 1
+16:07:33.649 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+16:07:33.717 [BaseBuildingRaiding] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8344.57, 331.7, 1631.61>) damaged ExpansionWall6x3 at <8345.55, 331.45, 1633.46>
+16:07:33.805 [BaseBuildingRaiding] They dealt 160 * 1 = 160 damage with Bullet_762x54 from SkyFall_AK704
+16:07:33.902 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29840 to 29680
+16:07:33.999 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+16:07:57.100 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): this one has an AWM nice!
+16:08:38.871 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): All the ones at Polana that I've been able to get on to loot have had vanilla guns
+16:08:59.741 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): Two of these have M4s and 1 AWM
+16:09:13.986 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): They have the Forward Operator gear on. That's dope
+16:09:21.996 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): i did all gear but no weaponsnyet, all are vanilla 4 now
+16:09:31.252 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Probably picked one up then
+16:09:39.338 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): yeah true
+16:09:57.003 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): 2 have M4-A1s and 1 has an M16
+16:10:11.131 [AI Object Patrol 00130] Despawning 2 West bots (spawn position <9949.039063, 231.080505, 5463.623535>, 0/2 deceased)
+16:10:11.329 [AI Object Patrol 00130] Global patrol count: 0
+16:10:11.358 [AI Object Patrol 00130] HelicopterWreck category patrol count: 0
+16:10:18.052 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): Some have random ammo in their bags that's boxed
+16:10:25.744 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): I'm at a heli crash
+16:12:36.882 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): That is really cool
+16:12:38.522 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): nice
+16:12:49.574 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): new heli model?
+16:12:58.679 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): ?
+16:13:07.418 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): Na, just the AI with new stuff on
+16:13:10.978 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): there are 2 heli types now
+16:13:20.173 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): Nice!
+16:13:25.148 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Besides the MI8 and Huey?
+16:14:06.400 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): It is weird that I've only found MI8s so far even though we're in Poland
+16:14:31.122 [VehicleEnter] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) entered vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<11094, 236.61, 6401.34>) as pilot
+16:14:32.747 [VehicleEngine] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) started vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<11094, 236.61, 6401.35>)
+16:14:54.813 [AI Object Patrol 00137] Spawning 1 West bots at <8283.244141, 311.771027, 1172.866089>
+16:14:54.853 [AI Object Patrol 00137] Global patrol count: 1
+16:14:54.863 [AI Object Patrol 00137] HelicopterWreck category patrol count: 1
+16:15:11.187 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): Snake you talking heli crash or flyable heli?
+16:15:24.220 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): crash
+16:15:30.342 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): roger
+16:15:53.237 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): What is it?
+16:16:17.799 [AI Object Patrol 00126] Despawning 0 West bots (spawn position <11150.213867, 249.012283, 6242.656250>, 3/3 deceased)
+16:16:18.676 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): huey and russian heli models are the 2 types
+16:16:24.710 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<11731.8, 296.45, 5365.56>)
+16:16:24.733 [VehicleLeave] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) left vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<11731.8, 296.45, 5365.56>)
+16:16:30.574 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): Yea, its been like that
+16:16:51.380 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): I made my base where there are a ton of them
+16:16:59.655 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Quite a long time, but it also used to be that Hueys were the only ones that had smoke attached to them
+16:17:13.697 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Took them hilariously long to finally fix that
+16:18:27.288 [VehicleEnter] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) entered vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<11731.8, 296.45, 5365.56>) as pilot
+16:18:50.242 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): Makes sense those AI took multiple shots Snake. They were wearing plates
+16:18:52.786 [VehicleEngine] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) started vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<11731.8, 296.46, 5365.54>)
+16:19:09.265 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Always cool to learn something new in a game like DayZ, I was past 1000 hours before finding out you could use the Reload button to pack mags quicker/easier.
+16:19:21.393 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): lol nice
+16:19:40.584 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): what you have the ammo on your bar?
+16:20:09.331 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): No, you just hold Reload and it pulls from inventory just like when you're reloading a gun
+16:20:36.445 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): This was a much bigger revelation for me since I was on Xbox with its shittier inventory system
+16:20:42.983 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<9898.68, 350.87, 3853.58>)
+16:20:43.015 [VehicleLeave] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) left vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<9898.68, 350.87, 3853.58>)
+16:20:46.711 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): Gotcha
+16:21:06.978 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): But yeah, just Mag in hand and bullets in pocket
+16:21:14.712 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Simple as
+16:24:40.512 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): I've always played on PC. Steam says I have 5000ish hours, but that doesn't count when I started with the Arma Dayz mod right when it came out
+16:25:18.144 [VehicleEnter] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) entered vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<9898.68, 350.87, 3853.14>) as pilot
+16:25:19.782 [VehicleEngine] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) started vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<9898.68, 350.87, 3853.12>)
+16:26:46.069 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): we ahpuld do the bunker
+16:27:17.377 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): Someone crashed a Little bird over here
+16:27:21.392 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): i also recommwnd it solo, very fun
+16:27:22.523 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): It's ok fire
+16:27:33.931 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): It's on rather
+16:28:44.422 [AI Object Patrol 00137] Despawning 1 West bots (spawn position <8283.244141, 311.771027, 1172.866089>, 0/1 deceased)
+16:28:44.591 [AI Object Patrol 00137] Global patrol count: 0
+16:28:44.692 [AI Object Patrol 00137] HelicopterWreck category patrol count: 0
+16:29:17.260 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<10335.7, 224.13, 5904.39>)
+16:29:17.273 [VehicleLeave] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) left vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<10335.7, 224.13, 5904.39>)
+16:30:05.315 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): I'm def down for a bunker fun with you sometime Snake. I got to pop off for now. See you later
+16:31:55.091 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): saturday pvps lmao
+16:32:01.265 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): I'll come too if I'm on, I'm relatively near the bunker still anyway
+16:32:04.309 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): What?
+16:40:24.352 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): hello
+16:40:38.324 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): no more people count on top corner?
+16:42:57.830 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): it bugs out sometimes
+16:43:10.481 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): ah i see it now
+17:04:59.257 [AI Object Patrol 00152] Spawning 3 East bots at <7764.228516, 345.987946, 983.428772>
+17:04:59.288 [AI Object Patrol 00152] Global patrol count: 1
+17:04:59.299 [AI Object Patrol 00152] HelicopterWreck category patrol count: 1
+17:13:29.094 [VehicleEnter] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) entered vehicle Gyrocopter (id=D06F3B83D741C27B44C1EA87103929B5 pos=<7386.1, 297.64, 2578>) as pilot
+17:13:31.543 [VehicleEngine] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) started vehicle Gyrocopter (id=D06F3B83D741C27B44C1EA87103929B5 pos=<7386.1, 297.64, 2577.96>)
+17:15:18.516 [VehicleEngine] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) stopped vehicle Gyrocopter (id=D06F3B83D741C27B44C1EA87103929B5 pos=<7351.1, 282.86, 2643.53>)
+17:15:18.526 [VehicleDestroyed] ExpansionGyrocopter (id=D06F3B83D741C27B44C1EA87103929B5 pos=<7351.1, 282.86, 2643.53>)
+17:15:22.376 [VehicleLeave] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) left vehicle Gyrocopter (id=D06F3B83D741C27B44C1EA87103929B5 pos=<7351.14, 282.89, 2643.52>)
+17:21:46.767 [SpawnSelection] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) spawned at <7341.450195, 318.128998, 2470.919922>
+17:23:48.287 [SpawnSelection] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) spawned at <7331.399902, 287.065002, 2576.830078>
+17:23:53.591 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): loool
+17:25:28.679 [AI Object Patrol 00152] Despawning 3 East bots (spawn position <7764.228516, 345.987946, 983.428772>, 0/3 deceased)
+17:25:28.694 [AI Object Patrol 00152] Global patrol count: 0
+17:25:28.706 [AI Object Patrol 00152] HelicopterWreck category patrol count: 0
+17:25:30.686 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): There ai unarmed
+17:28:16.908 [SpawnSelection] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) spawned at <7331.399902, 287.065002, 2576.830078>
+17:29:23.366 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): that was me!11
+17:29:28.655 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): lolol
+17:29:30.532 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): what omg
+17:29:56.059 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): l,ao haaha
+17:39:48.489 [VehicleDeleted] ExpansionGyrocopter (id=D06F3B83D741C27B44C1EA87103929B5 pos=<7351.16, 282.89, 2643.51>)
+17:40:57.839 [AI Object Patrol 00157] Spawning 3 West bots at <7417.523438, 291.773193, 2645.088135>
+17:40:57.869 [AI Object Patrol 00157] Global patrol count: 1
+17:40:57.879 [AI Object Patrol 00157] ContaminatedArea category patrol count: 1
+17:42:40.641 [SpawnSelection] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) spawned at <8348.839844, 337.773407, 1636.495483>
+17:52:24.967 [AI Object Patrol 00157] Despawning 3 West bots (spawn position <7417.523438, 291.773193, 2645.088135>, 0/3 deceased)
+17:52:24.977 [AI Object Patrol 00157] Global patrol count: 0
+17:52:24.987 [AI Object Patrol 00157] ContaminatedArea category patrol count: 0
+18:13:37.301 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): did you manage to get your car back?
+18:13:48.350 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): yeah, i got it
+18:13:55.161 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): nice
+18:49:36.431 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): snake if you want we can do bunker together
+18:49:54.645 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): oh sure man
+18:50:06.327 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): lemme grab my gun and fly
+18:50:09.440 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): i gotta find a punch card first
+18:50:25.195 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): i have one
+18:50:29.911 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): i have
+18:50:36.341 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): nice!
+18:52:55.381 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): going
+18:53:31.924 [VehicleEnter] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8343.48, 334.76, 1641.77>) as pilot
+18:53:33.391 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8343.48, 334.76, 1641.77>)
+18:54:49.006 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): okay im here
+19:01:28.522 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<782.89, 533.21, 1233.9>)
+19:01:28.545 [VehicleLeave] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<782.89, 533.21, 1233.9>)
+19:16:04.205 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): 2nd lvl is medical area, watch out for boss (glowing)
+19:16:40.885 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): got him
+19:19:25.174 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): back to tunnel
+19:19:29.890 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): i see the broken ladder
+19:19:42.396 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): ull see the passage, lmk when to up the level
+19:19:49.727 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): ok
+19:20:04.523 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): be vareful not to drpwn, rise with the lvl and grab it
+19:20:22.478 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): lmk when rdy
+19:20:23.300 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): okay
+19:20:27.854 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): rising
+19:20:46.961 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): itll rise mid, ill raise the other half
+19:21:38.627 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): almost to mid
+19:21:48.834 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): kk lmk when to risem
+19:22:25.501 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): should i go to the mid tunnel?
+19:22:31.646 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): yes
+19:22:31.773 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): theres another ladder
+19:23:00.434 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): yes, then when in water, ill rise, so you rise and grab ladder
+19:23:51.560 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): okay ready
+19:24:04.322 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): rising
+19:24:18.305 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): yes going up
+19:24:34.044 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): okay got on the ladder
+19:24:42.285 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): great
+19:25:24.782 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): lvl 3
+19:26:06.936 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): theres nvgs there
+19:26:41.039 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): can unfit lne 4 me
+19:26:55.022 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): i lost mine a while ago
+19:26:59.292 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): ofc
+19:27:13.955 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): do you need helmet too?
+19:27:20.561 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): yes
+19:28:32.299 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): done now what
+19:30:29.237 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): do i go back same way?
+19:30:39.389 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): yeah
+19:30:54.066 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): ill lower again
+19:31:02.958 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): okay 
+19:31:34.576 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): im mid tunnel
+19:31:44.829 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): go all down
+19:45:53.452 [VehicleEnter] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<782.9, 533.2, 1233.9>) as pilot
+19:45:55.203 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<782.9, 533.2, 1233.9>)
+19:46:40.253 [AI Object Patrol 00191] Spawning 1 West bots at <1900.644287, 445.467377, 2388.223389>
+19:46:40.285 [AI Object Patrol 00191] Global patrol count: 1
+19:46:40.295 [AI Object Patrol 00191] HelicopterWreck category patrol count: 1
+19:47:02.720 [VehicleDeleted] CivilianSedan_Wine (id=91048FBB674F142A4942D2BB2987A76C pos=<1302.18, 477.57, 1700.58>)
+19:47:30.816 [VehicleDeleted] Hatchback_02_Black (id=D74B2EF1E84E65F13EACA2A96B11AB85 pos=<1606.52, 444.14, 1906.78>)
+19:48:33.391 [AI Object Patrol 00189] Spawning 1 West bots at <5151.770996, 500.730316, 2155.022217>
+19:48:33.434 [AI Object Patrol 00189] Global patrol count: 2
+19:48:33.444 [AI Object Patrol 00189] ContaminatedArea category patrol count: 1
+19:50:35.331 [AI Object Patrol 00194] Spawning 1 West bots at <7771.739258, 348.013763, 1013.118835>
+19:50:35.372 [AI Object Patrol 00194] Global patrol count: 3
+19:50:35.393 [AI Object Patrol 00194] HelicopterWreck category patrol count: 2
+19:51:53.439 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8338.89, 334.75, 1641.38>)
+19:51:53.462 [VehicleLeave] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8338.89, 334.75, 1641.38>)
+19:57:44.620 [AI Object Patrol 00191] Despawning 1 West bots (spawn position <1900.644287, 445.467377, 2388.223389>, 0/1 deceased)
+19:57:44.831 [AI Object Patrol 00191] Global patrol count: 2
+19:57:45.036 [AI Object Patrol 00191] HelicopterWreck category patrol count: 1
+19:58:14.892 [AI Object Patrol 00189] Despawning 1 West bots (spawn position <5151.770996, 500.730316, 2155.022217>, 0/1 deceased)
+19:58:15.072 [AI Object Patrol 00189] Global patrol count: 1
+19:58:15.085 [AI Object Patrol 00189] ContaminatedArea category patrol count: 0
+20:02:36.908 [AI Object Patrol 00194] Despawning 1 West bots (spawn position <7771.739258, 348.013763, 1013.118835>, 0/1 deceased)
+20:02:37.049 [AI Object Patrol 00194] Global patrol count: 0
+20:02:37.209 [AI Object Patrol 00194] HelicopterWreck category patrol count: 0
+21:30:19.949 [VehicleEnter] Player "Survivor" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) entered vehicle Rubber Boat (id=0BD65C43EE4F8713829D8EBE10012621 pos=<2552.23, 169.81, 8132.05>) as driver
+21:30:36.304 [VehicleLeave] Player "Survivor" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) left vehicle Rubber Boat (id=0BD65C43EE4F8713829D8EBE10012621 pos=<2551.96, 169.86, 8131.97>)
+22:41:41.288 [Chat - Global]("Survivor"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): hello!
+22:43:10.655 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Hey
+22:43:25.135 [Chat - Global]("Survivor"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): whats up?
+22:43:59.370 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): I was about to get back off because of the rain but then it stopped
+22:44:33.540 [Chat - Global]("Survivor"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): ahh lol
+22:44:45.175 [Chat - Global]("Survivor"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): im in topolin was fighting the AI but theres too many so im backing off
+22:45:13.678 [VehicleEnter] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) entered vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<2934.1, 452.66, 1086.59>) as driver
+22:45:18.398 [VehicleEngine] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) started vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<2934.09, 452.66, 1086.59>)
+22:45:54.221 [AI Object Patrol 00223] Spawning 3 West bots at <3423.735352, 478.620697, 2127.461670>
+22:45:54.257 [AI Object Patrol 00223] Global patrol count: 1
+22:45:54.268 [AI Object Patrol 00223] ContaminatedArea category patrol count: 1
+22:55:59.204 [AI Object Patrol 00229] Spawning 3 East bots at <5903.461914, 406.552704, 3595.899658>
+22:55:59.238 [AI Object Patrol 00229] Global patrol count: 2
+22:55:59.248 [AI Object Patrol 00229] HelicopterWreck category patrol count: 1
+22:57:05.408 [VehicleEngine] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) stopped vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<5306.87, 416.49, 3786.83>)
+22:57:12.518 [VehicleLeave] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) left vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<5307.01, 416.48, 3786.93>)
+22:58:18.127 [AI Object Patrol 00228] Spawning 3 West bots at <3975.823975, 313.045776, 6862.199707>
+22:58:18.158 [AI Object Patrol 00228] Global patrol count: 3
+22:58:18.169 [AI Object Patrol 00228] HelicopterWreck category patrol count: 2
+23:02:25.554 [AI Object Patrol 00223] Despawning 3 West bots (spawn position <3423.735352, 478.620697, 2127.461670>, 0/3 deceased)
+23:02:25.564 [AI Object Patrol 00223] Global patrol count: 2
+23:02:25.575 [AI Object Patrol 00223] ContaminatedArea category patrol count: 0
+23:10:30.519 [AI Object Patrol 00229] East bots were wiped out (spawn position <5903.461914, 406.552704, 3595.899658>, 3/3 deceased)
+23:10:30.529 [AI Object Patrol 00229] Global patrol count: 1
+23:10:30.539 [AI Object Patrol 00229] HelicopterWreck category patrol count: 1
+23:30:37.865 [AI Object Patrol 00228] Despawning 3 West bots (spawn position <3975.823975, 313.045776, 6862.199707>, 0/3 deceased)
+23:30:37.875 [AI Object Patrol 00228] Global patrol count: 0
+23:30:37.885 [AI Object Patrol 00228] HelicopterWreck category patrol count: 0
+23:45:03.628 [AI Object Patrol 00229] Despawning 0 East bots (spawn position <5889.892578, 407.121246, 3575.458740>, 3/3 deceased)
+00:17:48.864 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): yoo
+00:18:01.604 [Chat - Global]("Survivor"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): hello!
+00:18:29.189 [AI Object Patrol 00250] Spawning 2 West bots at <6839.874023, 223.720230, 8602.048828>
+00:18:29.217 [AI Object Patrol 00250] Global patrol count: 1
+00:18:29.228 [AI Object Patrol 00250] HelicopterWreck category patrol count: 1
+00:19:32.575 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): hows it going, are you the one looking for 308?
+00:19:42.051 [Chat - Global]("Survivor"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): the 338? yeah :)\
+00:20:15.704 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): 338 the large bullet right, visually
+00:20:31.597 [Chat - Global]("Survivor"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): yeah
+00:21:12.914 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): i got li,e 30can give you like 30!
+00:21:23.115 [Chat - Global]("Survivor"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): whoa thatd be sick
+00:22:08.121 [Chat - Global]("Survivor"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): does using damaged mags affect the gun at all or nah?
+00:22:34.389 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): it does jam it, then maintain reload btn pressed until completed unjamming
+00:25:26.625 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): i can bring it if youd like, just lmk where
+00:28:31.364 [AI Object Patrol 00250] Despawning 2 West bots (spawn position <6839.874023, 223.720230, 8602.048828>, 0/2 deceased)
+00:28:31.375 [AI Object Patrol 00250] Global patrol count: 0
+00:28:31.385 [AI Object Patrol 00250] HelicopterWreck category patrol count: 0
+00:28:34.826 [Chat - Global]("Survivor"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): my bad i didnt see your message
+00:28:41.235 [Chat - Global]("Survivor"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): im right by kona castle again
+00:28:47.351 [Chat - Global]("Survivor"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): what do you want for it?
+00:29:02.705 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): mmm gogot any food?
+00:29:12.170 [Chat - Global]("Survivor"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): yeah i got a few cans of food
+00:29:25.736 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): ill take 2 or so
+00:29:34.962 [Chat - Global]("Survivor"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): perfect, sounds good
+00:30:10.215 [AI Object Patrol 00252] Spawning 2 West bots at <6005.490723, 218.274307, 8107.711914>
+00:30:10.247 [AI Object Patrol 00252] Global patrol count: 1
+00:30:10.257 [AI Object Patrol 00252] ContaminatedArea category patrol count: 1
+00:31:06.723 [Chat - Global]("Survivor"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): im at the road just infront of kona, by the fence
+00:31:25.651 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): kk ill head over in a few, ima finish putting sm stuff away
+00:33:18.258 [Chat - Global]("Survivor"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): would you be interested in a TAR 21 at all?
+00:33:22.314 [Chat - Global]("Survivor"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): i found one but has no mag
+00:33:42.229 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): wht color is it?
+00:33:47.715 [Chat - Global]("Survivor"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): green
+00:34:00.748 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): yea man ill take it
+00:34:07.712 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): i got tan
+00:34:41.658 [Chat - Global]("Survivor"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): ok sounds good
+00:38:22.483 [VehicleEnter] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8338.89, 334.75, 1641.68>) as pilot
+00:38:24.662 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8338.88, 334.75, 1641.71>)
+00:39:04.858 [AI Object Patrol 00254] Spawning 2 East bots at <6989.429199, 257.433228, 6215.508301>
+00:39:04.883 [AI Object Patrol 00254] Global patrol count: 2
+00:39:04.892 [AI Object Patrol 00254] HelicopterWreck category patrol count: 1
+00:42:17.621 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<5522.21, 311.37, 8698.13>)
+00:42:17.644 [VehicleLeave] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<5522.21, 311.37, 8698.13>)
+00:42:25.385 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): lots of zombies
+00:42:29.952 [Chat - Global]("Survivor"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): yea lmao
+00:42:33.012 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): forgot ammo
+00:42:55.054 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): gomon the truck
+00:43:12.510 [Chat - Global]("Survivor"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): holy shit lol
+00:43:12.658 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): damn lmao
+00:44:01.451 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): damn lol
+00:44:11.267 [VehicleEnter] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<5521.37, 311.27, 8698.13>) as pilot
+00:44:12.209 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<5521.35, 311.27, 8698.13>)
+00:44:27.422 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<5505.75, 307.35, 8703.95>)
+00:44:27.445 [VehicleLeave] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<5505.75, 307.35, 8703.95>)
+00:45:33.824 [VehicleEnter] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<5505.75, 307.35, 8703.95>) as pilot
+00:45:35.886 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<5505.75, 307.35, 8703.95>)
+00:45:59.105 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<5497.06, 307.35, 8707.76>)
+00:45:59.118 [VehicleLeave] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<5497.06, 307.35, 8707.76>)
+00:48:14.550 [VehicleEnter] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<5496.92, 307.35, 8707.76>) as pilot
+00:48:15.813 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<5496.92, 307.35, 8707.76>)
+00:50:23.700 [Chat - Global]("Survivor"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): have a good night!
+00:50:30.810 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): u 2 homie
+00:50:58.351 [AI Object Patrol 00258] Spawning 3 West bots at <8968.201172, 317.993408, 5422.604004>
+00:50:58.377 [AI Object Patrol 00258] Global patrol count: 3
+00:50:58.387 [AI Object Patrol 00258] HelicopterWreck category patrol count: 2
+00:51:05.741 [AI Object Patrol 00259] Spawning 3 East bots at <9528.680664, 244.032364, 6340.317383>
+00:51:05.772 [AI Object Patrol 00259] Global patrol count: 4
+00:51:05.782 [AI Object Patrol 00259] HelicopterWreck category patrol count: 3
+00:51:47.110 [AI Object Patrol 00254] Despawning 2 East bots (spawn position <6989.429199, 257.433228, 6215.508301>, 0/2 deceased)
+00:51:47.120 [AI Object Patrol 00254] Global patrol count: 3
+00:51:47.130 [AI Object Patrol 00254] HelicopterWreck category patrol count: 2
+00:51:47.222 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<9055.37, 298.67, 6587.8>)
+00:51:47.265 [VehicleLeave] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<9055.37, 298.67, 6587.8>)
+00:56:06.309 [VehicleEnter] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<9055.34, 298.66, 6587.67>) as pilot
+00:56:08.301 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<9055.34, 298.66, 6587.68>)
+00:58:22.813 [AI Object Patrol 00256] Spawning 2 West bots at <8837.924805, 452.932953, 2132.324463>
+00:58:22.847 [AI Object Patrol 00256] Global patrol count: 4
+00:58:22.865 [AI Object Patrol 00256] ContaminatedArea category patrol count: 2
+01:00:32.781 [AI Object Patrol 00252] Despawning 2 West bots (spawn position <6005.490723, 218.274307, 8107.711914>, 0/2 deceased)
+01:00:32.799 [AI Object Patrol 00252] Global patrol count: 3
+01:00:32.812 [AI Object Patrol 00252] ContaminatedArea category patrol count: 1
+01:00:42.942 [VehicleLeave] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8340.88, 334.75, 1643.58>)
+01:00:55.124 [VehicleEnter] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8340.88, 334.75, 1643.69>) as pilot
+01:00:56.397 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8340.88, 334.75, 1643.7>)
+01:00:59.523 [VehicleLeave] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8340.88, 334.75, 1643.72>)
+01:02:39.394 [AI Object Patrol 00258] Despawning 3 West bots (spawn position <8968.201172, 317.993408, 5422.604004>, 0/3 deceased)
+01:02:39.403 [AI Object Patrol 00258] Global patrol count: 2
+01:02:39.413 [AI Object Patrol 00258] HelicopterWreck category patrol count: 1
+01:04:47.008 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+01:04:47.018 [BaseBuildingRaiding] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8343.43, 331.7, 1628.69>) damaged ExpansionWall6x3 at <8341.51, 331.45, 1629.02>
+01:04:47.029 [BaseBuildingRaiding] They dealt 70 * 1 = 70 damage with Bullet_556x45 from SNAFUTAR21_Tan
+01:04:47.040 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29680 to 29610
+01:04:47.050 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+01:07:04.305 [AI Object Patrol 00259] Despawning 3 East bots (spawn position <9528.680664, 244.032364, 6340.317383>, 0/3 deceased)
+01:07:04.422 [AI Object Patrol 00259] Global patrol count: 1
+01:07:04.558 [AI Object Patrol 00259] HelicopterWreck category patrol count: 0
+01:16:22.810 [AI Object Patrol 00256] Despawning 2 West bots (spawn position <8837.924805, 452.932953, 2132.324463>, 0/2 deceased)
+01:16:22.820 [AI Object Patrol 00256] Global patrol count: 0
+01:16:22.830 [AI Object Patrol 00256] ContaminatedArea category patrol count: 0
+01:22:16.255 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+01:22:16.266 [BaseBuildingRaiding] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8343.12, 331.7, 1629.95>) damaged ExpansionWall6x3 at <8341.51, 331.45, 1629.02>
+01:22:16.276 [BaseBuildingRaiding] They dealt 21 * 1 = 21 damage with Bullet_380 from PP19
+01:22:16.286 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29610 to 29589
+01:22:16.296 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+01:22:16.306 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+01:22:16.316 [BaseBuildingRaiding] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8343.12, 331.7, 1629.95>) damaged ExpansionWall6x3 at <8341.51, 331.45, 1629.02>
+01:22:16.325 [BaseBuildingRaiding] They dealt 21 * 1 = 21 damage with Bullet_380 from PP19
+01:22:16.335 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29589 to 29568
+01:22:16.345 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+02:23:14.719 [AI Object Patrol 00266] Spawning 3 West bots at <6201.118652, 383.345062, 4014.010742>
+02:23:14.795 [AI Object Patrol 00266] Global patrol count: 1
+02:23:14.818 [AI Object Patrol 00266] ContaminatedArea category patrol count: 1
+02:31:16.213 [AI Object Patrol 00266] Despawning 3 West bots (spawn position <6201.118652, 383.345062, 4014.010742>, 0/3 deceased)
+02:31:16.285 [AI Object Patrol 00266] Global patrol count: 0
+02:31:16.294 [AI Object Patrol 00266] ContaminatedArea category patrol count: 0
+02:47:27.959 [AI Object Patrol 00276] Spawning 2 East bots at <5526.743652, 386.445709, 4904.590820>
+02:47:27.993 [AI Object Patrol 00276] Global patrol count: 1
+02:47:28.003 [AI Object Patrol 00276] HelicopterWreck category patrol count: 1
+03:07:36.087 [AI Object Patrol 00276] Despawning 2 East bots (spawn position <5526.743652, 386.445709, 4904.590820>, 0/2 deceased)
+03:07:36.097 [AI Object Patrol 00276] Global patrol count: 0
+03:07:36.107 [AI Object Patrol 00276] HelicopterWreck category patrol count: 0
+04:13:18.392 [AI Object Patrol 00293] Spawning 1 West bots at <2115.690674, 300.926941, 11208.006836>
+04:13:18.420 [AI Object Patrol 00293] Global patrol count: 1
+04:13:18.430 [AI Object Patrol 00293] ContaminatedArea category patrol count: 1
+04:44:26.425 [AI Object Patrol 00293] Despawning 1 West bots (spawn position <2115.690674, 300.926941, 11208.006836>, 0/1 deceased)
+04:44:26.635 [AI Object Patrol 00293] Global patrol count: 0
+04:44:26.838 [AI Object Patrol 00293] ContaminatedArea category patrol count: 0
+04:54:57.821 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<1322.9, 361.97, 11495.8>) as driver
+04:55:06.584 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<1322.9, 361.97, 11495.8>)
+04:58:45.774 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<1322.9, 361.97, 11495.8>) as driver
+04:58:48.768 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) started vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<1322.9, 361.97, 11495.8>)
+05:02:12.149 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<1852.26, 277.84, 10049.3>)
+05:02:12.651 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<1852.26, 277.84, 10049.3>)
+05:04:07.002 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<1852.26, 277.84, 10049.3>) as driver
+05:04:09.445 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) started vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<1852.26, 277.84, 10049.3>)
+05:09:20.467 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) stopped vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<543.19, 192.58, 7117.13>)
+05:09:22.841 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<543.19, 192.58, 7117.13>)
+05:13:36.129 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<543.19, 192.58, 7117.13>) as driver
+05:19:39.275 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) started vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<543.2, 192.58, 7117.13>)
+05:21:46.602 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) stopped vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<774.62, 240.13, 5624.21>)
+05:21:48.846 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<774.62, 240.13, 5624.21>)
+05:22:38.057 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<774.63, 240.2, 5624.22>) as driver
+05:22:40.569 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) started vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<774.63, 240.2, 5624.22>)
+05:23:24.644 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) stopped vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<792.79, 240.57, 5590.15>)
+05:23:27.414 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<792.79, 240.57, 5590.15>)
+05:25:05.312 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<792.79, 240.57, 5590.15>) as driver
+05:25:08.219 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) started vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<792.79, 240.57, 5590.15>)
+05:26:35.321 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) stopped vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<1353.08, 255.81, 4875.89>)
+05:26:37.814 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<1353.08, 255.81, 4875.89>)
+05:30:31.802 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<1353.08, 255.81, 4875.89>) as driver
+05:30:34.069 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) started vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<1353.08, 255.81, 4875.89>)
+05:30:58.703 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) stopped vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<1439.51, 257.53, 4782.36>)
+05:31:01.930 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<1439.51, 257.53, 4782.36>)
+05:31:56.843 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<1439.51, 257.53, 4782.36>) as driver
+05:31:59.239 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) started vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<1439.51, 257.53, 4782.36>)
+05:34:53.529 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) stopped vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<1556.45, 412.55, 2895.66>)
+05:34:55.875 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<1556.45, 412.55, 2895.66>)
+05:35:26.768 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<1556.45, 412.55, 2895.66>) as driver
+05:35:29.502 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) started vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<1556.45, 412.55, 2895.66>)
+05:35:50.989 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) stopped vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<1499.17, 415, 2781.14>)
+05:35:53.437 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<1499.17, 415, 2781.14>)
+05:36:58.389 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<1499.17, 414.99, 2781.14>) as driver
+05:37:00.486 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) started vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<1499.17, 414.99, 2781.14>)
+05:38:36.529 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) stopped vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<1399.39, 442.9, 2392.83>)
+05:38:40.026 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<1399.39, 442.9, 2392.83>)
+05:42:05.774 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<1399.39, 442.9, 2392.83>) as driver
+05:42:07.356 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) started vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<1399.39, 442.9, 2392.83>)
+05:42:39.084 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) stopped vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<1160.55, 433.32, 2343.41>)
+05:45:27.874 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<1160.55, 433.32, 2343.41>)
+05:46:20.298 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<1160.55, 433.32, 2343.41>) as driver
+05:46:22.458 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) started vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<1160.55, 433.32, 2343.41>)
+05:55:53.428 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<963.12, 446.84, 1412.9>)
+05:55:53.896 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<963.65, 446.66, 1413.62>)

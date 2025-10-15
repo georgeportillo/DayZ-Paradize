@@ -1,0 +1,120 @@
+20:44:43.207 [AI Patrol 00015] Spawning 3 East bots at <7704.946289, 296.748199, 2739.919434>
+20:44:51.975 [AI Patrol 00015] Global patrol count: 1
+20:44:51.985 [AI Patrol 00015] Patrol category patrol count: 1
+20:44:51.995 [AI Patrol 00016] Spawning 1 West bots at <7581.229492, 320.704010, 2699.836182>
+20:44:52.027 [AI Patrol 00016] Global patrol count: 2
+20:44:52.039 [AI Patrol 00016] Patrol category patrol count: 2
+20:44:54.393 [AI Patrol 00016] West bots were wiped out (spawn position <7581.229492, 320.704010, 2699.836182>, 1/1 deceased)
+20:44:54.404 [AI Patrol 00016] Global patrol count: 1
+20:44:54.414 [AI Patrol 00016] Patrol category patrol count: 1
+21:04:31.406 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+21:04:31.424 [BaseBuildingRaiding] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8337.42, 334.7, 1645.89>) damaged ExpansionWall6x3 at <8336.47, 334.46, 1645.77>
+21:04:31.442 [BaseBuildingRaiding] They dealt 21 * 1 = 21 damage with Bullet_380 from PP19
+21:04:31.460 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29979
+21:04:31.478 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+21:04:31.625 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+21:04:31.637 [BaseBuildingRaiding] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8337.42, 334.7, 1645.89>) damaged ExpansionWall6x3 at <8336.47, 334.46, 1645.77>
+21:04:31.648 [BaseBuildingRaiding] They dealt 21 * 1 = 21 damage with Bullet_380 from PP19
+21:04:31.662 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29979 to 29958
+21:04:31.681 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+21:04:31.993 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+21:04:32.005 [BaseBuildingRaiding] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8337.42, 334.7, 1645.89>) damaged ExpansionWall6x3 at <8336.47, 334.46, 1645.77>
+21:04:32.017 [BaseBuildingRaiding] They dealt 21 * 1 = 21 damage with Bullet_380 from PP19
+21:04:32.028 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29958 to 29937
+21:04:32.038 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+21:04:38.284 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+21:04:38.296 [BaseBuildingRaiding] Player "Niki" (id= pos=<8313.52, 319.36, 1625.08>) damaged Watchtower at <8333.46, 331.7, 1639.31>
+21:04:38.308 [BaseBuildingRaiding] They dealt 80 * 1 = 80 damage with Bullet_762x39 from AKM
+21:04:38.319 [BaseBuildingRaiding] Level_1_Wall_2_Metal_Down hitpoints decreased from 21000 to 20920
+21:04:38.330 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+21:04:40.203 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+21:04:40.218 [BaseBuildingRaiding] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8332.95, 337.22, 1638.07>) damaged Fence at <8332.14, 336.57, 1637.88>
+21:04:40.229 [BaseBuildingRaiding] They dealt 21 * 1 = 21 damage with Bullet_380 from PP19
+21:04:40.240 [BaseBuildingRaiding] Wall_Metal_Down hitpoints decreased from 20966 to 20945
+21:04:40.251 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+21:04:40.757 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+21:04:40.859 [BaseBuildingRaiding] Player "Niki" (id= pos=<8311.34, 319.24, 1624.83>) damaged Fence at <8332.14, 336.57, 1637.88>
+21:04:40.875 [BaseBuildingRaiding] They dealt 80 * 1 = 80 damage with Bullet_762x39 from AKM
+21:04:40.893 [BaseBuildingRaiding] Wall_Metal_Down hitpoints decreased from 20945 to 20865
+21:04:40.910 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+21:04:41.222 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+21:04:41.232 [BaseBuildingRaiding] Player "Niki" (id= pos=<8311.19, 319.23, 1624.82>) damaged Fence at <8332.14, 336.57, 1637.88>
+21:04:41.243 [BaseBuildingRaiding] They dealt 80 * 1 = 80 damage with Bullet_762x39 from AKM
+21:04:41.253 [BaseBuildingRaiding] Wall_Metal_Down hitpoints decreased from 20865 to 20785
+21:04:41.263 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+21:04:41.275 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+21:04:41.286 [BaseBuildingRaiding] Player "Keiko" (id= pos=<8330.38, 322.04, 1630.46>) damaged Fence at <8332.14, 336.57, 1637.88>
+21:04:41.296 [BaseBuildingRaiding] They dealt 70 * 1 = 70 damage with Bullet_556x45 from AK101
+21:04:41.306 [BaseBuildingRaiding] Wall_Metal_Down hitpoints decreased from 20785 to 20715
+21:04:41.315 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+21:09:46.777 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+21:09:46.791 [BaseBuildingRaiding] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8333.11, 337.22, 1638.17>) damaged Fence at <8332.14, 336.57, 1637.88>
+21:09:46.806 [BaseBuildingRaiding] They dealt 21 * 1 = 21 damage with Bullet_380 from PP19
+21:09:46.821 [BaseBuildingRaiding] Wall_Metal_Down hitpoints decreased from 20715 to 20694
+21:09:46.832 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+21:09:47.047 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+21:09:47.058 [BaseBuildingRaiding] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8333.11, 337.22, 1638.17>) damaged Fence at <8332.14, 336.57, 1637.88>
+21:09:47.068 [BaseBuildingRaiding] They dealt 21 * 1 = 21 damage with Bullet_380 from PP19
+21:09:47.079 [BaseBuildingRaiding] Wall_Metal_Down hitpoints decreased from 20694 to 20673
+21:09:47.089 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+21:09:48.601 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+21:09:48.611 [BaseBuildingRaiding] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8332.9, 337.22, 1638.12>) damaged Fence at <8332.14, 336.57, 1637.88>
+21:09:48.622 [BaseBuildingRaiding] They dealt 21 * 1 = 21 damage with Bullet_380 from PP19
+21:09:48.632 [BaseBuildingRaiding] Wall_Metal_Down hitpoints decreased from 20673 to 20652
+21:09:48.641 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+21:19:32.074 [AI Patrol 00015] Despawning 3 East bots (spawn position <7704.946289, 296.748199, 2739.919434>, 0/3 deceased)
+21:19:32.086 [AI Patrol 00015] Global patrol count: 0
+21:19:32.099 [AI Patrol 00015] Patrol category patrol count: 0
+22:16:35.375 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:16:35.385 [BaseBuildingRaiding] Player "Oliver" (id= pos=<8302.58, 344.22, 1684.66>) damaged Fence at <8337.15, 331.7, 1646.27>
+22:16:35.395 [BaseBuildingRaiding] They dealt 160 * 1 = 160 damage with Bullet_762x54 from SVD
+22:16:35.405 [BaseBuildingRaiding] Wall_Wood_Down hitpoints decreased from 16000 to 15840
+22:16:35.415 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:53:06.599 [VehicleEnter] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8342.16, 334.75, 1641.98>) as pilot
+22:53:08.403 [VehicleEngine] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8342.16, 334.75, 1641.96>)
+22:54:10.705 [AI Patrol 00017] Spawning 1 Civilian bots at <6915.503418, 296.803558, 3219.689209>
+22:54:10.741 [AI Patrol 00017] Global patrol count: 1
+22:54:10.751 [AI Patrol 00017] Patrol category patrol count: 1
+22:54:12.583 [AI Object Patrol 00036] Spawning 1 East bots at <7184.666016, 382.106506, 3727.081787>
+22:54:12.626 [AI Object Patrol 00036] Global patrol count: 2
+22:54:12.637 [AI Object Patrol 00036] HelicopterWreck category patrol count: 1
+22:54:54.820 [AI Object Patrol 00039] Spawning 1 East bots at <6781.033203, 344.100006, 4846.461426>
+22:54:54.869 [AI Object Patrol 00039] Global patrol count: 3
+22:54:54.879 [AI Object Patrol 00039] HelicopterWreck category patrol count: 2
+22:55:08.835 [AI Object Patrol 00030] Spawning 3 West bots at <7744.861816, 256.374634, 5224.015625>
+22:55:09.016 [AI Object Patrol 00030] Global patrol count: 4
+22:55:09.026 [AI Object Patrol 00030] ContaminatedArea category patrol count: 1
+22:55:24.944 [AI Object Patrol 00009] Spawning 1 West bots at <7723.222168, 232.953079, 5787.071289>
+22:55:24.986 [AI Object Patrol 00009] Global patrol count: 5
+22:55:24.998 [AI Object Patrol 00009] ContaminatedArea category patrol count: 2
+22:56:37.540 [AI Object Patrol 00035] Spawning 3 East bots at <9253.845703, 307.883453, 7125.750488>
+22:56:37.589 [AI Object Patrol 00035] Global patrol count: 6
+22:56:37.609 [AI Object Patrol 00035] HelicopterWreck category patrol count: 3
+22:57:04.442 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<9053.23, 298.72, 6590.36>)
+22:57:04.465 [VehicleLeave] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<9053.23, 298.72, 6590.36>)
+23:03:06.959 [VehicleEnter] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<9053.29, 298.69, 6589.52>) as pilot
+23:03:09.692 [VehicleEngine] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<9053.29, 298.69, 6589.52>)
+23:03:41.856 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<9117.6, 308.95, 6660.34>)
+23:03:41.879 [VehicleLeave] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<9117.6, 308.95, 6660.34>)
+23:04:58.232 [AI Patrol 00017] Despawning 1 Civilian bots (spawn position <6915.503418, 296.803558, 3219.689209>, 0/1 deceased)
+23:04:58.243 [AI Patrol 00017] Global patrol count: 5
+23:04:58.254 [AI Patrol 00017] Patrol category patrol count: 0
+23:05:16.321 [AI Object Patrol 00036] Despawning 1 East bots (spawn position <7184.666016, 382.106506, 3727.081787>, 0/1 deceased)
+23:05:16.331 [AI Object Patrol 00036] Global patrol count: 4
+23:05:16.341 [AI Object Patrol 00036] HelicopterWreck category patrol count: 2
+23:05:44.927 [AI Object Patrol 00039] Despawning 1 East bots (spawn position <6781.033203, 344.100006, 4846.461426>, 0/1 deceased)
+23:05:44.938 [AI Object Patrol 00039] Global patrol count: 3
+23:05:44.949 [AI Object Patrol 00039] HelicopterWreck category patrol count: 1
+23:06:16.118 [AI Object Patrol 00030] Despawning 3 West bots (spawn position <7744.861816, 256.374634, 5224.015625>, 0/3 deceased)
+23:06:16.129 [AI Object Patrol 00030] Global patrol count: 2
+23:06:16.139 [AI Object Patrol 00030] ContaminatedArea category patrol count: 1
+23:06:16.164 [VehicleEnter] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<9117.61, 308.95, 6660.25>) as pilot
+23:06:21.233 [VehicleEngine] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<9117.61, 308.95, 6660.25>)
+23:06:22.907 [AI Object Patrol 00009] Despawning 1 West bots (spawn position <7723.222168, 232.953079, 5787.071289>, 0/1 deceased)
+23:06:22.917 [AI Object Patrol 00009] Global patrol count: 1
+23:06:22.928 [AI Object Patrol 00009] ContaminatedArea category patrol count: 0
+23:11:22.138 [VehicleEngine] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8479.18, 564.59, 1862.25>)
+23:11:58.295 [VehicleLeave] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8223.58, 283.21, 1678.72>)
+23:17:35.258 [AI Object Patrol 00035] Despawning 3 East bots (spawn position <9253.845703, 307.883453, 7125.750488>, 0/3 deceased)
+23:17:35.268 [AI Object Patrol 00035] Global patrol count: 0
+23:17:35.278 [AI Object Patrol 00035] HelicopterWreck category patrol count: 0

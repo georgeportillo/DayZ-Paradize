@@ -1,0 +1,21 @@
+00:05:33.310 [AI Patrol 00016] Spawning 2 East bots at <7392.120605, 287.040009, 2632.909912>
+00:05:42.391 [AI Patrol 00016] Global patrol count: 1
+00:05:42.401 [AI Patrol 00016] Patrol category patrol count: 1
+00:05:42.410 [AI Patrol 00017] Spawning 1 West bots at <7565.479492, 320.704010, 2696.154541>
+00:05:42.448 [AI Patrol 00017] Global patrol count: 2
+00:05:42.458 [AI Patrol 00017] Patrol category patrol count: 2
+00:09:38.941 [AI Object Patrol 00008] Spawning 3 West bots at <7400.947754, 229.597595, 6148.817383>
+00:09:38.976 [AI Object Patrol 00008] Global patrol count: 3
+00:09:38.986 [AI Object Patrol 00008] ContaminatedArea category patrol count: 1
+00:09:38.996 [AI Object Patrol 00009] Spawning 3 West bots at <7461.894043, 227.161926, 6421.472168>
+00:09:39.030 [AI Object Patrol 00009] Global patrol count: 4
+00:09:39.041 [AI Object Patrol 00009] ContaminatedArea category patrol count: 2
+00:14:04.841 [AI Object Patrol 00003] Spawning 1 East bots at <9187.111328, 293.757690, 6024.546875>
+00:14:04.880 [AI Object Patrol 00003] Global patrol count: 5
+00:14:04.890 [AI Object Patrol 00003] HelicopterWreck category patrol count: 1
+00:24:00.032 [AI Object Patrol 00009] Despawning 3 West bots (spawn position <7461.894043, 227.161926, 6421.472168>, 0/3 deceased)
+00:24:00.074 [AI Object Patrol 00009] Global patrol count: 4
+00:24:00.084 [AI Object Patrol 00009] ContaminatedArea category patrol count: 1
+00:24:00.094 [AI Object Patrol 00008] Despawning 3 West bots (spawn position <7400.947754, 229.597595, 6148.817383>, 0/3 deceased)
+00:24:00.104 [AI Object Patrol 00008] Global patrol count: 3
+00:24:00.115 [AI Object Patrol 00008] ContaminatedArea category patrol count: 0

@@ -1,0 +1,68 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "Animal_CanisLupus_Grey",
+            "m_LocalPosition": [
+                8329.8857421875,
+                322.6396179199219,
+                1639.1055908203126
+            ],
+            "m_LocalRotation": [
+                -177.5270233154297,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 38
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Animal_CanisLupus_Grey",
+            "m_LocalPosition": [
+                8333.2412109375,
+                322.47161865234377,
+                1634.9759521484376
+            ],
+            "m_LocalRotation": [
+                -35.206092834472659,
+                0.0,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 38
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Animal_CanisLupus_White",
+            "m_LocalPosition": [
+                8336.2529296875,
+                322.84088134765627,
+                1646.4765625
+            ],
+            "m_LocalRotation": [
+                -138.78697204589845,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 38
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        }
+    ]
+}

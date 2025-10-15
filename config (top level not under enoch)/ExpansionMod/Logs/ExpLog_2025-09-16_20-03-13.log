@@ -1,0 +1,12 @@
+20:10:08.473 [AI Patrol 00014] Spawning 3 East bots at <7598.356934, 296.750000, 2662.896973>
+20:10:16.855 [AI Patrol 00014] Global patrol count: 1
+20:10:16.865 [AI Patrol 00014] Patrol category patrol count: 1
+20:10:16.875 [AI Patrol 00015] Spawning 2 West bots at <7154.384277, 307.048035, 3019.135986>
+20:10:16.926 [AI Patrol 00015] Global patrol count: 2
+20:10:16.937 [AI Patrol 00015] Patrol category patrol count: 2
+20:11:59.417 [VehicleDestroyed] ExpansionUh1h_Uber (id=F2F99CB757403887984D93BA5C7B0AD5 pos=<1228.18, 169.14, 7566.17>)
+20:12:14.149 [VehicleDestroyed] ExpansionUh1h_Medical (id=5F9B5201474DCC646211ADAA2A8A2EB0 pos=<7924.81, 169.44, 11833.5>)
+20:18:08.829 [VehicleDeleted] ExpansionUh1h_Uber (id=F2F99CB757403887984D93BA5C7B0AD5 pos=<1230.56, 168.73, 7567.11>)
+20:18:36.651 [VehicleDeleted] ExpansionUh1h_Medical (id=5F9B5201474DCC646211ADAA2A8A2EB0 pos=<7924.83, 169.44, 11833.5>)
+20:20:51.061 [VehicleDestroyed] ExpansionUh1h_Medical (id=FF9E80F15B4AF414E97810A9BA9C58A7 pos=<1228.15, 169.12, 7566.25>)
+20:20:59.062 [VehicleDestroyed] ExpansionUh1h_Uber (id=D3DD88FB59405F9B96C82DAD89C713DE pos=<7924.78, 169.29, 11834>)

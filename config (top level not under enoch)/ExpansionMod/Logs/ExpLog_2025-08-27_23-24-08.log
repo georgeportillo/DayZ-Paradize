@@ -1,0 +1,38 @@
+23:28:05.327 [AI Patrol 00016] Spawning 2 East bots at <7438.649902, 301.921875, 2652.672852>
+23:28:14.312 [AI Patrol 00016] Global patrol count: 1
+23:28:14.322 [AI Patrol 00016] Patrol category patrol count: 1
+23:28:14.333 [AI Patrol 00017] Spawning 1 West bots at <7163.740234, 304.074707, 3035.129395>
+23:28:14.368 [AI Patrol 00017] Global patrol count: 2
+23:28:14.379 [AI Patrol 00017] Patrol category patrol count: 2
+00:20:26.449 [AI Patrol 00017] West bots were wiped out (spawn position <7163.740234, 304.074707, 3035.129395>, 1/1 deceased)
+00:20:26.547 [AI Patrol 00017] Global patrol count: 1
+00:20:26.671 [AI Patrol 00017] Patrol category patrol count: 1
+00:52:09.371 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+00:52:09.382 [BaseBuildingRaiding] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8348.13, 334.8, 1637.75>) damaged ExpansionWall6x3 at <8349.58, 334.46, 1637.91>
+00:52:09.392 [BaseBuildingRaiding] They dealt 70 * 1 = 70 damage with Bullet_545x39 from AK74
+00:52:09.402 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29937 to 29867
+00:52:09.411 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+00:52:12.910 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+00:52:12.921 [BaseBuildingRaiding] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8348.17, 335.14, 1637.83>) damaged ExpansionWall6x3 at <8369.55, 322.58, 1679.29>
+00:52:12.930 [BaseBuildingRaiding] They dealt 70 * 1 = 70 damage with Bullet_545x39 from AK74
+00:52:12.940 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29930
+00:52:12.949 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+00:52:45.135 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+00:52:45.145 [BaseBuildingRaiding] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8348.19, 335.15, 1637.82>) damaged ExpansionWall6x3 at <8349.58, 334.46, 1637.91>
+00:52:45.156 [BaseBuildingRaiding] They dealt 70 * 1 = 70 damage with Bullet_556x45 from Expansion_G36
+00:52:45.166 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29867 to 29797
+00:52:45.176 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+00:58:20.685 [AI Object Patrol 00039] Spawning 3 East bots at <9800.504883, 285.452850, 5982.203125>
+00:58:20.732 [AI Object Patrol 00039] Global patrol count: 2
+00:58:20.749 [AI Object Patrol 00039] HelicopterWreck category patrol count: 1
+00:59:01.650 [VehicleEnter] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Rubber Boat (id=FDB1C013EF42F3B7C8759B932A06C7EA pos=<10318.3, 216.3, 5893.88>) as driver
+00:59:02.825 [VehicleEngine] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Rubber Boat (id=FDB1C013EF42F3B7C8759B932A06C7EA pos=<10318.3, 216.19, 5893.92>)
+01:01:00.177 [VehicleEngine] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) stopped vehicle Rubber Boat (id=FDB1C013EF42F3B7C8759B932A06C7EA pos=<10318.4, 216.22, 5896.11>)
+01:01:05.253 [VehicleLeave] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Rubber Boat (id=FDB1C013EF42F3B7C8759B932A06C7EA pos=<10318.4, 216.25, 5896.12>)
+01:01:37.459 [VehicleDeleted] Boat_01_Black (id=FDB1C013EF42F3B7C8759B932A06C7EA pos=<10318.4, 216.21, 5896.12>)
+01:03:56.863 [AI Object Patrol 00039] Despawning 3 East bots (spawn position <9800.504883, 285.452850, 5982.203125>, 0/3 deceased)
+01:03:56.873 [AI Object Patrol 00039] Global patrol count: 1
+01:03:56.882 [AI Object Patrol 00039] HelicopterWreck category patrol count: 0
+01:09:51.117 [AI Patrol 00016] Despawning 2 East bots (spawn position <7438.649902, 301.921875, 2652.672852>, 0/2 deceased)
+01:09:51.128 [AI Patrol 00016] Global patrol count: 0
+01:09:51.138 [AI Patrol 00016] Patrol category patrol count: 0

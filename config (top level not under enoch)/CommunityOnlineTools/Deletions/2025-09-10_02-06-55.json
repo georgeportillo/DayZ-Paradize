@@ -1,0 +1,26 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "Animal_CanisLupus_White",
+            "m_LocalPosition": [
+                8341.263671875,
+                322.4366455078125,
+                1626.7991943359376
+            ],
+            "m_LocalRotation": [
+                -59.96672058105469,
+                0.0,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 38
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+06:52:46.154 [AI Patrol 00017] Spawning 2 Civilian bots at <6982.421387, 329.886261, 3343.394043>
+06:52:54.301 [AI Patrol 00017] Global patrol count: 1
+06:52:54.312 [AI Patrol 00017] Patrol category patrol count: 1
+06:52:54.322 [AI Patrol 00015] Spawning 3 East bots at <7501.892578, 287.040527, 2573.431641>
+06:52:54.357 [AI Patrol 00015] Global patrol count: 2
+06:52:54.367 [AI Patrol 00015] Patrol category patrol count: 2
+06:52:54.378 [AI Patrol 00016] Spawning 3 West bots at <7457.367188, 287.040009, 2508.541016>
+06:52:54.409 [AI Patrol 00016] Global patrol count: 3
+06:52:54.419 [AI Patrol 00016] Patrol category patrol count: 3
+06:54:45.159 [AI Patrol 00016] West bots were wiped out (spawn position <7457.367188, 287.040009, 2508.541016>, 3/3 deceased)
+06:54:45.169 [AI Patrol 00016] Global patrol count: 2
+06:54:45.180 [AI Patrol 00016] Patrol category patrol count: 2
+07:04:57.811 [AI Patrol 00015] East bots were wiped out (spawn position <7501.892578, 287.040527, 2573.431641>, 3/3 deceased)
+07:04:57.822 [AI Patrol 00015] Global patrol count: 1
+07:04:57.832 [AI Patrol 00015] Patrol category patrol count: 1
+07:15:23.515 [AI Patrol 00017] Despawning 2 Civilian bots (spawn position <6982.421387, 329.886261, 3343.394043>, 0/2 deceased)
+07:15:23.525 [AI Patrol 00017] Global patrol count: 0
+07:15:23.535 [AI Patrol 00017] Patrol category patrol count: 0
+09:15:05.950 [AI Object Patrol 00025] Spawning 2 East bots at <7180.050293, 381.694580, 3719.266113>
+09:15:05.985 [AI Object Patrol 00025] Global patrol count: 1
+09:15:05.995 [AI Object Patrol 00025] HelicopterWreck category patrol count: 1
+09:47:53.568 [AI Object Patrol 00025] Despawning 2 East bots (spawn position <7180.050293, 381.694580, 3719.266113>, 0/2 deceased)
+09:47:53.578 [AI Object Patrol 00025] Global patrol count: 0
+09:47:53.588 [AI Object Patrol 00025] HelicopterWreck category patrol count: 0
+10:54:19.419 [VehicleDestroyed] Boat_01_Blue (id=1A5CE1D1EA4504185E0B2AB7C7E043F8 pos=<3636.39, 169.8, 9095.33>)
+10:54:19.429 [VehicleDestroyed] Boat_01_Blue (id=DCD664FBCA447336BC7F32A92A800BFC pos=<4130.98, 169.67, 8971.64>)
+10:54:19.439 [VehicleDestroyed] Boat_01_Orange (id=4034C29E6F48BC181B989284D6FE0CA2 pos=<9516.47, 169.81, 11720.7>)
+11:00:27.920 [VehicleDeleted] Boat_01_Orange (id=4034C29E6F48BC181B989284D6FE0CA2 pos=<9516.47, 169.48, 11720.8>)
+11:00:27.932 [VehicleDeleted] Boat_01_Blue (id=DCD664FBCA447336BC7F32A92A800BFC pos=<4131.02, 169.19, 8971.6>)
+11:00:27.944 [VehicleDeleted] Boat_01_Blue (id=1A5CE1D1EA4504185E0B2AB7C7E043F8 pos=<3636.38, 169.36, 9095.32>)
+11:01:43.189 [AI Object Patrol 00041] Spawning 3 East bots at <6784.283203, 344.100006, 4845.231445>
+11:01:43.211 [AI Object Patrol 00041] Global patrol count: 1
+11:01:43.220 [AI Object Patrol 00041] HelicopterWreck category patrol count: 1
+11:01:43.229 [AI Object Patrol 00048] Spawning 3 East bots at <7179.283203, 381.625793, 3718.029785>
+11:01:43.256 [AI Object Patrol 00048] Global patrol count: 2
+11:01:43.266 [AI Object Patrol 00048] HelicopterWreck category patrol count: 2
+11:07:59.763 [AI Object Patrol 00041] East bots were wiped out (spawn position <6784.283203, 344.100006, 4845.231445>, 3/3 deceased)
+11:07:59.775 [AI Object Patrol 00041] Global patrol count: 1
+11:07:59.787 [AI Object Patrol 00041] HelicopterWreck category patrol count: 1
+11:33:18.888 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+11:33:18.916 [BaseBuildingRaiding] Player "MStan346" (id=AgcamHl-a7yN1AOoF-8esXdFtm_BCaLf8qOVCJmiMJM= pos=<6815.67, 362.64, 4439.63>) damaged ExpansionWall6x3 at <6816.52, 362.64, 4438.65>
+11:33:18.938 [BaseBuildingRaiding] They dealt 160 * 1 = 160 damage with Bullet_762x54 from SVD
+11:33:18.956 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29840
+11:33:18.979 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+11:33:19.003 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+11:33:19.022 [BaseBuildingRaiding] Player "MStan346" (id=AgcamHl-a7yN1AOoF-8esXdFtm_BCaLf8qOVCJmiMJM= pos=<6815.67, 362.64, 4439.63>) damaged ExpansionWall6x3 at <6816.52, 362.64, 4438.65>
+11:33:19.044 [BaseBuildingRaiding] They dealt 160 * 1 = 160 damage with Bullet_762x54 from SVD
+11:33:19.069 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29840 to 29680
+11:33:19.108 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+11:39:45.042 [AI Object Patrol 00048] Despawning 3 East bots (spawn position <7179.283203, 381.625793, 3718.029785>, 0/3 deceased)
+11:39:45.055 [AI Object Patrol 00048] Global patrol count: 0
+11:39:45.069 [AI Object Patrol 00048] HelicopterWreck category patrol count: 0
+11:41:51.335 [AI Object Patrol 00055] Spawning 1 West bots at <5575.306641, 418.169464, 3665.650391>
+11:41:51.378 [AI Object Patrol 00055] Global patrol count: 1
+11:41:51.387 [AI Object Patrol 00055] ContaminatedArea category patrol count: 1
+12:08:38.518 [AI Object Patrol 00055] Despawning 1 West bots (spawn position <5575.306641, 418.169464, 3665.650391>, 0/1 deceased)
+12:08:38.553 [AI Object Patrol 00055] Global patrol count: 0
+12:08:38.563 [AI Object Patrol 00055] ContaminatedArea category patrol count: 0
+12:31:02.920 [AI Object Patrol 00041] Despawning East patrol (spawn position <6777.034180, 343.889160, 4822.512207>)
+13:35:39.919 [VehicleDestroyed] Boat_01_Blue (id=6FDB6B046D4782C6771235B286AE3E0A pos=<1210.24, 169.78, 7597.34>)
+15:09:34.399 [VehicleDeleted] Boat_01_Blue (id=6FDB6B046D4782C6771235B286AE3E0A pos=<1210.28, 168.98, 7597.33>)
+15:53:17.367 [VehicleEnter] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) entered vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<10340, 224, 5902.24>) as pilot
+15:53:19.012 [VehicleEngine] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) started vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<10340, 224, 5902.24>)
+15:54:49.046 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<8890.78, 308.52, 6581.56>)
+15:54:49.078 [VehicleLeave] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) left vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<8890.78, 308.52, 6581.56>)
+16:01:04.177 [VehicleEnter] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) entered vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<8890.78, 308.52, 6581.56>) as pilot
+16:01:06.770 [VehicleEngine] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) started vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<8890.78, 308.52, 6581.56>)
+16:03:03.892 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<10335.8, 223.98, 5907.87>)
+16:03:03.910 [VehicleLeave] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) left vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<10335.8, 223.98, 5907.87>)
+00:47:23.493 [VehicleDestroyed] Boat_01_Orange (id=4ED7456BCF478616CF7FD6809F611923 pos=<8423, 169.77, 11870.5>)

@@ -1,0 +1,9 @@
+23:51:15.825 [VehicleDestroyed] ExpansionUh1h_Medical (id=AF63B0A507467A23424D87BCA389CFD0 pos=<1232.33, 168.37, 7567.99>)
+23:51:15.848 [VehicleDestroyed] ExpansionUh1h_Medical (id=8427C4100B41962F7386A78A6CC21970 pos=<7927.41, 169.94, 11833.3>)
+23:51:19.849 [VehicleDeleted] ExpansionUh1h_Medical (id=B39A8AC6E14B15C4FFC8E1993673E4D1 pos=<1232.33, 168.37, 7567.99>)
+23:51:19.860 [VehicleDeleted] ExpansionUh1h_Medical (id=DA338C455F465EB3A19CD48FC874D5AC pos=<7927.41, 169.94, 11833.3>)
+23:56:42.966 [MissionAirdrop] An airdrop is heading towards "Dolnik" (pos=<11491.000000, 0.000000, 763.000000> type=Random_Dolnik) with a ExpansionAirdropContainer_Military
+01:26:35.093 [MissionAirdrop] An airdrop is heading towards "Dolnik" (pos=<11491.000000, 0.000000, 763.000000> type=Random_Dolnik) with a ExpansionAirdropContainer_Military
+02:57:14.430 [MissionAirdrop] An airdrop is heading towards "Gieraltow" (pos=<10899.000000, 0.000000, 4515.000000> type=Random_Gieraltow) with a ExpansionAirdropContainer_Medical
+04:25:47.104 [MissionAirdrop] An airdrop is heading towards "Nadbor" (pos=<5996.000000, 0.000000, 4513.000000> type=Random_Nadbor) with a ExpansionAirdropContainer
+05:51:10.196 [MissionAirdrop] An airdrop is heading towards "Muratyn" (pos=<4559.000000, 0.000000, 6852.000000> type=Random_Muratyn) with a ExpansionAirdropContainer_Military

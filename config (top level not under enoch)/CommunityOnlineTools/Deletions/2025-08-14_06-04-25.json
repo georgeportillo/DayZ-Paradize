@@ -1,0 +1,170 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "eAI_SurvivorF_Naomi",
+            "m_LocalPosition": [
+                7177.82763671875,
+                318.4711608886719,
+                2646.0859375
+            ],
+            "m_LocalRotation": [
+                5.519841194152832,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 36
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "NBCJacketGray",
+                    "m_Data": {
+                        "m_Health": 86.7729721069336,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "Mag_Aug_30Rnd",
+                            "m_Data": {
+                                "m_Health": 100.0,
+                                "m_Quantity": 1.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "NBCPantsGray",
+                    "m_Data": {
+                        "m_Health": 96.52730560302735,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "NBCBootsGray",
+                    "m_Data": {
+                        "m_Health": 62.60360336303711,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "NBCHoodGray",
+                    "m_Data": {
+                        "m_Health": 48.715476989746097,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "NBCGlovesGray",
+                    "m_Data": {
+                        "m_Health": 118.73873138427735,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "TortillaBag",
+                    "m_Data": {
+                        "m_Health": 154.3472442626953,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "Chemlight_Green",
+                            "m_Data": {
+                                "m_Health": 20.0,
+                                "m_Quantity": 100.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        },
+                        {
+                            "m_Classname": "BandageDressing",
+                            "m_Data": {
+                                "m_Health": 50.0,
+                                "m_Quantity": 4.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        },
+                        {
+                            "m_Classname": "Mag_IJ70_8Rnd",
+                            "m_Data": {
+                                "m_Health": 100.0,
+                                "m_Quantity": 1.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "UKAssVest_Olive",
+                    "m_Data": {
+                        "m_Health": 109.49015808105469,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "AirborneMask",
+                    "m_Data": {
+                        "m_Health": 95.74632263183594,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "GasMask_Filter",
+                            "m_Data": {
+                                "m_Health": 65.65727996826172,
+                                "m_Quantity": 150.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "MilitaryBelt",
+                    "m_Data": {
+                        "m_Health": 108.8619613647461,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        }
+    ]
+}

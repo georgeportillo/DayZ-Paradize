@@ -1,0 +1,24 @@
+23:12:00.005 [VehicleDestroyed] ExpansionUh1h_Resistance (id=6BEFE885824D70CBBAC2C39A3BA50A0E pos=<1228.41, 169.1, 7566.27>)
+23:12:00.026 [VehicleDestroyed] ExpansionUh1h_Medical (id=0AC3B00E9545A4BD986D9AAD1A6A8922 pos=<7925.02, 169.5, 11833.4>)
+23:12:04.917 [VehicleDeleted] ExpansionUh1h_Resistance (id=CE912487D6469BA4E1E93FBDF7E652E4 pos=<1228.41, 169.1, 7566.27>)
+23:12:04.927 [VehicleDeleted] ExpansionUh1h_Medical (id=CCDC233E7F45FF98B2DDC6A537664DAD pos=<7925.02, 169.5, 11833.4>)
+23:17:25.364 [MissionAirdrop] An airdrop is heading towards "Siła Factory" (pos=<7345.830078, 0.000000, 2692.620117> type=Random_Sila) with a ExpansionAirdropContainer_Basebuilding
+23:19:14.781 [VehicleDestroyed] ExpansionUh1h_Resistance (id=2DBC5EF5AB49C3B6A2EB3A80EEAE29A7 pos=<1228.18, 169.14, 7566.18>)
+23:19:32.751 [AI Patrol 00016] Spawning 1 West bots at <7210.498047, 294.639435, 3029.866943>
+23:19:32.784 [AI Patrol 00016] Global patrol count: 1
+23:19:32.794 [AI Patrol 00016] Patrol category patrol count: 1
+23:19:32.804 [AI Patrol 00015] Spawning 1 East bots at <7703.570801, 315.831665, 2981.354492>
+23:19:32.839 [AI Patrol 00015] Global patrol count: 2
+23:19:32.849 [AI Patrol 00015] Patrol category patrol count: 2
+23:19:33.328 [VehicleDestroyed] ExpansionUh1h_Medical (id=E71ACF536240DB5966B604884676C9C5 pos=<7924.97, 169.42, 11833.6>)
+23:21:06.235 [AI Object Patrol 00023] Spawning 1 West bots at <8856.413086, 437.976654, 1926.438965>
+23:21:06.266 [AI Object Patrol 00023] Global patrol count: 3
+23:21:06.275 [AI Object Patrol 00023] ContaminatedArea category patrol count: 1
+23:25:23.216 [VehicleDeleted] ExpansionUh1h_Resistance (id=2DBC5EF5AB49C3B6A2EB3A80EEAE29A7 pos=<1230.47, 168.74, 7567.09>)
+23:25:51.028 [VehicleDeleted] ExpansionUh1h_Medical (id=E71ACF536240DB5966B604884676C9C5 pos=<7924.46, 169.32, 11833.7>)
+23:28:07.153 [VehicleDestroyed] ExpansionUh1h_Uber (id=738920FFE740D49FB173E881AF1AF37A pos=<1228.16, 169.14, 7566.15>)
+23:28:25.904 [VehicleDestroyed] ExpansionUh1h_Uber (id=FD8D1B9E554C7583834E40B6016108E4 pos=<7925.23, 169.51, 11833.5>)
+23:28:32.904 [Killfeed] AI Judy (East) got killed by AI Frida (West) with M16-A2 from a distance of 5 m.
+23:28:36.554 [AI Patrol 00015] East bots were wiped out (spawn position <7703.570801, 315.831665, 2981.354492>, 1/1 deceased)
+23:28:36.564 [AI Patrol 00015] Global patrol count: 2
+23:28:36.574 [AI Patrol 00015] Patrol category patrol count: 1

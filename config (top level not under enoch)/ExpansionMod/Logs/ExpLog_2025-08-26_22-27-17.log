@@ -1,0 +1,48 @@
+22:30:55.716 [AI Patrol 00015] Spawning 2 East bots at <7713.234863, 302.614563, 2807.418213>
+22:31:03.860 [AI Patrol 00015] Global patrol count: 1
+22:31:03.871 [AI Patrol 00015] Patrol category patrol count: 1
+22:31:03.881 [AI Patrol 00016] Spawning 2 West bots at <7367.760254, 288.629486, 2741.204834>
+22:31:03.918 [AI Patrol 00016] Global patrol count: 2
+22:31:03.927 [AI Patrol 00016] Patrol category patrol count: 2
+22:32:50.357 [VehicleEnter] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8334.14, 322.46, 1640.66>) as driver
+22:32:52.543 [VehicleEngine] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8334.14, 322.46, 1640.66>)
+22:33:03.013 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8330.48, 322.23, 1632.79>)
+22:33:03.024 [VehicleLeave] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8330.48, 322.23, 1632.79>)
+22:33:09.275 [VehicleEnter] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8330.48, 322.23, 1632.79>) as driver
+22:33:12.545 [VehicleEngine] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8330.48, 322.23, 1632.79>)
+22:39:40.469 [VehicleEngine] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) stopped vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<5232.53, 464.65, 1972.05>)
+22:39:44.285 [VehicleLeave] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<5232.53, 464.65, 1972.05>)
+22:39:52.694 [VehicleEnter] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<5232.53, 464.65, 1972.05>) as driver
+22:39:55.394 [VehicleEngine] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<5232.53, 464.65, 1972.05>)
+22:41:39.814 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<4943.95, 524.12, 2140.51>)
+22:41:39.857 [VehicleLeave] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<4943.95, 524.12, 2140.51>)
+22:42:30.901 [AI Patrol 00016] West bots were wiped out (spawn position <7367.760254, 288.629486, 2741.204834>, 2/2 deceased)
+22:42:30.979 [AI Patrol 00016] Global patrol count: 1
+22:42:31.030 [AI Patrol 00016] Patrol category patrol count: 1
+22:45:16.904 [VehicleEnter] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<4943.95, 524.12, 2140.51>) as driver
+22:45:18.808 [VehicleEngine] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<4943.95, 524.12, 2140.51>)
+22:45:20.202 [VehicleEngine] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) stopped vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<4943.95, 524.12, 2140.51>)
+22:45:23.526 [VehicleEngine] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<4943.95, 524.12, 2140.51>)
+22:45:52.871 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<5019.7, 517.79, 2109.07>)
+22:45:52.902 [VehicleLeave] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<5019.7, 517.79, 2109.07>)
+22:47:03.065 [VehicleEnter] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<5019.7, 517.79, 2109.07>) as driver
+22:47:05.957 [VehicleEngine] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<5019.7, 517.79, 2109.07>)
+22:47:42.336 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<5096.33, 510.29, 2099.98>)
+22:47:42.377 [VehicleLeave] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<5096.33, 510.29, 2099.98>)
+22:49:28.573 [VehicleEnter] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<5096.33, 510.29, 2099.98>) as driver
+22:49:31.527 [VehicleEngine] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<5096.33, 510.29, 2099.98>)
+22:52:13.180 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<6001.96, 468.53, 717.32>)
+22:52:13.197 [VehicleLeave] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<6001.96, 468.53, 717.32>)
+22:52:23.031 [VehicleEnter] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<6001.96, 468.53, 717.32>) as driver
+22:52:25.644 [VehicleEngine] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<6001.96, 468.53, 717.32>)
+22:56:53.671 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8324.75, 322.62, 1636>)
+22:56:53.714 [VehicleLeave] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8324.75, 322.62, 1636>)
+22:57:03.616 [VehicleEnter] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8324.75, 322.62, 1636>) as driver
+22:57:06.773 [VehicleEngine] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8324.75, 322.62, 1636>)
+22:57:59.364 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8345.54, 322.59, 1646.89>)
+22:57:59.425 [VehicleLeave] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8345.54, 322.59, 1646.89>)
+23:11:55.377 [BaseRaiding] ExpansionWall6x3 (<8332.634766, 322.443573, 1637.095093>) Code changed by "player "Survivor" (ID = "0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=" at <8335.185547, 322.546234, 1636.345459>)" and the new code is 6969
+23:12:06.317 [BaseRaiding] ExpansionWall6x3 (<8332.634766, 322.443573, 1637.095093>) Code changed by "player "Survivor" (ID = "0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=" at <8335.185547, 322.546234, 1636.345459>)" and the new code is 2058
+23:56:53.729 [AI Patrol 00015] Despawning 2 East bots (spawn position <7713.234863, 302.614563, 2807.418213>, 0/2 deceased)
+23:56:53.744 [AI Patrol 00015] Global patrol count: 0
+23:56:53.755 [AI Patrol 00015] Patrol category patrol count: 0

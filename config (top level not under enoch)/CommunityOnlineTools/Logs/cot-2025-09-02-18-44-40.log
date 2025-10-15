@@ -1,0 +1,971 @@
+[COT 2025-09-02 21:53:50] 76561198024482897: Activated Community Online Tools [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-02 21:53:56] 76561198024482897: ESP: Viewing ESP
+[COT 2025-09-02 21:54:31] 76561198024482897: Set GodMode To true [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-02 21:54:31] 76561198024482897: Set GodMode To false [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-02 21:55:21] 76561198024482897: Spawned Entity Toxic's SSO (FOG_Bag_SSO_Toxic<95749a60>, 100, 300, 15, 0) at <8342.341797, 334.705200, 1641.109985>
+[COT 2025-09-02 21:55:36] 76561198024482897: Spawned Entity Rangefinder (Rangefinder<851ab460>, 100, 70, 15, 0) at <8342.360352, 334.705200, 1640.132813>
+[COT 2025-09-02 21:55:55] 76561198024482897: Deleted Entity TaloonBag_Green:20913 at <8342.341797, 334.820618, 1641.109985>
+[COT 2025-09-02 21:56:23] 76561198024482897: Spawned Entity Urban Fighters Jacket (FOG_UFJ_Shirt_MCB<6885e9c0>, 100, 300, 15, 0) at <8343.171875, 334.705200, 1639.913696>
+[COT 2025-09-02 21:56:37] 76561198024482897: Deleted Entity FOG_Tshirt_Black_FOG_Reaper:18897 at <8343.171875, 334.712158, 1639.913696>
+[COT 2025-09-02 21:57:17] 76561198024482897: Spawned Entity DEFCON Vans (FOG_DEFCONVans_Shoes_Black<5eb30cf0>, 100, 300, 15, 0) at <8343.254883, 334.705200, 1640.210327>
+[COT 2025-09-02 21:57:41] 76561198024482897: Spawned Entity Ferro Concepts Gloves (FOG_FerroGloves_Black_RedTrim<8dc60320>, 225, 700, 15, 0) at <8344.527344, 334.705200, 1640.985840>
+[COT 2025-09-02 21:58:03] 76561198024482897: Spawned Entity MTF Uniform Top (FOG_MTF_Shirt_MCB<8dc943a0>, 225, 300, 15, 0) at <8344.527344, 334.705200, 1640.985840>
+[COT 2025-09-02 21:58:13] 76561198024482897: Deleted Entity FOG_MTF_Shirt_MCB:17788 at <8344.527344, 334.710663, 1640.985840>
+[COT 2025-09-02 21:58:16] 76561198024482897: Deleted Entity AthleticShoes_Grey:25716 at <8343.254883, 334.706299, 1640.210327>
+[COT 2025-09-02 21:58:44] 76561198024482897: Spawned Entity Thor Integrated Carrier (FOG_Vest_Thor_ColorBase<72af1c70>, 225, 315, 15, 0) at <8343.287109, 334.705200, 1640.157227>
+[COT 2025-09-02 21:59:28] 76561198024482897: Spawned Entity Pouches (PlateCarrierPouches_Black<917c35e0>, 225, 200, 15, 0) at <8342.887695, 334.705200, 1641.029907>
+[COT 2025-09-02 21:59:48] 76561198024482897: Spawned Entity Large Patch (ItemBase<917d4b60>, 225, 450, 15, 0) at <8341.666992, 334.705200, 1640.669678>
+[COT 2025-09-02 22:07:54] 76561198024482897: Spawned Entity Crye G3 Combat Pants (FOG_Pants_Crye_G3_Blue<939e11c0>, 40, 300, 15, 0) at <8341.107422, 334.705200, 1640.864746>
+[COT 2025-09-02 22:08:11] 76561198024482897: Spawned Entity Shemagh (Shemag_Green<939de380>, 40, 100, 15, 0) at <8341.236328, 334.705200, 1639.767700>
+[COT 2025-09-02 22:10:37] 76561198024482897: Activated Community Online Tools [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-02 22:11:11] 76561198024482897: Spawned Entity FAST MT Cover (ItemBase<5555f8d0>, 100, 300, 15, 0) at <8342.593750, 334.705200, 1640.262939>
+[COT 2025-09-02 22:11:33] 76561198024482897: Spawned Entity Fast MT Super HighCut Helmet (FOG_Helmet_FASTMT_Base<87a7eac0>, 100, 300, 15, 0) at <8342.646484, 334.873749, 1640.132568>
+[COT 2025-09-02 22:12:03] 76561198024482897: Deleted Entity FOG_Helmet_FASTMT_AOR1:23934 at <8342.308594, 334.704102, 1639.710449>
+[COT 2025-09-02 22:12:20] 76561198024482897: Deleted Entity FOG_FASTMT_Cover_AOR2:22423 at <8343.204102, 334.704071, 1639.611938>
+[COT 2025-09-02 22:13:09] 76561198024482897: Spawned Entity FAST MT Cover (ItemBase<85594960>, 100, 300, 15, 0) at <8343.185547, 334.705200, 1639.941040>
+[COT 2025-09-02 22:14:39] 76561198024482897: Spawned Entity Crye Airframe Cover (ItemBase<9cb846d0>, 100, 300, 15, 0) at <8343.679688, 334.705200, 1638.782471>
+[COT 2025-09-02 22:17:05] 76561198024482897: Spawned Entity MRB Belt (FOG_MRB_Belt_MC<9979c8f0>, 100, 100, 15, 0) at <8344.298828, 334.705200, 1638.297363>
+[COT 2025-09-02 22:24:00] 76561198024482897: Spawned Entity Fast MT Super HighCut Helmet (FOG_Helmet_FASTMT_Base<9347f150>, 100, 300, 15, 0) at <8345.083984, 331.702728, 1637.844482>
+[COT 2025-09-02 22:24:14] 76561198024482897: Deleted Entity FOG_Helmet_FASTMT_Tan:8491 at <8344.354492, 331.701813, 1638.621216>
+[COT 2025-09-02 22:24:48] 76561198024482897: Spawned Entity Crye Airframe (FOG_Helmet_Airframe_Base<ddd26b40>, 100, 300, 15, 0) at <8344.416016, 331.702911, 1638.576538>
+[COT 2025-09-02 22:26:07] 76561198024482897: Spawned Entity FAST MT Cover (ItemBase<99dac170>, 100, 300, 15, 0) at <8345.884766, 334.705017, 1637.227783>
+[COT 2025-09-02 22:27:40] 76561198024482897: Deactivated Community Online Tools [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-02 22:27:41] 76561198024482897: Activated Community Online Tools [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 00:28:43] 76561198024482897: Activated Community Online Tools [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 00:29:41] 76561198024482897: Set GodMode To true [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 00:29:41] 76561198024482897: Set GodMode To false [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 00:30:06] 76561198024482897: ESP: Viewing ESP
+[COT 2025-09-03 00:30:11] 76561198024482897: ESP target=mmg_gear_stand_base<918fc240> action=position value=<8337.049805, 331.704010, 1641.119995>
+[COT 2025-09-03 00:30:12] 76561198024482897: ESP target=mmg_gear_stand_base<918fc240> action=position value=<8337.049805, 331.704010, 1641.219971>
+[COT 2025-09-03 00:30:14] 76561198024482897: ESP target=mmg_gear_stand_base<918fc240> action=position value=<8337.049805, 331.704010, 1641.119995>
+[COT 2025-09-03 00:30:15] 76561198024482897: ESP target=mmg_gear_stand_base<918fc240> action=position value=<8336.950195, 331.704010, 1641.119995>
+[COT 2025-09-03 00:30:15] 76561198024482897: ESP target=mmg_gear_stand_base<918fc240> action=position value=<8336.849609, 331.704010, 1641.119995>
+[COT 2025-09-03 00:30:16] 76561198024482897: ESP target=mmg_gear_stand_base<918fc240> action=position value=<8336.950195, 331.704010, 1641.119995>
+[COT 2025-09-03 00:30:20] 76561198024482897: ESP: Clearing ESP
+[COT 2025-09-03 00:52:30] 76561198024482897: Set GodMode To true [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 00:53:32] 76561198024482897: Spawned Entity UAZ 469 Cargo Roofless (ExpansionUAZCargoRoofless<30314110>, 100, 1000, 15, 0) at <4946.292480, 523.921570, 2123.287842>
+[COT 2025-09-03 00:54:23] 76561198024482897: Deleted Entity ExpansionUAZDoorDriver:16996 at <4945.060059, 524.002808, 2123.310059>
+[COT 2025-09-03 00:54:25] 76561198024482897: Deleted Entity ExpansionUAZDoorCargo2:14464 at <4945.060059, 524.013794, 2123.303955>
+[COT 2025-09-03 00:54:27] 76561198024482897: Deleted Entity ExpansionUAZWheel:14502 at <4945.079590, 524.099792, 2123.195557>
+[COT 2025-09-03 00:54:32] 76561198024482897: Deleted Entity ExpansionUAZWheel:15036 at <4945.567871, 524.115845, 2124.254639>
+[COT 2025-09-03 00:54:36] 76561198024482897: Set GodMode To false [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 00:54:37] 76561198024482897: Set GodMode To true [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 00:54:39] 76561198024482897: Deleted Entity ExpansionUAZDoorCoDriver:9409 at <4947.557617, 523.939087, 2123.475586>
+[COT 2025-09-03 01:09:31] 76561198024482897: Set GodMode To false [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 01:09:31] 76561198024482897: Set GodMode To true [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 01:22:39] 76561198024482897: Set GodMode To false [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 01:22:41] 76561198024482897: Set GodMode To true [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 01:22:54] 76561198024482897: Teleported 76561198024482897 to position <5095.710938, 510.320007, 2096.196777>
+[COT 2025-09-03 01:23:27] 76561198024482897: Teleported 76561198024482897 to position <8346.439453, 325.545319, 1638.019531>
+[COT 2025-09-03 01:23:53] 76561198024482897: Set GodMode To false [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 01:25:15] 76561198024482897: ESP: Viewing ESP
+[COT 2025-09-03 01:25:18] 76561198024482897: ESP: Clearing ESP
+[COT 2025-09-03 01:25:18] 76561198024482897: ESP: Viewing ESP
+[COT 2025-09-03 01:25:46] 76561198024482897: ESP: Clearing ESP
+[COT 2025-09-03 01:30:27] 76561198024482897: Spawned Entity MMG Metal Crate Green (mmg_storage_openable_noLock_base<e8e5b0b0>, 150, 5000, 15, 0) at <8338.187500, 331.704285, 1635.139526>
+[COT 2025-09-03 01:31:08] 76561198024482897: ESP: Viewing ESP
+[COT 2025-09-03 01:31:14] 76561198024482897: ESP: Clearing ESP
+[COT 2025-09-03 01:31:14] 76561198024482897: ESP: Viewing ESP
+[COT 2025-09-03 01:31:18] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=position value=<8337.480469, 331.704010, 1633.310059>
+[COT 2025-09-03 01:31:20] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=position value=<8337.580078, 331.704010, 1633.310059>
+[COT 2025-09-03 01:31:21] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=position value=<8337.580078, 331.704010, 1633.209961>
+[COT 2025-09-03 01:31:23] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=position value=<8337.679688, 331.704010, 1633.209961>
+[COT 2025-09-03 01:31:47] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=orientation value=<42.234798, 0.000000, -0.000000>
+[COT 2025-09-03 01:31:47] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=orientation value=<42.134800, 0.000000, -0.000000>
+[COT 2025-09-03 01:31:47] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=orientation value=<42.034801, 0.000000, -0.000000>
+[COT 2025-09-03 01:31:47] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=orientation value=<41.934799, 0.000000, -0.000000>
+[COT 2025-09-03 01:31:47] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=orientation value=<41.834801, 0.000000, -0.000000>
+[COT 2025-09-03 01:31:47] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=orientation value=<41.734798, 0.000000, -0.000000>
+[COT 2025-09-03 01:31:47] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=orientation value=<41.634800, 0.000000, -0.000000>
+[COT 2025-09-03 01:31:47] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=orientation value=<41.434799, 0.000000, -0.000000>
+[COT 2025-09-03 01:31:47] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=orientation value=<41.334801, 0.000000, -0.000000>
+[COT 2025-09-03 01:31:47] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=orientation value=<41.234798, 0.000000, -0.000000>
+[COT 2025-09-03 01:31:47] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=orientation value=<41.134800, 0.000000, -0.000000>
+[COT 2025-09-03 01:31:48] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=orientation value=<41.034801, 0.000000, -0.000000>
+[COT 2025-09-03 01:31:48] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=orientation value=<40.834801, 0.000000, -0.000000>
+[COT 2025-09-03 01:31:48] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=orientation value=<40.734798, 0.000000, -0.000000>
+[COT 2025-09-03 01:31:48] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=orientation value=<40.634800, 0.000000, -0.000000>
+[COT 2025-09-03 01:31:48] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=orientation value=<40.534801, 0.000000, -0.000000>
+[COT 2025-09-03 01:31:48] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=orientation value=<40.434799, 0.000000, -0.000000>
+[COT 2025-09-03 01:31:48] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=orientation value=<40.534801, 0.000000, -0.000000>
+[COT 2025-09-03 01:31:48] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=orientation value=<40.634800, 0.000000, -0.000000>
+[COT 2025-09-03 01:31:48] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=orientation value=<40.734798, 0.000000, -0.000000>
+[COT 2025-09-03 01:31:48] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=orientation value=<40.934799, 0.000000, -0.000000>
+[COT 2025-09-03 01:31:48] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=orientation value=<41.034801, 0.000000, -0.000000>
+[COT 2025-09-03 01:31:48] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=orientation value=<41.134800, 0.000000, -0.000000>
+[COT 2025-09-03 01:31:49] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=orientation value=<41.334801, 0.000000, -0.000000>
+[COT 2025-09-03 01:31:49] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=orientation value=<41.534801, 0.000000, -0.000000>
+[COT 2025-09-03 01:31:49] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=orientation value=<41.634800, 0.000000, -0.000000>
+[COT 2025-09-03 01:31:49] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=orientation value=<41.734798, 0.000000, -0.000000>
+[COT 2025-09-03 01:31:49] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=orientation value=<41.834801, 0.000000, -0.000000>
+[COT 2025-09-03 01:31:49] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=orientation value=<41.934799, 0.000000, -0.000000>
+[COT 2025-09-03 01:31:49] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=orientation value=<42.034801, 0.000000, -0.000000>
+[COT 2025-09-03 01:31:49] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=orientation value=<42.134800, 0.000000, -0.000000>
+[COT 2025-09-03 01:31:49] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=orientation value=<42.234798, 0.000000, -0.000000>
+[COT 2025-09-03 01:31:49] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=orientation value=<42.334801, 0.000000, -0.000000>
+[COT 2025-09-03 01:31:49] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=orientation value=<42.434799, 0.000000, -0.000000>
+[COT 2025-09-03 01:31:49] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=orientation value=<42.534801, 0.000000, -0.000000>
+[COT 2025-09-03 01:31:49] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=orientation value=<42.634800, 0.000000, -0.000000>
+[COT 2025-09-03 01:31:50] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=orientation value=<42.734798, 0.000000, -0.000000>
+[COT 2025-09-03 01:32:01] 76561198024482897: ESP target=mmg_storage_openable_noLock_base<e8e5b0b0> action=orientation value=<-45.005199, 0.001616, -0.000668>
+[COT 2025-09-03 01:32:01] 76561198024482897: ESP target=mmg_storage_openable_noLock_base<e8e5b0b0> action=orientation value=<-45.105202, 0.001616, -0.000668>
+[COT 2025-09-03 01:32:01] 76561198024482897: ESP target=mmg_storage_openable_noLock_base<e8e5b0b0> action=orientation value=<-45.205200, 0.001616, -0.000668>
+[COT 2025-09-03 01:32:01] 76561198024482897: ESP target=mmg_storage_openable_noLock_base<e8e5b0b0> action=orientation value=<-45.305199, 0.000000, -0.000000>
+[COT 2025-09-03 01:32:01] 76561198024482897: ESP target=mmg_storage_openable_noLock_base<e8e5b0b0> action=orientation value=<-45.405201, 0.000000, -0.000000>
+[COT 2025-09-03 01:32:01] 76561198024482897: ESP target=mmg_storage_openable_noLock_base<e8e5b0b0> action=orientation value=<-45.505199, 0.000000, -0.000000>
+[COT 2025-09-03 01:32:01] 76561198024482897: ESP target=mmg_storage_openable_noLock_base<e8e5b0b0> action=orientation value=<-45.605202, 0.000000, -0.000000>
+[COT 2025-09-03 01:32:02] 76561198024482897: ESP target=mmg_storage_openable_noLock_base<e8e5b0b0> action=orientation value=<-45.305199, 0.000000, 0.000000>
+[COT 2025-09-03 01:32:02] 76561198024482897: ESP target=mmg_storage_openable_noLock_base<e8e5b0b0> action=orientation value=<-45.205200, 0.000000, 0.000000>
+[COT 2025-09-03 01:32:03] 76561198024482897: ESP target=mmg_storage_openable_noLock_base<e8e5b0b0> action=orientation value=<-45.405201, 0.000000, 0.000000>
+[COT 2025-09-03 01:32:03] 76561198024482897: ESP target=mmg_storage_openable_noLock_base<e8e5b0b0> action=orientation value=<-45.505199, 0.000000, 0.000000>
+[COT 2025-09-03 01:32:03] 76561198024482897: ESP target=mmg_storage_openable_noLock_base<e8e5b0b0> action=orientation value=<-45.705200, 0.000000, 0.000000>
+[COT 2025-09-03 01:32:03] 76561198024482897: ESP target=mmg_storage_openable_noLock_base<e8e5b0b0> action=orientation value=<-45.805199, 0.000000, 0.000000>
+[COT 2025-09-03 01:32:03] 76561198024482897: ESP target=mmg_storage_openable_noLock_base<e8e5b0b0> action=orientation value=<-45.905201, 0.000000, 0.000000>
+[COT 2025-09-03 01:32:03] 76561198024482897: ESP target=mmg_storage_openable_noLock_base<e8e5b0b0> action=orientation value=<-46.005199, 0.000000, 0.000000>
+[COT 2025-09-03 01:32:04] 76561198024482897: ESP target=mmg_storage_openable_noLock_base<e8e5b0b0> action=orientation value=<-46.105202, 0.000000, 0.000000>
+[COT 2025-09-03 01:32:04] 76561198024482897: ESP target=mmg_storage_openable_noLock_base<e8e5b0b0> action=orientation value=<-46.205200, 0.000000, 0.000000>
+[COT 2025-09-03 01:32:04] 76561198024482897: ESP target=mmg_storage_openable_noLock_base<e8e5b0b0> action=orientation value=<-46.305199, 0.000000, 0.000000>
+[COT 2025-09-03 01:32:04] 76561198024482897: ESP target=mmg_storage_openable_noLock_base<e8e5b0b0> action=orientation value=<-46.405201, 0.000000, 0.000000>
+[COT 2025-09-03 01:32:04] 76561198024482897: ESP target=mmg_storage_openable_noLock_base<e8e5b0b0> action=orientation value=<-46.505199, 0.000000, 0.000000>
+[COT 2025-09-03 01:32:04] 76561198024482897: ESP target=mmg_storage_openable_noLock_base<e8e5b0b0> action=orientation value=<-46.605202, 0.000000, 0.000000>
+[COT 2025-09-03 01:32:05] 76561198024482897: ESP target=mmg_storage_openable_noLock_base<e8e5b0b0> action=orientation value=<-46.705200, 0.000000, 0.000000>
+[COT 2025-09-03 01:32:05] 76561198024482897: ESP target=mmg_storage_openable_noLock_base<e8e5b0b0> action=orientation value=<-46.805199, 0.000000, 0.000000>
+[COT 2025-09-03 01:32:09] 76561198024482897: ESP: Clearing ESP
+[COT 2025-09-03 01:32:33] 76561198024482897: Spawned Entity Lighter (PetrolLighter<8c063ff0>, 20, 20, 15, 0) at <8338.780273, 331.704285, 1634.113037>
+[COT 2025-09-03 01:32:33] 76561198024482897: Spawned Entity Lighter (PetrolLighter<8c063460>, 20, 20, 15, 0) at <8338.775391, 331.716156, 1634.113770>
+[COT 2025-09-03 01:34:13] 76561198024482897: Teleported 76561198024482897 to position <7975.100098, 442.005493, 119.562531>
+[COT 2025-09-03 01:34:16] 76561198024482897: Set GodMode To true [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 01:34:19] 76561198024482897: Teleported 76561198024482897 to position <7879.529785, 422.553436, 563.789368>
+[COT 2025-09-03 01:34:37] 76561198024482897: Teleported 76561198024482897 to position <8342.971680, 322.619995, 1641.854858>
+[COT 2025-09-03 01:37:16] 76561198024482897: ESP: Viewing ESP
+[COT 2025-09-03 01:37:18] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=position value=<8337.679688, 331.704010, 1633.109985>
+[COT 2025-09-03 01:37:21] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=position value=<8337.780273, 331.704010, 1633.109985>
+[COT 2025-09-03 01:37:22] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=position value=<8337.780273, 331.704010, 1633.209961>
+[COT 2025-09-03 01:37:23] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=position value=<8337.780273, 331.704010, 1633.109985>
+[COT 2025-09-03 01:37:24] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=position value=<8337.780273, 331.704010, 1633.010010>
+[COT 2025-09-03 01:37:25] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=position value=<8337.879883, 331.704010, 1633.010010>
+[COT 2025-09-03 01:37:26] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=position value=<8337.879883, 331.704010, 1633.109985>
+[COT 2025-09-03 01:37:27] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=position value=<8337.879883, 331.704010, 1633.010010>
+[COT 2025-09-03 01:37:27] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=position value=<8337.879883, 331.704010, 1632.910034>
+[COT 2025-09-03 01:37:28] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=position value=<8337.980469, 331.704010, 1632.910034>
+[COT 2025-09-03 01:37:29] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=position value=<8337.980469, 331.704010, 1632.810059>
+[COT 2025-09-03 01:37:30] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=position value=<8338.080078, 331.704010, 1632.810059>
+[COT 2025-09-03 01:37:35] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=position value=<8338.080078, 331.704010, 1632.709961>
+[COT 2025-09-03 01:37:36] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=position value=<8337.980469, 331.704010, 1632.709961>
+[COT 2025-09-03 01:37:37] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=position value=<8338.080078, 331.704010, 1632.709961>
+[COT 2025-09-03 01:37:38] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=position value=<8338.179688, 331.704010, 1632.709961>
+[COT 2025-09-03 01:37:59] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=position value=<8338.179688, 331.704010, 1632.609985>
+[COT 2025-09-03 01:38:00] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=position value=<8338.179688, 331.704010, 1632.709961>
+[COT 2025-09-03 01:38:01] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=position value=<8338.280273, 331.704010, 1632.709961>
+[COT 2025-09-03 01:38:02] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=position value=<8338.179688, 331.704010, 1632.709961>
+[COT 2025-09-03 01:38:02] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=position value=<8338.080078, 331.704010, 1632.709961>
+[COT 2025-09-03 01:38:03] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=position value=<8338.080078, 331.704010, 1632.810059>
+[COT 2025-09-03 01:38:04] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=position value=<8337.980469, 331.704010, 1632.810059>
+[COT 2025-09-03 01:38:05] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=position value=<8337.980469, 331.704010, 1632.910034>
+[COT 2025-09-03 01:38:07] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=position value=<8337.879883, 331.704010, 1632.910034>
+[COT 2025-09-03 01:38:08] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=position value=<8337.879883, 331.704010, 1633.010010>
+[COT 2025-09-03 01:38:10] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=position value=<8337.780273, 331.704010, 1633.010010>
+[COT 2025-09-03 01:38:11] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=position value=<8337.780273, 331.704010, 1633.109985>
+[COT 2025-09-03 01:38:11] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=position value=<8337.679688, 331.704010, 1633.109985>
+[COT 2025-09-03 01:38:13] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=position value=<8337.679688, 331.704010, 1633.209961>
+[COT 2025-09-03 01:38:13] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=position value=<8337.679688, 331.704010, 1633.310059>
+[COT 2025-09-03 01:38:14] 76561198024482897: ESP target=mmg_gun_rack_base<8dc797d0> action=position value=<8337.679688, 331.704010, 1633.209961>
+[COT 2025-09-03 01:39:33] 76561198024482897: ESP: Clearing ESP
+[COT 2025-09-03 01:46:51] 76561198024482897: Set GodMode To false [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 01:59:37] 76561198024482897: Deactivated Community Online Tools [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 03:15:13] 76561198024482897: Activated Community Online Tools [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 03:15:26] 76561198024482897: Storm 1, 0.7, 25
+[COT 2025-09-03 03:15:26] 76561198024482897: Overcast 0.906201, 0, 240
+[COT 2025-09-03 03:15:26] 76561198024482897: Rain 0.976959, 0, 240
+[COT 2025-09-03 03:15:26] 76561198024482897: Snow 0, 0, 240
+[COT 2025-09-03 03:15:26] 76561198024482897: Fog 0.332962, 0, 240
+[COT 2025-09-03 03:15:27] 76561198024482897: DynamicFog 0, 0, 0
+[COT 2025-09-03 03:15:27] 76561198024482897: WindMagnitude 8.57692, 0, 240
+[COT 2025-09-03 03:15:27] 76561198024482897: WindDirection 2.38918, 0, 240
+[COT 2025-09-03 03:15:27] 76561198024482897: WindFunction 0.157842, 0.452611, 2.35115
+[COT 2025-09-03 03:15:40] 76561198024482897: Set GodMode To true [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 03:16:11] 76561198024482897: Updated roles [guid=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=]
+[COT 2025-09-03 03:21:45] 76561198024482897: Spectating [guid=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=]
+[COT 2025-09-03 03:23:28] 76561198024482897: Stopped spectating
+[COT 2025-09-03 03:30:19] 76561198024482897: Set GodMode To false [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 03:30:21] 76561198024482897: Set GodMode To true [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 03:30:25] 76561198024482897: Set GodMode To false [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 03:30:25] 76561198024482897: Set GodMode To true [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 03:30:47] 76561198024482897: Spawned Entity Ada 4x4 (OffroadHatchback<62a2a630>, 100, 1000, 15, 0) at <8346.470703, 318.952057, 1684.339478>
+[COT 2025-09-03 03:32:16] 76561198024482897: Teleported 76561198024482897 to position <6149.815918, 386.461151, 4119.277832>
+[COT 2025-09-03 03:32:30] 76561198024482897: Teleported 76561198024482897 to position <8343.742188, 322.619995, 1641.484863>
+[COT 2025-09-03 03:34:34] 76561198024482897: Entered the Free Camera
+[COT 2025-09-03 03:36:15] 76561198024482897: Left the Free Camera
+[COT 2025-09-03 03:36:16] 76561198024482897: Deactivated Community Online Tools [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 03:37:00] 76561198024482897: Activated Community Online Tools [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 03:38:16] 76561198024482897: Entered the Free Camera
+[COT 2025-09-03 03:38:30] 76561198024482897: Left the Free Camera
+[COT 2025-09-03 03:38:33] 76561198024482897: Set GodMode To false [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 03:38:34] 76561198024482897: Set GodMode To true [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 03:38:42] 76561198024482897: Entered the Free Camera
+[COT 2025-09-03 03:38:43] 76561198024482897: Left the Free Camera
+[COT 2025-09-03 03:39:14] 76561198024482897: Set GodMode To false [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 03:39:15] 76561198024482897: Set GodMode To true [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 03:39:17] 76561198024482897: Entered the Free Camera
+[COT 2025-09-03 03:39:20] 76561198024482897: Left the Free Camera
+[COT 2025-09-03 03:40:22] 76561198024482897: Set GodMode To false [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 03:40:24] 76561198024482897: Set GodMode To true [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 03:40:26] 76561198024482897: Set GodMode To false [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 03:41:26] 76561198024482897: Entered the Free Camera
+[COT 2025-09-03 03:41:47] 76561198024482897: Left the Free Camera
+[COT 2025-09-03 03:42:04] 76561198024482897: Entered the Free Camera
+[COT 2025-09-03 03:42:04] 76561198024482897: Left the Free Camera
+[COT 2025-09-03 03:47:07] 76561198024482897: Set GodMode To true [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 03:47:07] 76561198024482897: Set GodMode To false [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 03:47:39] 76561198024482897: Spawned Entity Medium Tent (MediumTent<6868d730>, 100, 600, 15, 0) at <8340.431641, 331.704224, 1634.059814>
+[COT 2025-09-03 03:58:19] 76561198024482897: Activated Community Online Tools [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 04:07:18] 76561198024482897: ESP: Viewing ESP
+[COT 2025-09-03 04:07:19] 76561198024482897: ESP: Clearing ESP
+[COT 2025-09-03 04:07:19] 76561198024482897: ESP: Viewing ESP
+[COT 2025-09-03 04:07:27] 76561198024482897: ESP: Clearing ESP
+[COT 2025-09-03 04:07:27] 76561198024482897: ESP: Viewing ESP
+[COT 2025-09-03 04:07:29] 76561198024482897: ESP: Clearing ESP
+[COT 2025-09-03 04:07:35] 76561198024482897: ESP: Viewing ESP
+[COT 2025-09-03 04:07:40] 76561198024482897: ESP target=Spotlight<8dbaa440> action=position value=<8343.379883, 334.720001, 1628.660034>
+[COT 2025-09-03 04:07:41] 76561198024482897: ESP target=Spotlight<8dbaa440> action=position value=<8343.379883, 334.720001, 1628.560059>
+[COT 2025-09-03 04:07:41] 76561198024482897: ESP target=Spotlight<8dbaa440> action=position value=<8343.379883, 334.720001, 1628.459961>
+[COT 2025-09-03 04:07:41] 76561198024482897: ESP target=Spotlight<8dbaa440> action=position value=<8343.379883, 334.720001, 1628.359985>
+[COT 2025-09-03 04:07:42] 76561198024482897: ESP target=Spotlight<8dbaa440> action=position value=<8343.379883, 334.720001, 1628.260010>
+[COT 2025-09-03 04:07:42] 76561198024482897: ESP target=Spotlight<8dbaa440> action=position value=<8343.379883, 334.720001, 1628.160034>
+[COT 2025-09-03 04:07:44] 76561198024482897: ESP target=Spotlight<8dbaa440> action=position value=<8343.379883, 334.720001, 1628.060059>
+[COT 2025-09-03 04:07:44] 76561198024482897: ESP target=Spotlight<8dbaa440> action=position value=<8343.379883, 334.720001, 1627.859985>
+[COT 2025-09-03 04:07:44] 76561198024482897: ESP target=Spotlight<8dbaa440> action=position value=<8343.379883, 334.720001, 1627.760010>
+[COT 2025-09-03 04:07:45] 76561198024482897: ESP target=Spotlight<8dbaa440> action=position value=<8343.379883, 334.720001, 1627.660034>
+[COT 2025-09-03 04:07:45] 76561198024482897: ESP target=Spotlight<8dbaa440> action=position value=<8343.379883, 334.720001, 1627.560059>
+[COT 2025-09-03 04:07:45] 76561198024482897: ESP target=Spotlight<8dbaa440> action=position value=<8343.379883, 334.720001, 1627.459961>
+[COT 2025-09-03 04:07:46] 76561198024482897: ESP target=Spotlight<8dbaa440> action=position value=<8343.379883, 334.720001, 1627.359985>
+[COT 2025-09-03 04:07:48] 76561198024482897: ESP target=Spotlight<8dbaa440> action=position value=<8343.280273, 334.720001, 1627.359985>
+[COT 2025-09-03 04:07:49] 76561198024482897: ESP target=Spotlight<8dbaa440> action=position value=<8343.379883, 334.720001, 1627.359985>
+[COT 2025-09-03 04:07:49] 76561198024482897: ESP target=Spotlight<8dbaa440> action=position value=<8343.480469, 334.720001, 1627.359985>
+[COT 2025-09-03 04:07:49] 76561198024482897: ESP target=Spotlight<8dbaa440> action=position value=<8343.580078, 334.720001, 1627.359985>
+[COT 2025-09-03 04:07:51] 76561198024482897: ESP target=Spotlight<8dbaa440> action=position value=<8343.580078, 334.720001, 1627.260010>
+[COT 2025-09-03 04:07:55] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<164.738998, 0.000000, -0.000000>
+[COT 2025-09-03 04:07:55] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<164.639008, 0.000000, -0.000000>
+[COT 2025-09-03 04:07:55] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<164.539001, 0.000000, -0.000000>
+[COT 2025-09-03 04:07:56] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<164.438995, 0.000000, -0.000000>
+[COT 2025-09-03 04:07:56] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<164.339005, 0.000000, -0.000000>
+[COT 2025-09-03 04:07:56] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<164.238998, 0.000000, -0.000000>
+[COT 2025-09-03 04:07:56] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<164.139008, 0.000000, -0.000000>
+[COT 2025-09-03 04:07:56] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<164.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:07:56] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<163.938995, 0.000000, -0.000000>
+[COT 2025-09-03 04:07:56] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<163.639008, 0.000000, -0.000000>
+[COT 2025-09-03 04:07:56] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<163.238998, 0.000000, -0.000000>
+[COT 2025-09-03 04:07:56] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<162.938995, 0.000000, -0.000000>
+[COT 2025-09-03 04:07:57] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<162.839005, 0.000000, -0.000000>
+[COT 2025-09-03 04:07:57] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<162.438995, 0.000000, -0.000000>
+[COT 2025-09-03 04:07:57] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<162.139008, 0.000000, -0.000000>
+[COT 2025-09-03 04:07:57] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<162.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:07:57] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<161.938995, 0.000000, -0.000000>
+[COT 2025-09-03 04:07:57] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<161.738998, 0.000000, -0.000000>
+[COT 2025-09-03 04:07:57] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<161.539001, 0.000000, -0.000000>
+[COT 2025-09-03 04:07:57] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<161.339005, 0.000000, -0.000000>
+[COT 2025-09-03 04:07:57] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<161.238998, 0.000000, -0.000000>
+[COT 2025-09-03 04:07:57] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<161.139008, 0.000000, -0.000000>
+[COT 2025-09-03 04:07:58] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<161.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:07:58] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<160.938995, 0.000000, -0.000000>
+[COT 2025-09-03 04:07:58] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<160.839005, 0.000000, -0.000000>
+[COT 2025-09-03 04:07:58] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<160.738998, 0.000000, -0.000000>
+[COT 2025-09-03 04:07:58] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<160.639008, 0.000000, -0.000000>
+[COT 2025-09-03 04:07:58] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<160.339005, 0.000000, -0.000000>
+[COT 2025-09-03 04:07:58] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<160.139008, 0.000000, -0.000000>
+[COT 2025-09-03 04:07:58] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<160.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:07:59] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<159.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:07:59] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<157.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:07:59] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<155.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:07:59] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<154.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:07:59] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<153.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:07:59] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<151.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:07:59] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<150.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:07:59] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<149.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:07:59] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<147.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:07:59] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<146.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:07:59] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<145.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:00] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<147.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:00] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<150.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:00] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<153.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:00] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<154.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:00] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<155.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:00] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<156.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:00] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<157.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:00] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<160.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:00] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<163.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:00] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<164.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:00] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<166.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:00] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<167.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:01] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<169.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:01] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<172.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:01] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<174.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:01] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<176.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:01] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<177.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:01] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<180.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:01] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<182.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:01] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<184.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:01] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<186.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:01] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<187.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:01] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<188.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:01] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<190.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:01] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<193.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:01] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<196.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:01] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<197.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:02] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<198.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:02] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<199.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:02] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<201.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:02] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<203.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:02] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<205.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:02] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<207.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:02] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<208.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:02] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<209.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:02] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<210.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:02] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<212.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:02] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<214.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:02] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<216.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:02] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<217.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:02] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<218.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:03] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<221.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:03] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<224.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:03] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<226.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:03] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<227.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:03] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<229.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:03] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<231.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:03] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<233.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:03] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<235.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:03] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<236.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:04] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<237.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:04] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<240.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:04] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<242.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:04] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<244.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:04] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<245.039001, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:10] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<-113.958000, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:10] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<-112.958000, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:10] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<-111.958000, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:10] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<-110.958000, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:10] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<-109.958000, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:10] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<-108.958000, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:10] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<-107.958000, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:10] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<-106.958000, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:10] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<-105.958000, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:10] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<-104.958000, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:10] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<-103.958000, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:10] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<-101.958000, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:11] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<-100.958000, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:11] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<-99.958000, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:16] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<-100.961998, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:16] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<-101.961998, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:16] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<-102.961998, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:16] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<-103.961998, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:16] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<-104.961998, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:16] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<-105.961998, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:16] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<-106.961998, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:17] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<-107.961998, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:17] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<-108.961998, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:21] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<-109.960999, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:21] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<-110.960999, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:21] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<-111.960999, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:21] 76561198024482897: ESP target=Spotlight<8dbaa440> action=orientation value=<-112.960999, 0.000000, -0.000000>
+[COT 2025-09-03 04:08:29] 76561198024482897: ESP: Clearing ESP
+[COT 2025-09-03 04:09:49] 76561198024482897: Set GodMode To true [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 04:09:51] 76561198024482897: Deactivated Community Online Tools [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 04:09:52] 76561198024482897: Activated Community Online Tools [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 04:09:53] 76561198024482897: Set GodMode To false [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 04:09:53] 76561198024482897: Set GodMode To true [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 04:10:28] 76561198024482897: Set Invisibility To 1 [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 04:11:04] 76561198024482897: Teleported 76561198024482897 to position <6401.946289, 223.834015, 8126.957031>
+[COT 2025-09-03 04:11:30] 76561198024482897: Spawned Entity Camo Net (CamoNet<5e913d40>, 100, 120, 15, 0) at <6404.669434, 223.871704, 8133.944824>
+[COT 2025-09-03 04:11:49] 76561198024482897: Teleported 76561198024482897 to position <8345.958984, 322.619598, 1637.254395>
+[COT 2025-09-03 04:12:24] 76561198024482897: Set Invisibility To 0 [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 04:12:24] 76561198024482897: Set GodMode To false [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 04:12:27] 76561198024482897: Spectating [guid=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=]
+[COT 2025-09-03 04:13:13] 76561198024482897: Stopped spectating
+[COT 2025-09-03 04:13:49] 76561198024482897: Spawned Entity Construction Light (Spotlight<6b188d50>, 100, 80, 15, 0) at <8342.721680, 331.703827, 1632.934082>
+[COT 2025-09-03 04:15:40] 76561198024482897: Spawned Entity Cable Reel (CableReel<7df6a190>, 100, 90, 15, 0) at <8343.038086, 331.702911, 1640.116943>
+[COT 2025-09-03 04:17:28] 76561198024482897: ESP: Viewing ESP
+[COT 2025-09-03 04:17:35] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8342.450195, 331.803009, 1642.319946>
+[COT 2025-09-03 04:17:37] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8342.450195, 331.903015, 1642.319946>
+[COT 2025-09-03 04:17:38] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8342.450195, 332.102997, 1642.319946>
+[COT 2025-09-03 04:17:38] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8342.450195, 332.203003, 1642.319946>
+[COT 2025-09-03 04:17:39] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8342.450195, 332.303009, 1642.319946>
+[COT 2025-09-03 04:17:39] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8342.450195, 332.502991, 1642.319946>
+[COT 2025-09-03 04:17:46] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8342.450195, 332.502991, 1642.219971>
+[COT 2025-09-03 04:17:46] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8342.450195, 332.502991, 1642.119995>
+[COT 2025-09-03 04:17:47] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8342.450195, 332.502991, 1642.319946>
+[COT 2025-09-03 04:17:47] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8342.450195, 332.502991, 1642.520020>
+[COT 2025-09-03 04:17:48] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8342.450195, 332.502991, 1642.619995>
+[COT 2025-09-03 04:17:49] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8342.450195, 332.502991, 1642.719971>
+[COT 2025-09-03 04:17:49] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8342.450195, 332.502991, 1642.819946>
+[COT 2025-09-03 04:17:49] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8342.450195, 332.502991, 1643.020020>
+[COT 2025-09-03 04:17:49] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8342.450195, 332.502991, 1643.119995>
+[COT 2025-09-03 04:17:50] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8342.450195, 332.502991, 1643.219971>
+[COT 2025-09-03 04:17:50] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8342.450195, 332.502991, 1643.319946>
+[COT 2025-09-03 04:17:50] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8342.450195, 332.502991, 1643.420044>
+[COT 2025-09-03 04:17:50] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8342.450195, 332.502991, 1643.520020>
+[COT 2025-09-03 04:17:50] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8342.450195, 332.502991, 1643.619995>
+[COT 2025-09-03 04:17:53] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8342.349609, 332.502991, 1643.619995>
+[COT 2025-09-03 04:17:53] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8342.250000, 332.502991, 1643.619995>
+[COT 2025-09-03 04:17:54] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8342.349609, 332.502991, 1643.619995>
+[COT 2025-09-03 04:17:54] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8342.450195, 332.502991, 1643.619995>
+[COT 2025-09-03 04:17:55] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8342.549805, 332.502991, 1643.619995>
+[COT 2025-09-03 04:17:55] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8342.650391, 332.502991, 1643.619995>
+[COT 2025-09-03 04:17:55] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8342.750000, 332.502991, 1643.619995>
+[COT 2025-09-03 04:17:56] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8342.849609, 332.502991, 1643.619995>
+[COT 2025-09-03 04:17:58] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8342.849609, 332.502991, 1643.719971>
+[COT 2025-09-03 04:17:59] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8342.849609, 332.502991, 1643.819946>
+[COT 2025-09-03 04:17:59] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8342.849609, 332.502991, 1643.920044>
+[COT 2025-09-03 04:18:01] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8342.849609, 332.502991, 1643.819946>
+[COT 2025-09-03 04:18:04] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8342.750000, 332.502991, 1643.819946>
+[COT 2025-09-03 04:18:05] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8342.849609, 332.502991, 1643.819946>
+[COT 2025-09-03 04:18:07] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<156.832993, 0.000000, 0.002065>
+[COT 2025-09-03 04:18:07] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<156.932999, 0.000000, -0.000000>
+[COT 2025-09-03 04:18:07] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<157.033005, 0.000000, -0.000000>
+[COT 2025-09-03 04:18:07] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<157.132996, 0.000000, -0.000000>
+[COT 2025-09-03 04:18:07] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<157.233002, 0.000000, -0.000000>
+[COT 2025-09-03 04:18:08] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<157.432999, 0.000000, -0.000000>
+[COT 2025-09-03 04:18:08] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<157.632996, 0.000000, -0.000000>
+[COT 2025-09-03 04:18:08] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<157.932999, 0.000000, -0.000000>
+[COT 2025-09-03 04:18:08] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<158.233002, 0.000000, -0.000000>
+[COT 2025-09-03 04:18:08] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<158.533005, 0.000000, -0.000000>
+[COT 2025-09-03 04:18:08] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<158.632996, 0.000000, -0.000000>
+[COT 2025-09-03 04:18:09] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<158.733002, 0.000000, -0.000000>
+[COT 2025-09-03 04:18:09] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<158.932999, 0.000000, -0.000000>
+[COT 2025-09-03 04:18:09] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<159.233002, 0.000000, -0.000000>
+[COT 2025-09-03 04:18:09] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<159.432999, 0.000000, -0.000000>
+[COT 2025-09-03 04:18:09] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<159.533005, 0.000000, -0.000000>
+[COT 2025-09-03 04:18:09] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<160.533005, 0.000000, -0.000000>
+[COT 2025-09-03 04:18:09] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<162.533005, 0.000000, -0.000000>
+[COT 2025-09-03 04:18:09] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<164.533005, 0.000000, -0.000000>
+[COT 2025-09-03 04:18:09] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<165.533005, 0.000000, -0.000000>
+[COT 2025-09-03 04:18:09] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<166.533005, 0.000000, -0.000000>
+[COT 2025-09-03 04:18:10] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<167.533005, 0.000000, -0.000000>
+[COT 2025-09-03 04:18:10] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<168.533005, 0.000000, -0.000000>
+[COT 2025-09-03 04:18:10] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<169.533005, 0.000000, -0.000000>
+[COT 2025-09-03 04:18:10] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<171.533005, 0.000000, -0.000000>
+[COT 2025-09-03 04:18:10] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<173.533005, 0.000000, -0.000000>
+[COT 2025-09-03 04:18:10] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<174.533005, 0.000000, -0.000000>
+[COT 2025-09-03 04:18:10] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<175.533005, 0.000000, -0.000000>
+[COT 2025-09-03 04:18:11] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<176.533005, 0.000000, -0.000000>
+[COT 2025-09-03 04:18:11] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<177.533005, 0.000000, -0.000000>
+[COT 2025-09-03 04:18:11] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<178.533005, 0.000000, -0.000000>
+[COT 2025-09-03 04:18:11] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<180.533005, 0.000000, -0.000000>
+[COT 2025-09-03 04:18:11] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<181.533005, 0.000000, -0.000000>
+[COT 2025-09-03 04:18:11] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<180.533005, 0.000000, -0.000000>
+[COT 2025-09-03 04:18:11] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<178.533005, 0.000000, -0.000000>
+[COT 2025-09-03 04:18:11] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<177.533005, 0.000000, -0.000000>
+[COT 2025-09-03 04:18:11] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<176.533005, 0.000000, -0.000000>
+[COT 2025-09-03 04:18:11] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<175.533005, 0.000000, -0.000000>
+[COT 2025-09-03 04:18:12] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<174.533005, 0.000000, -0.000000>
+[COT 2025-09-03 04:18:12] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<173.533005, 0.000000, -0.000000>
+[COT 2025-09-03 04:18:12] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<172.533005, 0.000000, -0.000000>
+[COT 2025-09-03 04:18:12] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<171.533005, 0.000000, -0.000000>
+[COT 2025-09-03 04:18:12] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<170.533005, 0.000000, -0.000000>
+[COT 2025-09-03 04:18:12] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<169.533005, 0.000000, -0.000000>
+[COT 2025-09-03 04:18:12] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<168.533005, 0.000000, -0.000000>
+[COT 2025-09-03 04:18:12] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<167.533005, 0.000000, -0.000000>
+[COT 2025-09-03 04:18:12] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<166.533005, 0.000000, -0.000000>
+[COT 2025-09-03 04:18:14] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8342.849609, 332.502991, 1643.719971>
+[COT 2025-09-03 04:18:15] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8342.849609, 332.502991, 1643.819946>
+[COT 2025-09-03 04:18:16] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8342.849609, 332.502991, 1643.920044>
+[COT 2025-09-03 04:18:16] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8342.849609, 332.502991, 1643.819946>
+[COT 2025-09-03 04:18:17] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8342.849609, 332.502991, 1643.719971>
+[COT 2025-09-03 04:18:18] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8342.750000, 332.502991, 1643.719971>
+[COT 2025-09-03 04:18:19] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8342.849609, 332.502991, 1643.719971>
+[COT 2025-09-03 04:18:20] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8342.950195, 332.502991, 1643.719971>
+[COT 2025-09-03 04:18:21] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8342.950195, 332.502991, 1643.619995>
+[COT 2025-09-03 04:18:23] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8342.950195, 332.502991, 1643.719971>
+[COT 2025-09-03 04:18:25] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8343.049805, 332.502991, 1643.719971>
+[COT 2025-09-03 04:18:27] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8343.150391, 332.502991, 1643.719971>
+[COT 2025-09-03 04:18:33] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8343.049805, 332.502991, 1643.719971>
+[COT 2025-09-03 04:18:34] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8342.950195, 332.502991, 1643.719971>
+[COT 2025-09-03 04:19:35] 76561198024482897: ESP: Clearing ESP
+[COT 2025-09-03 04:19:58] 76561198024482897: ESP: Viewing ESP
+[COT 2025-09-03 04:20:02] 76561198024482897: ESP target=CableReel<7df6a190> action=position value=<8339.429688, 331.890991, 1639.640015>
+[COT 2025-09-03 04:20:02] 76561198024482897: ESP target=CableReel<7df6a190> action=position value=<8339.429688, 331.990997, 1639.640015>
+[COT 2025-09-03 04:20:02] 76561198024482897: ESP target=CableReel<7df6a190> action=position value=<8339.429688, 332.191010, 1639.640015>
+[COT 2025-09-03 04:20:02] 76561198024482897: ESP target=CableReel<7df6a190> action=position value=<8339.429688, 332.290985, 1639.640015>
+[COT 2025-09-03 04:20:02] 76561198024482897: ESP target=CableReel<7df6a190> action=position value=<8339.429688, 332.390991, 1639.640015>
+[COT 2025-09-03 04:20:03] 76561198024482897: ESP target=CableReel<7df6a190> action=position value=<8339.429688, 332.490997, 1639.640015>
+[COT 2025-09-03 04:20:03] 76561198024482897: ESP target=CableReel<7df6a190> action=position value=<8339.429688, 332.591003, 1639.640015>
+[COT 2025-09-03 04:20:03] 76561198024482897: ESP target=CableReel<7df6a190> action=position value=<8339.429688, 332.691010, 1639.640015>
+[COT 2025-09-03 04:20:04] 76561198024482897: ESP target=CableReel<7df6a190> action=position value=<8339.429688, 332.790985, 1639.640015>
+[COT 2025-09-03 04:20:47] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-136.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:20:48] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-137.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:20:48] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-138.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:20:48] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-139.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:20:48] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-138.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:20:49] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-137.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:20:49] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-136.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:20:49] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-135.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:20:49] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-134.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:20:49] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-133.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:20:49] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-135.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:20:49] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-136.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:20:49] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-138.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:20:49] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-139.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:20:49] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-140.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:20:50] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-139.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:20:50] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-138.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:20:50] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-137.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:20:50] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-136.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:20:57] 76561198024482897: ESP target=CableReel<7df6a190> action=position value=<8339.429688, 332.691010, 1639.640015>
+[COT 2025-09-03 04:20:57] 76561198024482897: ESP target=CableReel<7df6a190> action=position value=<8339.429688, 332.591003, 1639.640015>
+[COT 2025-09-03 04:20:57] 76561198024482897: ESP target=CableReel<7df6a190> action=position value=<8339.429688, 332.490997, 1639.640015>
+[COT 2025-09-03 04:20:57] 76561198024482897: ESP target=CableReel<7df6a190> action=position value=<8339.429688, 332.390991, 1639.640015>
+[COT 2025-09-03 04:20:59] 76561198024482897: ESP target=CableReel<7df6a190> action=position value=<8339.429688, 332.490997, 1639.640015>
+[COT 2025-09-03 04:21:00] 76561198024482897: ESP target=CableReel<7df6a190> action=position value=<8339.429688, 332.390991, 1639.640015>
+[COT 2025-09-03 04:21:01] 76561198024482897: ESP target=CableReel<7df6a190> action=position value=<8339.429688, 332.290985, 1639.640015>
+[COT 2025-09-03 04:21:02] 76561198024482897: ESP target=CableReel<7df6a190> action=position value=<8339.429688, 332.191010, 1639.640015>
+[COT 2025-09-03 04:21:04] 76561198024482897: ESP target=CableReel<7df6a190> action=position value=<8339.429688, 332.290985, 1639.640015>
+[COT 2025-09-03 04:21:05] 76561198024482897: ESP target=CableReel<7df6a190> action=position value=<8339.429688, 332.191010, 1639.640015>
+[COT 2025-09-03 04:21:06] 76561198024482897: ESP target=CableReel<7df6a190> action=position value=<8339.429688, 332.091003, 1639.640015>
+[COT 2025-09-03 04:21:06] 76561198024482897: ESP target=CableReel<7df6a190> action=position value=<8339.429688, 331.990997, 1639.640015>
+[COT 2025-09-03 04:21:12] 76561198024482897: ESP target=CableReel<7df6a190> action=position value=<8339.429688, 331.890991, 1639.640015>
+[COT 2025-09-03 04:21:12] 76561198024482897: ESP target=CableReel<7df6a190> action=position value=<8339.429688, 331.790985, 1639.640015>
+[COT 2025-09-03 04:21:13] 76561198024482897: ESP target=CableReel<7df6a190> action=position value=<8339.429688, 331.691010, 1639.640015>
+[COT 2025-09-03 04:21:13] 76561198024482897: ESP target=CableReel<7df6a190> action=position value=<8339.429688, 331.591003, 1639.640015>
+[COT 2025-09-03 04:21:14] 76561198024482897: ESP target=CableReel<7df6a190> action=position value=<8339.429688, 331.691010, 1639.640015>
+[COT 2025-09-03 04:21:14] 76561198024482897: ESP target=CableReel<7df6a190> action=position value=<8339.429688, 331.790985, 1639.640015>
+[COT 2025-09-03 04:21:18] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-137.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:18] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-138.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:18] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-139.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:19] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-140.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:19] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-141.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:19] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-142.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:19] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-141.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:19] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-139.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:19] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-135.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:19] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-134.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:20] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-133.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:20] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-130.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:20] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-128.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:20] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-125.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:20] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-124.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:20] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-121.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:20] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-119.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:20] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-117.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:20] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-116.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:20] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-114.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:20] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-112.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:20] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-110.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:20] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-108.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:20] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-107.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:21] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-106.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:21] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-105.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:21] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-103.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:21] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-101.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:21] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-99.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:21] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-98.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:21] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-97.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:21] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-98.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:21] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-102.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:22] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-103.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:22] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-104.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:22] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-102.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:22] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-99.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:22] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-96.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:22] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-95.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:22] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-94.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:22] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-93.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:22] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-92.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:23] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-91.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:23] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-89.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:23] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-88.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:23] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-87.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:23] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-86.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:23] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-83.615997, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:23] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-81.615997, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:23] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-78.615997, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:23] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-76.615997, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:23] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-75.615997, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:23] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-72.615997, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:23] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-70.615997, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:23] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-68.615997, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:23] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-66.615997, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:23] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-65.615997, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:23] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-64.615997, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:24] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-62.616001, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:24] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-60.616001, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:24] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-58.616001, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:24] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-57.616001, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:24] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-55.616001, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:24] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-54.616001, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:24] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-53.616001, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:24] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-51.616001, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:24] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-50.616001, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:24] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-48.616001, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:24] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-47.616001, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:24] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-46.616001, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:24] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-45.616001, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:25] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-44.616001, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:25] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-43.616001, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:25] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-41.616001, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:25] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-40.616001, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:25] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-38.616001, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:25] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-36.616001, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:25] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-33.616001, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:25] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-31.615999, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:25] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-30.615999, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:25] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-29.615999, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:25] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-28.615999, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:25] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-27.615999, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:26] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-26.615999, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:26] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-25.615999, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:26] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-24.615999, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:26] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-23.615999, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:26] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-21.615999, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:26] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-20.615999, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:26] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-19.615999, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:26] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-18.615999, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:26] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-17.615999, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:26] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-15.616000, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:26] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-13.616000, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:26] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-11.616000, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:26] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-10.616000, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:26] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-9.616000, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:27] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-7.616000, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:27] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-5.616000, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:27] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-3.616000, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:27] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-2.616000, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:27] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<-1.616000, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:27] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<1.384000, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:27] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<4.384000, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:27] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<5.384000, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:27] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<6.384000, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:27] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<7.384000, 0.000000, 0.000000>
+[COT 2025-09-03 04:21:28] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<9.384000, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:28] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<12.384000, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:28] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<14.384000, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:28] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<15.384000, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:28] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<17.384001, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:28] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<20.384001, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:28] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<22.384001, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:28] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<23.384001, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:28] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<25.384001, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:28] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<28.384001, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:28] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<30.384001, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:28] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<31.384001, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:28] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<32.383999, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:30] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<33.383999, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:30] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<34.383999, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:31] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<36.383999, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:31] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<37.383999, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:31] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<39.383999, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:31] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<42.383999, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:31] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<43.383999, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:31] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<44.383999, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:31] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<45.383999, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:31] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<46.383999, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:31] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<47.383999, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:32] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<48.383999, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:32] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<49.383999, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:32] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<50.383999, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:32] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<51.383999, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:32] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<52.383999, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:32] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<51.383999, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:32] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<50.383999, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:32] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<49.383999, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:32] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<48.383999, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:33] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<49.383999, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:33] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<50.383999, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:33] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<51.383999, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:33] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<53.383999, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:33] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<55.383999, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:33] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<56.383999, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:33] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<57.383999, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:33] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<58.383999, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:33] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<60.383999, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:33] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<62.383999, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:33] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<63.383999, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:33] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<64.384003, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:33] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<65.384003, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:33] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<67.384003, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:34] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<68.384003, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:34] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<70.384003, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:34] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<71.384003, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:34] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<72.384003, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:34] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<73.384003, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:34] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<75.384003, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:34] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<77.384003, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:34] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<78.384003, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:34] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<79.384003, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:34] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<80.384003, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:34] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<81.384003, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:35] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<83.384003, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:35] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<84.384003, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:35] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<85.384003, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:35] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<86.384003, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:35] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<87.384003, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:35] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<89.384003, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:35] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<90.384003, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:35] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<91.384003, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:35] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<92.384003, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:36] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<91.384003, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:36] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<90.384003, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:36] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<89.384003, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:36] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<88.384003, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:36] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<87.384003, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:36] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<86.384003, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:37] 76561198024482897: ESP target=CableReel<7df6a190> action=orientation value=<85.384003, 0.000000, -0.000000>
+[COT 2025-09-03 04:21:46] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8340.589844, 331.766998, 1639.800049>
+[COT 2025-09-03 04:21:46] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8340.589844, 331.766998, 1639.699951>
+[COT 2025-09-03 04:21:47] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8340.589844, 331.766998, 1639.599976>
+[COT 2025-09-03 04:21:48] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8340.490234, 331.766998, 1639.599976>
+[COT 2025-09-03 04:21:48] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8340.389648, 331.766998, 1639.599976>
+[COT 2025-09-03 04:21:49] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8340.290039, 331.766998, 1639.599976>
+[COT 2025-09-03 04:21:50] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8340.389648, 331.766998, 1639.599976>
+[COT 2025-09-03 04:21:51] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8340.290039, 331.766998, 1639.599976>
+[COT 2025-09-03 04:21:53] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8340.190430, 331.766998, 1639.599976>
+[COT 2025-09-03 04:21:54] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8340.089844, 331.766998, 1639.599976>
+[COT 2025-09-03 04:21:55] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8340.089844, 331.766998, 1639.500000>
+[COT 2025-09-03 04:21:56] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8339.990234, 331.766998, 1639.500000>
+[COT 2025-09-03 04:21:56] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8339.889648, 331.766998, 1639.500000>
+[COT 2025-09-03 04:21:57] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8339.790039, 331.766998, 1639.500000>
+[COT 2025-09-03 04:21:58] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8339.790039, 331.766998, 1639.599976>
+[COT 2025-09-03 04:21:59] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8339.690430, 331.766998, 1639.599976>
+[COT 2025-09-03 04:22:00] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8339.790039, 331.766998, 1639.599976>
+[COT 2025-09-03 04:22:02] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8339.690430, 331.766998, 1639.599976>
+[COT 2025-09-03 04:22:02] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8339.589844, 331.766998, 1639.599976>
+[COT 2025-09-03 04:22:04] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8339.589844, 331.766998, 1639.500000>
+[COT 2025-09-03 04:22:05] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8339.589844, 331.766998, 1639.599976>
+[COT 2025-09-03 04:22:06] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8339.490234, 331.766998, 1639.599976>
+[COT 2025-09-03 04:22:09] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-111.273003, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:09] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-112.273003, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:09] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-113.273003, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:09] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-114.273003, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:09] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-115.273003, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:10] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-116.273003, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:10] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-118.273003, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:10] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-120.273003, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:10] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-122.273003, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:10] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-123.273003, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:10] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-124.273003, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:10] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-126.273003, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:10] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-128.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:10] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-129.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:10] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-130.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:11] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-131.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:11] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-132.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:11] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-134.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:11] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-136.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:11] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-137.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:11] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-139.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:11] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-140.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:12] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-141.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:12] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-144.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:12] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-147.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:12] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-148.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:12] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-149.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:12] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-151.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:12] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-154.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:12] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-155.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:12] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-157.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:12] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-158.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:12] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-160.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:12] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-162.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:12] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-163.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:12] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-165.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:13] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-166.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:13] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-169.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:13] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-170.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:13] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-172.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:13] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-173.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:13] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-174.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:13] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-176.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:13] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-177.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:13] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-180.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:14] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-181.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:14] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-182.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:14] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-183.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:14] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-184.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:14] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-186.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:14] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-187.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:14] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-189.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:14] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-190.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:14] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-191.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:14] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-192.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:14] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-193.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:15] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-194.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:15] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-196.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:15] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-198.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:15] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-200.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:15] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-201.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:15] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-202.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:15] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-203.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:15] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-204.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:15] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-206.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:15] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-208.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:15] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-209.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:15] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-211.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:16] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-212.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:16] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-213.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:16] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-215.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:16] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-216.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:16] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-218.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:16] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-219.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:16] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-220.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:16] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-221.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:16] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-222.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:16] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-224.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:16] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-225.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:16] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-227.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:16] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-228.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:17] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-229.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:17] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-230.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:17] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-231.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:17] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-232.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:17] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-234.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:17] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-235.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:17] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-236.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:17] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-237.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:17] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-240.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:17] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-242.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:17] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-245.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:18] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-246.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:18] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-248.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:18] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-251.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:18] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-253.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:18] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-254.272995, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:18] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-256.273010, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:18] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-260.273010, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:18] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-262.273010, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:18] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-263.273010, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:18] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-264.273010, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:19] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-265.273010, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:19] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-267.273010, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:19] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-269.273010, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:19] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-271.273010, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:19] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-272.273010, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:20] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-273.273010, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:20] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-274.273010, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:20] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-275.273010, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:20] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-276.273010, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:20] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-275.273010, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:22] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-274.273010, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:22] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-273.273010, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:22] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-272.273010, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:23] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-271.273010, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:23] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-270.273010, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:23] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-269.273010, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:23] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-268.273010, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:23] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-267.273010, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:23] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-268.273010, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:23] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-269.273010, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:23] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-270.273010, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:23] 76561198024482897: ESP target=Spotlight<6b188d50> action=orientation value=<-271.273010, 0.000000, -0.000000>
+[COT 2025-09-03 04:22:25] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8339.490234, 331.766998, 1639.500000>
+[COT 2025-09-03 04:22:26] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8339.389648, 331.766998, 1639.500000>
+[COT 2025-09-03 04:22:27] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8339.290039, 331.766998, 1639.500000>
+[COT 2025-09-03 04:22:28] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8339.190430, 331.766998, 1639.500000>
+[COT 2025-09-03 04:22:28] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8339.089844, 331.766998, 1639.500000>
+[COT 2025-09-03 04:22:30] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8339.089844, 331.766998, 1639.599976>
+[COT 2025-09-03 04:22:31] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8339.089844, 331.766998, 1639.699951>
+[COT 2025-09-03 04:22:31] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8339.089844, 331.766998, 1639.599976>
+[COT 2025-09-03 04:22:33] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8338.990234, 331.766998, 1639.599976>
+[COT 2025-09-03 04:22:35] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8338.889648, 331.766998, 1639.599976>
+[COT 2025-09-03 04:22:36] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8338.990234, 331.766998, 1639.599976>
+[COT 2025-09-03 04:22:37] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8339.089844, 331.766998, 1639.599976>
+[COT 2025-09-03 04:22:38] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8338.990234, 331.766998, 1639.599976>
+[COT 2025-09-03 04:22:38] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8338.889648, 331.766998, 1639.599976>
+[COT 2025-09-03 04:22:40] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8338.889648, 331.867004, 1639.599976>
+[COT 2025-09-03 04:22:41] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8338.889648, 331.967010, 1639.599976>
+[COT 2025-09-03 04:22:41] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8338.889648, 332.066986, 1639.599976>
+[COT 2025-09-03 04:22:41] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8338.889648, 332.166992, 1639.599976>
+[COT 2025-09-03 04:22:41] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8338.889648, 332.266998, 1639.599976>
+[COT 2025-09-03 04:22:42] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8338.889648, 332.467010, 1639.599976>
+[COT 2025-09-03 04:22:42] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8338.889648, 332.566986, 1639.599976>
+[COT 2025-09-03 04:22:42] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8338.889648, 332.766998, 1639.599976>
+[COT 2025-09-03 04:22:45] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8338.889648, 332.666992, 1639.599976>
+[COT 2025-09-03 04:22:45] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8338.889648, 332.566986, 1639.599976>
+[COT 2025-09-03 04:22:47] 76561198024482897: ESP target=Spotlight<6b188d50> action=position value=<8338.990234, 332.566986, 1639.599976>
+[COT 2025-09-03 04:22:54] 76561198024482897: ESP: Clearing ESP
+[COT 2025-09-03 04:30:30] 76561198024482897: Deactivated Community Online Tools [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 04:47:42] 76561198024482897: Activated Community Online Tools [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 04:47:43] 76561198024482897: Set GodMode To true [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 04:49:24] 76561198024482897: Teleported 76561198024482897 to position <6874.803223, 457.188690, 330.894470>
+[COT 2025-09-03 04:49:38] 76561198024482897: Set GodMode To false [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 04:49:39] 76561198024482897: Set GodMode To true [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 04:49:40] 76561198024482897: Entered the Free Camera
+[COT 2025-09-03 04:50:12] 76561198024482897: Left the Free Camera
+[COT 2025-09-03 04:51:02] 76561198024482897: Set GodMode To false [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 04:51:02] 76561198024482897: Set GodMode To true [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 04:51:14] 76561198024482897: Teleported 76561198024482897 to position <8345.651367, 325.593414, 1638.381226>
+[COT 2025-09-03 04:55:46] 76561198024482897: Set GodMode To false [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 04:55:48] 76561198024482897: Set GodMode To true [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 04:56:06] 76561198024482897: Spawned Entity MMG Gun Wall Kit Metal (mmg_gun_wall_kit_metal<85251ef0>, 1000, 1000, 15, 0) at <8345.711914, 334.705017, 1637.848877>
+[COT 2025-09-03 04:56:55] 76561198024482897: ESP: Viewing ESP
+[COT 2025-09-03 04:57:09] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=position value=<8349.719727, 334.505005, 1634.869995>
+[COT 2025-09-03 04:57:09] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=position value=<8349.719727, 334.505005, 1634.770020>
+[COT 2025-09-03 04:57:10] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=position value=<8349.719727, 334.505005, 1634.670044>
+[COT 2025-09-03 04:57:11] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=position value=<8349.620117, 334.505005, 1634.670044>
+[COT 2025-09-03 04:57:12] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=position value=<8349.719727, 334.505005, 1634.670044>
+[COT 2025-09-03 04:57:12] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=position value=<8349.820313, 334.505005, 1634.670044>
+[COT 2025-09-03 04:57:13] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=position value=<8349.919922, 334.505005, 1634.670044>
+[COT 2025-09-03 04:57:14] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=position value=<8349.919922, 334.505005, 1634.569946>
+[COT 2025-09-03 04:57:14] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=position value=<8349.919922, 334.505005, 1634.469971>
+[COT 2025-09-03 04:57:17] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=orientation value=<135.552994, 0.000000, -0.000000>
+[COT 2025-09-03 04:57:17] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=orientation value=<134.552994, 0.000000, -0.000000>
+[COT 2025-09-03 04:57:17] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=orientation value=<133.552994, 0.000000, -0.000000>
+[COT 2025-09-03 04:57:17] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=orientation value=<132.552994, 0.000000, -0.000000>
+[COT 2025-09-03 04:57:17] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=orientation value=<131.552994, 0.000000, -0.000000>
+[COT 2025-09-03 04:57:17] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=orientation value=<130.552994, 0.000000, -0.000000>
+[COT 2025-09-03 04:57:17] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=orientation value=<129.552994, 0.000000, -0.000000>
+[COT 2025-09-03 04:57:17] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=orientation value=<128.552994, 0.000000, -0.000000>
+[COT 2025-09-03 04:57:18] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=orientation value=<129.552994, 0.000000, -0.000000>
+[COT 2025-09-03 04:57:18] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=orientation value=<130.552994, 0.000000, -0.000000>
+[COT 2025-09-03 04:57:18] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=orientation value=<131.552994, 0.000000, -0.000000>
+[COT 2025-09-03 04:57:18] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=orientation value=<132.552994, 0.000000, -0.000000>
+[COT 2025-09-03 04:57:18] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=orientation value=<133.552994, 0.000000, -0.000000>
+[COT 2025-09-03 04:57:18] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=orientation value=<132.552994, 0.000000, -0.000000>
+[COT 2025-09-03 04:57:19] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=orientation value=<131.552994, 0.000000, -0.000000>
+[COT 2025-09-03 04:57:20] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=orientation value=<130.552994, 0.000000, -0.000000>
+[COT 2025-09-03 04:57:20] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=orientation value=<131.552994, 0.000000, -0.000000>
+[COT 2025-09-03 04:57:21] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=orientation value=<132.552994, 0.000000, -0.000000>
+[COT 2025-09-03 04:57:21] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=orientation value=<131.552994, 0.000000, -0.000000>
+[COT 2025-09-03 04:57:24] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=position value=<8349.919922, 334.505005, 1634.369995>
+[COT 2025-09-03 04:57:25] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=position value=<8350.019531, 334.505005, 1634.369995>
+[COT 2025-09-03 04:57:26] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=position value=<8349.919922, 334.505005, 1634.369995>
+[COT 2025-09-03 04:57:27] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=position value=<8349.820313, 334.505005, 1634.369995>
+[COT 2025-09-03 04:57:28] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=position value=<8349.820313, 334.505005, 1634.270020>
+[COT 2025-09-03 04:57:29] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=position value=<8349.820313, 334.505005, 1634.369995>
+[COT 2025-09-03 04:57:30] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=position value=<8349.919922, 334.505005, 1634.369995>
+[COT 2025-09-03 04:57:31] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=position value=<8349.820313, 334.505005, 1634.369995>
+[COT 2025-09-03 04:57:31] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=position value=<8349.719727, 334.505005, 1634.369995>
+[COT 2025-09-03 04:57:35] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=position value=<8349.719727, 334.505005, 1634.469971>
+[COT 2025-09-03 04:57:40] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=position value=<8349.620117, 334.505005, 1634.469971>
+[COT 2025-09-03 04:57:41] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=position value=<8349.719727, 334.505005, 1634.469971>
+[COT 2025-09-03 04:57:42] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=position value=<8349.820313, 334.505005, 1634.469971>
+[COT 2025-09-03 04:57:44] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=position value=<8349.820313, 334.505005, 1634.369995>
+[COT 2025-09-03 04:57:47] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=position value=<8349.919922, 334.505005, 1634.369995>
+[COT 2025-09-03 04:57:47] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=position value=<8349.820313, 334.505005, 1634.369995>
+[COT 2025-09-03 04:57:55] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=position value=<8349.759766, 334.505005, 1634.369995>
+[COT 2025-09-03 04:58:03] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=position value=<8349.759766, 334.505005, 1634.270020>
+[COT 2025-09-03 04:58:04] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=position value=<8349.759766, 334.505005, 1634.369995>
+[COT 2025-09-03 04:58:08] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=position value=<8349.759766, 334.505005, 1634.400024>
+[COT 2025-09-03 04:58:17] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=position value=<8349.787109, 334.505005, 1634.400024>
+[COT 2025-09-03 04:58:32] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=position value=<8349.799805, 334.505005, 1634.400024>
+[COT 2025-09-03 04:58:42] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=position value=<8349.799805, 334.505005, 1634.300049>
+[COT 2025-09-03 04:58:43] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=position value=<8349.799805, 334.505005, 1634.400024>
+[COT 2025-09-03 04:58:44] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=position value=<8349.799805, 334.505005, 1634.500000>
+[COT 2025-09-03 04:58:49] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=position value=<8349.799805, 334.505005, 1634.400024>
+[COT 2025-09-03 04:58:52] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=position value=<8349.799805, 334.505005, 1634.449951>
+[COT 2025-09-03 04:58:57] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=position value=<8349.799805, 334.605011, 1634.449951>
+[COT 2025-09-03 04:58:58] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=position value=<8349.799805, 334.704987, 1634.449951>
+[COT 2025-09-03 04:58:58] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=position value=<8349.799805, 334.804993, 1634.449951>
+[COT 2025-09-03 04:58:59] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=position value=<8349.799805, 334.904999, 1634.449951>
+[COT 2025-09-03 04:58:59] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=position value=<8349.799805, 335.005005, 1634.449951>
+[COT 2025-09-03 04:58:59] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=position value=<8349.799805, 335.105011, 1634.449951>
+[COT 2025-09-03 04:59:02] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=position value=<8349.799805, 335.204987, 1634.449951>
+[COT 2025-09-03 04:59:03] 76561198024482897: ESP target=mmg_gun_wall_base<f8458ef0> action=position value=<8349.799805, 335.105011, 1634.449951>
+[COT 2025-09-03 04:59:12] 76561198024482897: ESP: Clearing ESP
+[COT 2025-09-03 05:04:05] 76561198024482897: Entered the Free Camera
+[COT 2025-09-03 05:04:59] 76561198024482897: Left the Free Camera
+[COT 2025-09-03 05:05:02] 76561198024482897: Entered the Free Camera
+[COT 2025-09-03 05:05:55] 76561198024482897: Left the Free Camera
+[COT 2025-09-03 05:12:57] 76561198024482897: Entered the Free Camera
+[COT 2025-09-03 05:13:03] 76561198024482897: Left the Free Camera
+[COT 2025-09-03 05:21:22] 76561198024482897: Set GodMode To false [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 05:21:23] 76561198024482897: Set GodMode To true [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 05:21:24] 76561198024482897: Set GodMode To false [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-03 05:21:49] 76561198024482897: Updated roles [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]

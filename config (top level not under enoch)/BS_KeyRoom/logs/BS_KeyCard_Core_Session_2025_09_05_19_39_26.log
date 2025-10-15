@@ -1,0 +1,8 @@
+2025-09-05 19:39:26 [INFO] Constructor called.
+2025-09-05 19:39:26 [INFO] KeyCardItemNames_Config loaded successfully.
+2025-09-05 19:39:26 [INFO] Attempting to load cooldown states from: $profile:BS_KeyRoom/BS_KeyRoom_Cooldowns.json
+2025-09-05 19:39:26 [INFO] Cooldown file not found. Initializing fresh state.
+2025-09-05 19:39:26 [INFO] KeyCardSettings loaded in constructor.
+2025-09-05 19:39:27 [INFO] OnInit - Initializing Keycard System...
+2025-09-05 19:39:27 [INFO] OnInit - KeyCardSettings loaded successfully.
+2025-09-05 19:40:15 [INFO] Destructor called.

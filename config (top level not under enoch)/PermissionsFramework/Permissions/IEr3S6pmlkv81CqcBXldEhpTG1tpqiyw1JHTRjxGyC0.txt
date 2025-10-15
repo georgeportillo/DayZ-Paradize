@@ -28,7 +28,9 @@ Admin.Player.Set 0
 Admin.Player.Set.Blood 0
 Admin.Player.Set.BloodyHands 0
 Admin.Player.Set.Energy 0
+Admin.Player.Set.ExpansionEntityStorage 0
 Admin.Player.Set.ExpansionFaction 0
+Admin.Player.Set.ExpansionReputation 0
 Admin.Player.Set.Health 0
 Admin.Player.Set.HeatBuffer 0
 Admin.Player.Set.Shock 0
@@ -115,6 +117,10 @@ Expansion.Creature 0
 Expansion.Creature.Lobotomize 0
 Expansion.EntityStorage 0
 Expansion.EntityStorage.Goatify 1
+Expansion.Groups 0
+Expansion.Groups.DeleteGroup 0
+Expansion.Groups.EditGroup 0
+Expansion.Groups.View 0
 Expansion.Territories 0
 Expansion.Territories.Delete 0
 Expansion.Territories.Delete.All 0

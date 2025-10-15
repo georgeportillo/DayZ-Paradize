@@ -1,0 +1,63 @@
+22:00:37.023 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle Sarka 120 (id=6C92EDAEF0454702190BBDA7154B4F52 pos=<5278.22, 369.01, 5592.29>) as driver
+22:00:40.297 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle Sarka 120 (id=6C92EDAEF0454702190BBDA7154B4F52 pos=<5278.22, 369.01, 5592.28>)
+22:43:13.949 [VehicleDestroyed] Boat_01_Blue (id=760A9441804BBE7B712699B1A0AFD184 pos=<5757.57, 169.73, 10176.5>)
+23:08:22.761 [AI Object Patrol 00030] Spawning 2 East bots at <5530.929199, 386.465820, 4904.592773>
+23:08:30.662 [AI Object Patrol 00030] Global patrol count: 1
+23:08:30.672 [AI Object Patrol 00030] HelicopterWreck category patrol count: 1
+23:14:02.922 [VehicleDeleted] Boat_01_Blue (id=760A9441804BBE7B712699B1A0AFD184 pos=<5757.58, 169.43, 10176.4>)
+23:44:41.286 [AI Patrol 00019] Spawning 2 East bots at <9294.326172, 194.664642, 11024.704102>
+23:44:41.323 [AI Patrol 00019] Global patrol count: 2
+23:44:41.333 [AI Patrol 00019] Patrol category patrol count: 1
+23:46:30.413 [VehicleEnter] Player "Suss-Bus" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) entered vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8426.02, 202.85, 11244.8>) as passenger
+23:46:48.986 [VehicleLeave] Player "Suss-Bus" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) left vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8426.02, 202.85, 11244.8>)
+23:47:44.249 [Chat - Global]("Suss-Bus"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): ello
+23:47:54.181 [Chat - Global]("Dan"(id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=)): hi
+23:49:41.671 [Chat - Global]("Suss-Bus"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): hows it goin
+23:52:02.373 [Chat - Global]("Dan"(id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=)): good, searching for a wheel, planing for a base
+23:52:02.399 [AI Object Patrol 00033] Spawning 1 West bots at <7926.369141, 323.391418, 10160.076172>
+23:52:02.436 [AI Object Patrol 00033] Global patrol count: 3
+23:52:02.447 [AI Object Patrol 00033] ContaminatedArea category patrol count: 1
+23:52:08.914 [Chat - Global]("Dan"(id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=)): you?
+23:52:26.978 [Chat - Global]("Suss-Bus"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): searching for vehicle parts also
+23:53:34.968 [Chat - Global]("Dan"(id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=)): i have a spare truck bus batery if you need that let me know
+23:54:05.763 [Chat - Global]("Suss-Bus"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): thats what im missing to be able to move this m3s
+23:54:53.571 [Chat - Global]("Dan"(id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=)): how far from huta are you ?
+23:55:28.711 [AI Object Patrol 00033] Despawning 1 West bots (spawn position <7926.369141, 323.391418, 10160.076172>, 0/1 deceased)
+23:55:28.722 [AI Object Patrol 00033] Global patrol count: 2
+23:55:28.731 [AI Object Patrol 00033] ContaminatedArea category patrol count: 0
+23:55:50.946 [Chat - Global]("Dan"(id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=)): huta is north of hadbor
+23:55:56.786 [AI Object Patrol 00030] Despawning 2 East bots (spawn position <5530.929199, 386.465820, 4904.592773>, 0/2 deceased)
+23:55:56.796 [AI Object Patrol 00030] Global patrol count: 1
+23:55:56.806 [AI Object Patrol 00030] HelicopterWreck category patrol count: 0
+23:55:59.416 [Chat - Global]("Suss-Bus"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): a ways off lol im just to the left of tarno
+23:57:35.753 [Chat - Global]("Suss-Bus"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): you plan on staying solo?
+23:57:39.892 [Chat - Global]("Dan"(id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=)): if  i will found the wheel i will brig you the batery
+23:58:24.499 [Chat - Global]("Suss-Bus"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): looking for bus wheel or what? if i find it im almost done putting a heli together aswel
+23:59:36.010 [Chat - Global]("Dan"(id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=)): a sedan wheel
+23:59:49.061 [Chat - Global]("Dan"(id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=)): nice
+00:01:36.369 [Chat - Global]("Suss-Bus"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): just a heads up some new things are coming in thye next few days
+00:01:50.507 [AI Object Patrol 00044] Spawning 2 West bots at <4477.383789, 281.278931, 4896.358398>
+00:01:50.541 [AI Object Patrol 00044] Global patrol count: 2
+00:01:50.551 [AI Object Patrol 00044] ContaminatedArea category patrol count: 1
+00:02:00.482 [Chat - Global]("Dan"(id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=)): what things?
+00:02:06.187 [Chat - Global]("Suss-Bus"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): the next few days damn fat fingers lol
+00:02:34.140 [Chat - Global]("Suss-Bus"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): keys and keycards and possibly a group system
+00:03:06.857 [Chat - Global]("Dan"(id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=)): wow, that are very nice
+00:04:26.174 [AI Patrol 00020] Spawning 1 East bots at <9511.839844, 241.895264, 10399.271484>
+00:04:26.223 [AI Patrol 00020] Global patrol count: 3
+00:04:26.234 [AI Patrol 00020] Patrol category patrol count: 2
+00:08:51.289 [AI Object Patrol 00047] Spawning 1 West bots at <2613.183350, 397.397247, 5647.882813>
+00:08:51.330 [AI Object Patrol 00047] Global patrol count: 4
+00:08:51.342 [AI Object Patrol 00047] ContaminatedArea category patrol count: 2
+00:11:38.300 [AI Patrol 00019] East bots were wiped out (spawn position <9294.326172, 194.664642, 11024.704102>, 2/2 deceased)
+00:11:38.324 [AI Patrol 00019] Global patrol count: 3
+00:11:38.350 [AI Patrol 00019] Patrol category patrol count: 1
+00:15:40.699 [AI Object Patrol 00044] Despawning 2 West bots (spawn position <4477.383789, 281.278931, 4896.358398>, 0/2 deceased)
+00:15:40.714 [AI Object Patrol 00044] Global patrol count: 2
+00:15:40.729 [AI Object Patrol 00044] ContaminatedArea category patrol count: 1
+00:21:13.951 [Chat - Global]("Dan"(id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=)): foud the wheel, going back to the car 
+00:21:54.449 [Chat - Global]("Suss-Bus"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): dont drive yet
+00:22:00.993 [Chat - Global]("Suss-Bus"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): restart incoming
+00:22:25.557 [Chat - Global]("Dan"(id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=)): ok, nedd about 10 minute to run back
+00:22:31.862 [VehicleAttachments] Player "Suss-Bus" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) detached M3S Wheel (type=Truck_01_Wheel) from vehicle M3S Covered (id=568D05FD7041858477CA20B201997301 pos=<9589.13, 207.69, 10766>)
+00:27:58.244 [Chat - Global]("Dan"(id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=)): are you the admin ?

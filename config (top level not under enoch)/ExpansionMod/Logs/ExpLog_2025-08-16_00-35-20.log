@@ -1,0 +1,15 @@
+00:44:21.372 [AI Patrol 00015] Spawning 1 East bots at <7632.056641, 296.750000, 2645.260498>
+00:44:21.402 [AI Patrol 00015] Global patrol count: 1
+00:44:21.412 [AI Patrol 00015] Patrol category patrol count: 1
+00:44:21.422 [AI Patrol 00016] Spawning 3 West bots at <7189.946777, 301.510406, 2999.412109>
+00:44:21.453 [AI Patrol 00016] Global patrol count: 2
+00:44:21.463 [AI Patrol 00016] Patrol category patrol count: 2
+00:48:49.416 [AI Patrol 00017] Spawning 2 Civilian bots at <6465.549316, 381.684998, 3591.739502>
+00:48:49.440 [AI Patrol 00017] Global patrol count: 3
+00:48:49.452 [AI Patrol 00017] Patrol category patrol count: 3
+00:58:25.373 [AI Patrol 00015] East bots were wiped out (spawn position <7632.056641, 296.750000, 2645.260498>, 1/1 deceased)
+00:58:25.383 [AI Patrol 00015] Global patrol count: 2
+00:58:25.392 [AI Patrol 00015] Patrol category patrol count: 2
+01:02:40.803 [AI Patrol 00017] Despawning 2 Civilian bots (spawn position <6465.549316, 381.684998, 3591.739502>, 0/2 deceased)
+01:02:40.814 [AI Patrol 00017] Global patrol count: 1
+01:02:40.825 [AI Patrol 00017] Patrol category patrol count: 1

@@ -1225,6 +1225,42 @@
     <input name="UASimpleAutorunToggleSmart">
         <btn name="kAdd" />
     </input>
+    <input name="UAGachaBoosters" />
+    <input name="UAOpenCollectiblesUI" />
+    <input name="UAEarPlugsToggleMute">
+        <btn name="kN" />
+    </input>
+    <input name="UAEarPlugsIncreaseVol">
+        <btn name="kEquals" />
+    </input>
+    <input name="UAEarPlugsDecreaseVol">
+        <btn name="kMinus" />
+    </input>
+    <input name="UAExpansionPartyHUDToggle">
+        <btn name="kMultiply" />
+    </input>
+    <input name="UAExpansionBookToggle">
+        <btn name="kB" />
+    </input>
+    <input name="UAExpansionConfirm">
+        <btn name="kReturn" />
+        <btn name="kNumpadEnter" />
+    </input>
+    <input name="UAExpansionPlayerListToggle">
+        <btn name="kPause" />
+    </input>
+    <input name="UAExpansionEarplugsToggle">
+        <btn name="kP" />
+    </input>
+    <input name="UAExpansionAutoRunToggle">
+        <btn name="kZ" />
+    </input>
+    <input name="UAExpansionQuestToggle">
+        <btn name="kSlash" />
+    </input>
+    <input name="UAExpansionQuestLogToggle">
+        <btn name="kO" />
+    </input>
     <controller name="PCKeyboard">
         <limit name="doubleclick" value="0.500000" />
         <limit name="hold" value="0.330000" />

@@ -1,0 +1,181 @@
+00:42:31.434 [AI Patrol 00019] Spawning 1 East bots at <9267.441406, 199.540939, 10910.404297>
+00:42:39.362 [AI Patrol 00019] Global patrol count: 1
+00:42:39.372 [AI Patrol 00019] Patrol category patrol count: 1
+00:42:39.382 [AI Patrol 00020] Spawning 3 East bots at <9351.863281, 245.265518, 10431.499023>
+00:42:39.416 [AI Patrol 00020] Global patrol count: 2
+00:42:39.426 [AI Patrol 00020] Patrol category patrol count: 2
+00:43:17.519 [Chat - Global]("Akira"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): dan you back
+00:43:34.313 [Chat - Global]("Dan"(id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=)): hi, yes
+00:43:54.519 [Chat - Global]("Akira"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): no im not admin more an assistant
+00:44:10.378 [Chat - Global]("Dan"(id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=)): ok, tnx
+00:44:34.791 [AI Patrol 00017] Spawning 1 West bots at <7215.723145, 296.876556, 2996.563477>
+00:44:34.823 [AI Patrol 00017] Global patrol count: 3
+00:44:34.834 [AI Patrol 00017] Patrol category patrol count: 3
+00:44:34.844 [AI Patrol 00016] Spawning 2 East bots at <7480.360840, 336.483002, 2713.682861>
+00:44:34.887 [AI Patrol 00016] Global patrol count: 4
+00:44:34.897 [AI Patrol 00016] Patrol category patrol count: 4
+00:44:34.909 [AI Patrol 00018] Spawning 2 Civilian bots at <6661.117188, 346.723999, 3322.610107>
+00:44:34.937 [AI Patrol 00018] Global patrol count: 5
+00:44:34.948 [AI Patrol 00018] Patrol category patrol count: 5
+00:44:37.172 [Chat - Global]("Akira"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): theres an auto run now gotta bind it in your settings
+00:45:12.777 [Chat - Global]("Akira"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): hi snake
+00:45:25.613 [Chat - Global]("Snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): hello!
+00:45:33.691 [Chat - Global]("Akira"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): this is mithril
+00:45:43.573 [Chat - Global]("Snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): got it
+00:45:52.740 [Chat - Global]("Snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): cool, + sign auto runs
+00:46:03.417 [Chat - Global]("Snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): idk about the other mods but theyre in!
+00:46:14.502 [Chat - Global]("Snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): i have an early flight, gonna take off for now
+00:46:51.512 [Chat - Global]("Akira"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): ill check em and adjust as needed
+00:49:08.799 [Chat - Global]("Snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): thanks, have a good night!
+00:55:02.405 [AI Patrol 00020] Despawning 3 East bots (spawn position <9351.863281, 245.265518, 10431.499023>, 0/3 deceased)
+00:55:02.416 [AI Patrol 00020] Global patrol count: 4
+00:55:02.425 [AI Patrol 00020] Patrol category patrol count: 4
+00:55:13.415 [AI Object Patrol 00027] Spawning 1 East bots at <5382.765137, 267.691742, 6686.492188>
+00:55:13.452 [AI Object Patrol 00027] Global patrol count: 5
+00:55:13.462 [AI Object Patrol 00027] HelicopterWreck category patrol count: 1
+00:56:37.481 [AI Patrol 00018] Despawning 2 Civilian bots (spawn position <6661.117188, 346.723999, 3322.610107>, 0/2 deceased)
+00:56:37.492 [AI Patrol 00018] Global patrol count: 4
+00:56:37.502 [AI Patrol 00018] Patrol category patrol count: 3
+00:58:23.523 [VehicleEnter] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) entered vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8426.04, 202.88, 11244.8>) as driver
+00:58:44.724 [VehicleLeave] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) left vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8426.24, 202.87, 11245.1>)
+00:59:36.194 [Chat - Global]("Akira"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): dan would you like me to meet you somewhere for the truck battery
+00:59:57.267 [Chat - Global]("Dan"(id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=)): yes
+01:00:08.183 [Chat - Global]("Dan"(id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=)): i am leaving from huta and head up north
+01:00:30.183 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle Sarka 120 (id=6C92EDAEF0454702190BBDA7154B4F52 pos=<5278.22, 369.06, 5592.28>) as driver
+01:00:32.732 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle Sarka 120 (id=6C92EDAEF0454702190BBDA7154B4F52 pos=<5278.22, 369.06, 5592.28>)
+01:00:37.212 [Chat - Global]("Akira"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): ill head to
+01:00:45.616 [Chat - Global]("Akira"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): hrud
+01:01:08.403 [Chat - Global]("Dan"(id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=)): ok
+01:01:12.547 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Sarka 120 (id=6C92EDAEF0454702190BBDA7154B4F52 pos=<5275.2, 368.78, 5605.63>)
+01:01:12.582 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle Sarka 120 (id=6C92EDAEF0454702190BBDA7154B4F52 pos=<5275.2, 368.78, 5605.63>)
+01:01:19.678 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle Sarka 120 (id=6C92EDAEF0454702190BBDA7154B4F52 pos=<5275.2, 368.78, 5605.63>) as driver
+01:01:21.315 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle Sarka 120 (id=6C92EDAEF0454702190BBDA7154B4F52 pos=<5275.2, 368.78, 5605.63>)
+01:01:45.542 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle Sarka 120 (id=6C92EDAEF0454702190BBDA7154B4F52 pos=<5275.2, 368.78, 5605.62>) as driver
+01:01:49.052 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle Sarka 120 (id=6C92EDAEF0454702190BBDA7154B4F52 pos=<5275.2, 368.78, 5605.61>)
+01:02:20.932 [Chat - Global]("Akira"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): god auto run helps alot
+01:03:02.092 [AI Patrol 00019] Despawning 1 East bots (spawn position <9267.441406, 199.540939, 10910.404297>, 0/1 deceased)
+01:03:02.102 [AI Patrol 00019] Global patrol count: 3
+01:03:02.113 [AI Patrol 00019] Patrol category patrol count: 2
+01:03:43.117 [Chat - Global]("Akira"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): 2k out and closing
+01:04:46.693 [AI Object Patrol 00022] Spawning 3 West bots at <6394.290039, 219.240875, 8234.453125>
+01:04:46.818 [AI Object Patrol 00022] Global patrol count: 4
+01:04:46.874 [AI Object Patrol 00022] ContaminatedArea category patrol count: 1
+01:05:33.674 [AI Object Patrol 00024] Spawning 3 East bots at <7285.114258, 261.682281, 8477.175781>
+01:05:33.714 [AI Object Patrol 00024] Global patrol count: 5
+01:05:33.724 [AI Object Patrol 00024] HelicopterWreck category patrol count: 2
+01:05:40.175 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) stopped vehicle Sarka 120 (id=6C92EDAEF0454702190BBDA7154B4F52 pos=<6421.63, 218.18, 8244.43>)
+01:05:45.844 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle Sarka 120 (id=6C92EDAEF0454702190BBDA7154B4F52 pos=<6436.76, 216.83, 8263.14>)
+01:06:48.526 [Chat - Global]("Dan"(id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=)): got shot and gased in nidek
+01:06:59.036 [Chat - Global]("Akira"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): oof you alive or no
+01:07:14.579 [Chat - Global]("Dan"(id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=)): i am alive car is tha gsa and bateri is in car
+01:07:37.427 [Chat - Global]("Akira"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): ill head that way and help out
+01:08:22.673 [Chat - Global]("Akira"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): got a box o nails for your trouble
+01:10:19.899 [Chat - Global]("Akira"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): what you wearing so i dont shoot you by mistake
+01:11:03.233 [Chat - Direct]("Dan"(id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=)): heading to hrud
+01:11:18.368 [AI Object Patrol 00022] Despawning 2 West bots (spawn position <6394.290039, 219.240875, 8234.453125>, 1/3 deceased)
+01:11:18.378 [AI Object Patrol 00022] Global patrol count: 4
+01:11:18.388 [AI Object Patrol 00022] ContaminatedArea category patrol count: 0
+01:12:34.104 [SpawnSelection] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) spawned at <3096.280029, 234.132996, 6778.950195>
+01:13:53.545 [Chat - Global]("Akira"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): where you at in nidek cheif
+01:13:54.271 [AI Object Patrol 00027] Despawning 1 East bots (spawn position <5382.765137, 267.691742, 6686.492188>, 0/1 deceased)
+01:13:54.281 [AI Object Patrol 00027] Global patrol count: 3
+01:13:54.290 [AI Object Patrol 00027] HelicopterWreck category patrol count: 1
+01:14:29.606 [Chat - Global]("Dan"(id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=)): I DIE
+01:14:40.167 [Chat - Global]("Dan"(id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=)): on the road betwen
+01:15:01.223 [Chat - Global]("Dan"(id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=)): on the road to hrud , got the batery dfrom the car
+01:15:01.258 [Chat - Global]("Akira"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): damn ok im looking for your stuff ill protect it
+01:16:20.198 [Chat - Global]("Dan"(id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=)): foud another truck batery in azumov
+01:16:39.970 [Chat - Global]("Akira"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): found the car
+01:17:03.694 [Chat - Global]("Dan"(id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=)): ok
+01:21:04.365 [AI Object Patrol 00024] Despawning 3 East bots (spawn position <7285.114258, 261.682281, 8477.175781>, 0/3 deceased)
+01:21:04.376 [AI Object Patrol 00024] Global patrol count: 2
+01:21:04.386 [AI Object Patrol 00024] HelicopterWreck category patrol count: 0
+01:22:35.796 [Chat - Global]("Dan"(id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=)): radacz
+01:24:25.582 [Chat - Global]("Dan"(id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=)): olszanka
+01:24:34.991 [Chat - Global]("Akira"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): found ur body
+01:25:38.702 [Chat - Global]("Akira"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): the cars shot i can bring you back with my truck after getting the battery in it if you want
+01:26:20.100 [Chat - Global]("Dan"(id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=)): it is ok, i have to go after recover what is good from my body
+01:27:02.993 [Chat - Global]("Akira"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): alright boss if you ever need anything drob by grabin apartment building base ill help you out
+01:27:17.652 [AI Patrol 00016] East bots were wiped out (spawn position <7480.360840, 336.483002, 2713.682861>, 2/2 deceased)
+01:27:17.662 [AI Patrol 00016] Global patrol count: 1
+01:27:17.672 [AI Patrol 00016] Patrol category patrol count: 1
+01:27:18.668 [Chat - Global]("Dan"(id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=)): ok
+01:27:24.736 [Chat - Global]("Dan"(id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=)): tnx
+01:33:30.233 [Chat - Global]("Dan"(id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=)): got everything back, see you
+01:33:35.028 [Chat - Global]("Akira"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): see ya
+01:37:14.994 [AI Object Patrol 00040] Spawning 1 East bots at <6489.646484, 287.845001, 7538.856445>
+01:37:15.219 [AI Object Patrol 00040] Global patrol count: 2
+01:37:15.231 [AI Object Patrol 00040] HelicopterWreck category patrol count: 1
+01:41:20.518 [VehicleEnter] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) entered vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8426.25, 202.87, 11245.2>) as driver
+01:41:22.687 [VehicleEngine] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) started vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8426.27, 202.87, 11245.2>)
+01:41:50.781 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8408.11, 202.96, 11255.7>)
+01:41:51.242 [VehicleLeave] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) left vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8408.03, 202.96, 11255.8>)
+01:41:54.242 [VehicleAttachments] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) detached M3S Dual Wheel (type=Truck_01_WheelDouble) from vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8408.02, 202.96, 11255.8>)
+01:42:00.127 [VehicleAttachments] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) detached M3S Dual Wheel (type=Truck_01_WheelDouble) from vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8408.02, 202.97, 11255.8>)
+01:42:08.891 [VehicleEnter] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) entered vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8408.03, 202.97, 11255.8>) as driver
+01:42:10.613 [VehicleEngine] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) started vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8408.03, 202.97, 11255.8>)
+01:43:17.298 [VehicleEngine] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) stopped vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8389.41, 196.54, 11327.6>)
+01:43:20.880 [VehicleLeave] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) left vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<8389.41, 196.54, 11327.6>)
+02:05:09.016 [AI Object Patrol 00040] Despawning 1 East bots (spawn position <6489.646484, 287.845001, 7538.856445>, 0/1 deceased)
+02:05:09.026 [AI Object Patrol 00040] Global patrol count: 1
+02:05:09.035 [AI Object Patrol 00040] HelicopterWreck category patrol count: 0
+02:26:47.425 [VehicleEnter] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) entered vehicle Gyrocopter (id=87D192504A4FE33454101AA0C472B02F pos=<9351.59, 186.74, 11203.5>) as pilot
+02:26:50.252 [VehicleEngine] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) started vehicle Gyrocopter (id=87D192504A4FE33454101AA0C472B02F pos=<9351.59, 186.74, 11203.5>)
+02:29:21.348 [VehicleEngine] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) stopped vehicle Gyrocopter (id=87D192504A4FE33454101AA0C472B02F pos=<8396.48, 196.12, 11332.7>)
+02:29:25.384 [VehicleLeave] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) left vehicle Gyrocopter (id=87D192504A4FE33454101AA0C472B02F pos=<8396.48, 196.12, 11332.7>)
+02:29:52.582 [VehicleEnter] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) entered vehicle Gyrocopter (id=87D192504A4FE33454101AA0C472B02F pos=<8396.5, 196.12, 11332.7>) as pilot
+02:29:55.001 [VehicleEngine] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) started vehicle Gyrocopter (id=87D192504A4FE33454101AA0C472B02F pos=<8396.5, 196.12, 11332.7>)
+02:32:50.203 [VehicleEngine] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) stopped vehicle Gyrocopter (id=87D192504A4FE33454101AA0C472B02F pos=<9239.62, 199.02, 11012.5>)
+02:32:55.685 [VehicleLeave] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) left vehicle Gyrocopter (id=87D192504A4FE33454101AA0C472B02F pos=<9235.42, 199.22, 11011>)
+02:34:48.968 [VehicleEnter] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) entered vehicle Gyrocopter (id=87D192504A4FE33454101AA0C472B02F pos=<9235.42, 199.22, 11011>) as pilot
+02:34:56.726 [VehicleEngine] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) started vehicle Gyrocopter (id=87D192504A4FE33454101AA0C472B02F pos=<9235.42, 199.22, 11011>)
+02:35:52.829 [VehicleEngine] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) stopped vehicle Gyrocopter (id=87D192504A4FE33454101AA0C472B02F pos=<9229.83, 199.5, 10992.3>)
+02:35:59.281 [VehicleLeave] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) left vehicle Gyrocopter (id=87D192504A4FE33454101AA0C472B02F pos=<9229.83, 199.49, 10992.3>)
+02:59:53.342 [AI Object Patrol 00061] Spawning 3 East bots at <6483.695313, 287.565277, 7536.465820>
+02:59:53.373 [AI Object Patrol 00061] Global patrol count: 2
+02:59:53.382 [AI Object Patrol 00061] HelicopterWreck category patrol count: 1
+03:10:56.572 [AI Object Patrol 00061] Despawning 3 East bots (spawn position <6483.695313, 287.565277, 7536.465820>, 0/3 deceased)
+03:10:56.587 [AI Object Patrol 00061] Global patrol count: 1
+03:10:56.599 [AI Object Patrol 00061] HelicopterWreck category patrol count: 0
+03:16:30.554 [VehicleEnter] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) entered vehicle Gyrocopter (id=87D192504A4FE33454101AA0C472B02F pos=<9229.77, 199.12, 10992.2>) as pilot
+03:16:33.554 [VehicleEngine] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) started vehicle Gyrocopter (id=87D192504A4FE33454101AA0C472B02F pos=<9229.77, 199.12, 10992.2>)
+03:22:27.768 [VehicleEngine] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) stopped vehicle Gyrocopter (id=87D192504A4FE33454101AA0C472B02F pos=<10796.8, 198.19, 10982.5>)
+03:22:31.571 [VehicleLeave] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) left vehicle Gyrocopter (id=87D192504A4FE33454101AA0C472B02F pos=<10796.8, 198.19, 10982.5>)
+03:22:57.904 [VehicleEnter] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) entered vehicle Gyrocopter (id=87D192504A4FE33454101AA0C472B02F pos=<10797.6, 196.78, 10983.1>) as pilot
+03:23:00.698 [VehicleEngine] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) started vehicle Gyrocopter (id=87D192504A4FE33454101AA0C472B02F pos=<10797.6, 196.78, 10983.1>)
+03:23:34.451 [VehicleEngine] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) stopped vehicle Gyrocopter (id=87D192504A4FE33454101AA0C472B02F pos=<10786.5, 200.51, 10992.2>)
+03:23:50.089 [VehicleLeave] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) left vehicle Gyrocopter (id=87D192504A4FE33454101AA0C472B02F pos=<10786.5, 200.49, 10992.2>)
+03:24:11.883 [BaseRaiding] ExpansionWall6x3 (<10785.959961, 200.198517, 10995.000977>) Code set by "player "Akira" (ID = "_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=" at <10785.065430, 200.447571, 10995.735352>)" and the code is 1997
+03:41:03.848 [VehicleEnter] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) entered vehicle Gyrocopter (id=87D192504A4FE33454101AA0C472B02F pos=<10786.6, 200.49, 10992.1>) as pilot
+03:41:06.596 [VehicleEngine] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) started vehicle Gyrocopter (id=87D192504A4FE33454101AA0C472B02F pos=<10786.6, 200.49, 10992.1>)
+03:44:58.155 [AI Object Patrol 00013] Spawning 2 West bots at <4347.044922, 238.215546, 10452.785156>
+03:44:58.229 [AI Object Patrol 00013] Global patrol count: 2
+03:44:58.290 [AI Object Patrol 00013] ContaminatedArea category patrol count: 1
+03:45:09.091 [AI Object Patrol 00014] Spawning 2 West bots at <4155.922363, 238.720642, 10128.551758>
+03:45:09.117 [AI Object Patrol 00014] Global patrol count: 3
+03:45:09.127 [AI Object Patrol 00014] ContaminatedArea category patrol count: 2
+03:49:41.647 [VehicleEngine] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) stopped vehicle Gyrocopter (id=87D192504A4FE33454101AA0C472B02F pos=<6387.5, 175.62, 10978.1>)
+03:49:45.015 [VehicleLeave] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) left vehicle Gyrocopter (id=87D192504A4FE33454101AA0C472B02F pos=<6387.5, 175.62, 10978.1>)
+03:57:16.123 [AI Object Patrol 00014] Despawning 2 West bots (spawn position <4155.922363, 238.720642, 10128.551758>, 0/2 deceased)
+03:57:16.133 [AI Object Patrol 00014] Global patrol count: 2
+03:57:16.142 [AI Object Patrol 00014] ContaminatedArea category patrol count: 1
+03:57:21.129 [AI Object Patrol 00013] Despawning 2 West bots (spawn position <4347.044922, 238.215546, 10452.785156>, 0/2 deceased)
+03:57:21.140 [AI Object Patrol 00013] Global patrol count: 1
+03:57:21.151 [AI Object Patrol 00013] ContaminatedArea category patrol count: 0
+04:18:02.427 [Chat - Global]("Akira"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): fair warning the hacked crates are bugged rn im looking into a fix
+04:18:38.256 [Chat - Global]("Dan"(id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=)): ok.
+04:46:52.054 [VehicleEnter] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) entered vehicle Gyrocopter (id=87D192504A4FE33454101AA0C472B02F pos=<6387.51, 174.76, 10978.1>) as pilot
+04:46:54.824 [VehicleLeave] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) left vehicle Gyrocopter (id=87D192504A4FE33454101AA0C472B02F pos=<6387.51, 174.76, 10978.1>)
+04:47:51.704 [VehicleEnter] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) entered vehicle Gyrocopter (id=87D192504A4FE33454101AA0C472B02F pos=<6387.51, 174.76, 10978.1>) as pilot
+04:47:55.389 [VehicleEngine] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) started vehicle Gyrocopter (id=87D192504A4FE33454101AA0C472B02F pos=<6387.51, 174.76, 10978.1>)
+04:49:00.880 [Chat - Global]("Akira"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): anyluck finding another car
+04:52:43.332 [VehicleEngine] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) stopped vehicle Gyrocopter (id=87D192504A4FE33454101AA0C472B02F pos=<10788.3, 178.49, 10973.9>)
+04:52:51.716 [VehicleEngine] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) started vehicle Gyrocopter (id=87D192504A4FE33454101AA0C472B02F pos=<10788.3, 178.05, 10973.9>)
+04:55:55.513 [VehicleEngine] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) stopped vehicle Gyrocopter (id=87D192504A4FE33454101AA0C472B02F pos=<10773.3, 187.62, 10975.2>)
+04:56:07.120 [VehicleLeave] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) left vehicle Gyrocopter (id=87D192504A4FE33454101AA0C472B02F pos=<10773.7, 186.64, 10975.1>)
+04:57:02.157 [VehicleEnter] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) entered vehicle Gyrocopter (id=87D192504A4FE33454101AA0C472B02F pos=<10776.1, 179.27, 10977.8>) as pilot
+04:57:04.083 [VehicleEngine] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) started vehicle Gyrocopter (id=87D192504A4FE33454101AA0C472B02F pos=<10776.1, 179.27, 10977.8>)
+04:57:08.234 [VehicleEngine] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) stopped vehicle Gyrocopter (id=87D192504A4FE33454101AA0C472B02F pos=<10776.1, 179.3, 10977.9>)
+04:57:19.809 [VehicleEngine] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) started vehicle Gyrocopter (id=87D192504A4FE33454101AA0C472B02F pos=<10776.5, 179.2, 10979.3>)
+04:58:26.989 [VehicleEngine] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) stopped vehicle Gyrocopter (id=87D192504A4FE33454101AA0C472B02F pos=<10781.9, 200.51, 10989.8>)
+04:58:30.714 [VehicleLeave] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) left vehicle Gyrocopter (id=87D192504A4FE33454101AA0C472B02F pos=<10781.9, 200.51, 10989.8>)

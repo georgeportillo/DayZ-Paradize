@@ -1,0 +1,17 @@
+02:03:54.265 [AI Patrol 00017] Spawning 3 West bots at <7240.970215, 294.630005, 2993.448242>
+02:04:02.043 [AI Patrol 00017] Global patrol count: 1
+02:04:02.053 [AI Patrol 00017] Patrol category patrol count: 1
+02:04:02.063 [AI Patrol 00016] Spawning 2 East bots at <7652.325684, 296.743713, 2693.474365>
+02:04:02.096 [AI Patrol 00016] Global patrol count: 2
+02:04:02.107 [AI Patrol 00016] Patrol category patrol count: 2
+02:05:52.151 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+02:05:52.172 [BaseBuildingRaiding] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8346.03, 332.44, 1625.32>) damaged ExpansionWall6x3 at <8345.96, 331.46, 1624.99>
+02:05:52.194 [BaseBuildingRaiding] They dealt 160 * 1 = 160 damage with Bullet_308Win from SkyFall_HK23e
+02:05:52.217 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29450 to 29290
+02:05:52.244 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+02:14:01.442 [AI Patrol 00016] East bots were wiped out (spawn position <7652.325684, 296.743713, 2693.474365>, 2/2 deceased)
+02:14:01.453 [AI Patrol 00016] Global patrol count: 1
+02:14:01.463 [AI Patrol 00016] Patrol category patrol count: 1
+03:44:27.618 [AI Patrol 00017] Despawning 3 West bots (spawn position <7240.970215, 294.630005, 2993.448242>, 0/3 deceased)
+03:44:27.628 [AI Patrol 00017] Global patrol count: 0
+03:44:27.638 [AI Patrol 00017] Patrol category patrol count: 0

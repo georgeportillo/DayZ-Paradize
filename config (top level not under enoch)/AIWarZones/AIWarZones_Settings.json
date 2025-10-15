@@ -15,7 +15,7 @@
             "zoneAIThreatDetectionRange": 700.0,
             "zoneAIMaxAccuracy": 0.8,
             "zoneAIMinAccuracy": 0.4,
-            "zoneAIBodyCleanupTime": 180.0,
+            "zoneAIBodyCleanupTime": 720.0,
             "zoneSmokeGrenadeMax": 7,
             "zoneBurnEffectMax": 7,
             "zoneExplosionEffectMax": 10,
@@ -28,7 +28,7 @@
             "aTeamMinMoveSpeed": 2.0,
             "aTeamFaction": "West",
             "aTeamSpawnPosition": "7184.36 311.508 2620.47, 7146.69 335.04 2763.23, 7188.91 310.148 2883.43",
-            "aTeamLoadout": "WestLoadout, NBCLoadout",
+            "aTeamLoadout": "WestLoadout",
             "aTeamSmokeColor": "Red",
             "bTeamAIType": 0,
             "bTeamAIActivity": 2,
@@ -38,7 +38,7 @@
             "bTeamMinMoveSpeed": 2.0,
             "bTeamFaction": "East, Shamans",
             "bTeamSpawnPosition": "7576.58 351.184 3021.33, 7512.41 332.853 2872.62, 7503.23 335.869 2742.24",
-            "bTeamLoadout": "PoliceLoadout, BanditLoadout",
+            "bTeamLoadout": "EastLoadout",
             "bTeamSmokeColor": "Black"
         },
         {
@@ -52,7 +52,7 @@
             "zoneAIThreatDetectionRange": 700.0,
             "zoneAIMaxAccuracy": 0.8,
             "zoneAIMinAccuracy": 0.4,
-            "zoneAIBodyCleanupTime": 180.0,
+            "zoneAIBodyCleanupTime": 720.0,
             "zoneSmokeGrenadeMax": 7,
             "zoneBurnEffectMax": 7,
             "zoneExplosionEffectMax": 10,
@@ -65,7 +65,7 @@
             "aTeamMinMoveSpeed": 2.0,
             "aTeamFaction": "West",
             "aTeamSpawnPosition": "6204.83 321.586 4781.68, 6495.34 295.027 4926.2, 6509.57 289.268 5055.17",
-            "aTeamLoadout": "WestLoadout, NBCLoadout",
+            "aTeamLoadout": "WestLoadout",
             "aTeamSmokeColor": "Red",
             "bTeamAIType": 0,
             "bTeamAIActivity": 2,
@@ -75,7 +75,7 @@
             "bTeamMinMoveSpeed": 2.0,
             "bTeamFaction": "East, Shamans",
             "bTeamSpawnPosition": "6571.29 308.429 4594.79, 6671.96 318.613 4609, 6366.59 310.625 4610",
-            "bTeamLoadout": "PoliceLoadout, BanditLoadout",
+            "bTeamLoadout": "EastLoadout",
             "bTeamSmokeColor": "Black"
         },
         {
@@ -89,7 +89,7 @@
             "zoneAIThreatDetectionRange": 700.0,
             "zoneAIMaxAccuracy": 0.8,
             "zoneAIMinAccuracy": 0.4,
-            "zoneAIBodyCleanupTime": 180.0,
+            "zoneAIBodyCleanupTime": 720.0,
             "zoneSmokeGrenadeMax": 7,
             "zoneBurnEffectMax": 7,
             "zoneExplosionEffectMax": 10,
@@ -102,7 +102,7 @@
             "aTeamMinMoveSpeed": 2.0,
             "aTeamFaction": "West",
             "aTeamSpawnPosition": "1837.94 200.273 7279.34, 1718.24 188.781 7400.25, 1788.81 184.119 7474.19",
-            "aTeamLoadout": "WestLoadout, NBCLoadout",
+            "aTeamLoadout": "WestLoadout",
             "aTeamSmokeColor": "Red",
             "bTeamAIType": 0,
             "bTeamAIActivity": 2,
@@ -112,7 +112,7 @@
             "bTeamMinMoveSpeed": 2.0,
             "bTeamFaction": "East, Shamans",
             "bTeamSpawnPosition": "2095.86 223.74 7287.96, 2044.74 197.328 7496.34, 2047.17 218.716 7324.28",
-            "bTeamLoadout": "PoliceLoadout, BanditLoadout",
+            "bTeamLoadout": "EastLoadout",
             "bTeamSmokeColor": "Black"
         },
         {
@@ -126,7 +126,7 @@
             "zoneAIThreatDetectionRange": 700.0,
             "zoneAIMaxAccuracy": 0.8,
             "zoneAIMinAccuracy": 0.4,
-            "zoneAIBodyCleanupTime": 180.0,
+            "zoneAIBodyCleanupTime": 720.0,
             "zoneSmokeGrenadeMax": 7,
             "zoneBurnEffectMax": 7,
             "zoneExplosionEffectMax": 10,
@@ -139,7 +139,7 @@
             "aTeamMinMoveSpeed": 2.0,
             "aTeamFaction": "West",
             "aTeamSpawnPosition": "3292.77 469.574 1897.44, 3169.11 519.529 1968.31, 3056.16 506.898 2283.11",
-            "aTeamLoadout": "WestLoadout, NBCLoadout",
+            "aTeamLoadout": "WestLoadout",
             "aTeamSmokeColor": "Red",
             "bTeamAIType": 0,
             "bTeamAIActivity": 2,
@@ -149,7 +149,7 @@
             "bTeamMinMoveSpeed": 2.0,
             "bTeamFaction": "East, Shamans",
             "bTeamSpawnPosition": "3503.15 513.337 2024.25, 3472.18 445.871 2289.89, 3670.09 536.789 1837.21",
-            "bTeamLoadout": "PoliceLoadout, BanditLoadout",
+            "bTeamLoadout": "EastLoadout",
             "bTeamSmokeColor": "Black"
         }
     ]

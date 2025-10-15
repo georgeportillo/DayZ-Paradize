@@ -1,0 +1,18 @@
+05:10:57.741 [AI Patrol 00015] Spawning 2 East bots at <7392.373535, 287.040009, 2616.841064>
+05:11:07.560 [AI Patrol 00015] Global patrol count: 1
+05:11:07.570 [AI Patrol 00015] Patrol category patrol count: 1
+05:11:07.581 [AI Patrol 00016] Spawning 3 West bots at <7294.719238, 293.260010, 2958.382324>
+05:11:07.618 [AI Patrol 00016] Global patrol count: 2
+05:11:07.632 [AI Patrol 00016] Patrol category patrol count: 2
+05:18:40.683 [AI Object Patrol 00023] Spawning 1 East bots at <7789.252441, 346.755341, 998.142334>
+05:18:40.720 [AI Object Patrol 00023] Global patrol count: 3
+05:18:40.731 [AI Object Patrol 00023] HelicopterWreck category patrol count: 1
+05:24:00.576 [AI Patrol 00017] Spawning 2 Civilian bots at <6985.691895, 301.685974, 3222.903564>
+05:24:00.608 [AI Patrol 00017] Global patrol count: 4
+05:24:00.618 [AI Patrol 00017] Patrol category patrol count: 3
+05:30:03.693 [AI Object Patrol 00023] Despawning 1 East bots (spawn position <7789.252441, 346.755341, 998.142334>, 0/1 deceased)
+05:30:03.702 [AI Object Patrol 00023] Global patrol count: 3
+05:30:03.712 [AI Object Patrol 00023] HelicopterWreck category patrol count: 0
+05:38:28.698 [AI Patrol 00017] Despawning 2 Civilian bots (spawn position <6985.691895, 301.685974, 3222.903564>, 0/2 deceased)
+05:38:28.709 [AI Patrol 00017] Global patrol count: 2
+05:38:28.719 [AI Patrol 00017] Patrol category patrol count: 2

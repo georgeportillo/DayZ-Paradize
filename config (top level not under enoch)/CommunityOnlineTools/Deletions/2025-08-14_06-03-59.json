@@ -1,0 +1,149 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "eAI_SurvivorM_Guo",
+            "m_LocalPosition": [
+                7388.65087890625,
+                287.1544494628906,
+                2584.98681640625
+            ],
+            "m_LocalRotation": [
+                93.60293579101563,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 36
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "USMCJacket_Desert",
+                    "m_Data": {
+                        "m_Health": 128.89059448242188,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "USMCPants_Woodland",
+                    "m_Data": {
+                        "m_Health": 126.81587982177735,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CombatBoots_Black",
+                    "m_Data": {
+                        "m_Health": 144.10760498046876,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CoyoteBag_Green",
+                    "m_Data": {
+                        "m_Health": 181.6396942138672,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "HighCapacityVest_Olive",
+                    "m_Data": {
+                        "m_Health": 96.7741928100586,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "BallisticHelmet_Black",
+                    "m_Data": {
+                        "m_Health": 63.417999267578128,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "TacticalGloves_Black",
+                    "m_Data": {
+                        "m_Health": 130.69735717773438,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "MilitaryBelt",
+                    "m_Data": {
+                        "m_Health": 95.34351348876953,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Scout",
+                    "m_Data": {
+                        "m_Health": 171.45860290527345,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "ReflexOptic",
+                            "m_Data": {
+                                "m_Health": 30.0,
+                                "m_Quantity": 0.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": [
+                                {
+                                    "m_Classname": "Battery9V",
+                                    "m_Data": {
+                                        "m_Health": 20.0,
+                                        "m_Quantity": 50.0,
+                                        "m_LiquidType": 0,
+                                        "m_Temperature": 0
+                                    },
+                                    "m_Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "m_Classname": "Mag_Scout_5Rnd",
+                            "m_Data": {
+                                "m_Health": 100.0,
+                                "m_Quantity": 1.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

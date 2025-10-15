@@ -1,0 +1,21 @@
+21:16:28.426 [VehicleDestroyed] Boat_01_Black (id=224F0B4F2F459241B14D04AB06384E86 pos=<5758.59, 169.67, 10176.9>)
+21:18:45.439 [SpawnSelection] Player "Snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) spawned at <7331.399902, 287.065002, 2576.830078>
+21:18:45.455 [AI Patrol 00016] Spawning 2 East bots at <7450.444336, 287.040009, 2564.196777>
+21:18:53.534 [AI Patrol 00016] Global patrol count: 1
+21:18:53.548 [AI Patrol 00016] Patrol category patrol count: 1
+21:18:53.566 [AI Patrol 00017] Spawning 3 West bots at <7527.358887, 287.650116, 2566.275391>
+21:18:53.603 [AI Patrol 00017] Global patrol count: 2
+21:18:53.614 [AI Patrol 00017] Patrol category patrol count: 2
+21:18:53.624 [AI Patrol 00018] Spawning 2 Civilian bots at <7130.448730, 309.017395, 3035.172119>
+21:18:53.654 [AI Patrol 00018] Global patrol count: 3
+21:18:53.665 [AI Patrol 00018] Patrol category patrol count: 3
+21:19:24.509 [AI Object Patrol 00010] Spawning 2 West bots at <7894.076172, 253.987213, 5922.858887>
+21:19:24.546 [AI Object Patrol 00010] Global patrol count: 4
+21:19:24.558 [AI Object Patrol 00010] ContaminatedArea category patrol count: 1
+21:19:24.568 [AI Object Patrol 00008] Spawning 1 West bots at <7492.394531, 229.796265, 6077.273438>
+21:19:24.600 [AI Object Patrol 00008] Global patrol count: 5
+21:19:24.611 [AI Object Patrol 00008] ContaminatedArea category patrol count: 2
+21:22:41.930 [VehicleDeleted] Boat_01_Black (id=224F0B4F2F459241B14D04AB06384E86 pos=<5758.59, 169.4, 10176.8>)
+21:29:22.194 [AI Patrol 00018] Despawning 2 Civilian bots (spawn position <7130.448730, 309.017395, 3035.172119>, 0/2 deceased)
+21:29:22.204 [AI Patrol 00018] Global patrol count: 4
+21:29:22.214 [AI Patrol 00018] Patrol category patrol count: 2

@@ -1,0 +1,69 @@
+[COT 2025-08-16 08:11:14] 76561198024482897: Activated Community Online Tools [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-08-16 08:11:19] 76561198024482897: Set GodMode To true [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-08-16 08:11:20] 76561198024482897: Set Invisibility To 1 [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-08-16 08:11:23] 76561198024482897: Set GodMode To false [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-08-16 08:11:23] 76561198024482897: Set GodMode To true [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-08-16 08:11:38] 76561198024482897: Teleported 76561198024482897 to position <3324.118408, 493.635834, 2062.037598>
+[COT 2025-08-16 08:12:03] 76561198024482897: Entered the Free Camera
+[COT 2025-08-16 08:12:20] 76561198024482897: ESP: Viewing ESP
+[COT 2025-08-16 08:12:39] 76561198024482897: ESP: Clearing ESP
+[COT 2025-08-16 08:12:39] 76561198024482897: ESP: Viewing ESP
+[COT 2025-08-16 08:13:12] 76561198024482897: ESP: Clearing ESP
+[COT 2025-08-16 08:13:12] 76561198024482897: ESP: Viewing ESP
+[COT 2025-08-16 08:13:32] 76561198024482897: ESP: Clearing ESP
+[COT 2025-08-16 08:13:33] 76561198024482897: ESP: Viewing ESP
+[COT 2025-08-16 08:14:37] 76561198024482897: Teleported 76561198024482897 to position <8345.673828, 322.619995, 1639.790283>
+[COT 2025-08-16 08:15:12] 76561198024482897: Left the Free Camera
+[COT 2025-08-16 08:15:27] 76561198024482897: Set GodMode To false [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-08-16 08:15:27] 76561198024482897: Set Invisibility To 0 [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-08-16 08:16:13] 76561198024482897: ESP: Clearing ESP
+[COT 2025-08-16 08:16:13] 76561198024482897: ESP: Viewing ESP
+[COT 2025-08-16 08:16:19] 76561198024482897: Created Deletion Backup '2025-08-16_08-16-19'
+[COT 2025-08-16 08:16:19] 76561198024482897: ESP index=0 target=Animal_CanisLupus_White:413 position=<8310.850586, 325.373779, 1652.564331> action=delete
+[COT 2025-08-16 08:16:19] 76561198024482897: ESP index=1 target=Animal_CanisLupus_Grey:412 position=<8294.270508, 316.295990, 1662.494995> action=delete
+[COT 2025-08-16 08:16:19] 76561198024482897: ESP index=2 target=Animal_CanisLupus_Grey:410 position=<8130.947266, 266.475281, 1688.505371> action=delete
+[COT 2025-08-16 08:16:19] 76561198024482897: ESP index=3 target=Animal_CanisLupus_White:414 position=<8327.243164, 327.964874, 1657.719971> action=delete
+[COT 2025-08-16 08:16:19] 76561198024482897: ESP index=4 target=Animal_CanisLupus_Grey:411 position=<8217.718750, 281.470337, 1676.654785> action=delete
+[COT 2025-08-16 08:16:19] 76561198024482897: ESP action=delete_all count=5 attempted=5
+[COT 2025-08-16 08:16:27] 76561198024482897: Created Deletion Backup '2025-08-16_08-16-27'
+[COT 2025-08-16 08:16:27] 76561198024482897: ESP index=0 target=Animal_CapreolusCapreolusF:349 position=<8467.680664, 367.904724, 1555.412109> action=delete
+[COT 2025-08-16 08:16:27] 76561198024482897: ESP index=1 target=Animal_CapreolusCapreolusF:348 position=<8474.827148, 368.682556, 1540.747803> action=delete
+[COT 2025-08-16 08:16:27] 76561198024482897: ESP action=delete_all count=2 attempted=2
+[COT 2025-08-16 08:16:45] 76561198024482897: Created Deletion Backup '2025-08-16_08-16-45'
+[COT 2025-08-16 08:16:45] 76561198024482897: ESP index=0 target=Animal_CervusElaphus:300 position=<8342.377930, 325.158630, 1920.860107> action=delete
+[COT 2025-08-16 08:16:45] 76561198024482897: ESP index=1 target=Animal_CervusElaphusF:301 position=<8326.673828, 321.623871, 1870.023804> action=delete
+[COT 2025-08-16 08:16:45] 76561198024482897: ESP action=delete_all count=2 attempted=2
+[COT 2025-08-16 08:17:00] 76561198024482897: ESP: Clearing ESP
+[COT 2025-08-16 08:21:38] 76561198024482897: Set GodMode To true [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-08-16 08:21:39] 76561198024482897: Set GodMode To false [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-08-16 08:21:42] 76561198024482897: Deactivated Community Online Tools [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-08-16 08:21:43] 76561198024482897: Activated Community Online Tools [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-08-16 08:22:25] 76561198024482897: Spectating [guid=S7Mep41EuywioaSmPU2U44geAPYz4HQq2piBvNNnI2U=]
+[COT 2025-08-16 08:23:10] 76561198024482897: Stopped spectating
+[COT 2025-08-16 08:35:07] 76561198024482897: Set GodMode To true [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-08-16 08:35:20] 76561198024482897: Spawned Entity Wall Kit (ExpansionWallKit<69b83d30>, 100, 100, 15, 0) at <8341.938477, 334.707031, 1632.215332>
+[COT 2025-08-16 08:35:35] 76561198024482897: ESP: Viewing ESP
+[COT 2025-08-16 08:35:40] 76561198024482897: ESP target=ExpansionWallBase<6f7cd0f0> action=built part=wood_base_third required_materials=false
+[COT 2025-08-16 08:35:44] 76561198024482897: ESP: Clearing ESP
+[COT 2025-08-16 08:35:45] 76561198024482897: ESP: Viewing ESP
+[COT 2025-08-16 08:35:49] 76561198024482897: ESP target=ExpansionWallBase<6f7cd0f0> action=built part=wood_wallframe_third required_materials=false
+[COT 2025-08-16 08:35:52] 76561198024482897: ESP target=ExpansionWallBase<6f7cd0f0> action=built part=wood_wallfinished_third required_materials=false
+[COT 2025-08-16 08:36:17] 76561198024482897: ESP target=ExpansionWallBase<16e08910> action=built part=wood_base_third required_materials=false
+[COT 2025-08-16 08:36:19] 76561198024482897: ESP target=ExpansionWallBase<16e08910> action=built part=wood_wallframe_third required_materials=false
+[COT 2025-08-16 08:36:20] 76561198024482897: ESP target=ExpansionWallBase<16e08910> action=built part=wood_wallfinished_third required_materials=false
+[COT 2025-08-16 08:36:41] 76561198024482897: ESP target=ExpansionWallBase<274f1890> action=built part=wood_base_third required_materials=false
+[COT 2025-08-16 08:36:43] 76561198024482897: ESP target=ExpansionWallBase<274f1890> action=built part=wood_wallframe_third required_materials=false
+[COT 2025-08-16 08:36:43] 76561198024482897: ESP target=ExpansionWallBase<274f1890> action=built part=wood_wallfinished_third required_materials=false
+[COT 2025-08-16 08:37:26] 76561198024482897: Spawned Entity Wall Kit (ExpansionWallKit<78654960>, 100, 100, 15, 0) at <8342.137695, 328.699249, 1649.804810>
+[COT 2025-08-16 08:37:44] 76561198024482897: ESP target=ExpansionWallBase<13504270> action=built part=wood_base_half required_materials=false
+[COT 2025-08-16 08:37:45] 76561198024482897: ESP target=ExpansionWallBase<13504270> action=built part=wood_wallframe_half required_materials=false
+[COT 2025-08-16 08:37:46] 76561198024482897: ESP target=ExpansionWallBase<13504270> action=built part=wood_wallfinished_half required_materials=false
+[COT 2025-08-16 08:38:10] 76561198024482897: ESP target=ExpansionWallBase<25e8cc80> action=built part=wood_base_third required_materials=false
+[COT 2025-08-16 08:38:12] 76561198024482897: ESP target=ExpansionWallBase<25e8cc80> action=built part=wood_wallframe_third required_materials=false
+[COT 2025-08-16 08:38:12] 76561198024482897: ESP target=ExpansionWallBase<25e8cc80> action=built part=wood_wallfinished_third required_materials=false
+[COT 2025-08-16 08:38:28] 76561198024482897: ESP target=ExpansionWallBase<e2395a0> action=built part=wood_base_third required_materials=false
+[COT 2025-08-16 08:38:29] 76561198024482897: ESP target=ExpansionWallBase<e2395a0> action=built part=wood_wallframe_third required_materials=false
+[COT 2025-08-16 08:38:30] 76561198024482897: ESP target=ExpansionWallBase<e2395a0> action=built part=wood_wallfinished_third required_materials=false
+[COT 2025-08-16 08:38:41] 76561198024482897: ESP: Clearing ESP
+[COT 2025-08-16 08:39:16] 76561198024482897: Deactivated Community Online Tools [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-08-16 08:43:44] 76561198024482897: Activated Community Online Tools [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]

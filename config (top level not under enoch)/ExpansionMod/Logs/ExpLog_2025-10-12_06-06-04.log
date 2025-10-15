@@ -1,0 +1,522 @@
+06:07:21.320 [VehicleDestroyed] ExpansionUh1h_Medical (id=ECE9E70009493674958065B588F6603C pos=<1229.89, 168.79, 7567.06>)
+06:07:21.335 [VehicleDestroyed] ExpansionUh1h (id=EA4ED79F9B48F7D136B636A3E16DF6B3 pos=<7927.21, 169.86, 11833.5>)
+06:07:24.632 [VehicleDeleted] ExpansionUh1h_Medical (id=2EA071B86A45420550A1DEB1714998C4 pos=<1229.89, 168.79, 7567.06>)
+06:07:24.646 [VehicleDeleted] ExpansionUh1h (id=DC872760924F3643AD44FE850D282BB6 pos=<7927.21, 169.86, 11833.5>)
+06:10:42.782 [SpawnSelection] Player "serhiosim7" (id=PSElRasVdRLNExnIQV5Xdo0H7fVKnSQk3UENegNpq4Q=) spawned at <6426.084473, 201.526901, 11602.169922>
+06:12:22.366 [VehicleDestroyed] ExpansionUh1h (id=3E5ACE2A41424DA38C0539B06BC25F58 pos=<1228.18, 169.13, 7566.18>)
+06:12:29.714 [VehicleDestroyed] ExpansionUh1h_Uber (id=22D47B028F45D610D7673C8772A4495A pos=<7924.77, 169.29, 11834>)
+06:12:40.795 [MissionAirdrop] An airdrop is heading towards "Kolembrody" (pos=<8676.000000, 0.000000, 12114.000000> type=Random_Kolembrody) with a ExpansionAirdropContainer
+06:18:35.026 [VehicleDeleted] ExpansionUh1h (id=3E5ACE2A41424DA38C0539B06BC25F58 pos=<1230.49, 168.73, 7567.11>)
+06:19:02.797 [VehicleDeleted] ExpansionUh1h_Uber (id=22D47B028F45D610D7673C8772A4495A pos=<7928.43, 169.71, 11835.6>)
+06:21:17.968 [VehicleDestroyed] ExpansionUh1h_Resistance (id=1CC0615DC143D253532987A31AC0410E pos=<1228.11, 169.15, 7566.13>)
+06:21:25.294 [VehicleDestroyed] ExpansionUh1h (id=54960E9F85497614E6A012ADF8443777 pos=<7924.69, 169.31, 11834>)
+06:27:23.906 [Party] Player "bundundan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) joined the party "Dragon Unyielding" (id=7 ownerUID=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0= ownerName=Dan)
+06:27:30.150 [VehicleDeleted] ExpansionUh1h_Resistance (id=1CC0615DC143D253532987A31AC0410E pos=<1230.5, 168.75, 7567.03>)
+06:27:57.869 [VehicleDeleted] ExpansionUh1h (id=54960E9F85497614E6A012ADF8443777 pos=<7925.19, 169.39, 11834>)
+06:30:12.774 [VehicleDestroyed] ExpansionUh1h_Uber (id=658C56867B4083C8CE9E0B8E16AFE083 pos=<1228.17, 169.14, 7566.18>)
+06:30:14.145 [Chat - Global]("serhiosim7"(id=PSElRasVdRLNExnIQV5Xdo0H7fVKnSQk3UENegNpq4Q=)): hi
+06:30:25.148 [VehicleDestroyed] ExpansionUh1h (id=87249582334AFD0A75E1EC9A48CAA371 pos=<7924.93, 169.37, 11833.7>)
+06:32:25.151 [Chat - Global]("bundundan"(id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=)): hi!
+06:32:47.167 [Chat - Global]("serhiosim7"(id=PSElRasVdRLNExnIQV5Xdo0H7fVKnSQk3UENegNpq4Q=)): how are you?
+06:35:02.595 [Chat - Global]("bundundan"(id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=)): good, tring to buid a gate , you ?
+06:35:24.840 [Chat - Global]("serhiosim7"(id=PSElRasVdRLNExnIQV5Xdo0H7fVKnSQk3UENegNpq4Q=)): good 
+06:36:03.434 [VehicleDeleted] ExpansionUh1h_Uber (id=658C56867B4083C8CE9E0B8E16AFE083 pos=<1230.41, 168.76, 7567.03>)
+06:36:06.947 [Chat - Global]("bundundan"(id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=)): do you know how to dismantle a wood gun rack ?
+06:36:31.289 [VehicleDeleted] ExpansionUh1h (id=87249582334AFD0A75E1EC9A48CAA371 pos=<7926.12, 169.16, 11835.9>)
+06:39:14.661 [VehicleDestroyed] ExpansionUh1h_Medical (id=01966F1C1847632398B528A5F3D9E64B pos=<1228.09, 169.15, 7566.13>)
+06:39:20.962 [VehicleDestroyed] ExpansionUh1h_Medical (id=690C3DF60045DA29E5290D97146D6F4D pos=<7924.47, 169.29, 11833.8>)
+06:45:25.569 [VehicleDeleted] ExpansionUh1h_Medical (id=01966F1C1847632398B528A5F3D9E64B pos=<1230.61, 168.76, 7566.97>)
+06:45:53.306 [VehicleDeleted] ExpansionUh1h_Medical (id=690C3DF60045DA29E5290D97146D6F4D pos=<7925.43, 169.5, 11833.7>)
+06:47:40.929 [Chat - Global]("bundundan"(id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=)): solve it withh a screwsriver
+06:48:08.677 [VehicleDestroyed] ExpansionUh1h_Uber (id=BFC9E556F5432844DFA429BC4F8E57BC pos=<1228.19, 169.14, 7566.17>)
+06:48:25.957 [VehicleDestroyed] ExpansionUh1h_Uber (id=01AE45A1D84C1B32454F12B78AE7FE49 pos=<7924.82, 169.45, 11833.5>)
+06:48:31.949 [Chat - Global]("serhiosim7"(id=PSElRasVdRLNExnIQV5Xdo0H7fVKnSQk3UENegNpq4Q=)): no sorry
+06:50:10.153 [BaseRaiding] ExpansionWall6x3 (<6573.148438, 206.484360, 8387.771484>) Code set by "player "bundundan" (ID = "J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=" at <6575.366211, 206.789429, 8388.759766>)" and the code is 1981
+06:54:18.162 [VehicleDeleted] ExpansionUh1h_Uber (id=BFC9E556F5432844DFA429BC4F8E57BC pos=<1230.47, 168.75, 7567.07>)
+06:54:46.548 [VehicleDeleted] ExpansionUh1h_Uber (id=01AE45A1D84C1B32454F12B78AE7FE49 pos=<7924.76, 169.45, 11833.4>)
+06:57:04.086 [VehicleDestroyed] ExpansionUh1h_Resistance (id=C5BD925E46453C4399D0C890B0657E39 pos=<1228.07, 169.16, 7566.11>)
+06:57:20.338 [VehicleDestroyed] ExpansionUh1h_Uber (id=85CE1C056F470C05061FC7B351FB117D pos=<7924.57, 169.37, 11833.5>)
+06:58:30.624 [AI Object Patrol 00013] Spawning 1 West bots at <4267.858398, 238.225937, 10476.714844>
+06:58:30.656 [AI Object Patrol 00013] Global patrol count: 1
+06:58:30.666 [AI Object Patrol 00013] ContaminatedArea category patrol count: 1
+06:59:44.631 [Chat - Global]("serhiosim7"(id=PSElRasVdRLNExnIQV5Xdo0H7fVKnSQk3UENegNpq4Q=)): what about cars on the server?
+07:00:25.915 [AI Object Patrol 00014] Spawning 3 West bots at <4013.768555, 237.813583, 10099.454102>
+07:00:25.954 [AI Object Patrol 00014] Global patrol count: 2
+07:00:25.966 [AI Object Patrol 00014] ContaminatedArea category patrol count: 2
+07:00:26.077 [Chat - Global]("bundundan"(id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=)): you can find the vanila cars
+07:00:43.803 [Chat - Global]("bundundan"(id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=)): with parts mising
+07:03:13.628 [VehicleDeleted] ExpansionUh1h_Resistance (id=C5BD925E46453C4399D0C890B0657E39 pos=<1230.55, 168.76, 7567.01>)
+07:03:44.954 [VehicleDeleted] ExpansionUh1h_Uber (id=85CE1C056F470C05061FC7B351FB117D pos=<7924.2, 169.28, 11833.5>)
+07:05:59.351 [VehicleDestroyed] ExpansionUh1h (id=BBAB4399164D0306A8E77FA3B187CFBE pos=<1228.14, 169.12, 7566.26>)
+07:06:20.076 [VehicleDestroyed] ExpansionUh1h_Medical (id=0F85FC376844733EF13A15AB8CDB57F2 pos=<7925.28, 169.55, 11833.4>)
+07:12:09.312 [VehicleDeleted] ExpansionUh1h (id=BBAB4399164D0306A8E77FA3B187CFBE pos=<1230.31, 168.71, 7567.28>)
+07:12:37.160 [VehicleDeleted] ExpansionUh1h_Medical (id=0F85FC376844733EF13A15AB8CDB57F2 pos=<7927.34, 169.94, 11833.3>)
+07:14:51.188 [VehicleDestroyed] ExpansionUh1h_Uber (id=3E07C8ADEB47610E1A652885F7B9DB54 pos=<1228.17, 169.1, 7566.36>)
+07:15:09.148 [VehicleDestroyed] ExpansionUh1h_Uber (id=5FBC3EDAA847CC6E4EA69980002F2412 pos=<7925.17, 169.48, 11833.6>)
+07:20:36.704 [AI Object Patrol 00013] Despawning 1 West bots (spawn position <4267.858398, 238.225937, 10476.714844>, 0/1 deceased)
+07:20:36.714 [AI Object Patrol 00013] Global patrol count: 1
+07:20:36.724 [AI Object Patrol 00013] ContaminatedArea category patrol count: 1
+07:21:02.398 [VehicleDeleted] ExpansionUh1h_Uber (id=3E07C8ADEB47610E1A652885F7B9DB54 pos=<1230.35, 168.75, 7567.09>)
+07:21:30.857 [VehicleDeleted] ExpansionUh1h_Uber (id=5FBC3EDAA847CC6E4EA69980002F2412 pos=<7925.68, 169.67, 11833.1>)
+07:22:01.617 [AI Object Patrol 00014] Despawning 3 West bots (spawn position <4013.768555, 237.813583, 10099.454102>, 0/3 deceased)
+07:22:01.634 [AI Object Patrol 00014] Global patrol count: 0
+07:22:01.647 [AI Object Patrol 00014] ContaminatedArea category patrol count: 0
+07:23:46.571 [VehicleDestroyed] ExpansionUh1h_Resistance (id=2525F4572F49C03661504F9C3B541EA3 pos=<1228.18, 169.14, 7566.17>)
+07:23:58.815 [VehicleDestroyed] ExpansionUh1h (id=17754CDACC4A98F1823733BFA5A59236 pos=<7924.73, 169.37, 11833.7>)
+07:29:55.713 [VehicleDeleted] ExpansionUh1h_Resistance (id=2525F4572F49C03661504F9C3B541EA3 pos=<1230.52, 168.76, 7567.01>)
+07:30:24.166 [VehicleDeleted] ExpansionUh1h (id=17754CDACC4A98F1823733BFA5A59236 pos=<7924.43, 169.28, 11833.9>)
+07:32:37.923 [VehicleDestroyed] ExpansionUh1h_Uber (id=40AA243CCF47D79A2A00EFA658114C0D pos=<1228.16, 169.12, 7566.25>)
+07:32:53.614 [VehicleDestroyed] ExpansionUh1h_Uber (id=A65DEC4BA64318E74151CB8544729908 pos=<7924.8, 169.37, 11833.6>)
+07:38:48.488 [VehicleDeleted] ExpansionUh1h_Uber (id=40AA243CCF47D79A2A00EFA658114C0D pos=<1230.54, 168.73, 7567.13>)
+07:39:16.542 [VehicleDeleted] ExpansionUh1h_Uber (id=A65DEC4BA64318E74151CB8544729908 pos=<7927.36, 169.48, 11835.5>)
+07:41:10.598 [MissionAirdrop] An airdrop is heading towards "Karlin" (pos=<9975.000000, 0.000000, 7242.000000> type=Random_Karlin) with a ExpansionAirdropContainer_Military
+07:41:32.907 [VehicleDestroyed] ExpansionUh1h (id=F54580202547213CBA85CF96943F7306 pos=<1228.06, 169.16, 7566.13>)
+07:41:47.922 [VehicleDestroyed] ExpansionUh1h_Resistance (id=9C7C135CF040D74F9AB6D8A5973E1C27 pos=<7924.58, 169.37, 11833.5>)
+07:47:42.008 [VehicleDeleted] ExpansionUh1h (id=F54580202547213CBA85CF96943F7306 pos=<1230.5, 168.77, 7566.98>)
+07:48:09.708 [VehicleDeleted] ExpansionUh1h_Resistance (id=9C7C135CF040D74F9AB6D8A5973E1C27 pos=<7924.32, 169.32, 11833.5>)
+07:50:25.758 [VehicleDestroyed] ExpansionUh1h_Uber (id=6875890ABA410176760C00B4DC4DB575 pos=<1228.16, 169.14, 7566.16>)
+07:50:40.911 [VehicleDestroyed] ExpansionUh1h_Uber (id=5ABA979DD64EDB15F2B42ABECC10F8F0 pos=<7924.87, 169.41, 11833.5>)
+07:51:44.345 [VehicleEnter] Player "bundundan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<6579.2, 206.35, 8389.56>) as driver
+07:51:48.600 [VehicleEngine] Player "bundundan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<6579.32, 206.34, 8389.41>)
+07:52:33.405 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<6561.34, 206.52, 8388.01>)
+07:52:33.842 [VehicleLeave] Player "bundundan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<6561.34, 206.52, 8388.01>)
+07:56:36.280 [VehicleDeleted] ExpansionUh1h_Uber (id=6875890ABA410176760C00B4DC4DB575 pos=<1230.46, 168.76, 7567.03>)
+07:57:04.035 [VehicleDeleted] ExpansionUh1h_Uber (id=5ABA979DD64EDB15F2B42ABECC10F8F0 pos=<7926.85, 169.32, 11835.8>)
+07:59:18.916 [VehicleDestroyed] ExpansionUh1h_Medical (id=E5F3904BA8409D8050E75094D6DF806F pos=<1228.12, 169.12, 7566.24>)
+07:59:35.307 [VehicleDestroyed] ExpansionUh1h_Uber (id=0A44A58DB3473E5E6B4AE0901455F520 pos=<7924.91, 169.41, 11833.6>)
+08:02:47.785 [VehicleAttachments] Player "bundundan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) detached M3S Dual Wheel (type=Truck_01_WheelDouble) from vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<6561.34, 206.52, 8388.01>)
+08:04:21.155 [VehicleEnter] Player "bundundan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<6561.34, 206.52, 8387.97>) as driver
+08:04:24.636 [VehicleLeave] Player "bundundan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<6561.33, 206.52, 8387.91>)
+08:04:40.993 [VehicleEnter] Player "bundundan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<6561.33, 206.51, 8387.86>) as driver
+08:04:44.529 [VehicleEngine] Player "bundundan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<6561.32, 206.51, 8387.78>)
+08:05:26.930 [VehicleDeleted] ExpansionUh1h_Medical (id=E5F3904BA8409D8050E75094D6DF806F pos=<1230.45, 168.76, 7567.04>)
+08:05:54.637 [VehicleDeleted] ExpansionUh1h_Uber (id=0A44A58DB3473E5E6B4AE0901455F520 pos=<7924.32, 169.31, 11833.6>)
+08:06:00.184 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<6579.31, 206.35, 8390.2>)
+08:06:00.631 [VehicleLeave] Player "bundundan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<6579.31, 206.35, 8390.2>)
+08:08:09.423 [VehicleDestroyed] ExpansionUh1h_Medical (id=44CDBD97CF4DFDFC372A9883ABAF14AC pos=<1228.16, 169.12, 7566.26>)
+08:08:19.726 [VehicleDestroyed] ExpansionUh1h_Uber (id=74A7C9C26F444B5F2510E6A6DED442CC pos=<7924.96, 169.33, 11834>)
+08:11:15.622 [Party] Player "bundundan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left the party "Dragon Unyielding" (id=7 ownerUID=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0= ownerName=Dan)
+08:14:19.363 [VehicleDeleted] ExpansionUh1h_Medical (id=44CDBD97CF4DFDFC372A9883ABAF14AC pos=<1230.31, 168.7, 7567.3>)
+08:14:47.646 [VehicleDeleted] ExpansionUh1h_Uber (id=74A7C9C26F444B5F2510E6A6DED442CC pos=<7924.69, 168.88, 11835.8>)
+08:17:02.691 [VehicleDestroyed] ExpansionUh1h_Resistance (id=BEEDD5867640EC4392B1C7A6F9B27A0B pos=<1228.16, 169.12, 7566.26>)
+08:17:11.865 [VehicleDestroyed] ExpansionUh1h_Uber (id=9ACFF3D116442A67346A3B9B1018DF2F pos=<7924.75, 169.34, 11833.9>)
+08:23:25.498 [Party] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) joined the party "Dragon Unyielding" (id=7 ownerUID=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0= ownerName=Dan)
+08:23:42.128 [VehicleDeleted] ExpansionUh1h_Resistance (id=BEEDD5867640EC4392B1C7A6F9B27A0B pos=<1230.52, 168.71, 7567.2>)
+08:24:10.467 [VehicleDeleted] ExpansionUh1h_Uber (id=9ACFF3D116442A67346A3B9B1018DF2F pos=<7927.12, 170.01, 11832.8>)
+08:26:25.172 [VehicleDestroyed] ExpansionUh1h_Uber (id=FF633BFED1492B9CC38B4586BD52493B pos=<1228.07, 169.14, 7566.19>)
+08:26:38.707 [VehicleDestroyed] ExpansionUh1h_Uber (id=C1F638CBDF496B24FAC519BF12BD4376 pos=<7924.6, 169.37, 11833.6>)
+08:31:11.863 [Party] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left the party "Dragon Unyielding" (id=7 ownerUID=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0= ownerName=Dan)
+08:32:33.149 [VehicleDeleted] ExpansionUh1h_Uber (id=FF633BFED1492B9CC38B4586BD52493B pos=<1230.41, 168.74, 7567.13>)
+08:33:01.075 [VehicleDeleted] ExpansionUh1h_Uber (id=C1F638CBDF496B24FAC519BF12BD4376 pos=<7924.71, 169.4, 11833.6>)
+08:35:15.291 [VehicleDestroyed] ExpansionUh1h_Resistance (id=29B0F11E8C4E434407670187D664A4DE pos=<1228.14, 169.11, 7566.28>)
+08:35:31.875 [VehicleDestroyed] ExpansionUh1h_Resistance (id=3EF8A6F31948734C9E56A4ACA37B2339 pos=<7924.76, 169.44, 11833.5>)
+08:36:25.852 [Party] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) joined the party "Dragon Unyielding" (id=7 ownerUID=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0= ownerName=Dan)
+08:41:25.542 [VehicleDeleted] ExpansionUh1h_Resistance (id=29B0F11E8C4E434407670187D664A4DE pos=<1230.35, 168.71, 7567.28>)
+08:41:53.557 [VehicleDeleted] ExpansionUh1h_Resistance (id=3EF8A6F31948734C9E56A4ACA37B2339 pos=<7924.86, 169.45, 11833.5>)
+08:42:23.044 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle Mh-6 Little Bird (id=994F5F4FBF433CBFE47A75B67AE1D77F pos=<6576.71, 212.83, 8396.52>) as pilot
+08:42:24.901 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle Mh-6 Little Bird (id=994F5F4FBF433CBFE47A75B67AE1D77F pos=<6576.75, 212.83, 8396.48>)
+08:44:18.491 [VehicleDestroyed] ExpansionUh1h_Uber (id=9E6DE9F3AB41AB3C98A67B9E9526BB3F pos=<1228.15, 169.12, 7566.26>)
+08:44:25.699 [AI Patrol 00019] Spawning 3 East bots at <9238.380859, 199.381424, 10893.023438>
+08:44:25.743 [AI Patrol 00019] Global patrol count: 1
+08:44:25.753 [AI Patrol 00019] Patrol category patrol count: 1
+08:44:26.785 [VehicleDestroyed] ExpansionUh1h_Resistance (id=955F57AA054D6AE3E4FD40A283E7D644 pos=<7924.5, 169.29, 11833.9>)
+08:44:42.036 [AI Patrol 00020] Spawning 3 East bots at <9465.477539, 245.826218, 10297.974609>
+08:44:42.075 [AI Patrol 00020] Global patrol count: 2
+08:44:42.085 [AI Patrol 00020] Patrol category patrol count: 2
+08:48:47.500 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Mh-6 Little Bird (id=994F5F4FBF433CBFE47A75B67AE1D77F pos=<10776.8, 197.65, 10996.6>)
+08:48:47.952 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle Mh-6 Little Bird (id=994F5F4FBF433CBFE47A75B67AE1D77F pos=<10776.8, 197.65, 10996.6>)
+08:50:28.779 [VehicleDeleted] ExpansionUh1h_Uber (id=9E6DE9F3AB41AB3C98A67B9E9526BB3F pos=<1230.42, 168.74, 7567.11>)
+08:50:56.725 [VehicleDeleted] ExpansionUh1h_Resistance (id=955F57AA054D6AE3E4FD40A283E7D644 pos=<7924.06, 169.18, 11834>)
+08:52:01.386 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle Mh-6 Little Bird (id=994F5F4FBF433CBFE47A75B67AE1D77F pos=<10776.8, 197.64, 10996.6>) as pilot
+08:52:06.182 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle Mh-6 Little Bird (id=994F5F4FBF433CBFE47A75B67AE1D77F pos=<10776.8, 197.64, 10996.6>)
+08:53:11.189 [VehicleDestroyed] ExpansionUh1h (id=B93260AF314D1828F9A350970D3A0B5B pos=<1228.15, 169.11, 7566.31>)
+08:53:20.315 [VehicleDestroyed] ExpansionUh1h_Uber (id=A630FC5EAD4084B03D493999DC425213 pos=<7924.78, 169.29, 11834>)
+08:55:25.250 [AI Patrol 00020] Despawning 3 East bots (spawn position <9465.477539, 245.826218, 10297.974609>, 0/3 deceased)
+08:55:25.263 [AI Patrol 00020] Global patrol count: 1
+08:55:25.274 [AI Patrol 00020] Patrol category patrol count: 1
+08:56:00.451 [AI Patrol 00019] Despawning 3 East bots (spawn position <9238.380859, 199.381424, 10893.023438>, 0/3 deceased)
+08:56:00.461 [AI Patrol 00019] Global patrol count: 0
+08:56:00.471 [AI Patrol 00019] Patrol category patrol count: 0
+08:57:55.616 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) stopped vehicle Mh-6 Little Bird (id=994F5F4FBF433CBFE47A75B67AE1D77F pos=<6290.8, 176.27, 10631.2>)
+08:57:58.376 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle Mh-6 Little Bird (id=994F5F4FBF433CBFE47A75B67AE1D77F pos=<6290.8, 176.27, 10631.2>)
+08:59:23.118 [VehicleDeleted] ExpansionUh1h (id=B93260AF314D1828F9A350970D3A0B5B pos=<1230.34, 168.71, 7567.24>)
+08:59:50.845 [VehicleDeleted] ExpansionUh1h_Uber (id=A630FC5EAD4084B03D493999DC425213 pos=<7927.01, 169.35, 11835.8>)
+09:02:04.767 [VehicleDestroyed] ExpansionUh1h (id=C45D1289E348F4879C6A3F9C2097560B pos=<1228.16, 169.1, 7566.34>)
+09:02:18.044 [VehicleDestroyed] ExpansionUh1h_Resistance (id=5EC9C2AE29443483F849C08EB1F9A23F pos=<7924.63, 169.32, 11833.9>)
+09:08:10.525 [MissionAirdrop] An airdrop is heading towards "Siła Factory" (pos=<7345.830078, 0.000000, 2692.620117> type=Random_Sila) with a ExpansionAirdropContainer_Basebuilding
+09:08:13.731 [VehicleDeleted] ExpansionUh1h (id=C45D1289E348F4879C6A3F9C2097560B pos=<1230.42, 168.71, 7567.23>)
+09:08:41.571 [VehicleDeleted] ExpansionUh1h_Resistance (id=5EC9C2AE29443483F849C08EB1F9A23F pos=<7925.02, 169.38, 11834>)
+09:10:56.082 [VehicleDestroyed] ExpansionUh1h_Medical (id=78A7AC72DA48A001404BB8A70850CB5F pos=<1228.15, 169.12, 7566.25>)
+09:11:12.689 [VehicleDestroyed] ExpansionUh1h_Resistance (id=5EC6D53ED247650D588BCDB62C7A42AD pos=<7924.82, 169.38, 11833.6>)
+09:14:27.676 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle Mh-6 Little Bird (id=994F5F4FBF433CBFE47A75B67AE1D77F pos=<6290.8, 176.27, 10631.2>) as pilot
+09:14:32.985 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle Mh-6 Little Bird (id=994F5F4FBF433CBFE47A75B67AE1D77F pos=<6290.8, 176.27, 10631.2>)
+09:17:06.991 [VehicleDeleted] ExpansionUh1h_Medical (id=78A7AC72DA48A001404BB8A70850CB5F pos=<1230.44, 168.75, 7567.05>)
+09:17:34.768 [VehicleDeleted] ExpansionUh1h_Resistance (id=5EC6D53ED247650D588BCDB62C7A42AD pos=<7927.05, 169.64, 11834.5>)
+09:18:43.498 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) stopped vehicle Mh-6 Little Bird (id=994F5F4FBF433CBFE47A75B67AE1D77F pos=<8632.22, 175.19, 11772.4>)
+09:18:52.176 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle Mh-6 Little Bird (id=994F5F4FBF433CBFE47A75B67AE1D77F pos=<8632.18, 175.2, 11772.1>)
+09:19:07.927 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle Mh-6 Little Bird (id=994F5F4FBF433CBFE47A75B67AE1D77F pos=<8632.17, 175.2, 11772.1>) as pilot
+09:19:11.483 [AI Patrol 00017] Spawning 3 West bots at <7289.926758, 293.247772, 2915.318359>
+09:19:11.518 [AI Patrol 00017] Global patrol count: 1
+09:19:11.528 [AI Patrol 00017] Patrol category patrol count: 1
+09:19:11.538 [AI Patrol 00016] Spawning 3 East bots at <7699.363281, 315.137726, 2962.882568>
+09:19:11.573 [AI Patrol 00016] Global patrol count: 2
+09:19:11.583 [AI Patrol 00016] Patrol category patrol count: 2
+09:19:11.878 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle Mh-6 Little Bird (id=994F5F4FBF433CBFE47A75B67AE1D77F pos=<8632.17, 175.2, 11772.1>)
+09:19:49.187 [VehicleDestroyed] ExpansionUh1h (id=DE5EFCABFA4D3CF821AD5780596EA9F5 pos=<1228.1, 169.12, 7566.28>)
+09:20:08.541 [VehicleDestroyed] ExpansionUh1h_Resistance (id=233F6440AF4FA5DA5E99D49BC3ED6B67 pos=<7924.83, 169.47, 11833.4>)
+09:21:25.685 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) stopped vehicle Mh-6 Little Bird (id=994F5F4FBF433CBFE47A75B67AE1D77F pos=<8355.52, 186.38, 11520.2>)
+09:21:37.650 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle Mh-6 Little Bird (id=994F5F4FBF433CBFE47A75B67AE1D77F pos=<8351.64, 185.67, 11520.3>)
+09:26:00.377 [VehicleDeleted] ExpansionUh1h (id=DE5EFCABFA4D3CF821AD5780596EA9F5 pos=<1230.3, 168.7, 7567.32>)
+09:26:28.095 [VehicleDeleted] ExpansionUh1h_Resistance (id=233F6440AF4FA5DA5E99D49BC3ED6B67 pos=<7924.75, 169.46, 11833.4>)
+09:26:49.411 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) stopped vehicle Mh-6 Little Bird (id=994F5F4FBF433CBFE47A75B67AE1D77F pos=<8364.77, 187.01, 11524>)
+09:27:05.092 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle Mh-6 Little Bird (id=994F5F4FBF433CBFE47A75B67AE1D77F pos=<8366.52, 185.3, 11528.3>)
+09:28:42.458 [VehicleDestroyed] ExpansionUh1h (id=01B3ED974042369DF57A769FAB2F3DF1 pos=<1228.1, 169.11, 7566.28>)
+09:29:03.003 [VehicleDestroyed] ExpansionUh1h_Medical (id=D6B451772A420CF965E6A9B01E06EE5D pos=<7925.26, 169.53, 11833.4>)
+09:32:59.605 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle Mh-6 Little Bird (id=481F851CB54478DE20BA67BBF254CFE3 pos=<8167.29, 205.96, 10900>) as pilot
+09:33:02.508 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle Mh-6 Little Bird (id=481F851CB54478DE20BA67BBF254CFE3 pos=<8167.24, 205.96, 10900>)
+09:34:53.043 [VehicleDeleted] ExpansionUh1h (id=01B3ED974042369DF57A769FAB2F3DF1 pos=<1230.39, 168.71, 7567.25>)
+09:35:21.089 [VehicleDeleted] ExpansionUh1h_Medical (id=D6B451772A420CF965E6A9B01E06EE5D pos=<7927.18, 169.94, 11833.2>)
+09:36:15.039 [VehicleEnter] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8338.5, 335.1, 1645.04>) as pilot
+09:36:18.225 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8338.5, 335.1, 1645.04>)
+09:37:35.804 [VehicleDestroyed] ExpansionUh1h_Resistance (id=99C8937B4F4AFF30567BFC8C6724452D pos=<1228.17, 169.14, 7566.18>)
+09:37:47.632 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8912.99, 474.45, 2054.77>)
+09:37:47.687 [VehicleLeave] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8912.99, 474.45, 2054.77>)
+09:37:52.787 [VehicleDestroyed] ExpansionUh1h_Resistance (id=68AC72464042D66D64C275A03598949E pos=<7924.57, 169.37, 11833.5>)
+09:41:00.275 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle Mh-6 Little Bird (id=481F851CB54478DE20BA67BBF254CFE3 pos=<8167.22, 205.96, 10900>) as pilot
+09:41:02.346 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle Mh-6 Little Bird (id=481F851CB54478DE20BA67BBF254CFE3 pos=<8167.22, 205.96, 10900.1>)
+09:42:37.396 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) stopped vehicle Mh-6 Little Bird (id=481F851CB54478DE20BA67BBF254CFE3 pos=<8358.99, 184.1, 11525.4>)
+09:42:42.465 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle Mh-6 Little Bird (id=481F851CB54478DE20BA67BBF254CFE3 pos=<8358.97, 184.1, 11525.4>)
+09:43:44.429 [VehicleDeleted] ExpansionUh1h_Resistance (id=99C8937B4F4AFF30567BFC8C6724452D pos=<1230.66, 168.78, 7566.88>)
+09:44:12.204 [VehicleDeleted] ExpansionUh1h_Resistance (id=68AC72464042D66D64C275A03598949E pos=<7924.23, 169.34, 11833.3>)
+09:44:56.911 [VehicleAttachments] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) detached Mh-6 Front-Right Door (type=Expansion_Mh6_Door_1_2_Jeans) from vehicle Mh-6 Little Bird (id=994F5F4FBF433CBFE47A75B67AE1D77F pos=<8366.52, 185.3, 11528.3>)
+09:44:59.620 [VehicleEnter] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8912.96, 474.49, 2054.54>) as pilot
+09:45:05.983 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8912.96, 474.49, 2054.54>)
+09:46:03.694 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8956.38, 481.77, 2055.74>)
+09:46:03.728 [VehicleLeave] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8956.38, 481.77, 2055.74>)
+09:46:04.546 [VehicleDestroyed] ExpansionMh6_Blueline (id=994F5F4FBF433CBFE47A75B67AE1D77F pos=<8366.52, 185.3, 11528.3>)
+09:46:14.428 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle Mh-6 Little Bird (id=481F851CB54478DE20BA67BBF254CFE3 pos=<8358.91, 184.09, 11525.4>) as pilot
+09:46:16.282 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle Mh-6 Little Bird (id=481F851CB54478DE20BA67BBF254CFE3 pos=<8358.91, 184.09, 11525.4>)
+09:46:28.969 [VehicleDestroyed] ExpansionUh1h_Resistance (id=648885314645F7686400D487C86907D8 pos=<1228.12, 169.15, 7566.13>)
+09:46:40.631 [VehicleDestroyed] ExpansionUh1h_Medical (id=6B9D32D09D4D0FF4B9D2F8BC663DCED6 pos=<7924.66, 169.38, 11833.6>)
+09:52:38.428 [VehicleDeleted] ExpansionMh6_Blueline (id=994F5F4FBF433CBFE47A75B67AE1D77F pos=<8366.52, 185.3, 11528.3>)
+09:52:38.441 [VehicleDeleted] ExpansionUh1h_Resistance (id=648885314645F7686400D487C86907D8 pos=<1230.52, 168.77, 7566.97>)
+09:53:06.546 [VehicleDeleted] ExpansionUh1h_Medical (id=6B9D32D09D4D0FF4B9D2F8BC663DCED6 pos=<7924.77, 169.4, 11833.7>)
+09:54:12.959 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Mh-6 Little Bird (id=481F851CB54478DE20BA67BBF254CFE3 pos=<7899.24, 320.49, 9817.61>)
+09:54:13.449 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle Mh-6 Little Bird (id=481F851CB54478DE20BA67BBF254CFE3 pos=<7899.23, 320.49, 9817.61>)
+09:54:30.576 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle UH-1H (id=36EC2226B347CC54058CA48B834423D0 pos=<7883.48, 320.55, 9802.19>) as pilot
+09:54:43.618 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle UH-1H (id=36EC2226B347CC54058CA48B834423D0 pos=<7883.48, 320.55, 9802.19>)
+09:55:20.913 [VehicleDestroyed] ExpansionUh1h_Resistance (id=3C766C9C62457016F02FC1AAA41DF7D4 pos=<1228.13, 169.11, 7566.28>)
+09:55:35.436 [VehicleDestroyed] ExpansionUh1h_Resistance (id=97B9E719424BEA3E3144C7850905D7E4 pos=<7924.98, 169.44, 11833.6>)
+10:01:30.877 [VehicleDeleted] ExpansionUh1h_Resistance (id=3C766C9C62457016F02FC1AAA41DF7D4 pos=<1230.47, 168.73, 7567.14>)
+10:01:58.773 [VehicleDeleted] ExpansionUh1h_Resistance (id=97B9E719424BEA3E3144C7850905D7E4 pos=<7925.79, 169.63, 11833.5>)
+10:04:14.147 [VehicleDestroyed] ExpansionUh1h_Uber (id=24B83DA24D4EC641A95AA28D39AEC636 pos=<1228.09, 169.14, 7566.19>)
+10:04:25.751 [VehicleDestroyed] ExpansionUh1h_Medical (id=FEE7BB73B9476076464BBB96BF82EA22 pos=<7924.4, 169.31, 11833.6>)
+10:10:22.870 [VehicleDeleted] ExpansionUh1h_Uber (id=24B83DA24D4EC641A95AA28D39AEC636 pos=<1230.45, 168.74, 7567.12>)
+10:10:51.445 [VehicleDeleted] ExpansionUh1h_Medical (id=FEE7BB73B9476076464BBB96BF82EA22 pos=<7924.22, 169.29, 11833.5>)
+10:13:06.823 [VehicleDestroyed] ExpansionUh1h_Medical (id=9DCBEC1D9642F13E8779BB8BD0E504A7 pos=<1228.15, 169.14, 7566.16>)
+10:13:21.351 [VehicleDestroyed] ExpansionUh1h_Medical (id=B3D69592974B3E21E9F2E994B67F4513 pos=<7925.04, 169.45, 11833.6>)
+10:18:24.751 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle Mh-6 Little Bird (id=481F851CB54478DE20BA67BBF254CFE3 pos=<7898.38, 320.51, 9817.61>) as pilot
+10:19:17.829 [VehicleDeleted] ExpansionUh1h_Medical (id=9DCBEC1D9642F13E8779BB8BD0E504A7 pos=<1230.48, 168.75, 7567.07>)
+10:19:46.432 [VehicleDeleted] ExpansionUh1h_Medical (id=B3D69592974B3E21E9F2E994B67F4513 pos=<7925.69, 169.68, 11833.2>)
+10:22:01.710 [VehicleDestroyed] ExpansionUh1h_Medical (id=DA710370734CBE2B4D6BE0886AEA10A0 pos=<1228.18, 169.14, 7566.16>)
+10:22:18.490 [VehicleDestroyed] ExpansionUh1h_Uber (id=67EF36C081494BB7C63D9994E3A2BB1C pos=<7924.85, 169.46, 11833.5>)
+10:25:48.006 [AI Patrol 00016] East bots were wiped out (spawn position <7699.363281, 315.137726, 2962.882568>, 3/3 deceased)
+10:25:48.037 [AI Patrol 00016] Global patrol count: 1
+10:25:48.056 [AI Patrol 00016] Patrol category patrol count: 1
+10:28:09.817 [VehicleDeleted] ExpansionUh1h_Medical (id=DA710370734CBE2B4D6BE0886AEA10A0 pos=<1230.5, 168.77, 7566.98>)
+10:28:38.153 [VehicleDeleted] ExpansionUh1h_Uber (id=67EF36C081494BB7C63D9994E3A2BB1C pos=<7924.75, 169.46, 11833.4>)
+10:30:53.653 [VehicleDestroyed] ExpansionUh1h_Medical (id=B78B7F93FA49D403135787A1F119D93B pos=<1228.12, 169.15, 7566.14>)
+10:31:09.796 [VehicleDestroyed] ExpansionUh1h_Resistance (id=C3824D296746F4919600A7A1DD56FBB1 pos=<7925.32, 169.48, 11833.6>)
+10:35:43.577 [AI Patrol 00017] Despawning 2 West bots (spawn position <7289.926758, 293.247772, 2915.318359>, 1/3 deceased)
+10:35:43.588 [AI Patrol 00017] Global patrol count: 0
+10:35:43.597 [AI Patrol 00017] Patrol category patrol count: 0
+10:37:03.434 [VehicleDeleted] ExpansionUh1h_Medical (id=B78B7F93FA49D403135787A1F119D93B pos=<1230.58, 168.76, 7567>)
+10:37:31.588 [VehicleDeleted] ExpansionUh1h_Resistance (id=C3824D296746F4919600A7A1DD56FBB1 pos=<7926.34, 169.18, 11836>)
+10:38:10.934 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle Mh-6 Little Bird (id=481F851CB54478DE20BA67BBF254CFE3 pos=<7882.11, 320.67, 9817.99>)
+10:39:45.708 [VehicleDestroyed] ExpansionUh1h (id=DAEEBBA4C943ABBE3313B58D75523822 pos=<1228.15, 169.12, 7566.26>)
+10:40:06.941 [VehicleDestroyed] ExpansionUh1h_Medical (id=4323A44A854560D0A695B8BF2F5397EA pos=<7925, 169.49, 11833.4>)
+10:40:23.264 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle Mh-6 Little Bird (id=481F851CB54478DE20BA67BBF254CFE3 pos=<7882.08, 320.67, 9817.98>) as pilot
+10:40:25.495 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle Mh-6 Little Bird (id=481F851CB54478DE20BA67BBF254CFE3 pos=<7882.04, 320.67, 9817.98>)
+10:43:11.748 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle Mh-6 Little Bird (id=481F851CB54478DE20BA67BBF254CFE3 pos=<7882, 320.67, 9817.98>) as pilot
+10:43:13.949 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle Mh-6 Little Bird (id=481F851CB54478DE20BA67BBF254CFE3 pos=<7881.96, 320.67, 9817.98>)
+10:43:39.153 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle Mh-6 Little Bird (id=481F851CB54478DE20BA67BBF254CFE3 pos=<7881.91, 320.67, 9817.98>) as pilot
+10:43:42.323 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle Mh-6 Little Bird (id=481F851CB54478DE20BA67BBF254CFE3 pos=<7881.88, 320.67, 9817.98>)
+10:44:37.697 [AI Object Patrol 00089] Spawning 2 West bots at <6528.561523, 226.009598, 8165.509277>
+10:44:37.733 [AI Object Patrol 00089] Global patrol count: 1
+10:44:37.743 [AI Object Patrol 00089] ContaminatedArea category patrol count: 1
+10:44:58.182 [AI Object Patrol 00092] Spawning 1 West bots at <6489.384766, 287.870422, 7574.229004>
+10:44:58.221 [AI Object Patrol 00092] Global patrol count: 2
+10:44:58.240 [AI Object Patrol 00092] HelicopterWreck category patrol count: 1
+10:45:55.710 [VehicleDeleted] ExpansionUh1h (id=DAEEBBA4C943ABBE3313B58D75523822 pos=<1230.44, 168.72, 7567.19>)
+10:46:23.926 [VehicleDeleted] ExpansionUh1h_Medical (id=4323A44A854560D0A695B8BF2F5397EA pos=<7925.1, 169.5, 11833.5>)
+10:46:57.939 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) stopped vehicle Mh-6 Little Bird (id=481F851CB54478DE20BA67BBF254CFE3 pos=<6574.62, 212.8, 8395.38>)
+10:47:01.280 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle Mh-6 Little Bird (id=481F851CB54478DE20BA67BBF254CFE3 pos=<6574.57, 212.8, 8395.39>)
+10:48:40.155 [VehicleDestroyed] ExpansionUh1h (id=BCC80BFDFA4B0599530D968573E14CA5 pos=<1228.17, 169.13, 7566.18>)
+10:48:56.102 [VehicleDestroyed] ExpansionUh1h (id=18552A505049B9E9B75E9AA584CC0CDE pos=<7924.82, 169.38, 11833.6>)
+10:50:09.567 [AI Object Patrol 00089] Despawning 2 West bots (spawn position <6528.561523, 226.009598, 8165.509277>, 0/2 deceased)
+10:50:09.578 [AI Object Patrol 00089] Global patrol count: 1
+10:50:09.588 [AI Object Patrol 00089] ContaminatedArea category patrol count: 0
+10:54:50.263 [VehicleDeleted] ExpansionUh1h (id=BCC80BFDFA4B0599530D968573E14CA5 pos=<1230.49, 168.75, 7567.04>)
+10:55:18.350 [VehicleDeleted] ExpansionUh1h (id=18552A505049B9E9B75E9AA584CC0CDE pos=<7927.1, 169.62, 11834.7>)
+10:57:34.436 [VehicleDestroyed] ExpansionUh1h_Resistance (id=75B9A1B978471D850DF8F98A5B1DA20A pos=<1228.18, 169.14, 7566.18>)
+10:57:52.362 [VehicleDestroyed] ExpansionUh1h (id=DDC65DFB684206CDA98CF984B8B60C99 pos=<7925.03, 169.47, 11833.6>)
+11:03:42.625 [VehicleDeleted] ExpansionUh1h_Resistance (id=75B9A1B978471D850DF8F98A5B1DA20A pos=<1230.54, 168.75, 7567.05>)
+11:04:10.378 [VehicleDeleted] ExpansionUh1h (id=DDC65DFB684206CDA98CF984B8B60C99 pos=<7926.77, 169.75, 11833.7>)
+11:06:24.966 [VehicleDestroyed] ExpansionUh1h_Uber (id=C3478B517A49BFFA6A18E69FCFD7F9A2 pos=<1228.14, 169.12, 7566.23>)
+11:06:35.921 [VehicleDestroyed] ExpansionUh1h_Uber (id=CFB848EBCE40A7979BC41C816A6C84FC pos=<7924.66, 169.35, 11833.7>)
+11:08:20.615 [AI Object Patrol 00092] Despawning 1 West bots (spawn position <6489.384766, 287.870422, 7574.229004>, 0/1 deceased)
+11:08:20.625 [AI Object Patrol 00092] Global patrol count: 0
+11:08:20.634 [AI Object Patrol 00092] HelicopterWreck category patrol count: 0
+11:11:27.534 [AI Object Patrol 00099] Spawning 3 West bots at <7848.462891, 314.345581, 10214.525391>
+11:11:27.580 [AI Object Patrol 00099] Global patrol count: 1
+11:11:27.596 [AI Object Patrol 00099] ContaminatedArea category patrol count: 1
+11:12:33.532 [VehicleDeleted] ExpansionUh1h_Uber (id=C3478B517A49BFFA6A18E69FCFD7F9A2 pos=<1230.45, 168.74, 7567.11>)
+11:13:01.598 [VehicleDeleted] ExpansionUh1h_Uber (id=CFB848EBCE40A7979BC41C816A6C84FC pos=<7924.21, 169.22, 11833.9>)
+11:15:14.347 [MissionAirdrop] An airdrop is heading towards "Dolnik" (pos=<11491.000000, 0.000000, 763.000000> type=Random_Dolnik) with a ExpansionAirdropContainer_Basebuilding
+11:15:16.875 [VehicleDestroyed] ExpansionUh1h_Uber (id=A23ED2113442010AE7A9BDB616CEC915 pos=<1228.07, 169.16, 7566.12>)
+11:15:32.949 [VehicleDestroyed] ExpansionUh1h_Medical (id=7DDE5F180E4FFD699BBC0382DF674641 pos=<7924.67, 169.37, 11833.5>)
+11:21:24.542 [VehicleDeleted] ExpansionUh1h_Uber (id=A23ED2113442010AE7A9BDB616CEC915 pos=<1230.44, 168.76, 7567>)
+11:21:52.335 [VehicleDeleted] ExpansionUh1h_Medical (id=7DDE5F180E4FFD699BBC0382DF674641 pos=<7924.28, 169.29, 11833.6>)
+11:21:52.351 [AI Object Patrol 00099] Despawning 2 West bots (spawn position <7848.462891, 314.345581, 10214.525391>, 1/3 deceased)
+11:21:52.361 [AI Object Patrol 00099] Global patrol count: 0
+11:21:52.371 [AI Object Patrol 00099] ContaminatedArea category patrol count: 0
+11:24:07.231 [VehicleDestroyed] ExpansionUh1h_Uber (id=7E6909583E426FFDF0285FA238310FFB pos=<1228.05, 169.14, 7566.18>)
+11:24:24.036 [VehicleDestroyed] ExpansionUh1h_Medical (id=AC0A427E5F40C6AD403C56B04AACD2BC pos=<7925.18, 169.49, 11833.5>)
+11:30:14.495 [VehicleDeleted] ExpansionUh1h_Uber (id=7E6909583E426FFDF0285FA238310FFB pos=<1230.34, 168.77, 7567.02>)
+11:30:23.283 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle UH-1H (id=36EC2226B347CC54058CA48B834423D0 pos=<7883.48, 320.55, 9802.19>) as pilot
+11:30:26.231 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle UH-1H (id=36EC2226B347CC54058CA48B834423D0 pos=<7883.48, 320.55, 9802.19>)
+11:30:42.595 [VehicleDeleted] ExpansionUh1h_Medical (id=AC0A427E5F40C6AD403C56B04AACD2BC pos=<7925.57, 169.64, 11833.2>)
+11:32:58.267 [VehicleDestroyed] ExpansionUh1h_Medical (id=ED7109BF5D427314A63426976F126899 pos=<1228.18, 169.14, 7566.19>)
+11:33:08.597 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle UH-1H (id=36EC2226B347CC54058CA48B834423D0 pos=<7883.48, 320.55, 9802.2>) as pilot
+11:33:11.954 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle UH-1H (id=36EC2226B347CC54058CA48B834423D0 pos=<7883.48, 320.55, 9802.2>)
+11:33:31.143 [VehicleDestroyed] ExpansionUh1h_Medical (id=7C46F5DF4F448FF27EF8118162055F25 pos=<7925.68, 169.63, 11833.2>)
+11:34:46.703 [AI Object Patrol 00110] Spawning 1 West bots at <6010.113770, 282.617950, 6645.418457>
+11:34:46.750 [AI Object Patrol 00110] Global patrol count: 1
+11:34:46.768 [AI Object Patrol 00110] ContaminatedArea category patrol count: 1
+11:36:38.891 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) stopped vehicle UH-1H (id=36EC2226B347CC54058CA48B834423D0 pos=<6098.3, 270.4, 6949.75>)
+11:36:49.271 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle UH-1H (id=36EC2226B347CC54058CA48B834423D0 pos=<6091.42, 265.69, 6951.7>)
+11:39:07.529 [VehicleDeleted] ExpansionUh1h_Medical (id=ED7109BF5D427314A63426976F126899 pos=<1230.64, 168.75, 7567>)
+11:39:20.830 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) stopped vehicle UH-1H (id=36EC2226B347CC54058CA48B834423D0 pos=<6099.43, 267.5, 6949.67>)
+11:39:27.846 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle UH-1H (id=36EC2226B347CC54058CA48B834423D0 pos=<6099.43, 267.5, 6949.67>)
+11:39:35.638 [VehicleDeleted] ExpansionUh1h_Medical (id=7C46F5DF4F448FF27EF8118162055F25 pos=<7925.63, 169.11, 11835.6>)
+11:41:50.852 [VehicleDestroyed] ExpansionUh1h (id=3837DC590947838D244EA9A0985FD07A pos=<1228.16, 169.14, 7566.18>)
+11:42:00.050 [VehicleDestroyed] ExpansionUh1h_Resistance (id=66537FDF574A108725356FAA8C9A001B pos=<7924.75, 169.33, 11833.9>)
+11:45:24.964 [BaseRaiding] ExpansionWall6x3 (<6106.725586, 263.691315, 6949.112305>) Damaged "player "Dan" (ID = "J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=" at <6105.580566, 263.941467, 6951.515137>)" by 10 health points. Reason: Failed to enter the correct code.
+11:45:24.975 [BaseRaiding] ExpansionWall6x3 (<6106.725586, 263.691315, 6949.112305>) The correct code was 1670 and the player tried 1999
+11:48:01.067 [VehicleDeleted] ExpansionUh1h (id=3837DC590947838D244EA9A0985FD07A pos=<1230.45, 168.78, 7566.94>)
+11:48:28.869 [VehicleDeleted] ExpansionUh1h_Resistance (id=66537FDF574A108725356FAA8C9A001B pos=<7925.06, 169.38, 11833.9>)
+12:00:58.264 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle UH-1H (id=36EC2226B347CC54058CA48B834423D0 pos=<6099.43, 267.5, 6949.66>) as pilot
+12:01:01.209 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle UH-1H (id=36EC2226B347CC54058CA48B834423D0 pos=<6099.43, 267.5, 6949.66>)
+12:02:28.556 [AI Object Patrol 00110] Despawning 1 West bots (spawn position <6010.113770, 282.617950, 6645.418457>, 0/1 deceased)
+12:02:28.565 [AI Object Patrol 00110] Global patrol count: 0
+12:02:28.574 [AI Object Patrol 00110] ContaminatedArea category patrol count: 0
+12:03:04.992 [AI Object Patrol 00120] Spawning 2 East bots at <7297.116211, 261.708923, 8469.379883>
+12:03:05.037 [AI Object Patrol 00120] Global patrol count: 1
+12:03:05.047 [AI Object Patrol 00120] HelicopterWreck category patrol count: 1
+12:09:24.035 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) stopped vehicle UH-1H (id=36EC2226B347CC54058CA48B834423D0 pos=<6577.46, 212.84, 8398.37>)
+12:09:45.051 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle UH-1H (id=36EC2226B347CC54058CA48B834423D0 pos=<6577.46, 212.84, 8398.37>)
+12:11:48.427 [Party] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left the party "Dragon Unyielding" (id=7 ownerUID=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0= ownerName=Dan)
+12:21:45.222 [AI Object Patrol 00120] Despawning 2 East bots (spawn position <7297.116211, 261.708923, 8469.379883>, 0/2 deceased)
+12:21:45.355 [AI Object Patrol 00120] Global patrol count: 0
+12:21:45.506 [AI Object Patrol 00120] HelicopterWreck category patrol count: 0
+12:46:24.051 [MissionAirdrop] An airdrop is heading towards "Gieraltow" (pos=<10899.000000, 0.000000, 4515.000000> type=Random_Gieraltow) with a ExpansionAirdropContainer_Basebuilding
+14:14:51.760 [MissionAirdrop] An airdrop is heading towards "Brena" (pos=<6692.000000, 0.000000, 11442.000000> type=Random_Brena) with a ExpansionAirdropContainer_Military
+15:43:03.224 [MissionAirdrop] An airdrop is heading towards "Tarnow" (pos=<9976.000000, 0.000000, 11000.000000> type=Random_Tarnow) with a ExpansionAirdropContainer_Medical
+17:12:40.040 [MissionAirdrop] An airdrop is heading towards "Kolembrody" (pos=<8676.000000, 0.000000, 12114.000000> type=Random_Kolembrody) with a ExpansionAirdropContainer
+18:42:09.137 [MissionAirdrop] An airdrop is heading towards "Tarnow" (pos=<9976.000000, 0.000000, 11000.000000> type=Random_Tarnow) with a ExpansionAirdropContainer_Medical
+18:47:28.439 [VehicleEnter] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8956.38, 481.77, 2055.35>) as pilot
+18:47:30.265 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8956.38, 481.77, 2055.34>)
+18:49:49.619 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8339.73, 334.75, 1643.39>)
+18:49:49.658 [VehicleLeave] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8339.73, 334.75, 1643.39>)
+18:59:04.837 [VehicleEnter] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8347.75, 322.69, 1652.4>) as driver
+18:59:06.425 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8347.75, 322.69, 1652.4>)
+18:59:13.925 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) stopped vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8341.42, 322.59, 1647.37>)
+18:59:16.229 [VehicleLeave] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8341.42, 322.59, 1647.37>)
+19:02:05.719 [Party] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) joined the party "Vanguard Tenacious" (id=11 ownerUID= ownerName=)
+19:02:05.761 [Party] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) created a party named Vanguard Tenacious (Vangu)
+19:02:05.808 [Party] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) invited the player "Survivor" (id=oPo0xbQ-Vz8-zqCwycwUaw3_yywgQp1aCTyh2xhVvg4=)to the party named Vanguard Tenacious
+19:02:27.595 [Party] Player "Survivor" (id=oPo0xbQ-Vz8-zqCwycwUaw3_yywgQp1aCTyh2xhVvg4=) joined the party "Vanguard Tenacious" (id=11 ownerUID=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= ownerName=snake)
+19:04:01.928 [Party] Player "Survivor" (id=oPo0xbQ-Vz8-zqCwycwUaw3_yywgQp1aCTyh2xhVvg4=) left the party "Vanguard Tenacious" (id=11 ownerUID=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= ownerName=snake)
+19:08:56.174 [Party] Player "Survivor" (id=oPo0xbQ-Vz8-zqCwycwUaw3_yywgQp1aCTyh2xhVvg4=) joined the party "Vanguard Tenacious" (id=11 ownerUID=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= ownerName=snake)
+19:18:48.009 [VehicleEnter] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8341.42, 322.59, 1647.37>) as driver
+19:18:57.866 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8341.42, 322.59, 1647.37>)
+19:18:58.632 [VehicleEnter] Player "Survivor" (id=oPo0xbQ-Vz8-zqCwycwUaw3_yywgQp1aCTyh2xhVvg4=) entered vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8341.42, 322.59, 1647.37>) as passenger
+19:19:11.584 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8330.42, 322.26, 1633.28>)
+19:19:11.648 [VehicleLeave] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8330.42, 322.26, 1633.28>)
+19:19:24.609 [VehicleEnter] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8330.42, 322.26, 1633.28>) as driver
+19:19:27.036 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8330.42, 322.26, 1633.28>)
+19:20:16.631 [Party] Player "Survivor" (id=oPo0xbQ-Vz8-zqCwycwUaw3_yywgQp1aCTyh2xhVvg4=) left the party "Vanguard Tenacious" (id=11 ownerUID=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= ownerName=snake)
+19:21:08.618 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) stopped vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8264.02, 264.34, 1403.23>)
+19:26:05.641 [Party] Player "Survivor" (id=oPo0xbQ-Vz8-zqCwycwUaw3_yywgQp1aCTyh2xhVvg4=) joined the party "Vanguard Tenacious" (id=11 ownerUID=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= ownerName=snake)
+19:26:48.903 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8264.02, 264.34, 1403.23>)
+19:26:54.353 [VehicleEnter] Player "Survivor" (id=oPo0xbQ-Vz8-zqCwycwUaw3_yywgQp1aCTyh2xhVvg4=) entered vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8264.02, 264.34, 1403.23>) as passenger
+19:28:33.861 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8477.93, 368.97, 2267.77>)
+19:28:33.934 [VehicleLeave] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8477.93, 368.97, 2267.77>)
+19:28:39.483 [VehicleLeave] Player "Survivor" (id=oPo0xbQ-Vz8-zqCwycwUaw3_yywgQp1aCTyh2xhVvg4=) left vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8477.93, 368.97, 2267.77>)
+19:29:49.964 [VehicleEnter] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8477.93, 368.97, 2267.77>) as driver
+19:29:56.376 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8477.93, 368.97, 2267.77>)
+19:30:13.461 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8456.34, 365.02, 2265.09>)
+19:30:13.556 [VehicleLeave] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8456.34, 365.02, 2265.09>)
+19:30:17.511 [VehicleEnter] Player "Survivor" (id=oPo0xbQ-Vz8-zqCwycwUaw3_yywgQp1aCTyh2xhVvg4=) entered vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8456.34, 365.02, 2265.09>) as passenger
+19:30:19.495 [VehicleEnter] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8456.34, 365.02, 2265.09>) as driver
+19:30:21.252 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8456.34, 365.02, 2265.09>)
+19:34:18.294 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<10696.7, 232.92, 1118.28>)
+19:34:18.304 [VehicleLeave] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<10696.7, 232.92, 1118.28>)
+19:34:19.249 [VehicleLeave] Player "Survivor" (id=oPo0xbQ-Vz8-zqCwycwUaw3_yywgQp1aCTyh2xhVvg4=) left vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<10696.7, 232.92, 1118.28>)
+19:41:28.271 [VehicleEnter] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<10696.7, 232.92, 1118.28>) as driver
+19:41:29.780 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<10696.7, 232.92, 1118.28>)
+19:41:48.526 [VehicleEnter] Player "Survivor" (id=oPo0xbQ-Vz8-zqCwycwUaw3_yywgQp1aCTyh2xhVvg4=) entered vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<10671.2, 232.2, 1229.81>) as passenger
+19:46:39.385 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8212.09, 264.77, 1512.66>)
+19:46:39.427 [VehicleLeave] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8212.09, 264.77, 1512.66>)
+19:47:14.137 [VehicleEnter] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8212.09, 264.77, 1512.66>) as driver
+19:47:16.020 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8212.09, 264.77, 1512.66>)
+19:48:22.533 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8324.66, 322.49, 1634.73>)
+19:48:22.575 [VehicleLeave] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8324.66, 322.49, 1634.73>)
+19:48:33.137 [VehicleEnter] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8324.66, 322.49, 1634.73>) as driver
+19:48:34.727 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8324.66, 322.49, 1634.73>)
+19:49:08.627 [Party] Player "Survivor" (id=oPo0xbQ-Vz8-zqCwycwUaw3_yywgQp1aCTyh2xhVvg4=) left the party "Vanguard Tenacious" (id=11 ownerUID=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= ownerName=snake)
+19:49:30.566 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8347.66, 322.67, 1651.86>)
+19:49:30.616 [VehicleLeave] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8347.66, 322.67, 1651.86>)
+20:11:58.501 [Party] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left the party "Vanguard Tenacious" (id=11 ownerUID=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= ownerName=snake)
+20:12:16.313 [MissionAirdrop] An airdrop is heading towards "Muratyn" (pos=<4559.000000, 0.000000, 6852.000000> type=Random_Muratyn) with a ExpansionAirdropContainer_Military
+21:38:16.082 [MissionAirdrop] An airdrop is heading towards "Karlin" (pos=<9975.000000, 0.000000, 7242.000000> type=Random_Karlin) with a ExpansionAirdropContainer_Military
+21:53:07.398 [Party] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) joined the party "Dragon Unyielding" (id=7 ownerUID=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0= ownerName=Dan)
+22:51:12.933 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<6579.35, 206.34, 8390.15>) as driver
+22:51:17.599 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<6579.46, 206.33, 8389.97>)
+22:51:46.789 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) stopped vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<6580.13, 206.27, 8391.14>)
+22:51:50.737 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<6580.2, 206.27, 8391.01>)
+23:05:24.255 [MissionAirdrop] An airdrop is heading towards "Muratyn" (pos=<4559.000000, 0.000000, 6852.000000> type=Random_Muratyn) with a ExpansionAirdropContainer_Military
+23:13:39.712 [AI Object Patrol 00180] Spawning 3 West bots at <5940.428711, 218.682220, 7950.530273>
+23:13:39.742 [AI Object Patrol 00180] Global patrol count: 1
+23:13:39.752 [AI Object Patrol 00180] ContaminatedArea category patrol count: 1
+23:17:57.079 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle Mh-6 Little Bird (id=481F851CB54478DE20BA67BBF254CFE3 pos=<6574.71, 212.8, 8394.35>) as pilot
+23:17:58.883 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle Mh-6 Little Bird (id=481F851CB54478DE20BA67BBF254CFE3 pos=<6574.71, 212.8, 8394.35>)
+23:20:00.531 [AI Object Patrol 00157] Spawning 1 West bots at <6854.198730, 225.390594, 8596.315430>
+23:20:00.568 [AI Object Patrol 00157] Global patrol count: 2
+23:20:00.578 [AI Object Patrol 00157] HelicopterWreck category patrol count: 1
+23:20:49.816 [AI Object Patrol 00157] Despawning 1 West bots (spawn position <6854.198730, 225.390594, 8596.315430>, 0/1 deceased)
+23:20:49.927 [AI Object Patrol 00157] Global patrol count: 1
+23:20:49.937 [AI Object Patrol 00157] HelicopterWreck category patrol count: 0
+23:23:50.679 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Mh-6 Little Bird (id=481F851CB54478DE20BA67BBF254CFE3 pos=<10786.2, 196.8, 10983.5>)
+23:23:51.174 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle Mh-6 Little Bird (id=481F851CB54478DE20BA67BBF254CFE3 pos=<10786.2, 196.8, 10983.5>)
+23:28:06.588 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle Mh-6 Little Bird (id=481F851CB54478DE20BA67BBF254CFE3 pos=<10786.9, 196.8, 10983.3>) as pilot
+23:28:09.774 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle Mh-6 Little Bird (id=481F851CB54478DE20BA67BBF254CFE3 pos=<10786.9, 196.8, 10983.3>)
+23:29:52.896 [AI Object Patrol 00180] Despawning 3 West bots (spawn position <5940.428711, 218.682220, 7950.530273>, 0/3 deceased)
+23:29:52.906 [AI Object Patrol 00180] Global patrol count: 0
+23:29:52.915 [AI Object Patrol 00180] ContaminatedArea category patrol count: 0
+23:33:18.434 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) stopped vehicle Mh-6 Little Bird (id=481F851CB54478DE20BA67BBF254CFE3 pos=<6587.07, 205.99, 8394.66>)
+23:33:22.578 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle Mh-6 Little Bird (id=481F851CB54478DE20BA67BBF254CFE3 pos=<6587.11, 205.99, 8394.81>)
+23:35:19.668 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle Mh-6 Little Bird (id=481F851CB54478DE20BA67BBF254CFE3 pos=<6586.81, 206.05, 8395.98>) as pilot
+23:35:23.298 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle Mh-6 Little Bird (id=481F851CB54478DE20BA67BBF254CFE3 pos=<6586.81, 206.05, 8396>)
+23:36:17.698 [AI Object Patrol 00175] Spawning 2 West bots at <5993.916992, 277.755249, 6775.183594>
+23:36:17.734 [AI Object Patrol 00175] Global patrol count: 1
+23:36:17.744 [AI Object Patrol 00175] ContaminatedArea category patrol count: 1
+23:37:41.801 [AI Object Patrol 00175] Despawning 2 West bots (spawn position <5993.916992, 277.755249, 6775.183594>, 0/2 deceased)
+23:37:41.811 [AI Object Patrol 00175] Global patrol count: 0
+23:37:41.820 [AI Object Patrol 00175] ContaminatedArea category patrol count: 0
+23:41:59.079 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Mh-6 Little Bird (id=481F851CB54478DE20BA67BBF254CFE3 pos=<6098.25, 267.02, 6952.67>)
+23:41:59.560 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle Mh-6 Little Bird (id=481F851CB54478DE20BA67BBF254CFE3 pos=<6098.24, 267.03, 6952.67>)
+23:49:56.757 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle M1025 (id=70602606F742DB25C4D230A762076C2C pos=<6097.98, 263.97, 6954.49>) as driver
+23:49:59.985 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle M1025 (id=70602606F742DB25C4D230A762076C2C pos=<6097.98, 263.97, 6954.49>)
+23:50:59.307 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle M1025 (id=70602606F742DB25C4D230A762076C2C pos=<6099.9, 263.97, 6948.09>)
+23:50:59.769 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle M1025 (id=70602606F742DB25C4D230A762076C2C pos=<6099.9, 263.97, 6948.09>)
+23:51:24.564 [VehicleAttachments] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) detached M1025 Wheel (type=Offroad_02_Wheel) from vehicle M1025 (id=70602606F742DB25C4D230A762076C2C pos=<6099.9, 263.97, 6948.09>)
+23:51:39.101 [VehicleAttachments] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) detached M1025 Wheel (type=Offroad_02_Wheel) from vehicle M1025 (id=70602606F742DB25C4D230A762076C2C pos=<6099.89, 263.9, 6948.08>)
+23:52:14.123 [VehicleAttachments] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) detached M1025 Wheel (type=Offroad_02_Wheel) from vehicle M1025 (id=70602606F742DB25C4D230A762076C2C pos=<6099.89, 263.83, 6948.07>)
+23:53:22.162 [VehicleAttachments] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) detached M1025 Wheel (type=Offroad_02_Wheel) from vehicle M1025 (id=70602606F742DB25C4D230A762076C2C pos=<6099.9, 263.76, 6948.08>)
+23:54:31.295 [VehicleAttachments] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) detached M1025 Front Left Door (type=Offroad_02_Door_1_1_Rust) from vehicle M1025 (id=70602606F742DB25C4D230A762076C2C pos=<6099.88, 263.68, 6948.1>)
+23:54:42.258 [VehicleAttachments] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) detached M1025 Rear Left Door (type=Offroad_02_Door_1_2_Rust) from vehicle M1025 (id=70602606F742DB25C4D230A762076C2C pos=<6099.88, 263.68, 6948.1>)
+23:54:51.433 [VehicleAttachments] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) detached M1025 Trunk Door (type=Offroad_02_Trunk) from vehicle M1025 (id=70602606F742DB25C4D230A762076C2C pos=<6099.88, 263.68, 6948.1>)
+23:55:05.466 [VehicleAttachments] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) detached M1025 Rear Right Door (type=Offroad_02_Door_2_2) from vehicle M1025 (id=70602606F742DB25C4D230A762076C2C pos=<6099.88, 263.68, 6948.1>)
+23:55:22.919 [VehicleAttachments] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) detached M1025 Front Right Door (type=Offroad_02_Door_2_1) from vehicle M1025 (id=70602606F742DB25C4D230A762076C2C pos=<6099.88, 263.68, 6948.1>)
+23:55:46.224 [VehicleDestroyed] Offroad_02 (id=70602606F742DB25C4D230A762076C2C pos=<6099.88, 263.68, 6948.1>)
+00:02:05.531 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle Mh-6 Little Bird (id=481F851CB54478DE20BA67BBF254CFE3 pos=<6097.52, 267.02, 6952.75>) as pilot
+00:02:07.147 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle Mh-6 Little Bird (id=481F851CB54478DE20BA67BBF254CFE3 pos=<6097.49, 267.02, 6952.75>)
+00:02:49.788 [AI Object Patrol 00188] Spawning 2 East bots at <7255.367188, 215.358582, 7717.216309>
+00:02:49.828 [AI Object Patrol 00188] Global patrol count: 1
+00:02:49.840 [AI Object Patrol 00188] HelicopterWreck category patrol count: 1
+00:02:56.802 [VehicleDeleted] Offroad_02 (id=70602606F742DB25C4D230A762076C2C pos=<6099.88, 263.68, 6948.1>)
+00:04:18.172 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Mh-6 Little Bird (id=481F851CB54478DE20BA67BBF254CFE3 pos=<6587.21, 206.26, 8401.03>)
+00:04:18.656 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle Mh-6 Little Bird (id=481F851CB54478DE20BA67BBF254CFE3 pos=<6587.21, 206.26, 8401.01>)
+00:10:21.740 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle Mh-6 Little Bird (id=481F851CB54478DE20BA67BBF254CFE3 pos=<6587.18, 206.23, 8400.51>) as pilot
+00:10:23.446 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle Mh-6 Little Bird (id=481F851CB54478DE20BA67BBF254CFE3 pos=<6587.19, 206.23, 8400.51>)
+00:11:35.337 [AI Object Patrol 00009] Spawning 1 West bots at <7247.042480, 228.740005, 6505.189941>
+00:11:35.381 [AI Object Patrol 00009] Global patrol count: 2
+00:11:35.392 [AI Object Patrol 00009] ContaminatedArea category patrol count: 1
+00:11:47.796 [AI Object Patrol 00008] Spawning 1 West bots at <7596.651367, 234.773209, 6236.446289>
+00:11:47.833 [AI Object Patrol 00008] Global patrol count: 3
+00:11:47.843 [AI Object Patrol 00008] ContaminatedArea category patrol count: 2
+00:13:32.192 [AI Patrol 00018] Spawning 2 Civilian bots at <6313.634277, 379.020905, 3856.194336>
+00:13:32.233 [AI Patrol 00018] Global patrol count: 4
+00:13:32.245 [AI Patrol 00018] Patrol category patrol count: 1
+00:13:37.655 [AI Object Patrol 00190] Spawning 3 West bots at <5900.027344, 406.415924, 3574.843262>
+00:13:37.691 [AI Object Patrol 00190] Global patrol count: 5
+00:13:37.701 [AI Object Patrol 00190] HelicopterWreck category patrol count: 2
+00:14:52.335 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) stopped vehicle Mh-6 Little Bird (id=481F851CB54478DE20BA67BBF254CFE3 pos=<5833.8, 404.52, 3926.07>)
+00:14:56.349 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle Mh-6 Little Bird (id=481F851CB54478DE20BA67BBF254CFE3 pos=<5833.8, 404.52, 3926.03>)
+00:15:39.263 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle Mh-6 Little Bird (id=481F851CB54478DE20BA67BBF254CFE3 pos=<5833.81, 404.43, 3925.4>) as pilot
+00:15:42.705 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle Mh-6 Little Bird (id=481F851CB54478DE20BA67BBF254CFE3 pos=<5833.81, 404.41, 3925.3>)
+00:16:56.769 [AI Object Patrol 00188] Despawning 2 East bots (spawn position <7255.367188, 215.358582, 7717.216309>, 0/2 deceased)
+00:16:56.779 [AI Object Patrol 00188] Global patrol count: 4
+00:16:56.788 [AI Object Patrol 00188] HelicopterWreck category patrol count: 1
+00:20:48.856 [AI Object Patrol 00195] Spawning 2 West bots at <745.810913, 373.900879, 3608.792236>
+00:20:48.887 [AI Object Patrol 00195] Global patrol count: 5
+00:20:48.897 [AI Object Patrol 00195] HelicopterWreck category patrol count: 2
+00:22:25.873 [AI Object Patrol 00009] Despawning 1 West bots (spawn position <7247.042480, 228.740005, 6505.189941>, 0/1 deceased)
+00:22:25.883 [AI Object Patrol 00009] Global patrol count: 4
+00:22:25.892 [AI Object Patrol 00009] ContaminatedArea category patrol count: 1
+00:23:00.193 [AI Object Patrol 00008] Despawning 1 West bots (spawn position <7596.651367, 234.773209, 6236.446289>, 0/1 deceased)
+00:23:00.329 [AI Object Patrol 00008] Global patrol count: 3
+00:23:00.408 [AI Object Patrol 00008] ContaminatedArea category patrol count: 0
+00:25:50.144 [AI Object Patrol 00190] Despawning 3 West bots (spawn position <5900.027344, 406.415924, 3574.843262>, 0/3 deceased)
+00:25:50.154 [AI Object Patrol 00190] Global patrol count: 2
+00:25:50.163 [AI Object Patrol 00190] HelicopterWreck category patrol count: 1
+00:27:15.069 [AI Patrol 00018] Despawning 2 Civilian bots (spawn position <6313.634277, 379.020905, 3856.194336>, 0/2 deceased)
+00:27:15.080 [AI Patrol 00018] Global patrol count: 1
+00:27:15.090 [AI Patrol 00018] Patrol category patrol count: 0
+00:27:52.632 [AI Object Patrol 00197] Spawning 3 West bots at <9901.217773, 350.799988, 3891.341797>
+00:27:52.671 [AI Object Patrol 00197] Global patrol count: 2
+00:27:52.683 [AI Object Patrol 00197] HelicopterWreck category patrol count: 2
+00:28:47.224 [AI Object Patrol 00196] Spawning 2 East bots at <8936.959961, 319.618195, 5401.095703>
+00:28:47.254 [AI Object Patrol 00196] Global patrol count: 3
+00:28:47.263 [AI Object Patrol 00196] HelicopterWreck category patrol count: 3
+00:29:27.145 [AI Object Patrol 00199] Spawning 3 West bots at <9143.958984, 297.329315, 6609.745605>
+00:29:27.176 [AI Object Patrol 00199] Global patrol count: 4
+00:29:27.186 [AI Object Patrol 00199] ContaminatedArea category patrol count: 1
+00:31:30.770 [AI Object Patrol 00195] Despawning 2 West bots (spawn position <745.810913, 373.900879, 3608.792236>, 0/2 deceased)
+00:31:30.781 [AI Object Patrol 00195] Global patrol count: 3
+00:31:30.793 [AI Object Patrol 00195] HelicopterWreck category patrol count: 2
+00:31:38.262 [MissionAirdrop] An airdrop is heading towards "Muratyn" (pos=<4559.000000, 0.000000, 6852.000000> type=Random_Muratyn) with a ExpansionAirdropContainer_Military
+00:36:08.202 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) stopped vehicle Mh-6 Little Bird (id=481F851CB54478DE20BA67BBF254CFE3 pos=<11219.1, 173.05, 10013.1>)
+00:36:12.631 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle Mh-6 Little Bird (id=481F851CB54478DE20BA67BBF254CFE3 pos=<11219.1, 173.02, 10013.1>)
+00:38:51.689 [AI Object Patrol 00197] Despawning 3 West bots (spawn position <9901.217773, 350.799988, 3891.341797>, 0/3 deceased)
+00:38:51.699 [AI Object Patrol 00197] Global patrol count: 2
+00:38:51.709 [AI Object Patrol 00197] HelicopterWreck category patrol count: 1
+00:39:40.948 [AI Object Patrol 00199] Despawning 3 West bots (spawn position <9143.958984, 297.329315, 6609.745605>, 0/3 deceased)
+00:39:40.995 [AI Object Patrol 00199] Global patrol count: 1
+00:39:41.055 [AI Object Patrol 00199] ContaminatedArea category patrol count: 0
+00:39:45.066 [AI Object Patrol 00196] Despawning 2 East bots (spawn position <8936.959961, 319.618195, 5401.095703>, 0/2 deceased)
+00:39:45.076 [AI Object Patrol 00196] Global patrol count: 0
+00:39:45.085 [AI Object Patrol 00196] HelicopterWreck category patrol count: 0
+00:49:45.103 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle Mh-6 Little Bird (id=481F851CB54478DE20BA67BBF254CFE3 pos=<11219.1, 173.01, 10013.3>) as pilot
+00:49:47.872 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle Mh-6 Little Bird (id=481F851CB54478DE20BA67BBF254CFE3 pos=<11219.1, 173.01, 10013.3>)
+00:53:01.963 [Party] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left the party "Dragon Unyielding" (id=7 ownerUID=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0= ownerName=Dan)
+00:53:02.607 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Mh-6 Little Bird (id=481F851CB54478DE20BA67BBF254CFE3 pos=<10123.8, 223.53, 10144.8>)
+01:11:37.168 [Party] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) joined the party "Dragon Unyielding" (id=7 ownerUID=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0= ownerName=Dan)
+01:13:21.550 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle Mh-6 Little Bird (id=481F851CB54478DE20BA67BBF254CFE3 pos=<10123.8, 223.53, 10144.8>) as pilot
+01:13:23.224 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle Mh-6 Little Bird (id=481F851CB54478DE20BA67BBF254CFE3 pos=<10123.8, 223.53, 10144.8>)
+01:14:10.910 [AI Object Patrol 00211] Spawning 3 West bots at <8337.084961, 287.180237, 9145.766602>
+01:14:10.938 [AI Object Patrol 00211] Global patrol count: 1
+01:14:10.948 [AI Object Patrol 00211] HelicopterWreck category patrol count: 1
+01:19:19.650 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) stopped vehicle Mh-6 Little Bird (id=481F851CB54478DE20BA67BBF254CFE3 pos=<6566.62, 212.81, 8392.19>)
+01:19:24.328 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle Mh-6 Little Bird (id=481F851CB54478DE20BA67BBF254CFE3 pos=<6566.53, 212.81, 8392.19>)
+01:25:01.149 [AI Object Patrol 00211] Despawning 3 West bots (spawn position <8337.084961, 287.180237, 9145.766602>, 0/3 deceased)
+01:25:01.158 [AI Object Patrol 00211] Global patrol count: 0
+01:25:01.168 [AI Object Patrol 00211] HelicopterWreck category patrol count: 0
+01:27:30.985 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle UH-1H (id=36EC2226B347CC54058CA48B834423D0 pos=<6577.04, 212.85, 8397.37>) as passenger
+01:27:35.094 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle UH-1H (id=36EC2226B347CC54058CA48B834423D0 pos=<6577.04, 212.85, 8397.37>)
+01:28:30.204 [Party] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left the party "Dragon Unyielding" (id=7 ownerUID=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0= ownerName=Dan)
+01:58:45.983 [MissionAirdrop] An airdrop is heading towards "Brena" (pos=<6692.000000, 0.000000, 11442.000000> type=Random_Brena) with a ExpansionAirdropContainer_Military
+02:16:29.832 [VehicleDestroyed] Boat_01_Black (id=1911D290BA4FD254E12F379882201E63 pos=<6423.71, 169.77, 10887.4>)
+03:26:19.079 [MissionAirdrop] An airdrop is heading towards "Kolembrody" (pos=<8676.000000, 0.000000, 12114.000000> type=Random_Kolembrody) with a ExpansionAirdropContainer
+04:55:44.208 [MissionAirdrop] An airdrop is heading towards "Muratyn" (pos=<4559.000000, 0.000000, 6852.000000> type=Random_Muratyn) with a ExpansionAirdropContainer_Military

@@ -1,0 +1,48 @@
+16:19:54.890 [AI Patrol 00014] Spawning 1 East bots at <7387.477051, 300.510010, 2721.425537>
+16:20:03.646 [AI Patrol 00014] Global patrol count: 1
+16:20:03.658 [AI Patrol 00014] Patrol category patrol count: 1
+16:20:03.674 [AI Patrol 00015] Spawning 2 West bots at <7192.620117, 302.205597, 2987.777100>
+16:20:03.719 [AI Patrol 00015] Global patrol count: 2
+16:20:03.735 [AI Patrol 00015] Patrol category patrol count: 2
+16:33:39.237 [SpawnSelection] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) spawned at <10292.000000, 242.520004, 2128.919922>
+16:51:43.185 [VehicleEnter] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) entered vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<10340.7, 224.02, 5905.14>) as pilot
+16:51:45.335 [VehicleEngine] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) started vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<10340.7, 224.02, 5905.14>)
+16:52:05.255 [AI Patrol 00014] East bots were wiped out (spawn position <7387.477051, 300.510010, 2721.425537>, 1/1 deceased)
+16:52:05.264 [AI Patrol 00014] Global patrol count: 1
+16:52:05.273 [AI Patrol 00014] Patrol category patrol count: 1
+16:52:40.914 [VehicleEngine] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) stopped vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<10340.2, 224, 5906.81>)
+16:52:44.542 [VehicleLeave] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) left vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<10340.2, 224, 5906.88>)
+16:59:50.727 [VehicleEnter] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle UAZ 469 Cargo Roofless (id=878B4C6AEE4146F4FCBF22A711F98754 pos=<8337.79, 322.63, 1644.68>) as driver
+16:59:58.450 [VehicleLeave] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle UAZ 469 Cargo Roofless (id=878B4C6AEE4146F4FCBF22A711F98754 pos=<8337.79, 322.63, 1644.68>)
+17:00:31.341 [VehicleEnter] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle UAZ 469 Cargo Roofless (id=878B4C6AEE4146F4FCBF22A711F98754 pos=<8337.79, 322.63, 1644.68>) as driver
+17:00:32.853 [VehicleEngine] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle UAZ 469 Cargo Roofless (id=878B4C6AEE4146F4FCBF22A711F98754 pos=<8337.79, 322.63, 1644.68>)
+17:00:54.274 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle UAZ 469 Cargo Roofless (id=878B4C6AEE4146F4FCBF22A711F98754 pos=<8333.6, 322.47, 1640.21>)
+17:00:54.306 [VehicleLeave] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle UAZ 469 Cargo Roofless (id=878B4C6AEE4146F4FCBF22A711F98754 pos=<8333.6, 322.47, 1640.21>)
+17:01:42.454 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): These paratrooping Mofos lol
+17:01:59.508 [Chat - Global]("Survivor"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): dude yeah
+17:02:16.260 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): Just had five fuckers drop on me.  They dead
+17:02:51.069 [Chat - Global]("Survivor"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): dude no way
+17:02:53.813 [Chat - Global]("Survivor"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): thats bad
+17:03:01.237 [Chat - Global]("Survivor"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): i got killed twice
+17:03:15.987 [Chat - Global]("Survivor"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): so many happening right now
+17:03:29.527 [Chat - Global]("Survivor"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): turn it down a notch?
+17:04:18.456 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): I mean, not yet. That was my first experience with it
+17:04:33.788 [Chat - Global]("Survivor"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): awesome good to hear
+17:05:01.849 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): plate carrier def save me there.  I took a few hits. Without it I'd have been dead
+17:06:25.967 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): I was an admin on an AI server with quests for a while. We used the Forward Operating Gear mod.  Had a bunch of good protective plates for players. Might want to look
+17:07:02.252 [Chat - Global]("Survivor"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): nice, what was the initial setup like
+17:07:29.756 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): I didn't do the setup at all. I was the help with tickets guy
+17:07:53.217 [Chat - Global]("Survivor"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): like as a new spawn, what items
+17:08:21.837 [Chat - Global]("Survivor"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): added respawn options too
+17:08:41.994 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): New Spawn starts with jack shit. Maybe a knife and some food and water
+17:10:09.927 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): It's jut helpful having armor at some point. Some of these AI have FALs and 7.62x54 guns. Without armor you get 1 tapped
+17:10:26.113 [Chat - Global]("Survivor"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): damn, true that
+17:11:37.862 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): As an admin I experimented with all of that. I've used community tools with Godmode and ESP etc.  I know what its like.
+17:12:02.041 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): I didn't like playing on that server with those tools at my disposal.
+17:12:10.338 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): I like the risk!
+17:14:16.206 [Chat - Global]("Survivor"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): agreed
+17:14:53.577 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): Haha I'm in my base. Lets see if these fuckers find me. They are searching
+17:16:00.031 [Chat - Global]("Survivor"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): brb
+17:22:21.497 [AI Patrol 00015] Despawning 2 West bots (spawn position <7192.620117, 302.205597, 2987.777100>, 0/2 deceased)
+17:22:21.507 [AI Patrol 00015] Global patrol count: 0
+17:22:21.517 [AI Patrol 00015] Patrol category patrol count: 0

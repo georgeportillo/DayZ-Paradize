@@ -1,0 +1,32 @@
+19:26:44.005 [MissionAirdrop] An airdrop is heading towards "Zapadlisko" (pos=<8399.000000, 0.000000, 8803.000000> type=Random_Zapadlisko) with a ExpansionAirdropContainer_Medical
+20:14:53.020 [AI Patrol 00017] Spawning 2 West bots at <7280.222168, 293.260010, 2960.887695>
+20:14:53.055 [AI Patrol 00017] Global patrol count: 1
+20:14:53.065 [AI Patrol 00017] Patrol category patrol count: 1
+20:14:53.075 [AI Patrol 00016] Spawning 1 East bots at <7541.549805, 289.118866, 2584.743652>
+20:14:53.110 [AI Patrol 00016] Global patrol count: 2
+20:14:53.120 [AI Patrol 00016] Patrol category patrol count: 2
+20:18:39.690 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:18:39.761 [BaseBuildingRaiding] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8348.36, 331.86, 1634.97>) damaged ExpansionWall6x3 at <8349.79, 331.45, 1633.67>
+20:18:39.867 [BaseBuildingRaiding] They dealt 80 * 1 = 80 damage with Bullet_762x39 from AKM
+20:18:40.020 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29920
+20:18:40.209 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:18:40.480 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:18:40.621 [BaseBuildingRaiding] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8347.64, 333.07, 1635.77>) damaged ExpansionWall6x3 at <8349.79, 331.45, 1633.67>
+20:18:40.683 [BaseBuildingRaiding] They dealt 80 * 1 = 80 damage with Bullet_762x39 from AKM
+20:18:40.692 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29920 to 29840
+20:18:40.702 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:18:42.992 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:18:43.001 [BaseBuildingRaiding] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8348.49, 331.95, 1635.23>) damaged ExpansionWall6x3 at <8349.79, 331.45, 1633.67>
+20:18:43.011 [BaseBuildingRaiding] They dealt 80 * 1 = 80 damage with Bullet_762x39 from AKM
+20:18:43.020 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29840 to 29760
+20:18:43.029 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:18:46.687 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:18:46.702 [BaseBuildingRaiding] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8346.38, 334.74, 1636.86>) damaged ExpansionWall6x3 at <8345.35, 334.46, 1637.7>
+20:18:46.713 [BaseBuildingRaiding] They dealt 80 * 1 = 80 damage with Bullet_762x39 from AKM
+20:18:46.724 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29930 to 29850
+20:18:46.734 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:19:40.163 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:19:40.326 [BaseBuildingRaiding] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8338.29, 335.16, 1647.11>) damaged ExpansionWall6x3 at <8336.47, 334.46, 1645.77>
+20:19:40.490 [BaseBuildingRaiding] They dealt 80 * 1 = 80 damage with Bullet_762x39 from AKM
+20:19:40.656 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29867 to 29787
+20:19:40.823 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------

@@ -1,0 +1,343 @@
+[COT 2025-10-04 04:14:53] 76561198024482897: Activated Community Online Tools [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-10-04 04:15:07] 76561198024482897: Deactivated Community Online Tools [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-10-04 04:15:08] 76561198024482897: Activated Community Online Tools [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-10-04 04:15:37] 76561198024482897: Deactivated Community Online Tools [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-10-04 04:15:37] 76561198024482897: Activated Community Online Tools [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-10-04 04:15:37] 76561198024482897: Entered the Free Camera
+[COT 2025-10-04 04:16:06] 76561198024482897: Left the Free Camera
+[COT 2025-10-04 04:17:01] 76561198024482897: Spawned Entity Wall Kit (ExpansionWallKit<af0efa70>, 100, 100, 15, 0) at <8352.203125, 322.619995, 1637.754150>
+[COT 2025-10-04 04:17:01] 76561198024482897: Spawned Entity Wall Kit (ExpansionWallKit<af0f56f0>, 100, 100, 15, 0) at <8352.119141, 322.781372, 1637.730225>
+[COT 2025-10-04 04:17:02] 76561198024482897: Spawned Entity Wall Kit (ExpansionWallKit<af0eeee0>, 100, 100, 15, 0) at <8352.034180, 322.942108, 1637.706299>
+[COT 2025-10-04 04:17:02] 76561198024482897: Spawned Entity Wall Kit (ExpansionWallKit<af0f6e10>, 100, 100, 15, 0) at <8351.933594, 323.136658, 1637.677490>
+[COT 2025-10-04 04:17:02] 76561198024482897: Spawned Entity Wall Kit (ExpansionWallKit<af0f1190>, 100, 100, 15, 0) at <8351.833984, 323.323730, 1637.649780>
+[COT 2025-10-04 04:17:24] 76561198024482897: Set GodMode To true [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-10-04 04:18:52] 76561198024482897: ESP: Viewing ESP
+[COT 2025-10-04 04:19:07] 76561198024482897: ESP target=ExpansionWall6x3:25847 position=<8347.529297, 325.592529, 1657.349243> action=delete
+[COT 2025-10-04 04:19:27] 76561198024482897: ESP: Clearing ESP
+[COT 2025-10-04 04:19:28] 76561198024482897: ESP: Viewing ESP
+[COT 2025-10-04 04:19:45] 76561198024482897: ESP target=ExpansionWallBase<4a543070> action=built part=wood_base required_materials=false
+[COT 2025-10-04 04:19:48] 76561198024482897: ESP target=ExpansionWallBase<4a543070> action=built part=wood_wallframe required_materials=false
+[COT 2025-10-04 04:19:49] 76561198024482897: ESP target=ExpansionWallBase<4a543070> action=built part=wood_wallfinished required_materials=false
+[COT 2025-10-04 04:19:56] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=built part=wood_base required_materials=false
+[COT 2025-10-04 04:19:58] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=built part=wood_wallframe required_materials=false
+[COT 2025-10-04 04:19:59] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=built part=wood_wallfinished required_materials=false
+[COT 2025-10-04 04:20:55] 76561198024482897: Healed [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-10-04 04:23:16] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=orientation value=<180.100006, 0.000000, -0.000000>
+[COT 2025-10-04 04:23:16] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=orientation value=<180.199997, 0.000000, -0.000000>
+[COT 2025-10-04 04:23:16] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=orientation value=<180.300003, 0.000000, -0.000000>
+[COT 2025-10-04 04:23:16] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=orientation value=<180.199997, 0.000000, -0.000000>
+[COT 2025-10-04 04:23:16] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=orientation value=<180.000000, 0.000000, -0.000000>
+[COT 2025-10-04 04:23:16] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=orientation value=<179.800003, 0.000000, -0.000000>
+[COT 2025-10-04 04:23:17] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=orientation value=<179.699997, 0.000000, -0.000000>
+[COT 2025-10-04 04:23:17] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=orientation value=<179.600006, 0.000000, -0.000000>
+[COT 2025-10-04 04:23:17] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=orientation value=<179.500000, 0.000000, -0.000000>
+[COT 2025-10-04 04:23:17] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=orientation value=<179.399994, 0.000000, -0.000000>
+[COT 2025-10-04 04:23:17] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=orientation value=<179.300003, 0.000000, -0.000000>
+[COT 2025-10-04 04:23:17] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=orientation value=<179.199997, 0.000000, -0.000000>
+[COT 2025-10-04 04:23:17] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=orientation value=<179.100006, 0.000000, -0.000000>
+[COT 2025-10-04 04:23:17] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=orientation value=<180.100006, 0.000000, -0.000000>
+[COT 2025-10-04 04:23:17] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=orientation value=<182.100006, 0.000000, -0.000000>
+[COT 2025-10-04 04:23:18] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=orientation value=<184.100006, 0.000000, -0.000000>
+[COT 2025-10-04 04:23:18] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=orientation value=<185.100006, 0.000000, -0.000000>
+[COT 2025-10-04 04:23:18] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=orientation value=<186.100006, 0.000000, -0.000000>
+[COT 2025-10-04 04:23:18] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=orientation value=<187.100006, 0.000000, -0.000000>
+[COT 2025-10-04 04:23:18] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=orientation value=<189.100006, 0.000000, -0.000000>
+[COT 2025-10-04 04:23:18] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=orientation value=<190.100006, 0.000000, -0.000000>
+[COT 2025-10-04 04:23:18] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=orientation value=<191.100006, 0.000000, -0.000000>
+[COT 2025-10-04 04:23:18] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=orientation value=<192.100006, 0.000000, -0.000000>
+[COT 2025-10-04 04:23:18] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=orientation value=<193.100006, 0.000000, -0.000000>
+[COT 2025-10-04 04:23:18] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=orientation value=<195.100006, 0.000000, -0.000000>
+[COT 2025-10-04 04:23:18] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=orientation value=<196.100006, 0.000000, -0.000000>
+[COT 2025-10-04 04:23:19] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=orientation value=<197.100006, 0.000000, -0.000000>
+[COT 2025-10-04 04:23:19] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=orientation value=<198.100006, 0.000000, -0.000000>
+[COT 2025-10-04 04:23:19] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=orientation value=<199.100006, 0.000000, -0.000000>
+[COT 2025-10-04 04:23:19] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=orientation value=<200.100006, 0.000000, -0.000000>
+[COT 2025-10-04 04:23:19] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=orientation value=<201.100006, 0.000000, -0.000000>
+[COT 2025-10-04 04:23:19] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=orientation value=<202.100006, 0.000000, -0.000000>
+[COT 2025-10-04 04:23:19] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=orientation value=<203.100006, 0.000000, -0.000000>
+[COT 2025-10-04 04:23:19] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=orientation value=<205.100006, 0.000000, -0.000000>
+[COT 2025-10-04 04:23:20] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=orientation value=<206.100006, 0.000000, -0.000000>
+[COT 2025-10-04 04:23:20] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=orientation value=<207.100006, 0.000000, -0.000000>
+[COT 2025-10-04 04:23:25] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=position value=<8353.530273, 325.592010, 1657.250000>
+[COT 2025-10-04 04:23:26] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=position value=<8353.530273, 325.592010, 1657.349976>
+[COT 2025-10-04 04:23:26] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=position value=<8353.530273, 325.592010, 1657.449951>
+[COT 2025-10-04 04:23:26] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=position value=<8353.530273, 325.592010, 1657.550049>
+[COT 2025-10-04 04:23:26] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=position value=<8353.530273, 325.592010, 1657.750000>
+[COT 2025-10-04 04:23:26] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=position value=<8353.530273, 325.592010, 1657.849976>
+[COT 2025-10-04 04:23:26] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=position value=<8353.530273, 325.592010, 1657.949951>
+[COT 2025-10-04 04:23:27] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=position value=<8353.530273, 325.592010, 1658.050049>
+[COT 2025-10-04 04:23:27] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=position value=<8353.530273, 325.592010, 1658.150024>
+[COT 2025-10-04 04:23:27] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=position value=<8353.530273, 325.592010, 1658.250000>
+[COT 2025-10-04 04:23:27] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=position value=<8353.530273, 325.592010, 1658.349976>
+[COT 2025-10-04 04:23:27] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=position value=<8353.530273, 325.592010, 1658.449951>
+[COT 2025-10-04 04:23:28] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=position value=<8353.530273, 325.592010, 1658.550049>
+[COT 2025-10-04 04:23:28] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=position value=<8353.530273, 325.592010, 1658.650024>
+[COT 2025-10-04 04:23:28] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=position value=<8353.530273, 325.592010, 1658.849976>
+[COT 2025-10-04 04:23:28] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=position value=<8353.530273, 325.592010, 1658.949951>
+[COT 2025-10-04 04:23:29] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=position value=<8353.530273, 325.592010, 1659.050049>
+[COT 2025-10-04 04:23:29] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=position value=<8353.530273, 325.592010, 1659.150024>
+[COT 2025-10-04 04:23:29] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=position value=<8353.530273, 325.592010, 1659.250000>
+[COT 2025-10-04 04:23:29] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=position value=<8353.530273, 325.592010, 1659.349976>
+[COT 2025-10-04 04:23:29] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=position value=<8353.530273, 325.592010, 1659.449951>
+[COT 2025-10-04 04:23:33] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=position value=<8353.530273, 325.592010, 1659.349976>
+[COT 2025-10-04 04:23:33] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=position value=<8353.530273, 325.592010, 1659.250000>
+[COT 2025-10-04 04:23:33] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=position value=<8353.530273, 325.592010, 1659.150024>
+[COT 2025-10-04 04:23:35] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=position value=<8353.530273, 325.592010, 1659.050049>
+[COT 2025-10-04 04:23:35] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=position value=<8353.530273, 325.592010, 1658.849976>
+[COT 2025-10-04 04:23:36] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=position value=<8353.429688, 325.592010, 1658.849976>
+[COT 2025-10-04 04:23:37] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=position value=<8353.530273, 325.592010, 1658.849976>
+[COT 2025-10-04 04:23:37] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=position value=<8353.629883, 325.592010, 1658.849976>
+[COT 2025-10-04 04:23:37] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=position value=<8353.730469, 325.592010, 1658.849976>
+[COT 2025-10-04 04:23:41] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=position value=<8353.830078, 325.592010, 1658.849976>
+[COT 2025-10-04 04:23:41] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=position value=<8353.929688, 325.592010, 1658.849976>
+[COT 2025-10-04 04:23:45] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=position value=<8354.030273, 325.592010, 1658.849976>
+[COT 2025-10-04 04:23:48] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=position value=<8354.030273, 325.592010, 1658.949951>
+[COT 2025-10-04 04:23:50] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=position value=<8354.030273, 325.592010, 1659.050049>
+[COT 2025-10-04 04:23:55] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=position value=<8354.030273, 325.592010, 1658.949951>
+[COT 2025-10-04 04:23:55] 76561198024482897: ESP target=ExpansionWallBase<4a564f40> action=position value=<8354.030273, 325.592010, 1658.849976>
+[COT 2025-10-04 04:24:17] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<132.363998, 0.000000, -0.000000>
+[COT 2025-10-04 04:24:17] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<132.464005, 0.000000, -0.000000>
+[COT 2025-10-04 04:24:17] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<132.563995, 0.000000, -0.000000>
+[COT 2025-10-04 04:24:18] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<132.464005, 0.000000, -0.000000>
+[COT 2025-10-04 04:24:18] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<132.363998, 0.000000, -0.000000>
+[COT 2025-10-04 04:24:18] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<132.264008, 0.000000, -0.000000>
+[COT 2025-10-04 04:24:18] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<132.164001, 0.000000, -0.000000>
+[COT 2025-10-04 04:24:18] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<131.164001, 0.000000, -0.000000>
+[COT 2025-10-04 04:24:18] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<130.164001, 0.000000, -0.000000>
+[COT 2025-10-04 04:24:18] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<129.164001, 0.000000, -0.000000>
+[COT 2025-10-04 04:24:18] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<128.164001, 0.000000, -0.000000>
+[COT 2025-10-04 04:24:18] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<127.164001, 0.000000, -0.000000>
+[COT 2025-10-04 04:24:19] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<128.164001, 0.000000, -0.000000>
+[COT 2025-10-04 04:24:19] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<130.164001, 0.000000, -0.000000>
+[COT 2025-10-04 04:24:19] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<131.164001, 0.000000, -0.000000>
+[COT 2025-10-04 04:24:19] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<132.164001, 0.000000, -0.000000>
+[COT 2025-10-04 04:24:19] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<133.164001, 0.000000, -0.000000>
+[COT 2025-10-04 04:24:19] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<134.164001, 0.000000, -0.000000>
+[COT 2025-10-04 04:24:19] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<136.164001, 0.000000, -0.000000>
+[COT 2025-10-04 04:24:19] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<137.164001, 0.000000, -0.000000>
+[COT 2025-10-04 04:24:19] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<138.164001, 0.000000, -0.000000>
+[COT 2025-10-04 04:24:19] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<139.164001, 0.000000, -0.000000>
+[COT 2025-10-04 04:24:20] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<140.164001, 0.000000, -0.000000>
+[COT 2025-10-04 04:24:20] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<142.164001, 0.000000, -0.000000>
+[COT 2025-10-04 04:24:20] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<143.164001, 0.000000, -0.000000>
+[COT 2025-10-04 04:24:20] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<144.164001, 0.000000, -0.000000>
+[COT 2025-10-04 04:24:20] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<145.164001, 0.000000, -0.000000>
+[COT 2025-10-04 04:24:21] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<146.164001, 0.000000, -0.000000>
+[COT 2025-10-04 04:24:21] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<147.164001, 0.000000, -0.000000>
+[COT 2025-10-04 04:24:21] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<148.164001, 0.000000, -0.000000>
+[COT 2025-10-04 04:24:23] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=position value=<8348.570313, 325.447998, 1658.989990>
+[COT 2025-10-04 04:24:23] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=position value=<8348.570313, 325.447998, 1658.890015>
+[COT 2025-10-04 04:24:24] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=position value=<8348.570313, 325.447998, 1658.790039>
+[COT 2025-10-04 04:24:25] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=position value=<8348.570313, 325.447998, 1658.689941>
+[COT 2025-10-04 04:24:26] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=position value=<8348.570313, 325.447998, 1658.589966>
+[COT 2025-10-04 04:24:27] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=position value=<8348.469727, 325.447998, 1658.589966>
+[COT 2025-10-04 04:24:27] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=position value=<8348.570313, 325.447998, 1658.589966>
+[COT 2025-10-04 04:24:27] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=position value=<8348.669922, 325.447998, 1658.589966>
+[COT 2025-10-04 04:24:28] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=position value=<8348.769531, 325.447998, 1658.589966>
+[COT 2025-10-04 04:24:28] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=position value=<8348.870117, 325.447998, 1658.589966>
+[COT 2025-10-04 04:24:28] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=position value=<8348.969727, 325.447998, 1658.589966>
+[COT 2025-10-04 04:24:28] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=position value=<8349.070313, 325.447998, 1658.589966>
+[COT 2025-10-04 04:24:31] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=position value=<8349.169922, 325.447998, 1658.589966>
+[COT 2025-10-04 04:24:31] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=position value=<8349.269531, 325.447998, 1658.589966>
+[COT 2025-10-04 04:24:33] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=position value=<8349.169922, 325.447998, 1658.589966>
+[COT 2025-10-04 04:24:38] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=position value=<8349.169922, 325.447998, 1658.489990>
+[COT 2025-10-04 04:24:39] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=position value=<8349.169922, 325.447998, 1658.390015>
+[COT 2025-10-04 04:24:40] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=position value=<8349.169922, 325.447998, 1658.489990>
+[COT 2025-10-04 04:24:40] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=position value=<8349.169922, 325.447998, 1658.589966>
+[COT 2025-10-04 04:24:58] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=built part=wood_base required_materials=false
+[COT 2025-10-04 04:25:00] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=built part=wood_base_third required_materials=false
+[COT 2025-10-04 04:25:02] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=built part=wood_base_third required_materials=false
+[COT 2025-10-04 04:25:04] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=built part=wood_base required_materials=false
+[COT 2025-10-04 04:25:06] 76561198024482897: ESP: Clearing ESP
+[COT 2025-10-04 04:25:07] 76561198024482897: ESP: ESP updating
+[COT 2025-10-04 04:25:14] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=built part=wood_wallframe required_materials=false
+[COT 2025-10-04 04:25:15] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=built part=wood_wallfinished required_materials=false
+[COT 2025-10-04 04:25:20] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=position value=<8349.169922, 325.447998, 1658.489990>
+[COT 2025-10-04 04:25:22] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=position value=<8349.169922, 325.447998, 1658.390015>
+[COT 2025-10-04 04:25:36] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<148.065994, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:36] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<147.966003, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:36] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<147.865997, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:36] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<147.766006, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:36] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<147.666000, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:37] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<147.466003, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:37] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<147.365997, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:37] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<147.266006, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:37] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<147.166000, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:37] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<147.065994, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:37] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<146.865997, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:37] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<146.565994, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:37] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<146.466003, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:38] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<146.365997, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:38] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<146.166000, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:38] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<146.065994, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:38] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<145.966003, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:38] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<145.766006, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:39] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<145.865997, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:39] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<145.766006, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:40] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<145.565994, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:40] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<145.466003, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:40] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<145.365997, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:40] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<145.266006, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:40] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<144.966003, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:40] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<144.865997, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:40] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<144.766006, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:41] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<144.865997, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:42] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<144.666000, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:42] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<144.565994, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:42] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<144.466003, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:42] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<144.365997, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:42] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<144.266006, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:42] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<144.166000, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:42] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<143.865997, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:42] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<143.666000, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:42] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<143.565994, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:42] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<143.466003, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:42] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<143.266006, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:42] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<143.065994, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:42] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<142.865997, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:43] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<142.766006, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:43] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<142.565994, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:43] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<142.466003, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:43] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<142.365997, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:43] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<142.266006, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:43] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<142.166000, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:43] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<142.065994, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:43] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<141.966003, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:53] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<142.063995, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:53] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<142.164001, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:53] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<142.264008, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:53] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<142.363998, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:53] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<142.464005, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:53] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<142.563995, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:53] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<143.563995, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:53] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<144.563995, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:53] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<145.563995, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:53] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<146.563995, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:54] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<147.563995, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:54] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<148.563995, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:54] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<149.563995, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:55] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<150.563995, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:55] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<149.563995, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:55] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<148.563995, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:56] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<147.563995, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:56] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=orientation value=<146.563995, 0.000000, -0.000000>
+[COT 2025-10-04 04:25:58] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=position value=<8349.169922, 325.447998, 1658.290039>
+[COT 2025-10-04 04:25:58] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=position value=<8349.169922, 325.447998, 1658.390015>
+[COT 2025-10-04 04:25:59] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=position value=<8349.169922, 325.447998, 1658.489990>
+[COT 2025-10-04 04:26:02] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=position value=<8349.269531, 325.447998, 1658.489990>
+[COT 2025-10-04 04:26:03] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=position value=<8349.169922, 325.447998, 1658.489990>
+[COT 2025-10-04 04:26:03] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=position value=<8349.070313, 325.447998, 1658.489990>
+[COT 2025-10-04 04:26:04] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=position value=<8349.070313, 325.447998, 1658.589966>
+[COT 2025-10-04 04:26:06] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=position value=<8349.169922, 325.447998, 1658.589966>
+[COT 2025-10-04 04:26:06] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=position value=<8349.070313, 325.447998, 1658.589966>
+[COT 2025-10-04 04:26:07] 76561198024482897: ESP target=ExpansionWallBase<2a3cb8d0> action=position value=<8348.969727, 325.447998, 1658.589966>
+[COT 2025-10-04 04:26:24] 76561198024482897: ESP target=ExpansionWallBase<4a543070> action=orientation value=<180.100006, 0.000000, -0.000000>
+[COT 2025-10-04 04:26:24] 76561198024482897: ESP target=ExpansionWallBase<4a543070> action=orientation value=<180.199997, 0.000000, -0.000000>
+[COT 2025-10-04 04:26:25] 76561198024482897: ESP target=ExpansionWallBase<4a543070> action=orientation value=<180.300003, 0.000000, -0.000000>
+[COT 2025-10-04 04:26:25] 76561198024482897: ESP target=ExpansionWallBase<4a543070> action=orientation value=<180.399994, 0.000000, -0.000000>
+[COT 2025-10-04 04:26:25] 76561198024482897: ESP target=ExpansionWallBase<4a543070> action=orientation value=<180.500000, 0.000000, -0.000000>
+[COT 2025-10-04 04:26:25] 76561198024482897: ESP target=ExpansionWallBase<4a543070> action=orientation value=<180.600006, 0.000000, -0.000000>
+[COT 2025-10-04 04:26:25] 76561198024482897: ESP target=ExpansionWallBase<4a543070> action=orientation value=<180.699997, 0.000000, -0.000000>
+[COT 2025-10-04 04:26:25] 76561198024482897: ESP target=ExpansionWallBase<4a543070> action=orientation value=<180.800003, 0.000000, -0.000000>
+[COT 2025-10-04 04:26:26] 76561198024482897: ESP target=ExpansionWallBase<4a543070> action=orientation value=<180.899994, 0.000000, -0.000000>
+[COT 2025-10-04 04:26:26] 76561198024482897: ESP target=ExpansionWallBase<4a543070> action=orientation value=<181.000000, 0.000000, -0.000000>
+[COT 2025-10-04 04:26:26] 76561198024482897: ESP target=ExpansionWallBase<4a543070> action=orientation value=<181.100006, 0.000000, -0.000000>
+[COT 2025-10-04 04:26:26] 76561198024482897: ESP target=ExpansionWallBase<4a543070> action=orientation value=<181.199997, 0.000000, -0.000000>
+[COT 2025-10-04 04:26:26] 76561198024482897: ESP target=ExpansionWallBase<4a543070> action=orientation value=<181.300003, 0.000000, -0.000000>
+[COT 2025-10-04 04:26:26] 76561198024482897: ESP target=ExpansionWallBase<4a543070> action=orientation value=<181.399994, 0.000000, -0.000000>
+[COT 2025-10-04 04:26:29] 76561198024482897: ESP target=ExpansionWallBase<4a543070> action=position value=<8359.530273, 325.592010, 1657.250000>
+[COT 2025-10-04 04:26:29] 76561198024482897: ESP target=ExpansionWallBase<4a543070> action=position value=<8359.530273, 325.592010, 1657.349976>
+[COT 2025-10-04 04:26:29] 76561198024482897: ESP target=ExpansionWallBase<4a543070> action=position value=<8359.530273, 325.592010, 1657.449951>
+[COT 2025-10-04 04:26:42] 76561198024482897: ESP target=ExpansionWall6x3:21669 position=<8357.454102, 325.449066, 1651.023682> action=delete
+[COT 2025-10-04 04:26:43] 76561198024482897: ESP: Clearing ESP
+[COT 2025-10-04 04:26:44] 76561198024482897: ESP: ESP updating
+[COT 2025-10-04 04:26:49] 76561198024482897: ESP target=ExpansionWall6x3:25356 position=<8357.454102, 322.446320, 1651.023926> action=delete
+[COT 2025-10-04 04:26:53] 76561198024482897: ESP target=ExpansionWall6x3:21437 position=<8361.489258, 328.452271, 1655.464355> action=delete
+[COT 2025-10-04 04:26:57] 76561198024482897: ESP target=ExpansionWall6x3:21655 position=<8368.529297, 328.592987, 1648.348511> action=delete
+[COT 2025-10-04 04:27:00] 76561198024482897: ESP: Clearing ESP
+[COT 2025-10-04 04:27:02] 76561198024482897: ESP: ESP updating
+[COT 2025-10-04 04:27:15] 76561198024482897: ESP target=ExpansionWall6x3:24601 position=<8361.489258, 325.449524, 1655.464111> action=delete
+[COT 2025-10-04 04:27:19] 76561198024482897: ESP target=ExpansionWall6x3:21835 position=<8361.489258, 322.446777, 1655.464355> action=delete
+[COT 2025-10-04 04:28:04] 76561198024482897: ESP target=ExpansionWallBase<5da86360> action=built part=wood_base required_materials=false
+[COT 2025-10-04 04:28:08] 76561198024482897: ESP target=ExpansionWallBase<5da86360> action=built part=wood_windowframe required_materials=false
+[COT 2025-10-04 04:28:12] 76561198024482897: ESP target=ExpansionWallBase<5da86360> action=built part=wood_windowfinished required_materials=false
+[COT 2025-10-04 04:29:12] 76561198024482897: ESP target=ExpansionWallBase<5da86360> action=dismantle part=wood_windowfinished
+[COT 2025-10-04 04:29:15] 76561198024482897: ESP target=ExpansionWallBase<5da86360> action=dismantle part=wood_windowframe
+[COT 2025-10-04 04:29:17] 76561198024482897: ESP target=ExpansionWallBase<5da86360> action=built part=wood_wallframe required_materials=false
+[COT 2025-10-04 04:29:18] 76561198024482897: ESP target=ExpansionWallBase<5da86360> action=built part=wood_wallfinished required_materials=false
+[COT 2025-10-04 04:29:24] 76561198024482897: ESP target=ExpansionWallBase<60031640> action=built part=wood_base required_materials=false
+[COT 2025-10-04 04:29:27] 76561198024482897: ESP target=ExpansionWallBase<60031640> action=built part=wood_windowframe required_materials=false
+[COT 2025-10-04 04:29:30] 76561198024482897: ESP target=ExpansionWallBase<60031640> action=built part=wood_windowfinished required_materials=false
+[COT 2025-10-04 04:29:49] 76561198024482897: ESP target=ExpansionWallBase<6c55b5a0> action=built part=wood_base required_materials=false
+[COT 2025-10-04 04:29:51] 76561198024482897: ESP target=ExpansionWallBase<6c55b5a0> action=built part=wood_wallframe required_materials=false
+[COT 2025-10-04 04:29:51] 76561198024482897: ESP target=ExpansionWallBase<6c55b5a0> action=built part=wood_wallfinished required_materials=false
+[COT 2025-10-04 04:30:23] 76561198024482897: ESP target=ExpansionWallBase<3126bb90> action=built part=wood_base required_materials=false
+[COT 2025-10-04 04:30:24] 76561198024482897: ESP target=ExpansionWallBase<3126bb90> action=built part=wood_wallframe required_materials=false
+[COT 2025-10-04 04:30:25] 76561198024482897: ESP target=ExpansionWallBase<3126bb90> action=built part=wood_wallfinished required_materials=false
+[COT 2025-10-04 04:30:30] 76561198024482897: ESP: Clearing ESP
+[COT 2025-10-04 04:30:34] 76561198024482897: Deactivated Community Online Tools [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-10-04 04:30:35] 76561198024482897: Activated Community Online Tools [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-10-04 04:30:36] 76561198024482897: Entered the Free Camera
+[COT 2025-10-04 04:31:05] 76561198024482897: Left the Free Camera
+[COT 2025-10-04 04:32:59] 76561198024482897: Entered the Free Camera
+[COT 2025-10-04 04:33:39] 76561198024482897: Left the Free Camera
+[COT 2025-10-04 04:34:31] 76561198024482897: Spectating [guid=IEr3S6pmlkv81CqcBXldEhpTG1tpqiyw1JHTRjxGyC0=]
+[COT 2025-10-04 04:36:23] 76561198024482897: Stopped spectating
+[COT 2025-10-04 04:36:29] 76561198024482897: Spectating [guid=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=]
+[COT 2025-10-04 04:37:27] 76561198024482897: Stopped spectating
+[COT 2025-10-04 04:41:03] 76561198024482897: Spectating [guid=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=]
+[COT 2025-10-04 04:42:11] 76561198024482897: Set GodMode To false [guid=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=]
+[COT 2025-10-04 04:42:11] 76561198024482897: Set GodMode To false [guid=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=]
+[COT 2025-10-04 04:42:33] 76561198024482897: Stopped spectating
+[COT 2025-10-04 04:42:36] 76561198024482897: Spectating [guid=IEr3S6pmlkv81CqcBXldEhpTG1tpqiyw1JHTRjxGyC0=]
+[COT 2025-10-04 04:42:49] 76561198024482897: Stopped spectating
+[COT 2025-10-04 04:45:19] 76561198024482897: Spectating [guid=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=]
+[COT 2025-10-04 04:45:26] 76561198024482897: Stopped spectating
+[COT 2025-10-04 04:51:35] 76561198024482897: Spectating [guid=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=]
+[COT 2025-10-04 04:52:17] 76561198024482897: Stopped spectating
+[COT 2025-10-04 04:52:23] 76561198024482897: Spectating [guid=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=]
+[COT 2025-10-04 04:52:27] 76561198024482897: Stopped spectating
+[COT 2025-10-04 04:52:29] 76561198024482897: Spectating [guid=IEr3S6pmlkv81CqcBXldEhpTG1tpqiyw1JHTRjxGyC0=]
+[COT 2025-10-04 04:53:10] 76561198024482897: Stopped spectating
+[COT 2025-10-04 04:54:38] 76561198024482897: Spectating [guid=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=]
+[COT 2025-10-04 04:54:51] 76561198024482897: Stopped spectating
+[COT 2025-10-04 04:55:27] 76561198024482897: Spectating [guid=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=]
+[COT 2025-10-04 04:55:36] 76561198024482897: Stopped spectating
+[COT 2025-10-04 04:55:47] 76561198024482897: Entered the Free Camera
+[COT 2025-10-04 04:55:50] 76561198024482897: Left the Free Camera
+[COT 2025-10-04 04:56:20] 76561198024482897: Spectating [guid=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=]
+[COT 2025-10-04 04:56:23] 76561198024482897: Stopped spectating
+[COT 2025-10-04 04:58:19] 76561198024482897: Spectating [guid=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=]
+[COT 2025-10-04 04:58:26] 76561198024482897: Stopped spectating
+[COT 2025-10-04 04:59:19] 76561198024482897: Spectating [guid=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=]
+[COT 2025-10-04 04:59:21] 76561198024482897: Stopped spectating
+[COT 2025-10-04 05:01:17] 76561198024482897: Set GodMode To false [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-10-04 05:01:20] 76561198024482897: Deactivated Community Online Tools [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-10-04 05:11:24] 76561198024482897: Activated Community Online Tools [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-10-04 05:37:43] 76561198024482897: Activated Community Online Tools [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-10-04 05:38:07] 76561198024482897: Deactivated Community Online Tools [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-10-04 06:01:03] 76561198024482897: Activated Community Online Tools [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-10-04 06:05:25] 76561198024482897: Spectating [guid=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=]
+[COT 2025-10-04 06:06:33] 76561198024482897: Entered the Free Camera
+[COT 2025-10-04 06:06:46] 76561198024482897: Stopped spectating
+[COT 2025-10-04 06:06:52] 76561198024482897: Teleported 76561198024482897 to position <2579.279053, 472.722565, 1556.472778>
+[COT 2025-10-04 06:06:53] 76561198024482897: Teleported 76561198024482897 to position <2601.279541, 471.395416, 1579.938477>
+[COT 2025-10-04 06:06:56] 76561198024482897: Teleported 76561198024482897 to position <4118.668945, 487.014740, 2312.083496>
+[COT 2025-10-04 06:07:06] 76561198024482897: Teleported 76561198024482897 to position <8341.435547, 330.262787, 1631.671875>
+[COT 2025-10-04 06:07:13] 76561198024482897: Left the Free Camera
+[COT 2025-10-04 06:07:17] 76561198024482897: Deactivated Community Online Tools [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-10-04 06:07:18] 76561198024482897: Activated Community Online Tools [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-10-04 06:07:19] 76561198024482897: Left the Free Camera
+[COT 2025-10-04 06:07:19] 76561198024482897: Left the Free Camera
+[COT 2025-10-04 06:07:20] 76561198024482897: Left the Free Camera
+[COT 2025-10-04 06:13:51] 76561198024482897: Spawned Entity Large Patch (ItemBase<6a402090>, 100, 450, 15, 0) at <8337.670898, 325.696503, 1644.662354>
+[COT 2025-10-04 06:14:12] 76561198024482897: Deleted Entity FOG_Big_Patch_KillCell:36584 at <8336.531250, 325.696411, 1642.967896>
+[COT 2025-10-04 06:14:28] 76561198024482897: Spawned Entity Small Patch (ItemBase<1b6f9610>, 100, 450, 15, 0) at <8336.527344, 325.696503, 1642.978394>
+[COT 2025-10-04 06:15:04] 76561198024482897: Set GodMode To true [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-10-04 06:15:21] 76561198024482897: Spawned Entity Helmet Mounted Task Light (FOG_HMTL_Light_Base<68390360>, 100, 300, 15, 0) at <8336.527344, 325.696503, 1642.974731>
+[COT 2025-10-04 06:18:32] 76561198024482897: Spectating [guid=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=]
+[COT 2025-10-04 06:18:52] 76561198024482897: Set GodMode To false [guid=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=]
+[COT 2025-10-04 06:18:52] 76561198024482897: Set GodMode To false [guid=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=]
+[COT 2025-10-04 06:19:29] 76561198024482897: Stopped spectating
+[COT 2025-10-04 08:37:47] 76561198024482897: Activated Community Online Tools [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-10-04 08:37:55] 76561198024482897: Updated roles [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]

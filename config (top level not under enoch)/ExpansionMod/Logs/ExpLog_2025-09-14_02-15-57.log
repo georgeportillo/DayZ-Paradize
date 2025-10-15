@@ -1,0 +1,272 @@
+02:17:09.317 [VehicleDestroyed] ExpansionUh1h (id=0D8AB1A8574FBA1FE002E5997C42B2BD pos=<1230.56, 168.74, 7567.05>)
+02:17:11.047 [VehicleDestroyed] ExpansionUh1h_Medical (id=F5C017A35D48FAB0123568A9622AD545 pos=<7925.33, 169.03, 11835.8>)
+02:17:15.340 [VehicleDeleted] ExpansionUh1h (id=479665CF354B790504E4B995A08C6BB7 pos=<1230.56, 168.74, 7567.05>)
+02:17:15.350 [VehicleDeleted] ExpansionUh1h_Medical (id=5D5921BE544C61E2CACC1B84B6FAB08C pos=<7925.33, 169.03, 11835.8>)
+02:20:01.685 [VehicleDestroyed] ExpansionUh1h_Uber (id=C429C738344F3182D8974B804878F78B pos=<1228.18, 169.14, 7566.17>)
+02:20:14.911 [VehicleDestroyed] ExpansionUh1h (id=2B2118416D4753C529E63C8003342B99 pos=<7924.99, 169.38, 11833.8>)
+02:23:45.584 [AI Object Patrol 00023] Spawning 1 East bots at <2432.348145, 353.645233, 4891.131348>
+02:23:53.289 [AI Object Patrol 00023] Global patrol count: 1
+02:23:53.299 [AI Object Patrol 00023] HelicopterWreck category patrol count: 1
+02:26:18.086 [VehicleDeleted] ExpansionUh1h_Uber (id=C429C738344F3182D8974B804878F78B pos=<1230.54, 168.76, 7567>)
+02:26:46.441 [VehicleDeleted] ExpansionUh1h (id=2B2118416D4753C529E63C8003342B99 pos=<7925.43, 169.03, 11835.8>)
+02:29:01.619 [VehicleDestroyed] ExpansionUh1h_Medical (id=B2E22524474E599C69DB1F9F43DAD314 pos=<1228.15, 169.15, 7566.14>)
+02:29:17.357 [VehicleDestroyed] ExpansionUh1h_Medical (id=96F1CB4A04483E2BF1309897ACF3EC28 pos=<7924.83, 169.38, 11833.6>)
+02:33:35.962 [VehicleDestroyed] Boat_01_Blue (id=14591DCE3C48E91D6D3805859D2FB93A pos=<6426.97, 169.82, 10889.1>)
+02:35:24.706 [AI Object Patrol 00023] Despawning 1 East bots (spawn position <2432.348145, 353.645233, 4891.131348>, 0/1 deceased)
+02:35:24.716 [AI Object Patrol 00023] Global patrol count: 0
+02:35:24.726 [AI Object Patrol 00023] HelicopterWreck category patrol count: 0
+02:35:26.855 [VehicleDeleted] ExpansionUh1h_Medical (id=B2E22524474E599C69DB1F9F43DAD314 pos=<1230.61, 168.77, 7566.94>)
+02:35:54.741 [VehicleDeleted] ExpansionUh1h_Medical (id=96F1CB4A04483E2BF1309897ACF3EC28 pos=<7926.99, 169.57, 11834.8>)
+02:36:18.866 [Chat - Global]("Snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): alright see u around homie
+02:36:29.299 [Chat - Global]("Dan"(id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=)): seee ya
+02:38:09.618 [VehicleDestroyed] ExpansionUh1h_Uber (id=060A071242414526B652338A55172227 pos=<1228.18, 169.14, 7566.18>)
+02:38:19.162 [VehicleDestroyed] ExpansionUh1h (id=0565F4A39C4D955BDCB3DDBD71D92860 pos=<7924.6, 169.32, 11833.8>)
+02:40:07.147 [VehicleDeleted] Boat_01_Blue (id=14591DCE3C48E91D6D3805859D2FB93A pos=<6426.99, 169.71, 10889>)
+02:44:19.196 [VehicleDeleted] ExpansionUh1h_Uber (id=060A071242414526B652338A55172227 pos=<1230.45, 168.76, 7567.03>)
+02:44:47.054 [VehicleDeleted] ExpansionUh1h (id=0565F4A39C4D955BDCB3DDBD71D92860 pos=<7925.36, 169.54, 11833.5>)
+02:46:17.279 [AI Object Patrol 00027] Spawning 3 West bots at <7519.103516, 257.100525, 7059.046875>
+02:46:17.323 [AI Object Patrol 00027] Global patrol count: 1
+02:46:17.333 [AI Object Patrol 00027] HelicopterWreck category patrol count: 1
+02:47:02.416 [VehicleDestroyed] ExpansionUh1h_Medical (id=0273718A0F4BBD9F5A4EA2AEDAC9F994 pos=<1228.18, 169.13, 7566.19>)
+02:47:22.431 [VehicleDestroyed] ExpansionUh1h_Medical (id=09FBB8A1A6485F72D13548AA508CB50F pos=<7925.28, 169.55, 11833.4>)
+02:53:11.087 [VehicleDeleted] ExpansionUh1h_Medical (id=0273718A0F4BBD9F5A4EA2AEDAC9F994 pos=<1230.49, 168.75, 7567.06>)
+02:53:39.024 [VehicleDeleted] ExpansionUh1h_Medical (id=09FBB8A1A6485F72D13548AA508CB50F pos=<7927.2, 169.94, 11833.1>)
+02:55:54.392 [VehicleDestroyed] ExpansionUh1h_Resistance (id=C9550EC1AD4CA31DE5FB969C50892BA6 pos=<1228.15, 169.14, 7566.16>)
+02:56:05.789 [VehicleDestroyed] ExpansionUh1h_Uber (id=9BD2F7C822422C6B6C86249BEE6189A3 pos=<7924.88, 169.42, 11833.6>)
+02:56:55.687 [AI Patrol 00016] Spawning 1 East bots at <7498.796875, 333.362762, 2729.978027>
+02:56:55.725 [AI Patrol 00016] Global patrol count: 2
+02:56:55.736 [AI Patrol 00016] Patrol category patrol count: 1
+02:56:55.746 [AI Patrol 00017] Spawning 2 West bots at <7171.587891, 301.597656, 3037.401611>
+02:56:55.778 [AI Patrol 00017] Global patrol count: 3
+02:56:55.788 [AI Patrol 00017] Patrol category patrol count: 2
+03:02:02.770 [VehicleDeleted] ExpansionUh1h_Resistance (id=C9550EC1AD4CA31DE5FB969C50892BA6 pos=<1230.59, 168.76, 7566.99>)
+03:02:30.740 [VehicleDeleted] ExpansionUh1h_Uber (id=9BD2F7C822422C6B6C86249BEE6189A3 pos=<7927.22, 169.95, 11833.1>)
+03:04:45.340 [VehicleDestroyed] ExpansionUh1h_Uber (id=9388F7449649EA554D01699F76AEF7D4 pos=<1228.09, 169.14, 7566.19>)
+03:05:04.192 [VehicleDestroyed] ExpansionUh1h_Medical (id=4C7747DFF445FC5769186A82663ABCBE pos=<7924.86, 169.47, 11833.4>)
+03:09:09.387 [AI Object Patrol 00027] Despawning 3 West bots (spawn position <7519.103516, 257.100525, 7059.046875>, 0/3 deceased)
+03:09:09.397 [AI Object Patrol 00027] Global patrol count: 2
+03:09:09.406 [AI Object Patrol 00027] HelicopterWreck category patrol count: 0
+03:10:54.149 [VehicleDeleted] ExpansionUh1h_Uber (id=9388F7449649EA554D01699F76AEF7D4 pos=<1230.31, 168.72, 7567.22>)
+03:11:21.875 [VehicleDeleted] ExpansionUh1h_Medical (id=4C7747DFF445FC5769186A82663ABCBE pos=<7924.77, 169.47, 11833.3>)
+03:13:36.669 [VehicleDestroyed] ExpansionUh1h (id=54B1A439A04E423326D0ECA718D61361 pos=<1228.11, 169.13, 7566.2>)
+03:13:55.600 [VehicleDestroyed] ExpansionUh1h_Uber (id=D8DC19E30C425951DDCA369FD5BC1F85 pos=<7925.29, 169.52, 11833.5>)
+03:14:31.122 [AI Patrol 00016] East bots were wiped out (spawn position <7498.796875, 333.362762, 2729.978027>, 1/1 deceased)
+03:14:31.188 [AI Patrol 00016] Global patrol count: 1
+03:14:31.270 [AI Patrol 00016] Patrol category patrol count: 1
+03:15:15.015 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<8938.72, 308.57, 6585.52>) as driver
+03:15:18.667 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<8938.72, 308.57, 6585.52>)
+03:15:43.089 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<9037.55, 299.71, 6628.04>)
+03:15:43.413 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<9037.55, 299.71, 6628.04>)
+03:19:45.713 [VehicleDeleted] ExpansionUh1h (id=54B1A439A04E423326D0ECA718D61361 pos=<1230.42, 168.75, 7567.09>)
+03:20:13.641 [VehicleDeleted] ExpansionUh1h_Uber (id=D8DC19E30C425951DDCA369FD5BC1F85 pos=<7927.51, 169.92, 11833.5>)
+03:22:28.815 [VehicleDestroyed] ExpansionUh1h_Medical (id=5D65741BD24B0AE7FD2AEEB49065F48A pos=<1228.15, 169.14, 7566.18>)
+03:22:38.271 [VehicleDestroyed] ExpansionUh1h_Uber (id=B8A99FF9394E24CE9BC96384C98B21C9 pos=<7924.81, 169.36, 11833.8>)
+03:24:26.222 [AI Patrol 00017] Despawning 2 West bots (spawn position <7171.587891, 301.597656, 3037.401611>, 0/2 deceased)
+03:24:26.232 [AI Patrol 00017] Global patrol count: 0
+03:24:26.242 [AI Patrol 00017] Patrol category patrol count: 0
+03:28:22.898 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<9037.55, 299.71, 6628.04>) as driver
+03:28:26.115 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<9037.55, 299.71, 6628.04>)
+03:28:36.398 [VehicleDeleted] ExpansionUh1h_Medical (id=5D65741BD24B0AE7FD2AEEB49065F48A pos=<1230.58, 168.78, 7566.9>)
+03:29:04.189 [VehicleDeleted] ExpansionUh1h_Uber (id=B8A99FF9394E24CE9BC96384C98B21C9 pos=<7927.15, 169.99, 11832.9>)
+03:30:06.658 [AI Object Patrol 00040] Spawning 1 West bots at <9386.945313, 253.540604, 8105.405762>
+03:30:06.711 [AI Object Patrol 00040] Global patrol count: 1
+03:30:06.726 [AI Object Patrol 00040] HelicopterWreck category patrol count: 1
+03:31:18.722 [VehicleDestroyed] ExpansionUh1h_Resistance (id=233F1749F0469BA29E2283898D027787 pos=<1228.17, 169.12, 7566.25>)
+03:31:26.407 [AI Object Patrol 00037] Spawning 2 East bots at <7790.025879, 293.864990, 8976.798828>
+03:31:26.451 [AI Object Patrol 00037] Global patrol count: 2
+03:31:26.461 [AI Object Patrol 00037] HelicopterWreck category patrol count: 2
+03:31:31.970 [VehicleDestroyed] ExpansionUh1h_Uber (id=168170755F4EDF8990C44D96DFA04EF6 pos=<7924.74, 169.39, 11833.7>)
+03:34:08.663 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) stopped vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<6553.03, 205.31, 8377.55>)
+03:34:13.104 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<6553.06, 205.31, 8377.54>)
+03:37:27.354 [VehicleDeleted] ExpansionUh1h_Resistance (id=233F1749F0469BA29E2283898D027787 pos=<1230.43, 168.71, 7567.21>)
+03:37:48.963 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<6553.07, 205.31, 8377.54>) as driver
+03:37:51.916 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<6553.09, 205.31, 8377.52>)
+03:37:55.189 [VehicleDeleted] ExpansionUh1h_Uber (id=168170755F4EDF8990C44D96DFA04EF6 pos=<7924.36, 169.27, 11833.8>)
+03:40:10.736 [VehicleDestroyed] ExpansionUh1h_Medical (id=13B767CFE24B1D86630A789A61AA8BAB pos=<1228.09, 169.15, 7566.13>)
+03:40:23.163 [VehicleDestroyed] ExpansionUh1h_Medical (id=94A324B39C4760C8414E2D88CBCF3701 pos=<7924.67, 169.37, 11833.6>)
+03:40:38.909 [AI Object Patrol 00040] Despawning 1 West bots (spawn position <9386.945313, 253.540604, 8105.405762>, 0/1 deceased)
+03:40:38.919 [AI Object Patrol 00040] Global patrol count: 1
+03:40:38.929 [AI Object Patrol 00040] HelicopterWreck category patrol count: 1
+03:41:13.450 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) stopped vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<8296.62, 290.23, 7708.25>)
+03:41:16.872 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<8296.49, 290.23, 7708.31>)
+03:41:39.168 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<8296.44, 290.22, 7708.34>) as driver
+03:41:42.104 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<8296.33, 290.21, 7708.4>)
+03:42:24.073 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<8605.75, 302.67, 7467.73>)
+03:42:24.364 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<8605.75, 302.67, 7467.73>)
+03:43:29.581 [AI Object Patrol 00037] Despawning 1 East bots (spawn position <7790.025879, 293.864990, 8976.798828>, 1/2 deceased)
+03:43:29.617 [AI Object Patrol 00037] Global patrol count: 0
+03:43:29.652 [AI Object Patrol 00037] HelicopterWreck category patrol count: 0
+03:44:25.812 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<8605.75, 302.67, 7467.73>) as driver
+03:44:28.952 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<8605.74, 302.65, 7467.8>)
+03:46:19.581 [VehicleDeleted] ExpansionUh1h_Medical (id=13B767CFE24B1D86630A789A61AA8BAB pos=<1230.5, 168.78, 7566.95>)
+03:46:47.639 [VehicleDeleted] ExpansionUh1h_Medical (id=94A324B39C4760C8414E2D88CBCF3701 pos=<7924.54, 169.34, 11833.7>)
+03:47:57.466 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<6553.96, 205.18, 8374.06>)
+03:47:57.784 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<6553.96, 205.18, 8374.06>)
+03:49:01.908 [VehicleDestroyed] ExpansionUh1h_Medical (id=49E382DC294B81B84EBBF09100FCCBA4 pos=<1228.14, 169.12, 7566.26>)
+03:49:15.457 [VehicleDestroyed] ExpansionUh1h (id=13552F0B854520CC8D971BB37731595B pos=<7924.94, 169.43, 11833.6>)
+03:51:53.950 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<6553.95, 205.18, 8374.06>) as driver
+03:51:56.813 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<6553.95, 205.18, 8374.06>)
+03:54:52.357 [AI Object Patrol 00048] Spawning 1 West bots at <8363.612305, 290.233154, 9148.397461>
+03:54:52.546 [AI Object Patrol 00048] Global patrol count: 1
+03:54:52.702 [AI Object Patrol 00048] HelicopterWreck category patrol count: 1
+03:55:11.285 [VehicleDeleted] ExpansionUh1h_Medical (id=49E382DC294B81B84EBBF09100FCCBA4 pos=<1230.4, 168.72, 7567.2>)
+03:55:18.076 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<7820.11, 245.62, 8451.81>)
+03:55:18.386 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<7820.11, 245.62, 8451.81>)
+03:55:39.144 [VehicleDeleted] ExpansionUh1h (id=13552F0B854520CC8D971BB37731595B pos=<7925.83, 169.7, 11833.1>)
+03:57:53.611 [VehicleDestroyed] ExpansionUh1h (id=FAE87936E943A8F6066BF6B568CE57FB pos=<1228.17, 169.14, 7566.17>)
+03:58:10.063 [VehicleDestroyed] ExpansionUh1h_Medical (id=18446CA0104ED8C1B0931A98B39910BB pos=<7924.62, 169.37, 11833.5>)
+04:04:02.057 [VehicleDeleted] ExpansionUh1h (id=FAE87936E943A8F6066BF6B568CE57FB pos=<1230.52, 168.75, 7567.04>)
+04:04:30.097 [VehicleDeleted] ExpansionUh1h_Medical (id=18446CA0104ED8C1B0931A98B39910BB pos=<7924.38, 169.32, 11833.5>)
+04:05:11.856 [AI Object Patrol 00048] West bots were wiped out (spawn position <8363.612305, 290.233154, 9148.397461>, 1/1 deceased)
+04:05:11.866 [AI Object Patrol 00048] Global patrol count: 0
+04:05:11.876 [AI Object Patrol 00048] HelicopterWreck category patrol count: 0
+04:06:43.937 [VehicleDestroyed] ExpansionUh1h_Medical (id=3EE5726E9E428ED4C5DCFA8A23C242EF pos=<1228.15, 169.12, 7566.26>)
+04:07:04.293 [VehicleDestroyed] ExpansionUh1h (id=4045548A244C319632332BB7C1DC544A pos=<7925.25, 169.53, 11833.4>)
+04:12:53.464 [VehicleDeleted] ExpansionUh1h_Medical (id=3EE5726E9E428ED4C5DCFA8A23C242EF pos=<1230.44, 168.7, 7567.27>)
+04:13:10.442 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<7820.08, 245.6, 8451.71>) as driver
+04:13:13.821 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<7820.02, 245.57, 8451.48>)
+04:13:21.159 [VehicleDeleted] ExpansionUh1h (id=4045548A244C319632332BB7C1DC544A pos=<7927.14, 169.94, 11833.1>)
+04:15:36.444 [VehicleDestroyed] ExpansionUh1h_Resistance (id=468DB45161426D87F6E5F68B9A5D625A pos=<1228.14, 169.12, 7566.26>)
+04:15:43.902 [VehicleDestroyed] ExpansionUh1h_Uber (id=B84626BD0D469C884607B78AB23F0BBC pos=<7924.71, 169.28, 11834>)
+04:16:00.676 [AI Object Patrol 00055] Spawning 2 West bots at <8213.123047, 252.450073, 8775.729492>
+04:16:00.715 [AI Object Patrol 00055] Global patrol count: 1
+04:16:00.725 [AI Object Patrol 00055] ContaminatedArea category patrol count: 1
+04:18:00.579 [AI Object Patrol 00051] Spawning 2 West bots at <9584.468750, 231.105927, 8946.119141>
+04:18:00.612 [AI Object Patrol 00051] Global patrol count: 2
+04:18:00.622 [AI Object Patrol 00051] HelicopterWreck category patrol count: 1
+04:18:56.109 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) stopped vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<9675.49, 213.76, 8473.13>)
+04:19:07.537 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<9675.48, 213.76, 8473.13>)
+04:19:32.116 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<9683.99, 213.93, 8510.44>)
+04:19:32.402 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<9683.99, 213.93, 8510.44>)
+04:19:36.977 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<9683.99, 213.93, 8510.44>) as driver
+04:19:39.664 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<9683.99, 213.93, 8510.44>)
+04:20:00.895 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<9683.61, 213.93, 8510.47>)
+04:20:01.212 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<9683.61, 213.93, 8510.47>)
+04:21:45.207 [VehicleDeleted] ExpansionUh1h_Resistance (id=468DB45161426D87F6E5F68B9A5D625A pos=<1230.45, 168.72, 7567.17>)
+04:21:52.037 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<9683.61, 213.93, 8510.47>) as driver
+04:21:56.362 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<9683.61, 213.93, 8510.48>)
+04:22:09.012 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) stopped vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<9683.34, 213.93, 8509.97>)
+04:22:12.862 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<9683.34, 213.93, 8509.98>)
+04:22:13.351 [VehicleDeleted] ExpansionUh1h_Uber (id=B84626BD0D469C884607B78AB23F0BBC pos=<7923.75, 168.79, 11835.5>)
+04:22:21.109 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<9682.94, 213.93, 8509.35>)
+04:22:21.397 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<9682.94, 213.93, 8509.35>)
+04:24:28.538 [VehicleDestroyed] ExpansionUh1h (id=7A67AE23E84C002E5EEF1BA0CF64B709 pos=<1228.11, 169.16, 7566.12>)
+04:24:43.510 [VehicleDestroyed] ExpansionUh1h_Uber (id=365F2AB6CA4FC9E0B6D84DBDB118FBBD pos=<7924.56, 169.36, 11833.5>)
+04:25:56.522 [AI Object Patrol 00048] Despawning 0 West bots (spawn position <8350.350586, 288.717468, 9145.191406>, 1/1 deceased)
+04:28:30.938 [AI Object Patrol 00055] Despawning 2 West bots (spawn position <8213.123047, 252.450073, 8775.729492>, 0/2 deceased)
+04:28:30.948 [AI Object Patrol 00055] Global patrol count: 1
+04:28:30.958 [AI Object Patrol 00055] ContaminatedArea category patrol count: 0
+04:30:21.745 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<9683.17, 213.93, 8509.95>) as driver
+04:30:23.481 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<9683.17, 213.93, 8509.95>)
+04:30:32.888 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) stopped vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<9680.03, 213.59, 8502.56>)
+04:30:34.813 [VehicleDeleted] ExpansionUh1h (id=7A67AE23E84C002E5EEF1BA0CF64B709 pos=<1230.54, 168.77, 7566.97>)
+04:30:37.637 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<9680.03, 213.59, 8502.57>)
+04:31:02.622 [VehicleDeleted] ExpansionUh1h_Uber (id=365F2AB6CA4FC9E0B6D84DBDB118FBBD pos=<7924.46, 169.34, 11833.6>)
+04:33:17.999 [VehicleDestroyed] ExpansionUh1h (id=E31A08CD404439A635C5BB9D0B430D36 pos=<1228.14, 169.15, 7566.15>)
+04:33:27.699 [VehicleDestroyed] ExpansionUh1h_Uber (id=12DA46C26048C39C09ED6D90613039C3 pos=<7924.78, 169.32, 11833.9>)
+04:39:26.503 [VehicleDeleted] ExpansionUh1h (id=E31A08CD404439A635C5BB9D0B430D36 pos=<1230.57, 168.76, 7566.98>)
+04:39:54.394 [VehicleDeleted] ExpansionUh1h_Uber (id=12DA46C26048C39C09ED6D90613039C3 pos=<7924.67, 169.09, 11834.9>)
+04:42:09.821 [VehicleDestroyed] ExpansionUh1h_Medical (id=AFA8FABFC646D9234A9DB49209471191 pos=<1228.07, 169.16, 7566.12>)
+04:42:20.958 [VehicleDestroyed] ExpansionUh1h_Medical (id=131F567660448685EBB816B09ED8ED0A pos=<7924.96, 169.37, 11833.8>)
+04:48:19.483 [VehicleDeleted] ExpansionUh1h_Medical (id=AFA8FABFC646D9234A9DB49209471191 pos=<1230.35, 168.75, 7567.09>)
+04:48:47.313 [VehicleDeleted] ExpansionUh1h_Medical (id=131F567660448685EBB816B09ED8ED0A pos=<7926.09, 169.17, 11835.8>)
+04:51:01.989 [VehicleDestroyed] ExpansionUh1h (id=373F43C6E944211C91A31FB15DF7F22E pos=<1228.16, 169.12, 7566.25>)
+04:51:22.144 [VehicleDestroyed] ExpansionUh1h_Resistance (id=60886923424CA4E2B622908D6416ABD9 pos=<7924.87, 169.42, 11833.5>)
+04:52:04.599 [AI Object Patrol 00051] Despawning 2 West bots (spawn position <9584.468750, 231.105927, 8946.119141>, 0/2 deceased)
+04:52:04.609 [AI Object Patrol 00051] Global patrol count: 0
+04:52:04.618 [AI Object Patrol 00051] HelicopterWreck category patrol count: 0
+04:52:22.242 [SpawnSelection] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) spawned at <9868.389648, 210.591003, 8463.000000>
+04:57:12.816 [VehicleDeleted] ExpansionUh1h (id=373F43C6E944211C91A31FB15DF7F22E pos=<1230.44, 168.72, 7567.17>)
+04:57:41.650 [VehicleDeleted] ExpansionUh1h_Resistance (id=60886923424CA4E2B622908D6416ABD9 pos=<7924.76, 169.4, 11833.5>)
+04:59:54.927 [VehicleDestroyed] ExpansionUh1h_Resistance (id=31B563BD4C4C1B00786EC29A4D3F6B69 pos=<1228.16, 169.09, 7566.35>)
+05:00:15.802 [VehicleDestroyed] ExpansionUh1h_Resistance (id=A8A729A0D647AE6F5B6BCBAF529B1C56 pos=<7925, 169.48, 11833.5>)
+05:00:18.438 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<9680.03, 213.59, 8502.57>) as driver
+05:00:22.033 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<9680.03, 213.59, 8502.58>)
+05:01:53.232 [AI Object Patrol 00059] Spawning 3 West bots at <8363.038086, 294.966248, 7568.961426>
+05:01:53.278 [AI Object Patrol 00059] Global patrol count: 1
+05:01:53.288 [AI Object Patrol 00059] HelicopterWreck category patrol count: 1
+05:03:25.486 [AI Object Patrol 00065] Spawning 1 West bots at <7511.884766, 256.484436, 7035.405273>
+05:03:25.523 [AI Object Patrol 00065] Global patrol count: 2
+05:03:25.534 [AI Object Patrol 00065] HelicopterWreck category patrol count: 2
+05:03:28.223 [AI Object Patrol 00064] Spawning 3 East bots at <6465.415039, 287.727417, 7549.833496>
+05:03:28.257 [AI Object Patrol 00064] Global patrol count: 3
+05:03:28.271 [AI Object Patrol 00064] HelicopterWreck category patrol count: 3
+05:04:42.018 [AI Object Patrol 00059] Despawning 3 West bots (spawn position <8363.038086, 294.966248, 7568.961426>, 0/3 deceased)
+05:04:42.029 [AI Object Patrol 00059] Global patrol count: 2
+05:04:42.039 [AI Object Patrol 00059] HelicopterWreck category patrol count: 2
+05:05:02.747 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<6554.23, 205.16, 8372.97>)
+05:05:03.065 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<6554.23, 205.16, 8372.97>)
+05:06:06.068 [VehicleDeleted] ExpansionUh1h_Resistance (id=31B563BD4C4C1B00786EC29A4D3F6B69 pos=<1230.34, 168.71, 7567.27>)
+05:06:33.862 [VehicleDeleted] ExpansionUh1h_Resistance (id=A8A729A0D647AE6F5B6BCBAF529B1C56 pos=<7925.42, 169.54, 11833.6>)
+05:08:58.824 [VehicleDestroyed] ExpansionUh1h_Medical (id=9DDD7638064CDCF4E66AD6AE74F040B1 pos=<1228.12, 169.13, 7566.23>)
+05:09:15.047 [VehicleDestroyed] ExpansionUh1h_Uber (id=1226494F224F1FA8009526AC3946EE9A pos=<7924.82, 169.45, 11833.5>)
+05:13:41.287 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<6554.23, 205.16, 8372.97>) as driver
+05:13:46.227 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<6554.23, 205.16, 8372.97>)
+05:14:08.288 [AI Object Patrol 00065] Despawning 1 West bots (spawn position <7511.884766, 256.484436, 7035.405273>, 0/1 deceased)
+05:14:08.299 [AI Object Patrol 00065] Global patrol count: 1
+05:14:08.309 [AI Object Patrol 00065] HelicopterWreck category patrol count: 1
+05:15:06.909 [VehicleDeleted] ExpansionUh1h_Medical (id=9DDD7638064CDCF4E66AD6AE74F040B1 pos=<1230.47, 168.72, 7567.18>)
+05:15:34.649 [VehicleDeleted] ExpansionUh1h_Uber (id=1226494F224F1FA8009526AC3946EE9A pos=<7924.72, 169.45, 11833.4>)
+05:17:49.654 [VehicleDestroyed] ExpansionUh1h_Resistance (id=21AC65EA4A481DB1BE546B9618C544FE pos=<1228.08, 169.13, 7566.2>)
+05:18:06.954 [VehicleDestroyed] ExpansionUh1h_Uber (id=C233324FDB4EF136277DDAB08B177ABB pos=<7924.86, 169.46, 11833.5>)
+05:20:29.392 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<5647.98, 377.38, 5068.19>)
+05:20:29.646 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<5647.98, 377.38, 5068.19>)
+05:24:08.466 [VehicleDeleted] ExpansionUh1h_Resistance (id=21AC65EA4A481DB1BE546B9618C544FE pos=<1230.32, 168.7, 7567.31>)
+05:24:36.468 [VehicleDeleted] ExpansionUh1h_Uber (id=C233324FDB4EF136277DDAB08B177ABB pos=<7924.78, 169.46, 11833.4>)
+05:26:06.659 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<5647.98, 377.38, 5068.19>) as driver
+05:26:08.512 [VehicleEnter] Player "ANDREIOP" (id=RPd_iZVcpi1DOT_Dnx3wP3FOqPFObu0R2r1Jv-D3kDY=) entered vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<5647.99, 377.38, 5068.19>) as passenger
+05:26:10.093 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<5647.99, 377.38, 5068.19>)
+05:26:50.864 [VehicleDestroyed] ExpansionUh1h_Medical (id=2F37A4B3EA4D23341C31DF8B9291EB96 pos=<1228.17, 169.14, 7566.18>)
+05:26:52.388 [AI Object Patrol 00064] Despawning 3 East bots (spawn position <6465.415039, 287.727417, 7549.833496>, 0/3 deceased)
+05:26:52.399 [AI Object Patrol 00064] Global patrol count: 0
+05:26:52.408 [AI Object Patrol 00064] HelicopterWreck category patrol count: 0
+05:26:57.554 [VehicleDestroyed] ExpansionUh1h_Medical (id=38EE4C7161489074E325A4AA3AC03239 pos=<7924.82, 169.27, 11834.2>)
+05:27:51.514 [VehicleLeave] Player "ANDREIOP" (id=RPd_iZVcpi1DOT_Dnx3wP3FOqPFObu0R2r1Jv-D3kDY=) left vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<5852.24, 284.98, 6698.05>)
+05:27:57.289 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<5852.12, 284.98, 6698.05>)
+05:27:57.601 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<5852.12, 284.98, 6698.05>)
+05:30:19.741 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<5852.1, 284.97, 6698.05>) as driver
+05:30:19.753 [VehicleEnter] Player "ANDREIOP" (id=RPd_iZVcpi1DOT_Dnx3wP3FOqPFObu0R2r1Jv-D3kDY=) entered vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<5852.1, 284.97, 6698.05>) as passenger
+05:30:22.932 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<5852.05, 284.97, 6698.04>)
+05:30:39.691 [AI Object Patrol 00075] Spawning 1 East bots at <6464.687500, 288.125153, 7556.699219>
+05:30:39.719 [AI Object Patrol 00075] Global patrol count: 1
+05:30:39.729 [AI Object Patrol 00075] HelicopterWreck category patrol count: 1
+05:32:17.012 [VehicleLeave] Player "ANDREIOP" (id=RPd_iZVcpi1DOT_Dnx3wP3FOqPFObu0R2r1Jv-D3kDY=) left vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<6555.61, 205.45, 8377.86>)
+05:32:20.578 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<6555.61, 205.45, 8377.86>)
+05:32:58.975 [VehicleDeleted] ExpansionUh1h_Medical (id=2F37A4B3EA4D23341C31DF8B9291EB96 pos=<1230.54, 168.75, 7567.04>)
+05:33:26.957 [VehicleDeleted] ExpansionUh1h_Medical (id=38EE4C7161489074E325A4AA3AC03239 pos=<7924, 168.96, 11835>)
+05:35:40.284 [VehicleDestroyed] ExpansionUh1h (id=4E990F5088458E98FE5FADAF8F6004CB pos=<1228.16, 169.1, 7566.32>)
+05:35:54.740 [VehicleDestroyed] ExpansionUh1h_Medical (id=349626AD7D45414A0E66BFB0817222EB pos=<7924.68, 169.4, 11833.6>)
+05:41:49.153 [VehicleDeleted] ExpansionUh1h (id=4E990F5088458E98FE5FADAF8F6004CB pos=<1230.49, 168.71, 7567.22>)
+05:42:16.902 [VehicleDeleted] ExpansionUh1h_Medical (id=349626AD7D45414A0E66BFB0817222EB pos=<7924.86, 169.44, 11833.5>)
+05:44:30.325 [VehicleDestroyed] ExpansionUh1h_Uber (id=2E895BC3DB4BFBD0CEC1348E15BFB2A5 pos=<1228.18, 169.1, 7566.34>)
+05:44:41.771 [VehicleDestroyed] ExpansionUh1h (id=2222BA9A0A45764F8724698E91890053 pos=<7924.84, 169.38, 11833.8>)
+05:45:29.301 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<6555.61, 205.45, 8377.86>) as driver
+05:45:30.795 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) stopped vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<6555.61, 205.45, 8377.86>)
+05:45:32.621 [VehicleEnter] Player "ANDREIOP" (id=RPd_iZVcpi1DOT_Dnx3wP3FOqPFObu0R2r1Jv-D3kDY=) entered vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<6555.61, 205.45, 8377.86>) as passenger
+05:45:33.836 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<6555.61, 205.45, 8377.86>)
+05:45:37.700 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<6555.61, 205.45, 8377.86>) as driver
+05:45:45.760 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<6555.61, 205.45, 8377.86>)
+05:45:54.059 [VehicleLeave] Player "ANDREIOP" (id=RPd_iZVcpi1DOT_Dnx3wP3FOqPFObu0R2r1Jv-D3kDY=) left vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<6555.61, 205.45, 8377.86>)
+05:46:03.147 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<6555.61, 205.45, 8377.86>) as driver
+05:46:05.266 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<6555.61, 205.45, 8377.86>)
+05:46:08.914 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<6555.61, 205.45, 8377.86>) as driver
+05:46:12.095 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<6555.61, 205.45, 8377.86>)
+05:46:14.723 [VehicleEnter] Player "ANDREIOP" (id=RPd_iZVcpi1DOT_Dnx3wP3FOqPFObu0R2r1Jv-D3kDY=) entered vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<6555.61, 205.45, 8377.86>) as passenger
+05:50:38.745 [VehicleDeleted] ExpansionUh1h_Uber (id=2E895BC3DB4BFBD0CEC1348E15BFB2A5 pos=<1230.34, 168.72, 7567.23>)
+05:51:06.606 [VehicleDeleted] ExpansionUh1h (id=2222BA9A0A45764F8724698E91890053 pos=<7927.16, 169.98, 11833>)
+05:51:18.463 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<9774.57, 208.8, 8538.58>)
+05:51:18.807 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<9774.57, 208.8, 8538.58>)
+05:51:34.835 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<9774.57, 208.8, 8538.58>) as driver
+05:51:36.778 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<9774.57, 208.8, 8538.58>)
+05:53:22.242 [VehicleDestroyed] ExpansionUh1h (id=E1EC188EC34C0FD92B721DA384F7A5D7 pos=<1228.16, 169.14, 7566.17>)
+05:53:35.636 [VehicleDestroyed] ExpansionUh1h_Uber (id=082084F376498F1136E43290A7C67A76 pos=<7925.03, 169.43, 11833.7>)
+05:54:57.166 [VehicleLeave] Player "ANDREIOP" (id=RPd_iZVcpi1DOT_Dnx3wP3FOqPFObu0R2r1Jv-D3kDY=) left vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<11522.5, 181.23, 9445.19>)
+05:54:58.543 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) stopped vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<11522.5, 181.23, 9445.19>)
+05:55:12.702 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<11522.5, 181.23, 9445.2>)
+05:58:37.731 [AI Object Patrol 00075] Despawning 1 East bots (spawn position <6464.687500, 288.125153, 7556.699219>, 0/1 deceased)
+05:58:37.818 [AI Object Patrol 00075] Global patrol count: 0
+05:58:37.940 [AI Object Patrol 00075] HelicopterWreck category patrol count: 0
+05:59:30.859 [VehicleDeleted] ExpansionUh1h (id=E1EC188EC34C0FD92B721DA384F7A5D7 pos=<1230.46, 168.75, 7567.05>)
+05:59:58.660 [VehicleDeleted] ExpansionUh1h_Uber (id=082084F376498F1136E43290A7C67A76 pos=<7927.22, 169.78, 11833.9>)
+06:02:12.129 [VehicleDestroyed] ExpansionUh1h_Medical (id=6558444E31489278C2A6A8B4AB360933 pos=<1228.19, 169.1, 7566.31>)
+06:02:33.031 [VehicleDestroyed] ExpansionUh1h_Resistance (id=9DEF1473E141A2CB997E0DA1DC1D1BD8 pos=<7924.89, 169.48, 11833.4>)

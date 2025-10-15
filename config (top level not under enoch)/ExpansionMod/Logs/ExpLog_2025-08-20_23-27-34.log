@@ -1,0 +1,8 @@
+23:30:49.035 [VehicleDestroyed] Boat_01_Blue (id=C889E1386A4B54298599858FC9DFB5A3 pos=<2561.45, 170.01, 8135.02>)
+23:31:34.540 [AI Patrol 00017] Spawning 2 West bots at <7523.852539, 287.040009, 2512.969238>
+23:31:44.006 [AI Patrol 00017] Global patrol count: 1
+23:31:44.016 [AI Patrol 00017] Patrol category patrol count: 1
+23:31:44.066 [AI Patrol 00016] Spawning 1 East bots at <7703.239258, 315.343201, 2971.537598>
+23:31:44.109 [AI Patrol 00016] Global patrol count: 2
+23:31:44.120 [AI Patrol 00016] Patrol category patrol count: 2
+23:37:32.412 [VehicleDeleted] Boat_01_Blue (id=C889E1386A4B54298599858FC9DFB5A3 pos=<2561.45, 170.01, 8135.02>)

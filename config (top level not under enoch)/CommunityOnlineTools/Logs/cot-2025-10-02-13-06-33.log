@@ -1,0 +1,214 @@
+[COT 2025-10-03 06:05:23] 76561198024482897: Activated Community Online Tools [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-10-03 06:05:29] 76561198024482897: Set GodMode To true [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-10-03 06:06:45] 76561198024482897: Deleted Entity ExpansionGunrack:25375 at <8346.089844, 334.704987, 1635.239990>
+[COT 2025-10-03 06:06:47] 76561198024482897: Spawned Entity Gunrack (ExpansionGunrack<35382720>, 50, 600, 15, 0) at <8346.378906, 334.705017, 1634.877319>
+[COT 2025-10-03 06:06:55] 76561198024482897: Deleted Entity ExpansionGunrack:25412 at <8346.378906, 334.704468, 1634.877319>
+[COT 2025-10-03 06:07:01] 76561198024482897: Spawned Entity Gunrack (ExpansionGunrack<35354eb0>, 50, 600, 15, 0) at <8346.335938, 334.705017, 1635.059570>
+[COT 2025-10-03 06:08:24] 76561198024482897: Deleted Entity TLC_SandBagCornerL:22195 at <8336.449219, 332.602264, 1644.868408>
+[COT 2025-10-03 06:09:48] 76561198024482897: Teleported 76561198024482897 to position <8338.299805, 341.201630, 1634.583984>
+[COT 2025-10-03 06:09:50] 76561198024482897: Teleported 76561198024482897 to position <8337.389648, 341.201843, 1636.195313>
+[COT 2025-10-03 06:09:52] 76561198024482897: Teleported 76561198024482897 to position <8335.388672, 325.695862, 1638.211792>
+[COT 2025-10-03 06:09:54] 76561198024482897: Teleported 76561198024482897 to position <8341.882813, 334.705017, 1637.763184>
+[COT 2025-10-03 06:11:10] 76561198024482897: Deleted Entity NomNom_Comic_Display_Vintage:24308 at <8339.378906, 325.696503, 1648.519531>
+[COT 2025-10-03 06:11:13] 76561198024482897: Deleted Entity NomNom_Mega_Display_Modern:25874 at <8340.786133, 325.696503, 1649.960938>
+[COT 2025-10-03 06:11:21] 76561198024482897: Deleted Entity SeaChest:22081 at <8344.672852, 325.696503, 1646.440186>
+[COT 2025-10-03 06:11:53] 76561198024482897: Spawned Entity Wall Kit (ExpansionWallKit<6cc9c070>, 50, 100, 15, 0) at <8363.350586, 323.006226, 1632.513672>
+[COT 2025-10-03 06:11:53] 76561198024482897: Spawned Entity Wall Kit (ExpansionWallKit<6cca4b30>, 50, 100, 15, 0) at <8363.212891, 323.048737, 1632.491333>
+[COT 2025-10-03 06:11:53] 76561198024482897: Spawned Entity Wall Kit (ExpansionWallKit<6ccabed0>, 50, 100, 15, 0) at <8363.093750, 323.085815, 1632.471924>
+[COT 2025-10-03 06:11:53] 76561198024482897: Spawned Entity Wall Kit (ExpansionWallKit<6ccaca60>, 50, 100, 15, 0) at <8363.093750, 323.085815, 1632.471924>
+[COT 2025-10-03 06:12:50] 76561198024482897: Spawned Entity Wall Kit (ExpansionWallKit<db18fb10>, 50, 100, 15, 0) at <8367.786133, 326.170319, 1649.932129>
+[COT 2025-10-03 06:12:50] 76561198024482897: Spawned Entity Wall Kit (ExpansionWallKit<db194070>, 50, 100, 15, 0) at <8367.709961, 326.259125, 1650.133179>
+[COT 2025-10-03 06:12:50] 76561198024482897: Spawned Entity Wall Kit (ExpansionWallKit<db195790>, 50, 100, 15, 0) at <8367.662109, 326.315338, 1650.260498>
+[COT 2025-10-03 06:12:50] 76561198024482897: Spawned Entity Wall Kit (ExpansionWallKit<db197a40>, 50, 100, 15, 0) at <8367.615234, 326.369873, 1650.383911>
+[COT 2025-10-03 06:13:43] 76561198024482897: ESP: Viewing ESP
+[COT 2025-10-03 06:14:01] 76561198024482897: ESP: Clearing ESP
+[COT 2025-10-03 06:14:01] 76561198024482897: ESP: Viewing ESP
+[COT 2025-10-03 06:14:13] 76561198024482897: ESP target=ExpansionWallBase<1f11ac80> action=built part=wood_base required_materials=false
+[COT 2025-10-03 06:14:15] 76561198024482897: ESP target=ExpansionWallBase<1f11ac80> action=built part=wood_wallframe required_materials=false
+[COT 2025-10-03 06:14:17] 76561198024482897: ESP target=ExpansionWallBase<1f11ac80> action=built part=wood_wallfinished required_materials=false
+[COT 2025-10-03 06:14:24] 76561198024482897: ESP target=ExpansionWallBase<1f114c00> action=built part=wood_base required_materials=false
+[COT 2025-10-03 06:14:26] 76561198024482897: ESP target=ExpansionWallBase<1f114c00> action=built part=wood_wallframe required_materials=false
+[COT 2025-10-03 06:14:27] 76561198024482897: ESP target=ExpansionWallBase<1f114c00> action=built part=wood_wallfinished required_materials=false
+[COT 2025-10-03 06:14:36] 76561198024482897: ESP target=ExpansionWallBase<d0f18bf0> action=built part=wood_base required_materials=false
+[COT 2025-10-03 06:14:38] 76561198024482897: ESP target=ExpansionWallBase<d0f18bf0> action=built part=wood_wallframe required_materials=false
+[COT 2025-10-03 06:14:39] 76561198024482897: ESP target=ExpansionWallBase<d0f18bf0> action=built part=wood_wallfinished required_materials=false
+[COT 2025-10-03 06:14:47] 76561198024482897: ESP target=ExpansionWallBase<d0f1bc30> action=built part=wood_base required_materials=false
+[COT 2025-10-03 06:14:49] 76561198024482897: ESP target=ExpansionWallBase<d0f1bc30> action=built part=wood_wallframe required_materials=false
+[COT 2025-10-03 06:14:50] 76561198024482897: ESP target=ExpansionWallBase<d0f1bc30> action=built part=wood_wallfinished required_materials=false
+[COT 2025-10-03 06:15:23] 76561198024482897: ESP target=ExpansionWallBase<cdba0900> action=built part=wood_base required_materials=false
+[COT 2025-10-03 06:15:25] 76561198024482897: ESP target=ExpansionWallBase<cdba0900> action=built part=wood_wallframe required_materials=false
+[COT 2025-10-03 06:15:26] 76561198024482897: ESP target=ExpansionWallBase<cdba0900> action=built part=wood_wallfinished required_materials=false
+[COT 2025-10-03 06:15:45] 76561198024482897: ESP target=ExpansionWallBase<1f116420> action=built part=wood_base required_materials=false
+[COT 2025-10-03 06:15:47] 76561198024482897: ESP target=ExpansionWallBase<1f116420> action=built part=wood_wallframe required_materials=false
+[COT 2025-10-03 06:15:47] 76561198024482897: ESP target=ExpansionWallBase<1f116420> action=built part=wood_wallfinished required_materials=false
+[COT 2025-10-03 06:16:09] 76561198024482897: ESP target=ExpansionWallBase<3a2611a0> action=built part=wood_base required_materials=false
+[COT 2025-10-03 06:16:12] 76561198024482897: ESP target=ExpansionWallBase<3a2611a0> action=built part=wood_wallframe required_materials=false
+[COT 2025-10-03 06:16:12] 76561198024482897: ESP target=ExpansionWallBase<3a2611a0> action=built part=wood_wallfinished required_materials=false
+[COT 2025-10-03 06:16:46] 76561198024482897: ESP target=ExpansionWallBase<1f0fb1e0> action=built part=wood_base required_materials=false
+[COT 2025-10-03 06:16:47] 76561198024482897: ESP target=ExpansionWallBase<1f0fb1e0> action=built part=wood_wallframe required_materials=false
+[COT 2025-10-03 06:16:48] 76561198024482897: ESP target=ExpansionWallBase<1f0fb1e0> action=built part=wood_wallfinished required_materials=false
+[COT 2025-10-03 06:17:10] 76561198024482897: Created Deletion Backup '2025-10-03_06-17-10'
+[COT 2025-10-03 06:17:10] 76561198024482897: ESP index=0 target=ExpansionWall6x3:25658 position=<8369.549805, 322.575134, 1679.287109> action=delete
+[COT 2025-10-03 06:17:10] 76561198024482897: ESP index=1 target=ExpansionWall6x3:25515 position=<8352.608398, 322.445862, 1663.534912> action=delete
+[COT 2025-10-03 06:17:10] 76561198024482897: ESP index=2 target=ExpansionWall6x3:25347 position=<8375.513672, 322.575592, 1679.948486> action=delete
+[COT 2025-10-03 06:17:10] 76561198024482897: ESP index=3 target=ExpansionWall6x3:24181 position=<8356.643555, 325.449066, 1667.975098> action=delete
+[COT 2025-10-03 06:17:10] 76561198024482897: ESP index=4 target=ExpansionWall6x3:23890 position=<8369.549805, 325.577881, 1679.286987> action=delete
+[COT 2025-10-03 06:17:10] 76561198024482897: ESP index=5 target=ExpansionWall6x3:23878 position=<8360.678711, 325.449524, 1672.415527> action=delete
+[COT 2025-10-03 06:17:10] 76561198024482897: ESP index=6 target=ExpansionWall6x3:23889 position=<8352.608398, 325.448608, 1663.534668> action=delete
+[COT 2025-10-03 06:17:10] 76561198024482897: ESP index=7 target=ExpansionWall6x3:23828 position=<8364.713867, 322.447235, 1676.856201> action=delete
+[COT 2025-10-03 06:17:10] 76561198024482897: ESP index=8 target=ExpansionWall6x3:23352 position=<8381.477539, 328.582458, 1680.609619> action=delete
+[COT 2025-10-03 06:17:10] 76561198024482897: ESP index=9 target=ExpansionWall6x3:23344 position=<8381.477539, 322.576050, 1680.609863> action=delete
+[COT 2025-10-03 06:17:11] 76561198024482897: ESP index=10 target=ExpansionWall6x3:23165 position=<8375.513672, 325.578339, 1679.948364> action=delete
+[COT 2025-10-03 06:17:11] 76561198024482897: ESP index=11 target=ExpansionWall6x3:23156 position=<8381.477539, 325.578796, 1680.609741> action=delete
+[COT 2025-10-03 06:17:11] 76561198024482897: ESP index=12 target=ExpansionWall6x3:22519 position=<8356.643555, 322.446320, 1667.975342> action=delete
+[COT 2025-10-03 06:17:11] 76561198024482897: ESP index=13 target=ExpansionWall6x3:22201 position=<8364.713867, 325.449982, 1676.855957> action=delete
+[COT 2025-10-03 06:17:11] 76561198024482897: ESP index=14 target=ExpansionWall6x3:21795 position=<8360.678711, 322.446777, 1672.415771> action=delete
+[COT 2025-10-03 06:17:11] 76561198024482897: ESP action=delete_all count=15 attempted=15
+[COT 2025-10-03 06:17:18] 76561198024482897: Created Deletion Backup '2025-10-03_06-17-18'
+[COT 2025-10-03 06:17:18] 76561198024482897: ESP index=0 target=ExpansionWall6x3:25069 position=<8348.573242, 322.445404, 1659.094482> action=delete
+[COT 2025-10-03 06:17:18] 76561198024482897: ESP index=1 target=ExpansionWall6x3:23877 position=<8348.573242, 325.448151, 1659.094238> action=delete
+[COT 2025-10-03 06:17:18] 76561198024482897: ESP action=delete_all count=2 attempted=2
+[COT 2025-10-03 06:17:34] 76561198024482897: Created Deletion Backup '2025-10-03_06-17-34'
+[COT 2025-10-03 06:17:34] 76561198024482897: ESP index=0 target=ExpansionWall6x3:25930 position=<8410.959961, 328.625000, 1682.300049> action=delete
+[COT 2025-10-03 06:17:34] 76561198024482897: ESP index=1 target=ExpansionWall6x3:25929 position=<8405.333008, 331.586121, 1683.255005> action=delete
+[COT 2025-10-03 06:17:34] 76561198024482897: ESP index=2 target=ExpansionWall6x3:25656 position=<8416.337891, 331.628204, 1679.638672> action=delete
+[COT 2025-10-03 06:17:34] 76561198024482897: ESP index=3 target=ExpansionWall6x3:25235 position=<8399.369141, 328.582916, 1682.593750> action=delete
+[COT 2025-10-03 06:17:34] 76561198024482897: ESP index=4 target=ExpansionWall6x3:25207 position=<8387.441406, 322.576508, 1681.271240> action=delete
+[COT 2025-10-03 06:17:34] 76561198024482897: ESP index=5 target=ExpansionWall6x3:25003 position=<8393.405273, 328.582458, 1681.932373> action=delete
+[COT 2025-10-03 06:17:34] 76561198024482897: ESP index=6 target=ExpansionWall6x3:25138 position=<8410.959961, 331.627747, 1682.300049> action=delete
+[COT 2025-10-03 06:17:34] 76561198024482897: ESP index=7 target=ExpansionWall6x3:24260 position=<8399.369141, 331.586578, 1682.593628> action=delete
+[COT 2025-10-03 06:17:34] 76561198024482897: ESP index=8 target=ExpansionWall6x3:24613 position=<8387.441406, 325.579254, 1681.271118> action=delete
+[COT 2025-10-03 06:17:34] 76561198024482897: ESP index=9 target=ExpansionWall6x3:24483 position=<8416.337891, 328.625458, 1679.638672> action=delete
+[COT 2025-10-03 06:17:34] 76561198024482897: ESP index=10 target=ExpansionWall6x3:24476 position=<8405.333008, 328.583374, 1683.255127> action=delete
+[COT 2025-10-03 06:17:34] 76561198024482897: ESP index=11 target=ExpansionWall6x3:23881 position=<8387.441406, 328.582001, 1681.270996> action=delete
+[COT 2025-10-03 06:17:34] 76561198024482897: ESP index=12 target=ExpansionWall6x3:23627 position=<8416.337891, 334.630951, 1679.638672> action=delete
+[COT 2025-10-03 06:17:34] 76561198024482897: ESP index=13 target=ExpansionWall6x3:22247 position=<8410.959961, 334.631409, 1682.300049> action=delete
+[COT 2025-10-03 06:17:34] 76561198024482897: ESP index=14 target=ExpansionWall6x3:22115 position=<8399.369141, 325.580170, 1682.593872> action=delete
+[COT 2025-10-03 06:17:34] 76561198024482897: ESP index=15 target=ExpansionWall6x3:22051 position=<8393.405273, 325.579712, 1681.932495> action=delete
+[COT 2025-10-03 06:17:34] 76561198024482897: ESP index=16 target=ExpansionWall6x3:21899 position=<8416.337891, 337.635529, 1679.638794> action=delete
+[COT 2025-10-03 06:17:34] 76561198024482897: ESP index=17 target=ExpansionWall6x3:21823 position=<8405.333008, 325.580627, 1683.255249> action=delete
+[COT 2025-10-03 06:17:34] 76561198024482897: ESP action=delete_all count=18 attempted=18
+[COT 2025-10-03 06:17:52] 76561198024482897: Created Deletion Backup '2025-10-03_06-17-52'
+[COT 2025-10-03 06:17:52] 76561198024482897: ESP index=0 target=ExpansionWall6x3:25876 position=<8446.151367, 339.311554, 1655.362671> action=delete
+[COT 2025-10-03 06:17:52] 76561198024482897: ESP index=1 target=ExpansionWall6x3:25644 position=<8448.605469, 343.641937, 1663.671021> action=delete
+[COT 2025-10-03 06:17:52] 76561198024482897: ESP index=2 target=ExpansionWall6x3:25646 position=<8448.605469, 337.636444, 1663.671021> action=delete
+[COT 2025-10-03 06:17:52] 76561198024482897: ESP index=3 target=ExpansionWall6x3:25572 position=<8446.151367, 345.310638, 1655.362671> action=delete
+[COT 2025-10-03 06:17:52] 76561198024482897: ESP index=4 target=ExpansionWall6x3:25514 position=<8427.093750, 334.631866, 1674.316040> action=delete
+[COT 2025-10-03 06:17:52] 76561198024482897: ESP index=5 target=ExpansionWall6x3:25199 position=<8432.471680, 337.635071, 1671.654785> action=delete
+[COT 2025-10-03 06:17:52] 76561198024482897: ESP index=6 target=ExpansionWall6x3:24996 position=<8421.715820, 337.635071, 1676.977417> action=delete
+[COT 2025-10-03 06:17:52] 76561198024482897: ESP index=7 target=ExpansionWall6x3:24341 position=<8432.471680, 340.638733, 1671.654907> action=delete
+[COT 2025-10-03 06:17:52] 76561198024482897: ESP index=8 target=ExpansionWall6x3:24311 position=<8421.715820, 331.628662, 1676.977295> action=delete
+[COT 2025-10-03 06:17:52] 76561198024482897: ESP index=9 target=ExpansionWall6x3:24062 position=<8432.471680, 334.632324, 1671.654785> action=delete
+[COT 2025-10-03 06:17:52] 76561198024482897: ESP index=10 target=ExpansionWall6x3:23932 position=<8448.605469, 340.639191, 1663.671021> action=delete
+[COT 2025-10-03 06:17:52] 76561198024482897: ESP index=11 target=ExpansionWall6x3:23929 position=<8437.849609, 337.635529, 1668.993530> action=delete
+[COT 2025-10-03 06:17:52] 76561198024482897: ESP index=12 target=ExpansionWall6x3:23823 position=<8442.937500, 342.310638, 1650.295532> action=delete
+[COT 2025-10-03 06:17:52] 76561198024482897: ESP index=13 target=ExpansionWall6x3:23882 position=<8449.365234, 339.312012, 1660.429565> action=delete
+[COT 2025-10-03 06:17:52] 76561198024482897: ESP index=14 target=ExpansionWall6x3:23646 position=<8443.227539, 340.638733, 1666.332275> action=delete
+[COT 2025-10-03 06:17:52] 76561198024482897: ESP index=15 target=ExpansionWall6x3:22966 position=<8449.365234, 342.311554, 1660.429565> action=delete
+[COT 2025-10-03 06:17:52] 76561198024482897: ESP index=16 target=ExpansionWall6x3:22583 position=<8446.151367, 342.311096, 1655.362671> action=delete
+[COT 2025-10-03 06:17:52] 76561198024482897: ESP index=17 target=ExpansionWall6x3:22520 position=<8442.937500, 345.310181, 1650.295532> action=delete
+[COT 2025-10-03 06:17:52] 76561198024482897: ESP index=18 target=ExpansionWall6x3:22503 position=<8437.849609, 340.638275, 1668.993530> action=delete
+[COT 2025-10-03 06:17:52] 76561198024482897: ESP index=19 target=ExpansionWall6x3:22203 position=<8449.365234, 345.314301, 1660.429810> action=delete
+[COT 2025-10-03 06:17:52] 76561198024482897: ESP index=20 target=ExpansionWall6x3:22158 position=<8427.093750, 337.634613, 1674.316040> action=delete
+[COT 2025-10-03 06:17:52] 76561198024482897: ESP index=21 target=ExpansionWall6x3:22058 position=<8427.093750, 340.639191, 1674.316284> action=delete
+[COT 2025-10-03 06:17:52] 76561198024482897: ESP index=22 target=ExpansionWall6x3:21867 position=<8421.715820, 334.631409, 1676.977295> action=delete
+[COT 2025-10-03 06:17:52] 76561198024482897: ESP index=23 target=ExpansionWall6x3:21695 position=<8437.849609, 334.632782, 1668.993530> action=delete
+[COT 2025-10-03 06:17:52] 76561198024482897: ESP index=24 target=ExpansionWall6x3:21607 position=<8443.227539, 337.635986, 1666.332275> action=delete
+[COT 2025-10-03 06:17:52] 76561198024482897: ESP action=delete_all count=25 attempted=25
+[COT 2025-10-03 06:18:06] 76561198024482897: Created Deletion Backup '2025-10-03_06-18-06'
+[COT 2025-10-03 06:18:06] 76561198024482897: ESP index=0 target=ExpansionWall6x3:25853 position=<8425.538086, 343.609009, 1627.511597> action=delete
+[COT 2025-10-03 06:18:06] 76561198024482897: ESP index=1 target=ExpansionWall6x3:25784 position=<8433.295898, 342.309265, 1635.094116> action=delete
+[COT 2025-10-03 06:18:06] 76561198024482897: ESP index=2 target=ExpansionWall6x3:25659 position=<8430.082031, 345.308350, 1630.027222> action=delete
+[COT 2025-10-03 06:18:06] 76561198024482897: ESP index=3 target=ExpansionWall6x3:25598 position=<8413.538086, 340.605347, 1627.477173> action=delete
+[COT 2025-10-03 06:18:06] 76561198024482897: ESP index=4 target=ExpansionWall6x3:24902 position=<8419.538086, 346.612213, 1627.494385> action=delete
+[COT 2025-10-03 06:18:06] 76561198024482897: ESP index=5 target=ExpansionWall6x3:24844 position=<8419.538086, 340.605804, 1627.494385> action=delete
+[COT 2025-10-03 06:18:06] 76561198024482897: ESP index=6 target=ExpansionWall6x3:24818 position=<8413.538086, 343.608093, 1627.477173> action=delete
+[COT 2025-10-03 06:18:06] 76561198024482897: ESP index=7 target=ExpansionWall6x3:24645 position=<8436.509766, 345.309265, 1640.161255> action=delete
+[COT 2025-10-03 06:18:06] 76561198024482897: ESP index=8 target=ExpansionWall6x3:24577 position=<8439.723633, 348.312469, 1645.227905> action=delete
+[COT 2025-10-03 06:18:06] 76561198024482897: ESP index=9 target=ExpansionWall6x3:24518 position=<8419.538086, 343.608551, 1627.494385> action=delete
+[COT 2025-10-03 06:18:06] 76561198024482897: ESP index=10 target=ExpansionWall6x3:23014 position=<8430.082031, 348.311096, 1630.027466> action=delete
+[COT 2025-10-03 06:18:06] 76561198024482897: ESP index=11 target=ExpansionWall6x3:22978 position=<8425.538086, 346.611755, 1627.511597> action=delete
+[COT 2025-10-03 06:18:06] 76561198024482897: ESP index=12 target=ExpansionWall6x3:22835 position=<8439.723633, 345.309723, 1645.228394> action=delete
+[COT 2025-10-03 06:18:06] 76561198024482897: ESP index=13 target=ExpansionWall6x3:22827 position=<8413.538086, 346.612671, 1627.477173> action=delete
+[COT 2025-10-03 06:18:06] 76561198024482897: ESP index=14 target=ExpansionWall6x3:22824 position=<8439.723633, 342.310181, 1645.228394> action=delete
+[COT 2025-10-03 06:18:06] 76561198024482897: ESP index=15 target=ExpansionWall6x3:22781 position=<8433.295898, 345.308807, 1635.094116> action=delete
+[COT 2025-10-03 06:18:06] 76561198024482897: ESP index=16 target=ExpansionWall6x3:22546 position=<8436.509766, 342.309723, 1640.161255> action=delete
+[COT 2025-10-03 06:18:06] 76561198024482897: ESP index=17 target=ExpansionWall6x3:22535 position=<8425.538086, 349.614502, 1627.511597> action=delete
+[COT 2025-10-03 06:18:06] 76561198024482897: ESP index=18 target=ExpansionWall6x3:21861 position=<8433.295898, 348.311554, 1635.094360> action=delete
+[COT 2025-10-03 06:18:06] 76561198024482897: ESP index=19 target=ExpansionWall6x3:21609 position=<8436.509766, 348.312012, 1640.161011> action=delete
+[COT 2025-10-03 06:18:06] 76561198024482897: ESP action=delete_all count=20 attempted=20
+[COT 2025-10-03 06:18:26] 76561198024482897: Created Deletion Backup '2025-10-03_06-18-26'
+[COT 2025-10-03 06:18:26] 76561198024482897: ESP index=0 target=ExpansionWall6x3:25684 position=<8383.538086, 328.592072, 1627.391113> action=delete
+[COT 2025-10-03 06:18:26] 76561198024482897: ESP index=1 target=ExpansionWall6x3:25620 position=<8389.538086, 331.595276, 1627.408325> action=delete
+[COT 2025-10-03 06:18:26] 76561198024482897: ESP index=2 target=ExpansionWall6x3:24936 position=<8401.538086, 340.605347, 1627.442749> action=delete
+[COT 2025-10-03 06:18:26] 76561198024482897: ESP index=3 target=ExpansionWall6x3:24856 position=<8371.538086, 325.588409, 1627.356689> action=delete
+[COT 2025-10-03 06:18:26] 76561198024482897: ESP index=4 target=ExpansionWall6x3:24099 position=<8383.538086, 334.598480, 1627.391113> action=delete
+[COT 2025-10-03 06:18:26] 76561198024482897: ESP index=5 target=ExpansionWall6x3:24514 position=<8401.538086, 334.598938, 1627.442749> action=delete
+[COT 2025-10-03 06:18:26] 76561198024482897: ESP index=6 target=ExpansionWall6x3:24521 position=<8395.538086, 334.598480, 1627.425537> action=delete
+[COT 2025-10-03 06:18:26] 76561198024482897: ESP index=7 target=ExpansionWall6x3:24380 position=<8395.538086, 340.605804, 1627.425537> action=delete
+[COT 2025-10-03 06:18:26] 76561198024482897: ESP index=8 target=ExpansionWall6x3:24061 position=<8389.538086, 334.598022, 1627.408325> action=delete
+[COT 2025-10-03 06:18:26] 76561198024482897: ESP index=9 target=ExpansionWall6x3:23923 position=<8383.538086, 331.594818, 1627.391113> action=delete
+[COT 2025-10-03 06:18:26] 76561198024482897: ESP index=10 target=ExpansionWall6x3:23641 position=<8377.538086, 328.591614, 1627.373901> action=delete
+[COT 2025-10-03 06:18:26] 76561198024482897: ESP index=11 target=ExpansionWall6x3:23598 position=<8395.538086, 337.602142, 1627.425537> action=delete
+[COT 2025-10-03 06:18:26] 76561198024482897: ESP index=12 target=ExpansionWall6x3:23267 position=<8389.538086, 337.602600, 1627.408325> action=delete
+[COT 2025-10-03 06:18:26] 76561198024482897: ESP index=13 target=ExpansionWall6x3:22829 position=<8377.538086, 325.588867, 1627.373901> action=delete
+[COT 2025-10-03 06:18:26] 76561198024482897: ESP index=14 target=ExpansionWall6x3:22547 position=<8401.538086, 337.601685, 1627.442749> action=delete
+[COT 2025-10-03 06:18:26] 76561198024482897: ESP index=15 target=ExpansionWall6x3:22082 position=<8371.538086, 328.592072, 1627.356689> action=delete
+[COT 2025-10-03 06:18:26] 76561198024482897: ESP index=16 target=ExpansionWall6x3:21850 position=<8377.538086, 331.594360, 1627.373901> action=delete
+[COT 2025-10-03 06:18:26] 76561198024482897: ESP action=delete_all count=17 attempted=17
+[COT 2025-10-03 06:18:37] 76561198024482897: Created Deletion Backup '2025-10-03_06-18-37'
+[COT 2025-10-03 06:18:37] 76561198024482897: ESP index=0 target=ExpansionWall6x3:25232 position=<8407.538086, 337.602142, 1627.459961> action=delete
+[COT 2025-10-03 06:18:37] 76561198024482897: ESP index=1 target=ExpansionWall6x3:24845 position=<8407.538086, 340.604889, 1627.459961> action=delete
+[COT 2025-10-03 06:18:37] 76561198024482897: ESP index=2 target=ExpansionWall6x3:24398 position=<8407.538086, 343.608551, 1627.459961> action=delete
+[COT 2025-10-03 06:18:37] 76561198024482897: ESP index=3 target=ExpansionWall6x3:21782 position=<8401.538086, 343.609009, 1627.442749> action=delete
+[COT 2025-10-03 06:18:37] 76561198024482897: ESP action=delete_all count=4 attempted=4
+[COT 2025-10-03 06:18:40] 76561198024482897: ESP: Clearing ESP
+[COT 2025-10-03 06:20:11] 76561198024482897: Spawned Entity Wall Kit (ExpansionWallKit<74eeaa30>, 100, 100, 15, 0) at <8364.862305, 325.518402, 1653.513550>
+[COT 2025-10-03 06:20:11] 76561198024482897: Spawned Entity Wall Kit (ExpansionWallKit<74ef34f0>, 100, 100, 15, 0) at <8364.876953, 325.624084, 1653.414185>
+[COT 2025-10-03 06:20:12] 76561198024482897: Spawned Entity Wall Kit (ExpansionWallKit<74ef4080>, 100, 100, 15, 0) at <8364.898438, 325.771454, 1653.275635>
+[COT 2025-10-03 06:20:12] 76561198024482897: Spawned Entity Wall Kit (ExpansionWallKit<74ef9d00>, 100, 100, 15, 0) at <8364.916016, 325.896057, 1653.158569>
+[COT 2025-10-03 06:20:33] 76561198024482897: ESP: Viewing ESP
+[COT 2025-10-03 06:20:45] 76561198024482897: ESP target=ExpansionWallBase<5d6bd170> action=built part=wood_base required_materials=false
+[COT 2025-10-03 06:20:47] 76561198024482897: ESP target=ExpansionWallBase<5d6bd170> action=built part=wood_wallframe required_materials=false
+[COT 2025-10-03 06:20:47] 76561198024482897: ESP target=ExpansionWallBase<5d6bd170> action=built part=wood_wallframe required_materials=false
+[COT 2025-10-03 06:20:48] 76561198024482897: ESP target=ExpansionWallBase<5d6bd170> action=built part=wood_wallframe required_materials=false
+[COT 2025-10-03 06:20:55] 76561198024482897: ESP: Clearing ESP
+[COT 2025-10-03 06:20:56] 76561198024482897: ESP: Viewing ESP
+[COT 2025-10-03 06:21:01] 76561198024482897: ESP target=ExpansionWallBase<5d6bd170> action=built part=wood_wallfinished required_materials=false
+[COT 2025-10-03 06:21:34] 76561198024482897: ESP target=ExpansionWallBase<5f9e4720> action=built part=wood_base required_materials=false
+[COT 2025-10-03 06:21:36] 76561198024482897: ESP target=ExpansionWallBase<5f9e4720> action=built part=wood_wallframe required_materials=false
+[COT 2025-10-03 06:21:37] 76561198024482897: ESP target=ExpansionWallBase<5f9e4720> action=built part=wood_wallfinished required_materials=false
+[COT 2025-10-03 06:22:12] 76561198024482897: ESP target=ExpansionWallBase<6391c880> action=built part=wood_base required_materials=false
+[COT 2025-10-03 06:22:14] 76561198024482897: ESP target=ExpansionWallBase<6391c880> action=built part=wood_wallframe required_materials=false
+[COT 2025-10-03 06:22:15] 76561198024482897: ESP target=ExpansionWallBase<6391c880> action=built part=wood_wallfinished required_materials=false
+[COT 2025-10-03 06:24:00] 76561198024482897: ESP target=ExpansionWallBase<6392b9c0> action=built part=wood_base required_materials=false
+[COT 2025-10-03 06:24:02] 76561198024482897: ESP target=ExpansionWallBase<6392b9c0> action=built part=wood_wallframe required_materials=false
+[COT 2025-10-03 06:24:03] 76561198024482897: ESP target=ExpansionWallBase<6392b9c0> action=built part=wood_wallfinished required_materials=false
+[COT 2025-10-03 06:24:10] 76561198024482897: ESP target=ExpansionWallBase<6392adb0> action=built part=wood_base required_materials=false
+[COT 2025-10-03 06:24:12] 76561198024482897: ESP target=ExpansionWallBase<6392adb0> action=built part=wood_wallframe required_materials=false
+[COT 2025-10-03 06:24:13] 76561198024482897: ESP target=ExpansionWallBase<6392adb0> action=built part=wood_wallfinished required_materials=false
+[COT 2025-10-03 06:24:19] 76561198024482897: ESP target=ExpansionWallBase<6392a1a0> action=built part=wood_base required_materials=false
+[COT 2025-10-03 06:24:21] 76561198024482897: ESP target=ExpansionWallBase<6392a1a0> action=built part=wood_wallframe required_materials=false
+[COT 2025-10-03 06:24:22] 76561198024482897: ESP target=ExpansionWallBase<6392a1a0> action=built part=wood_wallfinished required_materials=false
+[COT 2025-10-03 06:24:28] 76561198024482897: ESP target=ExpansionWallBase<63930e30> action=built part=wood_base required_materials=false
+[COT 2025-10-03 06:24:29] 76561198024482897: ESP target=ExpansionWallBase<63930e30> action=built part=wood_wallframe required_materials=false
+[COT 2025-10-03 06:24:32] 76561198024482897: ESP target=ExpansionWallBase<63930e30> action=built part=wood_wallframe required_materials=false
+[COT 2025-10-03 06:24:33] 76561198024482897: ESP: Clearing ESP
+[COT 2025-10-03 06:24:38] 76561198024482897: ESP: ESP updating
+[COT 2025-10-03 06:24:40] 76561198024482897: ESP: Clearing ESP
+[COT 2025-10-03 06:24:41] 76561198024482897: ESP: ESP updating
+[COT 2025-10-03 06:24:44] 76561198024482897: ESP target=ExpansionWallBase<63930e30> action=built part=wood_wallfinished required_materials=false
+[COT 2025-10-03 06:24:52] 76561198024482897: ESP target=ExpansionWallBase<6391ecb0> action=built part=wood_base required_materials=false
+[COT 2025-10-03 06:24:53] 76561198024482897: ESP target=ExpansionWallBase<6391ecb0> action=built part=wood_wallframe required_materials=false
+[COT 2025-10-03 06:24:59] 76561198024482897: ESP: Clearing ESP
+[COT 2025-10-03 06:25:01] 76561198024482897: ESP: ESP updating
+[COT 2025-10-03 06:25:02] 76561198024482897: ESP: Clearing ESP
+[COT 2025-10-03 06:25:07] 76561198024482897: ESP: ESP updating
+[COT 2025-10-03 06:25:12] 76561198024482897: ESP target=ExpansionWallBase<6391ecb0> action=built part=wood_wallfinished required_materials=false
+[COT 2025-10-03 06:25:24] 76561198024482897: ESP target=ExpansionWallBase<63930220> action=built part=wood_base required_materials=false
+[COT 2025-10-03 06:25:25] 76561198024482897: ESP target=ExpansionWallBase<63930220> action=built part=wood_wallframe required_materials=false
+[COT 2025-10-03 06:25:26] 76561198024482897: ESP target=ExpansionWallBase<63930220> action=built part=wood_wallfinished required_materials=false
+[COT 2025-10-03 06:25:59] 76561198024482897: ESP target=ExpansionWallBase<6612bf00> action=built part=wood_base required_materials=false
+[COT 2025-10-03 06:26:00] 76561198024482897: ESP target=ExpansionWallBase<6612bf00> action=built part=wood_wallframe required_materials=false
+[COT 2025-10-03 06:26:01] 76561198024482897: ESP target=ExpansionWallBase<6612bf00> action=built part=wood_wallfinished required_materials=false
+[COT 2025-10-03 06:26:13] 76561198024482897: ESP: Clearing ESP

@@ -1,0 +1,132 @@
+10:08:51.902 [AI Patrol 00016] Spawning 3 West bots at <7559.601563, 289.256378, 2578.206543>
+10:09:02.810 [AI Patrol 00016] Global patrol count: 1
+10:09:02.820 [AI Patrol 00016] Patrol category patrol count: 1
+10:09:02.830 [AI Patrol 00015] Spawning 1 East bots at <7521.187500, 334.877319, 2736.160156>
+10:09:02.857 [AI Patrol 00015] Global patrol count: 2
+10:09:02.867 [AI Patrol 00015] Patrol category patrol count: 2
+10:12:25.150 [AI Patrol 00015] East bots were wiped out (spawn position <7521.187500, 334.877319, 2736.160156>, 1/1 deceased)
+10:12:25.160 [AI Patrol 00015] Global patrol count: 1
+10:12:25.170 [AI Patrol 00015] Patrol category patrol count: 1
+10:21:43.645 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:21:43.656 [BaseBuildingRaiding] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8337.1, 341.22, 1633.88>) damaged Fence at <8337.12, 340.48, 1633.03>
+10:21:43.667 [BaseBuildingRaiding] They dealt 26 * 1 = 26 damage with Bullet_9x19 from Expansion_MPX
+10:21:43.677 [BaseBuildingRaiding] Wall_Metal_Down hitpoints decreased from 21000 to 20974
+10:21:43.687 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:21:47.919 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:21:47.930 [BaseBuildingRaiding] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8337.32, 341.22, 1634.18>) damaged Fence at <8337.12, 340.48, 1633.03>
+10:21:47.940 [BaseBuildingRaiding] They dealt 26 * 1 = 26 damage with Bullet_9x19 from Expansion_MPX
+10:21:47.951 [BaseBuildingRaiding] Wall_Metal_Down hitpoints decreased from 20974 to 20948
+10:21:47.961 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:21:48.153 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:21:48.164 [BaseBuildingRaiding] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8337.32, 341.22, 1634.18>) damaged Fence at <8337.12, 340.48, 1633.03>
+10:21:48.174 [BaseBuildingRaiding] They dealt 26 * 1 = 26 damage with Bullet_9x19 from Expansion_MPX
+10:21:48.184 [BaseBuildingRaiding] Wall_Metal_Down hitpoints decreased from 20948 to 20922
+10:21:48.195 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:21:48.387 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:21:48.398 [BaseBuildingRaiding] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8337.32, 341.22, 1634.18>) damaged Fence at <8337.12, 340.48, 1633.03>
+10:21:48.408 [BaseBuildingRaiding] They dealt 26 * 1 = 26 damage with Bullet_9x19 from Expansion_MPX
+10:21:48.417 [BaseBuildingRaiding] Wall_Metal_Down hitpoints decreased from 20922 to 20896
+10:21:48.427 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:21:48.512 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:21:48.522 [BaseBuildingRaiding] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8337.32, 341.22, 1634.18>) damaged Fence at <8337.12, 340.48, 1633.03>
+10:21:48.534 [BaseBuildingRaiding] They dealt 26 * 1 = 26 damage with Bullet_9x19 from Expansion_MPX
+10:21:48.555 [BaseBuildingRaiding] Wall_Metal_Down hitpoints decreased from 20896 to 20870
+10:21:48.575 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:21:49.526 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:21:49.536 [BaseBuildingRaiding] Player "Judy" (id= pos=<8312.75, 316.68, 1618.22>) damaged Fence at <8337.12, 340.48, 1633.03>
+10:21:49.547 [BaseBuildingRaiding] They dealt 70 * 1 = 70 damage with Bullet_556x45 from AK101
+10:21:49.558 [BaseBuildingRaiding] Wall_Metal_Down hitpoints decreased from 20870 to 20800
+10:21:49.568 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:21:49.833 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:21:49.843 [BaseBuildingRaiding] Player "Judy" (id= pos=<8312.74, 316.68, 1618.23>) damaged Fence at <8337.12, 340.48, 1633.03>
+10:21:49.853 [BaseBuildingRaiding] They dealt 70 * 1 = 70 damage with Bullet_556x45 from AK101
+10:21:49.863 [BaseBuildingRaiding] Wall_Metal_Down hitpoints decreased from 20800 to 20730
+10:21:49.873 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:21:50.161 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:21:50.171 [BaseBuildingRaiding] Player "Judy" (id= pos=<8312.47, 316.85, 1618.82>) damaged Watchtower at <8338.41, 335.71, 1634.5>
+10:21:50.182 [BaseBuildingRaiding] They dealt 70 * 1 = 70 damage with Bullet_556x45 from AK101
+10:21:50.192 [BaseBuildingRaiding] Level_3_Roof hitpoints decreased from 19000 to 18930
+10:21:50.203 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:21:50.463 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:21:50.473 [BaseBuildingRaiding] Player "Judy" (id= pos=<8312.21, 317.05, 1619.34>) damaged Fence at <8337.12, 340.48, 1633.03>
+10:21:50.482 [BaseBuildingRaiding] They dealt 70 * 1 = 70 damage with Bullet_556x45 from AK101
+10:21:50.492 [BaseBuildingRaiding] Wall_Metal_Down hitpoints decreased from 20730 to 20660
+10:21:50.502 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:21:50.958 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:21:50.968 [BaseBuildingRaiding] Player "Judy" (id= pos=<8311.77, 317.4, 1620.23>) damaged Fence at <8337.12, 340.48, 1633.03>
+10:21:50.978 [BaseBuildingRaiding] They dealt 70 * 1 = 70 damage with Bullet_556x45 from AK101
+10:21:50.988 [BaseBuildingRaiding] Wall_Metal_Down hitpoints decreased from 20660 to 20590
+10:21:50.997 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:21:51.292 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:21:51.302 [BaseBuildingRaiding] Player "Judy" (id= pos=<8311.8, 317.64, 1620.81>) damaged Fence at <8337.12, 340.48, 1633.03>
+10:21:51.312 [BaseBuildingRaiding] They dealt 70 * 1 = 70 damage with Bullet_556x45 from AK101
+10:21:51.321 [BaseBuildingRaiding] Wall_Metal_Down hitpoints decreased from 20590 to 20520
+10:21:51.331 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:21:51.830 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:21:51.840 [BaseBuildingRaiding] Player "Judy" (id= pos=<8312.57, 317.84, 1621.28>) damaged Fence at <8337.12, 340.48, 1633.03>
+10:21:51.849 [BaseBuildingRaiding] They dealt 70 * 1 = 70 damage with Bullet_556x45 from AK101
+10:21:51.859 [BaseBuildingRaiding] Wall_Metal_Down hitpoints decreased from 20520 to 20450
+10:21:51.869 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:21:52.133 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:21:52.143 [BaseBuildingRaiding] Player "Judy" (id= pos=<8312.98, 318, 1621.55>) damaged Fence at <8337.12, 340.48, 1633.03>
+10:21:52.153 [BaseBuildingRaiding] They dealt 70 * 1 = 70 damage with Bullet_556x45 from AK101
+10:21:52.162 [BaseBuildingRaiding] Wall_Metal_Down hitpoints decreased from 20450 to 20380
+10:21:52.171 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:21:53.066 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:21:53.077 [BaseBuildingRaiding] Player "Judy" (id= pos=<8313.19, 318.25, 1622.1>) damaged Fence at <8337.12, 340.48, 1633.03>
+10:21:53.087 [BaseBuildingRaiding] They dealt 70 * 1 = 70 damage with Bullet_556x45 from AK101
+10:21:53.097 [BaseBuildingRaiding] Wall_Metal_Down hitpoints decreased from 20380 to 20310
+10:21:53.107 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:21:53.396 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:21:53.405 [BaseBuildingRaiding] Player "Judy" (id= pos=<8313.03, 318.29, 1622.24>) damaged Fence at <8337.12, 340.48, 1633.03>
+10:21:53.415 [BaseBuildingRaiding] They dealt 70 * 1 = 70 damage with Bullet_556x45 from AK101
+10:21:53.425 [BaseBuildingRaiding] Wall_Metal_Down hitpoints decreased from 20310 to 20240
+10:21:53.434 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:21:54.871 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:21:54.889 [BaseBuildingRaiding] Player "Judy" (id= pos=<8311.73, 317.78, 1621.16>) damaged Fence at <8337.12, 340.48, 1633.03>
+10:21:54.904 [BaseBuildingRaiding] They dealt 70 * 1 = 70 damage with Bullet_556x45 from AK101
+10:21:54.915 [BaseBuildingRaiding] Wall_Metal_Down hitpoints decreased from 20240 to 20170
+10:21:54.925 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:21:55.160 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:21:55.177 [BaseBuildingRaiding] Player "Judy" (id= pos=<8311.25, 317.68, 1620.93>) damaged Watchtower at <8338.41, 335.71, 1634.5>
+10:21:55.196 [BaseBuildingRaiding] They dealt 70 * 1 = 70 damage with Bullet_556x45 from AK101
+10:21:55.209 [BaseBuildingRaiding] Level_3_Roof hitpoints decreased from 18930 to 18860
+10:21:55.221 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:21:55.459 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:21:55.469 [BaseBuildingRaiding] Player "Judy" (id= pos=<8310.81, 317.78, 1621.19>) damaged Watchtower at <8338.41, 335.71, 1634.5>
+10:21:55.479 [BaseBuildingRaiding] They dealt 70 * 1 = 70 damage with Bullet_556x45 from AK101
+10:21:55.490 [BaseBuildingRaiding] Level_3_Roof hitpoints decreased from 18860 to 18790
+10:21:55.500 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:21:55.800 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:21:55.810 [BaseBuildingRaiding] Player "Judy" (id= pos=<8311.06, 317.99, 1621.71>) damaged Watchtower at <8338.41, 335.71, 1634.5>
+10:21:55.820 [BaseBuildingRaiding] They dealt 70 * 1 = 70 damage with Bullet_556x45 from AK101
+10:21:55.830 [BaseBuildingRaiding] Level_3_Roof hitpoints decreased from 18790 to 18720
+10:21:55.841 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:29:32.898 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:29:32.916 [BaseBuildingRaiding] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8342.62, 334.71, 1629.1>) damaged ExpansionWall6x3 at <8341.51, 334.46, 1629.02>
+10:29:32.933 [BaseBuildingRaiding] They dealt 26 * 1 = 26 damage with Bullet_9x19 from Expansion_MPX
+10:29:32.946 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29974
+10:29:32.957 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+11:24:14.289 [VehicleEnter] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle UAZ 469 Cargo Roofless (id=878B4C6AEE4146F4FCBF22A711F98754 pos=<8342.8, 322.67, 1649.73>) as driver
+11:24:16.284 [VehicleEngine] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle UAZ 469 Cargo Roofless (id=878B4C6AEE4146F4FCBF22A711F98754 pos=<8342.8, 322.67, 1649.73>)
+11:24:24.878 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle UAZ 469 Cargo Roofless (id=878B4C6AEE4146F4FCBF22A711F98754 pos=<8334.84, 322.52, 1640.99>)
+11:24:24.922 [VehicleLeave] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle UAZ 469 Cargo Roofless (id=878B4C6AEE4146F4FCBF22A711F98754 pos=<8334.84, 322.52, 1640.99>)
+11:26:32.092 [VehicleEnter] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle UAZ 469 Cargo Roofless (id=878B4C6AEE4146F4FCBF22A711F98754 pos=<8334.84, 322.52, 1640.99>) as driver
+11:26:35.026 [VehicleLeave] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle UAZ 469 Cargo Roofless (id=878B4C6AEE4146F4FCBF22A711F98754 pos=<8334.84, 322.52, 1640.99>)
+11:38:16.831 [AI Patrol 00016] Despawning 3 West bots (spawn position <7559.601563, 289.256378, 2578.206543>, 0/3 deceased)
+11:38:16.843 [AI Patrol 00016] Global patrol count: 0
+11:38:16.854 [AI Patrol 00016] Patrol category patrol count: 0
+11:40:48.136 [AI Object Patrol 00038] Spawning 3 East bots at <5915.194824, 377.877655, 5022.989258>
+11:40:48.179 [AI Object Patrol 00038] Global patrol count: 1
+11:40:48.188 [AI Object Patrol 00038] HelicopterWreck category patrol count: 1
+11:47:00.000 [AI Object Patrol 00038] East bots were wiped out (spawn position <5915.194824, 377.877655, 5022.989258>, 3/3 deceased)
+11:47:00.010 [AI Object Patrol 00038] Global patrol count: 0
+11:47:00.021 [AI Object Patrol 00038] HelicopterWreck category patrol count: 0
+11:58:44.181 [AI Object Patrol 00050] Spawning 1 East bots at <6877.348145, 377.566528, 4171.877441>
+11:58:44.286 [AI Object Patrol 00050] Global patrol count: 1
+11:58:44.362 [AI Object Patrol 00050] HelicopterWreck category patrol count: 1
+12:02:37.424 [AI Object Patrol 00038] Despawning 0 East bots (spawn position <5923.008789, 377.319336, 5023.011230>, 3/3 deceased)
+12:12:10.258 [AI Object Patrol 00050] Despawning 1 East bots (spawn position <6877.348145, 377.566528, 4171.877441>, 0/1 deceased)
+12:12:10.269 [AI Object Patrol 00050] Global patrol count: 0
+12:12:10.279 [AI Object Patrol 00050] HelicopterWreck category patrol count: 0
+13:32:25.871 [Chat - Global]("Survivor"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): yo

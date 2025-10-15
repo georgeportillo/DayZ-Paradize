@@ -1,0 +1,530 @@
+16:22:06.362 [AI Patrol 00013] Spawning 2 East bots at <7552.428223, 289.114685, 2557.370361>
+16:22:14.317 [AI Patrol 00013] Global patrol count: 1
+16:22:14.327 [AI Patrol 00013] Patrol category patrol count: 1
+16:22:14.338 [AI Patrol 00014] Spawning 2 West bots at <7299.880371, 293.260010, 2964.274902>
+16:22:14.374 [AI Patrol 00014] Global patrol count: 2
+16:22:14.386 [AI Patrol 00014] Patrol category patrol count: 2
+16:24:57.620 [SpawnSelection] Player "Snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) spawned at <7331.399902, 287.065002, 2576.830078>
+16:25:28.058 [AI Patrol 00013] East bots were wiped out (spawn position <7552.428223, 289.114685, 2557.370361>, 2/2 deceased)
+16:25:28.069 [AI Patrol 00013] Global patrol count: 1
+16:25:28.079 [AI Patrol 00013] Patrol category patrol count: 1
+16:45:45.280 [AI Object Patrol 00012] Spawning 2 West bots at <3757.704834, 230.234512, 10414.879883>
+16:45:45.315 [AI Object Patrol 00012] Global patrol count: 2
+16:45:45.324 [AI Object Patrol 00012] ContaminatedArea category patrol count: 1
+16:50:29.983 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): what up boys
+16:50:34.071 [Chat - Global]("Snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): yoyo
+16:51:03.632 [AI Object Patrol 00010] Spawning 3 West bots at <4309.448730, 238.160004, 10494.756836>
+16:51:03.667 [AI Object Patrol 00010] Global patrol count: 3
+16:51:03.677 [AI Object Patrol 00010] ContaminatedArea category patrol count: 2
+16:51:05.827 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): didnt know AI hung out in the airfield / toxic air
+16:51:16.292 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): HAD A BAD TIME lol
+16:51:32.010 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Some spawn with NBC, yeah, ran into a bunch of those South of Nadbor
+16:51:52.376 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Is there higher level loot in the permanent toxic zones?
+16:52:09.335 [Chat - Global]("Snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): im gonna be editing that today
+16:52:47.969 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): If I can make one comment... I appreciate the assortment of guns. But I have so many bullets, mags, guns, etc, and half of them don't match.
+16:53:02.973 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Survival, baby
+16:53:11.498 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): true
+16:54:17.278 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): It's 100 annoying as hell, but it's the kind of annoying you *should* have in a survival game like this
+16:54:25.953 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): its just I cant read cyrillic
+16:54:36.386 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Truer words were never spoken
+16:54:48.033 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): gotta brush up on my eastern european languages
+16:55:08.323 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): On a positive note: found my first glow plug
+16:55:16.877 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): time to grab a humvee
+16:55:23.582 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle Sarka 120 (id=FFA416F7AE42630A1DA88B912999EB51 pos=<3862.29, 235.03, 10015.5>) as driver
+16:55:25.167 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Hell yeah
+16:55:26.759 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) started vehicle Sarka 120 (id=FFA416F7AE42630A1DA88B912999EB51 pos=<3862.33, 235.02, 10015.5>)
+16:55:33.285 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) stopped vehicle Sarka 120 (id=FFA416F7AE42630A1DA88B912999EB51 pos=<3862.34, 235.02, 10015.5>)
+16:55:36.883 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle Sarka 120 (id=FFA416F7AE42630A1DA88B912999EB51 pos=<3862.34, 235.02, 10015.5>)
+16:55:43.075 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Would love to have a car right now, I'm trying to get a keycard
+16:55:45.700 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle Sarka 120 (id=FFA416F7AE42630A1DA88B912999EB51 pos=<3862.34, 235.02, 10015.5>) as driver
+16:55:51.340 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): I found a keycard
+16:55:54.688 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): a punch card?
+16:56:00.424 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): For the bunker, yeah
+16:56:04.267 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Yea, you want to do it?
+16:56:09.404 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Absolutely
+16:56:21.872 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): I need to go back to my base and fix some shit up - but down to in a bit.
+16:56:30.680 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): At this point I'm mainly just looking for a black AUG
+16:56:32.514 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) started vehicle Sarka 120 (id=FFA416F7AE42630A1DA88B912999EB51 pos=<3862.34, 235.02, 10015.5>)
+16:56:44.718 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) stopped vehicle Sarka 120 (id=FFA416F7AE42630A1DA88B912999EB51 pos=<3862.33, 235.02, 10015.5>)
+16:56:46.743 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) started vehicle Sarka 120 (id=FFA416F7AE42630A1DA88B912999EB51 pos=<3862.33, 235.02, 10015.5>)
+16:56:53.273 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): You going to be on for a bit?
+16:56:58.307 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): 100
+16:57:30.102 [Chat - Global]("Snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): ill keep an eye out
+16:57:39.087 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Sarka 120 (id=FFA416F7AE42630A1DA88B912999EB51 pos=<3629.31, 238.17, 10063.7>)
+16:57:39.111 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle Sarka 120 (id=FFA416F7AE42630A1DA88B912999EB51 pos=<3629.31, 238.17, 10063.7>)
+16:57:55.563 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Probably be best for me to go ahead and start heading toward the bunker then, yeah?
+16:58:08.545 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Where is the bunker again?
+16:58:13.771 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): I know there is two entrances.
+16:58:14.480 [Chat - Global]("Snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): bottom left of map
+16:58:22.240 [Chat - Global]("Snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): entrance is at the bottom of it
+16:58:37.728 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Oh - I am in top left, so not sure where you are at, but I wouldn't head too soon.
+16:58:54.989 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): I need to get to base, drop shit off, re-arm, then head down there.
+16:58:57.667 [Chat - Global]("Snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): the name is Dambog
+16:59:18.021 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Yeah I just put a marker on it, might not have ever been in Livonia's specifically but I know about it
+16:59:25.091 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Yea, I see it there.
+16:59:27.309 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Its on the map.
+16:59:37.930 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Olga or Sarka?
+16:59:41.268 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): If I had to choose?
+17:00:26.262 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Good question. Sarka probably handles more "standard" but the Olga has a little more storage
+17:00:34.899 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Yep, good call.
+17:03:14.700 [Chat - Global]("Snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): how do you guys see each others markers
+17:03:28.295 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Any of these mods have a bullpup .308 assault rifle or something?
+17:03:49.851 [Chat - Global]("Snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): the pkp bullpap?
+17:04:21.957 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Nah, specifically .308 since it doesn't seem entirely fucked to get rounds if I get lucky and find more Evolys boxes
+17:04:59.223 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): I keep getting disappointed that none of the 5.56 guns I've used so far are on-par with the vanilla AUR-AX
+17:05:24.346 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Is that just feel? 
+17:05:28.365 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Or you look it up?
+17:05:51.343 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Oh it's numbers all right, modded AUG-A3 does NOT hit as hard as the vanilla AUR-AX
+17:07:25.433 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): But I still want to use a modded gun so I can do all the shenanigans with attachments and whatnot
+17:08:56.035 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle Olga 24 (id=B9964E3A704B0949A3C7FE99D3CDCF68 pos=<3627.64, 238.83, 10070>) as driver
+17:08:58.235 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) started vehicle Olga 24 (id=B9964E3A704B0949A3C7FE99D3CDCF68 pos=<3627.64, 238.83, 10070>)
+17:09:04.987 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle Olga 24 (id=B9964E3A704B0949A3C7FE99D3CDCF68 pos=<3627.64, 238.83, 10070>)
+17:09:20.644 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): AUG is nice though with it's dumb little "thoomp" noise when suppressed
+17:10:07.091 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle Olga 24 (id=B9964E3A704B0949A3C7FE99D3CDCF68 pos=<3627.64, 238.83, 10070>) as driver
+17:10:41.488 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Either of you need a code lock?
+17:10:49.936 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): I'm good - got a decent amount.
+17:10:59.578 [Chat - Global]("Snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): i have some spares, thnak you!
+17:11:11.404 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Oh no, your ass is getting it if he doesn't want it
+17:11:27.733 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): I am literally already here, it's going in your box
+17:11:31.710 [Chat - Global]("Snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): lmaoo
+17:11:34.260 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): lol
+17:11:39.854 [Chat - Global]("Snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): put that in the charity baby
+17:14:27.239 [VehicleEnter] Player "Snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8347.81, 322.69, 1652.39>) as driver
+17:14:29.180 [VehicleEngine] Player "Snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8347.81, 322.69, 1652.39>)
+17:14:29.573 [VehicleEnter] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) entered vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8347.81, 322.69, 1652.39>) as passenger
+17:14:42.414 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Olga 24 (id=B9964E3A704B0949A3C7FE99D3CDCF68 pos=<1875.78, 276.23, 10754.7>)
+17:14:42.449 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle Olga 24 (id=B9964E3A704B0949A3C7FE99D3CDCF68 pos=<1875.78, 276.23, 10754.7>)
+17:14:47.593 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8330.13, 322.27, 1633.52>)
+17:14:47.619 [VehicleLeave] Player "Snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8330.13, 322.27, 1633.52>)
+17:14:53.294 [VehicleEnter] Player "Snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8330.13, 322.27, 1633.52>) as driver
+17:14:56.037 [VehicleLeave] Player "Snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8330.13, 322.27, 1633.52>)
+17:14:59.294 [VehicleEnter] Player "Snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8330.13, 322.27, 1633.52>) as driver
+17:15:01.801 [VehicleEngine] Player "Snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8330.13, 322.27, 1633.52>)
+17:15:58.880 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle Olga 24 (id=B9964E3A704B0949A3C7FE99D3CDCF68 pos=<1875.75, 276.23, 10754.7>) as driver
+17:16:00.497 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) started vehicle Olga 24 (id=B9964E3A704B0949A3C7FE99D3CDCF68 pos=<1875.72, 276.23, 10754.7>)
+17:16:17.631 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) stopped vehicle Olga 24 (id=B9964E3A704B0949A3C7FE99D3CDCF68 pos=<1880.83, 276.82, 10760.3>)
+17:16:19.818 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle Olga 24 (id=B9964E3A704B0949A3C7FE99D3CDCF68 pos=<1880.78, 276.81, 10760.3>)
+17:16:50.886 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle Olga 24 (id=B9964E3A704B0949A3C7FE99D3CDCF68 pos=<1880.75, 276.81, 10760.3>) as driver
+17:16:58.927 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) started vehicle Olga 24 (id=B9964E3A704B0949A3C7FE99D3CDCF68 pos=<1880.55, 276.8, 10760.3>)
+17:18:11.828 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) stopped vehicle Olga 24 (id=B9964E3A704B0949A3C7FE99D3CDCF68 pos=<1736.67, 311.95, 11287.5>)
+17:18:15.048 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle Olga 24 (id=B9964E3A704B0949A3C7FE99D3CDCF68 pos=<1736.74, 311.94, 11287.5>)
+17:19:30.971 [VehicleLeave] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) left vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<5460.82, 438.27, 1483.42>)
+17:19:37.156 [VehicleEngine] Player "Snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) stopped vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<5460.82, 438.27, 1483.42>)
+17:19:52.707 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle Olga 24 (id=B9964E3A704B0949A3C7FE99D3CDCF68 pos=<1736.77, 311.94, 11287.5>) as driver
+17:19:54.208 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) started vehicle Olga 24 (id=B9964E3A704B0949A3C7FE99D3CDCF68 pos=<1736.8, 311.94, 11287.5>)
+17:20:20.826 [VehicleEnter] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) entered vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<5460.82, 438.27, 1483.41>) as passenger
+17:20:24.050 [VehicleEngine] Player "Snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<5460.82, 438.27, 1483.41>)
+17:21:05.437 [AI Object Patrol 00010] Despawning 3 West bots (spawn position <4309.448730, 238.160004, 10494.756836>, 0/3 deceased)
+17:21:05.446 [AI Object Patrol 00010] Global patrol count: 2
+17:21:05.456 [AI Object Patrol 00010] ContaminatedArea category patrol count: 1
+17:21:10.831 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Olga 24 (id=B9964E3A704B0949A3C7FE99D3CDCF68 pos=<1319.91, 369.46, 11473.9>)
+17:21:10.841 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle Olga 24 (id=B9964E3A704B0949A3C7FE99D3CDCF68 pos=<1319.91, 369.46, 11473.9>)
+17:21:23.308 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle Olga 24 (id=B9964E3A704B0949A3C7FE99D3CDCF68 pos=<1319.79, 369.43, 11473.9>) as driver
+17:21:24.682 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) started vehicle Olga 24 (id=B9964E3A704B0949A3C7FE99D3CDCF68 pos=<1319.69, 369.41, 11474>)
+17:21:26.503 [VehicleLeave] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) left vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<5229.12, 462.82, 1944.44>)
+17:21:39.936 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Olga 24 (id=B9964E3A704B0949A3C7FE99D3CDCF68 pos=<1325.5, 370.49, 11469.2>)
+17:21:39.978 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle Olga 24 (id=B9964E3A704B0949A3C7FE99D3CDCF68 pos=<1325.5, 370.49, 11469.2>)
+17:22:55.736 [AI Object Patrol 00012] Despawning 2 West bots (spawn position <3757.704834, 230.234512, 10414.879883>, 0/2 deceased)
+17:22:55.759 [AI Object Patrol 00012] Global patrol count: 1
+17:22:55.771 [AI Object Patrol 00012] ContaminatedArea category patrol count: 0
+17:26:29.722 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<5998.31, 468.59, 719.22>)
+17:26:29.787 [VehicleLeave] Player "Snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<5998.31, 468.59, 719.22>)
+17:27:20.578 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Uh
+17:27:34.471 [VehicleEnter] Player "Snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<5998.31, 468.59, 719.22>) as driver
+17:28:11.270 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): That silly ruski fucked up and made the L85a3 a .308 gun
+17:28:22.425 [Chat - Global]("Snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): looool
+17:28:25.917 [VehicleEngine] Player "Snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<5998.31, 468.59, 719.22>)
+17:28:33.855 [Chat - Global]("Snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): snafu gun?
+17:28:47.104 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Whichever mod has half their items in cyrillic
+17:29:06.145 [Chat - Global]("Snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): its one mod, half of those are english
+17:29:12.677 [Chat - Global]("Snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): you a sgt?
+17:29:23.079 [Chat - Global]("Snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): you know lots about guns
+17:30:21.795 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): I play enough video games to know the goofy brit rifle is most definitely a 5.56 gun and this mag specifically for the L85a3 shit out 308
+17:30:22.296 [AI Object Patrol 00038] Spawning 3 East bots at <8077.395508, 294.748108, 1469.872803>
+17:30:22.332 [AI Object Patrol 00038] Global patrol count: 2
+17:30:22.343 [AI Object Patrol 00038] HelicopterWreck category patrol count: 1
+17:30:50.349 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Do we need NBC stuff for the bunker?
+17:30:56.970 [Chat - Global]("Snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): no sir
+17:32:52.839 [VehicleEngine] Player "Snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) stopped vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8325.16, 322.7, 1637.09>)
+17:32:56.699 [VehicleLeave] Player "Snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8325.16, 322.7, 1637.1>)
+17:33:03.164 [VehicleEnter] Player "Snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8325.16, 322.7, 1637.1>) as driver
+17:33:04.667 [VehicleEngine] Player "Snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8325.16, 322.7, 1637.1>)
+17:34:04.165 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8347.32, 322.67, 1651.66>)
+17:34:04.183 [VehicleLeave] Player "Snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8347.32, 322.67, 1651.66>)
+17:34:31.853 [VehicleEnter] Player "Snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8347.32, 322.67, 1651.66>) as driver
+17:34:33.744 [VehicleEngine] Player "Snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8347.32, 322.67, 1651.66>)
+17:34:37.839 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Hopefully I can find an L85 to test it's damage output
+17:34:41.498 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8347.71, 322.69, 1652.49>)
+17:34:41.513 [VehicleLeave] Player "Snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8347.71, 322.69, 1652.49>)
+17:44:18.819 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Yeah look at this shit, I've got 2 Evolys boxes, .308 just ain't hard to find
+17:44:41.576 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): L85 would probably be perfect if I can find the mags for it and its damage actually acts like it's throwing 308
+17:50:51.064 [Chat - Global]("Snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): hk23r is my favorite
+17:50:55.206 [Chat - Global]("Snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): hk23e
+17:52:07.219 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): I'm sticking with bullpups
+17:52:17.311 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Need the shorter barrel
+17:52:21.999 [AI Object Patrol 00045] Spawning 1 West bots at <8879.681641, 445.332092, 2193.371582>
+17:52:22.026 [AI Object Patrol 00045] Global patrol count: 3
+17:52:22.036 [AI Object Patrol 00045] ContaminatedArea category patrol count: 1
+17:52:54.133 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): That shit will go right out the window if you ever decide to tweak stamina
+17:53:11.910 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): BRB
+17:58:13.224 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): This is what pisses me off. I have the Honeybadger gun, the Honeybadger mags, and they don't work and the ammo it says it takes won't load.
+18:20:17.982 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<2137.74, 308.54, 11242.6>) as driver
+18:20:20.979 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) started vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<2137.74, 308.54, 11242.6>)
+18:21:33.455 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) stopped vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<2181.68, 306.82, 11162.3>)
+18:21:35.577 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<2181.68, 306.82, 11162.3>)
+18:21:54.584 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<2181.68, 306.82, 11162.3>) as driver
+18:22:03.516 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) started vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<2181.68, 306.82, 11162.3>)
+18:22:17.496 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<2183.52, 303.05, 11097.2>)
+18:22:17.973 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<2183.52, 303.05, 11097.2>)
+18:26:10.166 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<2183.52, 303.05, 11097.2>) as driver
+18:26:13.607 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) started vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<2183.52, 303.05, 11097.2>)
+18:26:56.255 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) stopped vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<2226.88, 283.28, 10718.2>)
+18:26:58.496 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<2226.88, 283.28, 10718.2>)
+18:28:53.602 [AI Object Patrol 00045] Despawning 1 West bots (spawn position <8879.681641, 445.332092, 2193.371582>, 0/1 deceased)
+18:28:53.612 [AI Object Patrol 00045] Global patrol count: 2
+18:28:53.622 [AI Object Patrol 00045] ContaminatedArea category patrol count: 0
+18:29:58.178 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<2226.87, 283.28, 10718.2>) as driver
+18:30:08.950 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) started vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<2226.87, 283.28, 10718.2>)
+18:31:02.446 [Chat - Global]("Snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): the honey badger one is weird yeah
+18:31:07.768 [Chat - Global]("Snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): theres two types of mags i thin
+18:32:14.538 [Chat - Global]("Snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): ill remove the one that doesnt work from the spawnables
+18:34:21.985 [VehicleEnter] Player "Snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8340.53, 334.75, 1640.94>) as pilot
+18:34:24.455 [VehicleEngine] Player "Snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8340.53, 334.75, 1640.94>)
+18:34:52.772 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8039.7, 306.41, 1450.35>)
+18:34:52.856 [VehicleLeave] Player "Snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8039.7, 306.41, 1450.35>)
+18:34:53.849 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<1322.9, 361.97, 11495.8>)
+18:34:54.321 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle M1025 (id=FC0155CD054588754619C595E9488A77 pos=<1322.9, 361.97, 11495.8>)
+18:35:51.807 [AI Object Patrol 00038] East bots were wiped out (spawn position <8077.395508, 294.748108, 1469.872803>, 3/3 deceased)
+18:35:51.816 [AI Object Patrol 00038] Global patrol count: 1
+18:35:51.826 [AI Object Patrol 00038] HelicopterWreck category patrol count: 0
+18:36:41.724 [AI Object Patrol 00057] Spawning 3 West bots at <2110.578857, 303.873871, 11252.837891>
+18:36:41.759 [AI Object Patrol 00057] Global patrol count: 2
+18:36:41.769 [AI Object Patrol 00057] ContaminatedArea category patrol count: 1
+18:37:42.044 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle Olga 24 (id=B9964E3A704B0949A3C7FE99D3CDCF68 pos=<1325.5, 370.49, 11469.2>) as driver
+18:37:49.087 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle Olga 24 (id=B9964E3A704B0949A3C7FE99D3CDCF68 pos=<1325.48, 370.49, 11469.2>)
+18:38:31.777 [VehicleEnter] Player "Snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8040.39, 306.21, 1450.68>) as pilot
+18:38:34.676 [VehicleEngine] Player "Snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8040.38, 306.2, 1450.72>)
+18:39:09.274 [AI Object Patrol 00055] Spawning 1 West bots at <3389.711914, 479.713654, 1932.118164>
+18:39:09.384 [AI Object Patrol 00055] Global patrol count: 3
+18:39:09.394 [AI Object Patrol 00055] ContaminatedArea category patrol count: 2
+18:40:10.821 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8343.43, 334.75, 1641.02>)
+18:40:10.833 [VehicleLeave] Player "Snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8343.43, 334.75, 1641.02>)
+18:40:25.078 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle Olga 24 (id=B9964E3A704B0949A3C7FE99D3CDCF68 pos=<1325.47, 370.49, 11469.2>) as driver
+18:40:33.642 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) started vehicle Olga 24 (id=B9964E3A704B0949A3C7FE99D3CDCF68 pos=<1325.44, 370.49, 11469.2>)
+18:40:47.006 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Hey Poii, you trying to do the bunker?
+18:41:03.548 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Olga 24 (id=B9964E3A704B0949A3C7FE99D3CDCF68 pos=<1311.97, 368.19, 11480.2>)
+18:41:03.584 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle Olga 24 (id=B9964E3A704B0949A3C7FE99D3CDCF68 pos=<1311.97, 368.19, 11480.2>)
+18:41:30.921 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle Olga 24 (id=B9964E3A704B0949A3C7FE99D3CDCF68 pos=<1311.96, 368.19, 11480.2>) as driver
+18:41:34.841 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) started vehicle Olga 24 (id=B9964E3A704B0949A3C7FE99D3CDCF68 pos=<1311.94, 368.2, 11480.2>)
+18:41:58.007 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Yeah
+18:42:48.177 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Near Polana right now but it's gassed and also the warzone so I'll be moving toward the bunker
+18:42:55.818 [AI Object Patrol 00038] Despawning 0 East bots (spawn position <8046.500977, 305.043060, 1449.835327>, 3/3 deceased)
+18:43:07.666 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Little under 3km away
+18:43:12.583 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Okay, I'm NW corner, so will take me a bit, but heading there now in a car.
+18:46:57.530 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) stopped vehicle Olga 24 (id=B9964E3A704B0949A3C7FE99D3CDCF68 pos=<1446.67, 274.11, 9751.16>)
+18:47:00.904 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle Olga 24 (id=B9964E3A704B0949A3C7FE99D3CDCF68 pos=<1446.68, 274.11, 9751.16>)
+18:49:27.755 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle Olga 24 (id=B9964E3A704B0949A3C7FE99D3CDCF68 pos=<1446.68, 274.1, 9751.16>) as driver
+18:51:16.761 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle Olga 24 (id=B9964E3A704B0949A3C7FE99D3CDCF68 pos=<1446.76, 274.1, 9751.16>)
+18:52:59.959 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle Olga 24 (id=B9964E3A704B0949A3C7FE99D3CDCF68 pos=<1446.76, 274.1, 9751.16>) as driver
+18:53:02.740 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) started vehicle Olga 24 (id=B9964E3A704B0949A3C7FE99D3CDCF68 pos=<1446.77, 274.1, 9751.16>)
+18:55:47.231 [AI Object Patrol 00057] Despawning 3 West bots (spawn position <2110.578857, 303.873871, 11252.837891>, 0/3 deceased)
+18:55:47.241 [AI Object Patrol 00057] Global patrol count: 2
+18:55:47.250 [AI Object Patrol 00057] ContaminatedArea category patrol count: 1
+18:57:17.137 [Chat - Global]("Lozergod"(id=f6o5reGZK1apFSzOwnbzYEHfAXAMOXbXZqu1fYDG5tE=)): lol.. everytime i log in it's fucking raining
+18:57:32.099 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): its built into the algo
+18:57:37.328 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): snake told me
+18:57:38.203 [Chat - Global]("Lozergod"(id=f6o5reGZK1apFSzOwnbzYEHfAXAMOXbXZqu1fYDG5tE=)): lol...
+18:57:46.579 [Chat - Global]("Snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): looool
+18:57:52.849 [Chat - Global]("Snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): now now
+18:58:01.662 [Chat - Global]("Lozergod"(id=f6o5reGZK1apFSzOwnbzYEHfAXAMOXbXZqu1fYDG5tE=)): when "Lozergod logs in, rain"
+18:58:36.976 [Chat - Global]("Lozergod"(id=f6o5reGZK1apFSzOwnbzYEHfAXAMOXbXZqu1fYDG5tE=)): just jumping on for a bit to check my base... all secure
+18:58:42.492 [Chat - Global]("Lozergod"(id=f6o5reGZK1apFSzOwnbzYEHfAXAMOXbXZqu1fYDG5tE=)): oh and raise my flag
+19:00:12.398 [AI Object Patrol 00064] Spawning 2 West bots at <906.427185, 243.279938, 5573.062988>
+19:00:12.427 [AI Object Patrol 00064] Global patrol count: 3
+19:00:12.437 [AI Object Patrol 00064] ContaminatedArea category patrol count: 2
+19:01:36.987 [Chat - Global]("Lozergod"(id=f6o5reGZK1apFSzOwnbzYEHfAXAMOXbXZqu1fYDG5tE=)): got my grandkids down here visiting us so not much time to play until next week
+19:01:57.381 [AI Object Patrol 00055] Despawning 1 West bots (spawn position <3389.711914, 479.713654, 1932.118164>, 0/1 deceased)
+19:01:57.393 [AI Object Patrol 00055] Global patrol count: 2
+19:01:57.405 [AI Object Patrol 00055] ContaminatedArea category patrol count: 1
+19:07:12.491 [Chat - Global]("Snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): enjoy man!
+19:10:38.094 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Olga 24 (id=B9964E3A704B0949A3C7FE99D3CDCF68 pos=<914.66, 528.7, 1172.8>)
+19:10:38.124 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle Olga 24 (id=B9964E3A704B0949A3C7FE99D3CDCF68 pos=<914.66, 528.7, 1172.8>)
+19:11:06.197 [AI Object Patrol 00064] Despawning 2 West bots (spawn position <906.427185, 243.279938, 5573.062988>, 0/2 deceased)
+19:11:06.207 [AI Object Patrol 00064] Global patrol count: 1
+19:11:06.217 [AI Object Patrol 00064] ContaminatedArea category patrol count: 0
+19:11:21.908 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Poii, I am here.
+19:15:08.723 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Already got a black AUG lol
+19:16:07.148 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Poii, can you hear me on the mic if I talk?
+19:16:15.945 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): I did
+19:16:20.052 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Ok, just curious.
+19:16:34.898 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Was that your car and tent outside there?
+19:16:38.783 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): No
+19:17:57.637 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): you go downstairs?
+19:18:01.692 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): No
+19:21:08.218 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Are you looking for something specific? Just so I can keep my eyes out.
+19:22:02.192 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Nah, black AUG was basically it
+19:22:13.576 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): You find it?
+19:22:23.926 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Black Sniper Hood, Black Hazard 4 Drawbridge bag
+19:22:28.363 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Yeah, immediately lol
+19:22:34.462 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Hah, nice.
+19:23:22.741 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Gonna go into the pump shit?
+19:23:35.816 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Not sure what that is.
+19:24:11.467 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Downstairs is an area you have to drain/refill the water of to get into it. Easier with 2 people if I remember correctly
+19:24:23.099 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): I don't have firsthand experience with it
+19:24:25.744 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Okay, I'm still up top - are you on Floor 1 or down there?
+19:24:30.998 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Down
+19:25:36.538 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Okay, coming.
+19:28:12.418 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Okay, what do I need to do?
+19:28:57.870 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): So I think it has multiple levels. It just reset to "Normal". I'm pretty sure we have to drain it to access the tunnel then raise it to access another room above the tunnel.
+19:29:29.585 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Okay, so do I need to stay here? 
+19:29:49.041 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): I think it's safer if one of us does. Who goes it up to you.
+19:30:46.070 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Just don't be stuck in the tunnel when it starts filling back up
+19:31:02.982 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Get to the vertical pipes
+19:31:33.846 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): I'll raise the water when you tell me to
+19:31:48.783 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): I think I need the water raised now.
+19:32:00.156 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): The first set of stairs just went to a stairwell.
+19:32:13.092 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): I am now in one where I can't get to the ladder.
+19:32:19.924 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): I am assuming that is the one?
+19:32:29.298 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): As far as I can tell, yeah
+19:33:19.349 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): That room is supposed to have better loot than the upper floor for Vanilla
+19:33:33.666 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Not sure how that plays out with these mods though
+19:33:41.759 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Dang, messed it up.
+19:33:44.666 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Lower it again.
+19:33:59.881 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): So half way up, there is a corridor I can get off at, so I went down there - it went to another stairwell.
+19:34:07.660 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): I think I need to just go all the way to the top.
+19:35:25.489 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Ok, readyu.
+19:35:36.061 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Put it back up?
+19:35:38.897 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Yea.
+19:37:19.381 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Okay, I'm at Room 3? Or level 3?
+19:37:32.962 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Tactical helmets.
+19:37:47.604 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Aur AX.
+19:37:51.027 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Could do with a replacement Fast SF helmet if you find a black one
+19:39:00.999 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Water reset to middle
+19:40:09.467 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Mystery Ranch Blackjack Pack back?
+19:40:31.549 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): 90 storage?
+19:40:38.986 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): 100
+19:40:42.979 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Hmm
+19:40:47.060 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Bring it if you can
+19:40:58.450 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): I can carry it, we will see if I can get it up there.
+19:41:19.980 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): They're nice, because they have an extra gun slot.
+19:41:34.647 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): And you can attach canteens and all the toolbelt stuff to them.
+19:41:38.189 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): I like the Hazard 4 Drawbridge because it doesn't block my ability to look behind me
+19:41:46.369 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): If that one does the same then 100
+19:41:56.418 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): For sure - but not a lot of PVP here lol.
+19:42:12.401 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Okay, heading back.
+19:42:15.234 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Yeah but I'm still not crazy about limiting my view
+19:42:20.217 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Lower it?
+19:42:25.398 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Not yet.
+19:42:45.145 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Okay, go ahead.
+19:44:18.682 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Maybe the other stairwells went somewhere? I only went to the last one.
+19:45:25.500 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Why not, I'll use it for now
+19:45:38.720 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): hows it going
+19:46:04.038 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Come here.
+19:46:33.557 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): You going to take that armor?
+19:46:46.190 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Maybe, sorting the bags right now
+19:46:56.909 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): I'm assuming its the best?
+19:47:54.236 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Going good Snake, just trying to figure out where we're going lol.
+19:48:57.431 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): This armor doesn't have the slots for my stuff so I'll pass
+19:49:07.387 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): What stuff?
+19:49:09.855 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Just curious.
+19:49:31.936 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Pouches, this rig as 1 more slot than it does and I think I'd rather have it
+19:49:41.988 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Preference and shiet
+19:50:04.297 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Yea, I get it, just curious since you seem to know more about what's good and not.
+19:51:06.055 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Definitely not what I'd call it
+19:51:21.792 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): I'm just kinda going without much focus
+19:51:35.363 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Do you mind if I grab some stuff of it?
+19:51:57.800 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Absolutely, I've got all my stuff on me
+19:52:34.186 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Alright, lets roll.
+19:52:36.605 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): gqgot diso lol
+19:52:48.814 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): diaco*
+19:52:59.299 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): wtf disco
+19:53:58.278 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Check out the car before you leave.
+19:54:10.155 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Snake - where do you seem to find the best base loot?
+19:54:28.428 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Is there like better places than others to look?
+19:54:39.928 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): guns and gear swarog
+19:54:56.636 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): bunmer hasnt been as good
+19:55:15.280 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): shpuld i add zombies to bunker?
+19:55:24.956 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Why not
+19:55:25.075 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): I think so.
+19:55:38.174 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): bet, itll make it more horror like
+19:56:27.156 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): You not going to take the car Poii?
+19:56:35.954 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Its 100 ready to go lol.
+19:57:07.288 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): All yours, I've got.
+19:57:49.817 [VehicleEnter] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) entered vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<828.3, 531.31, 1183.7>) as driver
+19:57:52.175 [VehicleLeave] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) left vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<828.3, 531.31, 1183.71>)
+19:58:31.237 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Probably should, yeah
+19:58:46.685 [VehicleEnter] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) entered vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<828.3, 531.31, 1183.71>) as driver
+19:58:50.579 [VehicleEngine] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) started vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<828.31, 531.31, 1183.73>)
+19:58:55.143 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Thanks for running that with me.
+19:59:06.924 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): how was it
+19:59:23.633 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Its good, slightly better loot I think than Tier 3 stuff.
+19:59:23.929 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): No problem, I got exactly what I was looking for out of it so it was great
+19:59:39.578 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Someone left a car here though.
+19:59:55.243 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): nice, and finders keepers i guess lol
+20:00:16.253 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Says so right there
+20:00:46.902 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): I wonder if the Polana warzone fizzled out by now
+20:01:16.973 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle Olga 24 (id=B9964E3A704B0949A3C7FE99D3CDCF68 pos=<914.69, 528.7, 1172.8>) as driver
+20:01:26.071 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle Olga 24 (id=B9964E3A704B0949A3C7FE99D3CDCF68 pos=<914.89, 528.68, 1172.78>)
+20:02:09.690 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle Olga 24 (id=B9964E3A704B0949A3C7FE99D3CDCF68 pos=<914.92, 528.67, 1172.78>) as driver
+20:02:12.369 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) started vehicle Olga 24 (id=B9964E3A704B0949A3C7FE99D3CDCF68 pos=<914.98, 528.67, 1172.78>)
+20:03:25.160 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): It has not lmao
+20:03:35.017 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): be careful
+20:03:38.286 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): worth going aruond
+20:03:50.110 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): I lost my Land Rover for being lazy.
+20:04:20.156 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): swpolana is fn sketchy dude
+20:05:07.346 [VehicleEngine] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) stopped vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<2560.16, 530.71, 1885.24>)
+20:05:12.239 [VehicleLeave] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) left vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<2560.21, 530.71, 1885.31>)
+20:06:01.708 [VehicleEnter] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) entered vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<2560.24, 530.72, 1885.34>) as driver
+20:06:04.766 [VehicleEngine] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) started vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<2560.27, 530.73, 1885.38>)
+20:06:35.190 [VehicleEngine] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) stopped vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<2560.4, 530.75, 1885.56>)
+20:06:41.960 [VehicleLeave] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) left vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<2560.43, 530.77, 1885.65>)
+20:06:57.302 [VehicleEnter] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) entered vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<2560.44, 530.77, 1885.67>) as driver
+20:07:00.683 [VehicleLeave] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) left vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<2560.47, 530.78, 1885.72>)
+20:07:03.200 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): 1111, 2320
+20:07:04.476 [VehicleEnter] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) entered vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<2560.48, 530.79, 1885.74>) as driver
+20:07:06.465 [VehicleEngine] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) started vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<2560.49, 530.79, 1885.77>)
+20:07:12.065 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Snake - good spot to build for someone looking for mountain views.
+20:07:25.746 [VehicleEngine] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) stopped vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<2560.44, 530.83, 1885.94>)
+20:07:25.896 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Kind of out there, but near bunker.
+20:07:27.246 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): noted
+20:07:28.072 [VehicleLeave] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) left vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<2560.42, 530.83, 1885.94>)
+20:07:53.485 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): i think i know where
+20:08:06.098 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): I would def switch my base there if it wouldn't take forever.
+20:08:24.653 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): load it up in a car haha
+20:08:33.739 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): can re deliver mats
+20:08:36.784 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): So you won't believe this
+20:08:58.590 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Already got the car high-centered on a fucking tree lmao
+20:08:59.244 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Lets hear it..
+20:09:06.300 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): lol
+20:09:09.399 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): A fallen down one?
+20:09:29.969 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): I was going to go around Polana and lost traction, rolled backwards, and got all 4 wheels off the ground after rolling over one
+20:09:30.404 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): can heli to help
+20:09:48.357 [VehicleAttachments] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) detached Gunter 2 Front Left Door (type=Hatchback_02_Door_1_1_BlackRust) from vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<2560.43, 530.83, 1885.94>)
+20:09:53.516 [VehicleEnter] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8343.41, 334.75, 1641.28>) as pilot
+20:09:54.206 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): They will "slide" a bit if you just try to turn
+20:09:55.406 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8343.4, 334.75, 1641.29>)
+20:10:14.412 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Also, you can do some tricks with taking off the doors and hoods and trying to dislodge them.
+20:10:23.248 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): I flipped one over doing that (saw it online).
+20:10:30.707 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Oh I know, but this Gunter is being a finicky little bastard
+20:10:36.810 [VehicleEnter] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) entered vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<2560.42, 530.83, 1885.94>) as driver
+20:10:41.019 [VehicleEngine] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) started vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<2560.38, 530.83, 1885.94>)
+20:10:55.040 [VehicleEngine] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) stopped vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<2560.4, 530.83, 1885.93>)
+20:10:57.559 [VehicleLeave] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) left vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<2560.41, 530.83, 1885.94>)
+20:11:02.711 [VehicleAttachments] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) detached Gunter 2 Front Right Door (type=Hatchback_02_Door_2_1_BlueRust) from vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<2560.42, 530.83, 1885.94>)
+20:11:12.263 [VehicleEnter] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) entered vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<2560.41, 530.83, 1885.94>) as driver
+20:11:14.571 [VehicleEngine] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) started vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<2560.41, 530.83, 1885.95>)
+20:11:43.467 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<6522.77, 477.3, 713.02>)
+20:11:55.541 [VehicleEngine] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) stopped vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<2560.49, 530.89, 1886.09>)
+20:11:59.501 [VehicleLeave] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) left vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<2560.49, 530.88, 1886.09>)
+20:12:30.271 [VehicleEnter] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) entered vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<2560.51, 530.86, 1886.11>) as driver
+20:12:32.716 [VehicleEngine] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) started vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<2560.52, 530.86, 1886.13>)
+20:13:52.612 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<2560.97, 530.98, 1886.75>)
+20:13:52.917 [VehicleLeave] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) left vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<2560.98, 530.97, 1886.75>)
+20:16:20.119 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): u flip it?
+20:16:41.447 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Almost feel like it being flipped would've been easier, that tree is dug in good
+20:17:19.194 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Wouldn't be so bad if it was letting me push it but I'm sure it's because the rear wheels aren't touching anything
+20:17:37.481 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Take off doors / hoods, etc, and put them under the tires
+20:17:42.047 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Tried
+20:17:48.115 [Chat - Global]("Bad Boy"(id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=)): Dang
+20:18:00.046 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): First thing I did even, it isn't cooperating
+20:21:40.657 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Olga 24 (id=B9964E3A704B0949A3C7FE99D3CDCF68 pos=<2014.74, 266.49, 10263.8>)
+20:21:40.693 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle Olga 24 (id=B9964E3A704B0949A3C7FE99D3CDCF68 pos=<2014.74, 266.49, 10263.8>)
+20:21:45.802 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle Olga 24 (id=B9964E3A704B0949A3C7FE99D3CDCF68 pos=<2014.75, 266.49, 10263.8>) as driver
+20:21:55.741 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) started vehicle Olga 24 (id=B9964E3A704B0949A3C7FE99D3CDCF68 pos=<2014.86, 266.49, 10263.8>)
+20:21:57.924 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<6522.75, 476.94, 706.56>)
+20:22:02.218 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): going
+20:22:55.788 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): past polana?
+20:23:19.027 [AI Object Patrol 00079] Spawning 3 West bots at <5014.574219, 522.695496, 2224.395752>
+20:23:19.058 [AI Object Patrol 00079] Global patrol count: 2
+20:23:19.069 [AI Object Patrol 00079] ContaminatedArea category patrol count: 1
+20:23:21.305 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Tymbark
+20:25:14.657 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Olga 24 (id=B9964E3A704B0949A3C7FE99D3CDCF68 pos=<1319.77, 369.28, 11474.8>)
+20:25:14.694 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle Olga 24 (id=B9964E3A704B0949A3C7FE99D3CDCF68 pos=<1319.77, 369.28, 11474.8>)
+20:25:21.881 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle Olga 24 (id=B9964E3A704B0949A3C7FE99D3CDCF68 pos=<1319.72, 369.26, 11474.9>) as driver
+20:25:23.297 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) started vehicle Olga 24 (id=B9964E3A704B0949A3C7FE99D3CDCF68 pos=<1319.67, 369.24, 11474.9>)
+20:25:36.117 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Olga 24 (id=B9964E3A704B0949A3C7FE99D3CDCF68 pos=<1325.74, 370.49, 11468.8>)
+20:25:36.264 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle Olga 24 (id=B9964E3A704B0949A3C7FE99D3CDCF68 pos=<1325.74, 370.49, 11468.8>)
+20:26:27.253 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<2972.83, 449.25, 1118.97>)
+20:26:31.060 [VehicleLeave] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<2972.86, 449.25, 1118.96>)
+20:26:51.892 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Car's next to the main road leading into the West side of Polana, I came down here for shelter
+20:27:12.298 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): scary
+20:27:20.417 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): moth man
+20:27:25.626 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Hey did you know it's raining?
+20:27:32.863 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): loool
+20:28:04.950 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): show me
+20:28:34.125 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): 863m away
+20:29:03.247 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): im at this house
+20:29:22.459 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): It's back at the main road
+20:29:29.515 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): going
+20:29:40.713 [VehicleEnter] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<2972.84, 449.24, 1119.19>) as pilot
+20:29:43.454 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<2972.83, 449.24, 1119.21>)
+20:29:50.475 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): 2560 / 1880
+20:30:23.387 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<2994.7, 448.11, 1123.19>)
+20:30:23.419 [VehicleLeave] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<2994.7, 448.11, 1123.19>)
+20:30:35.681 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): lemme remap my map
+20:31:38.008 [VehicleEnter] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<2994.57, 448.1, 1124.2>) as pilot
+20:31:39.621 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<2994.57, 448.1, 1124.22>)
+20:33:17.585 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<2878.57, 513.02, 1948.54>)
+20:33:22.294 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<2878.57, 513.01, 1948.56>)
+20:33:59.434 [AI Object Patrol 00079] Despawning 3 West bots (spawn position <5014.574219, 522.695496, 2224.395752>, 0/3 deceased)
+20:33:59.445 [AI Object Patrol 00079] Global patrol count: 1
+20:33:59.455 [AI Object Patrol 00079] ContaminatedArea category patrol count: 0
+20:34:00.297 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<2460.38, 531.95, 1863.62>)
+20:34:02.341 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Too West, go back
+20:34:17.191 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<2460.51, 531.96, 1863.59>)
+20:34:25.658 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): You're close enough, nvm
+20:34:33.696 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<2524.09, 531.48, 1865.8>)
+20:34:33.761 [VehicleLeave] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<2524.09, 531.48, 1865.8>)
+20:36:46.696 [VehicleEnter] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<2560.99, 530.97, 1886.71>) as driver
+20:36:48.654 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<2560.98, 530.97, 1886.72>)
+20:37:38.729 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<2560.84, 530.87, 1886.25>)
+20:37:39.072 [VehicleLeave] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<2560.83, 530.86, 1886.25>)
+20:37:50.015 [VehicleEnter] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<2524.09, 531.5, 1866.01>) as pilot
+20:37:51.340 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<2524.09, 531.5, 1866.02>)
+20:39:28.374 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<2563.06, 531.26, 1884.21>)
+20:39:28.426 [VehicleLeave] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<2563.05, 531.25, 1884.2>)
+20:39:35.525 [VehicleEnter] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<2560.55, 530.94, 1886.41>) as driver
+20:39:37.789 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<2560.55, 530.95, 1886.43>)
+20:40:38.835 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<2560.85, 530.86, 1886.26>)
+20:40:39.192 [VehicleLeave] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<2560.85, 530.86, 1886.26>)
+20:40:43.048 [VehicleEnter] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<2563.55, 530.89, 1883.88>) as pilot
+20:40:45.495 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<2563.55, 530.89, 1883.88>)
+20:41:32.010 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): get in
+20:42:13.461 [VehicleEnter] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) entered vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<2561.94, 531.31, 1888.28>) as passenger
+20:42:15.330 [VehicleEnter] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) switched seats in vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<2561.82, 531.35, 1888.38>) to driver
+20:42:19.429 [VehicleEngine] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) started vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<2561.85, 531.36, 1888.42>)
+20:43:23.026 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<2568.56, 533.15, 1893.03>)
+20:43:23.080 [VehicleLeave] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<2568.56, 533.15, 1893.03>)
+20:44:10.599 [VehicleEnter] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<2568.52, 532.28, 1893.01>) as pilot
+20:44:12.190 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<2568.52, 532.28, 1893.01>)
+20:46:45.226 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<2563.1, 532.57, 1889.61>)
+20:46:45.240 [VehicleLeave] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<2563.1, 532.57, 1889.61>)
+20:46:45.869 [VehicleEngine] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) stopped vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<2572.28, 529.99, 1886.99>)
+20:46:48.376 [VehicleLeave] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) left vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<2572.44, 529.96, 1886.86>)
+20:46:59.924 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Finally
+20:48:30.815 [VehicleEnter] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<2563.07, 531.86, 1889.63>) as pilot
+20:48:32.694 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<2563.07, 531.86, 1889.63>)
+20:49:29.807 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Thanks for the help
+20:49:40.714 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): yessir
+20:49:58.408 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): polana looked clear
+20:51:09.048 [AI Object Patrol 00085] Spawning 1 West bots at <7204.073242, 294.835602, 2576.976074>
+20:51:09.224 [AI Object Patrol 00085] Global patrol count: 2
+20:51:09.356 [AI Object Patrol 00085] ContaminatedArea category patrol count: 1
+20:51:34.563 [AI Object Patrol 00086] Spawning 3 East bots at <8042.476563, 302.742157, 1463.886108>
+20:51:34.617 [AI Object Patrol 00086] Global patrol count: 3
+20:51:34.627 [AI Object Patrol 00086] HelicopterWreck category patrol count: 1
+20:53:26.522 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8340.1, 334.75, 1644.05>)
+20:53:30.429 [VehicleLeave] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8340.08, 334.75, 1644.06>)
+20:54:10.848 [AI Object Patrol 00085] Despawning 1 West bots (spawn position <7204.073242, 294.835602, 2576.976074>, 0/1 deceased)
+20:54:10.858 [AI Object Patrol 00085] Global patrol count: 2
+20:54:10.868 [AI Object Patrol 00085] ContaminatedArea category patrol count: 0
+20:54:53.199 [VehicleEnter] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) entered vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<2572.56, 529.94, 1886.76>) as driver
+20:54:57.856 [VehicleEngine] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) started vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<2572.9, 529.88, 1886.43>)
+20:56:03.583 [AI Object Patrol 00086] Despawning 3 East bots (spawn position <8042.476563, 302.742157, 1463.886108>, 0/3 deceased)
+20:56:03.593 [AI Object Patrol 00086] Global patrol count: 1
+20:56:03.603 [AI Object Patrol 00086] HelicopterWreck category patrol count: 0
+20:57:52.715 [VehicleEngine] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) stopped vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<2935.21, 452.66, 1086.5>)
+20:57:55.894 [VehicleLeave] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) left vehicle Gunter 2 (id=509ACCA49543877D1C43A68CFCA4AB25 pos=<2935.2, 452.66, 1086.5>)
+21:43:17.845 [VehicleDestroyed] Boat_01_Black (id=0952B87E0F4A3F849B1B479A6CE0D8F1 pos=<6379.32, 169.74, 10766.1>)
+21:50:34.841 [VehicleDeleted] Boat_01_Black (id=0952B87E0F4A3F849B1B479A6CE0D8F1 pos=<6379.32, 169.4, 10766.1>)
+22:23:02.462 [Chat - Global]("Snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): !players

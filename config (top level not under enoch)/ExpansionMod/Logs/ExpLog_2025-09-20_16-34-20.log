@@ -1,0 +1,218 @@
+16:38:43.940 [AI Patrol 00015] Spawning 1 East bots at <7718.396484, 320.636627, 3050.448486>
+16:38:43.974 [AI Patrol 00015] Global patrol count: 1
+16:38:43.984 [AI Patrol 00015] Patrol category patrol count: 1
+16:38:43.995 [AI Patrol 00016] Spawning 1 West bots at <7250.775391, 294.630005, 2993.834717>
+16:38:44.039 [AI Patrol 00016] Global patrol count: 2
+16:38:44.049 [AI Patrol 00016] Patrol category patrol count: 2
+16:41:09.322 [MissionAirdrop] An airdrop is heading towards "Muratyn" (pos=<4559.000000, 0.000000, 6852.000000> type=Random_Muratyn) with a ExpansionAirdropContainer_Military
+16:45:04.448 [VehicleEnter] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8339.64, 334.75, 1643.63>) as pilot
+16:45:05.739 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8339.64, 334.75, 1643.64>)
+16:46:11.729 [AI Patrol 00017] Spawning 1 Civilian bots at <6809.036133, 315.497986, 3268.846680>
+16:46:11.772 [AI Patrol 00017] Global patrol count: 3
+16:46:11.782 [AI Patrol 00017] Patrol category patrol count: 3
+16:47:00.564 [AI Object Patrol 00020] Spawning 3 West bots at <5488.418945, 420.510010, 3794.941650>
+16:47:00.599 [AI Object Patrol 00020] Global patrol count: 4
+16:47:00.609 [AI Object Patrol 00020] ContaminatedArea category patrol count: 1
+16:48:34.705 [AI Object Patrol 00024] Spawning 1 West bots at <7273.802246, 215.715897, 7713.939941>
+16:48:34.742 [AI Object Patrol 00024] Global patrol count: 5
+16:48:34.753 [AI Object Patrol 00024] HelicopterWreck category patrol count: 1
+16:48:39.528 [AI Object Patrol 00003] Spawning 1 West bots at <4301.120605, 272.193146, 6211.644043>
+16:48:39.579 [AI Object Patrol 00003] Global patrol count: 6
+16:48:39.589 [AI Object Patrol 00003] HelicopterWreck category patrol count: 2
+16:50:01.532 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<4604.18, 325.65, 7154.91>)
+16:50:01.566 [VehicleLeave] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<4604.18, 325.65, 7154.91>)
+16:50:16.985 [VehicleEnter] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<4604.18, 325.63, 7155.2>) as pilot
+16:50:18.487 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<4604.18, 325.63, 7155.22>)
+16:54:31.037 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<4566.92, 334.12, 6991.66>)
+16:54:31.083 [VehicleLeave] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<4566.92, 334.12, 6991.66>)
+16:57:23.998 [AI Patrol 00017] Despawning 1 Civilian bots (spawn position <6809.036133, 315.497986, 3268.846680>, 0/1 deceased)
+16:57:24.008 [AI Patrol 00017] Global patrol count: 5
+16:57:24.019 [AI Patrol 00017] Patrol category patrol count: 2
+16:58:14.239 [VehicleEnter] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<4566.12, 334.1, 6991.74>) as pilot
+16:58:16.517 [AI Object Patrol 00020] Despawning 3 West bots (spawn position <5488.418945, 420.510010, 3794.941650>, 0/3 deceased)
+16:58:16.527 [AI Object Patrol 00020] Global patrol count: 4
+16:58:16.538 [AI Object Patrol 00020] ContaminatedArea category patrol count: 0
+16:58:18.608 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<4566.06, 334.1, 6991.75>)
+16:59:49.677 [Killfeed] AI Jose (East) got killed by AI Baty (West) with M4-A1 from a distance of 96 m.
+16:59:54.053 [AI Patrol 00015] East bots were wiped out (spawn position <7718.396484, 320.636627, 3050.448486>, 1/1 deceased)
+16:59:54.067 [AI Patrol 00015] Global patrol count: 3
+16:59:54.081 [AI Patrol 00015] Patrol category patrol count: 1
+17:00:16.180 [AI Object Patrol 00003] Despawning 1 West bots (spawn position <4301.120605, 272.193146, 6211.644043>, 0/1 deceased)
+17:00:16.190 [AI Object Patrol 00003] Global patrol count: 2
+17:00:16.201 [AI Object Patrol 00003] HelicopterWreck category patrol count: 1
+17:03:50.461 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8920.19, 472.39, 2070.57>)
+17:03:50.504 [VehicleLeave] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8920.19, 472.39, 2070.57>)
+17:06:54.834 [VehicleEnter] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8920.19, 472.35, 2071.39>) as pilot
+17:06:56.309 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8920.19, 472.35, 2071.4>)
+17:07:16.453 [AI Object Patrol 00028] Spawning 3 West bots at <8265.671875, 314.395386, 1179.828247>
+17:07:16.497 [AI Object Patrol 00028] Global patrol count: 3
+17:07:16.513 [AI Object Patrol 00028] HelicopterWreck category patrol count: 2
+17:09:34.447 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8342.5, 334.76, 1637.91>)
+17:09:34.595 [VehicleLeave] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8342.5, 334.76, 1637.91>)
+17:10:48.834 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<6576.17, 206.61, 8385.43>) as driver
+17:10:52.091 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<6576.2, 206.61, 8385.44>)
+17:11:26.621 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) stopped vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<6568.9, 206.59, 8380.5>)
+17:11:31.680 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<6568.88, 206.59, 8380.5>)
+17:19:05.747 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<6568.88, 206.59, 8380.5>) as driver
+17:19:07.363 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<6568.87, 206.59, 8380.5>)
+17:20:37.840 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<6565.22, 206.65, 8385.17>)
+17:20:38.281 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<6565.22, 206.65, 8385.17>)
+17:22:56.658 [AI Object Patrol 00028] Despawning 3 West bots (spawn position <8265.671875, 314.395386, 1179.828247>, 0/3 deceased)
+17:22:56.668 [AI Object Patrol 00028] Global patrol count: 2
+17:22:56.678 [AI Object Patrol 00028] HelicopterWreck category patrol count: 1
+17:37:24.981 [BaseRaiding] ExpansionWall6x3 (<6568.640625, 206.484833, 8391.732422>) Code set by "player "Dan" (ID = "J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=" at <6567.783691, 207.089630, 8389.292969>)" and the code is 1981
+17:47:31.277 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<6565.22, 206.65, 8385.15>) as driver
+17:48:05.157 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle M3S Covered (id=46D2340A724FF0C80A0AAD8270535D2C pos=<6565.22, 206.63, 8384.84>)
+18:00:23.065 [AI Object Patrol 00024] Despawning 1 West bots (spawn position <7273.802246, 215.715897, 7713.939941>, 0/1 deceased)
+18:00:23.076 [AI Object Patrol 00024] Global patrol count: 1
+18:00:23.085 [AI Object Patrol 00024] HelicopterWreck category patrol count: 0
+18:08:05.999 [MissionAirdrop] An airdrop is heading towards "Dolnik" (pos=<11491.000000, 0.000000, 763.000000> type=Random_Dolnik) with a ExpansionAirdropContainer_Military
+18:51:12.120 [VehicleEnter] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) entered vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<4424.87, 473.13, 482.98>) as pilot
+18:51:14.020 [VehicleEngine] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) started vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<4424.88, 473.12, 483.04>)
+18:52:41.248 [AI Object Patrol 00047] Spawning 3 West bots at <5019.195801, 508.798157, 2264.399902>
+18:52:41.293 [AI Object Patrol 00047] Global patrol count: 2
+18:52:41.303 [AI Object Patrol 00047] ContaminatedArea category patrol count: 1
+18:53:04.608 [AI Object Patrol 00041] Spawning 1 West bots at <5904.459473, 405.925690, 3562.408691>
+18:53:04.644 [AI Object Patrol 00041] Global patrol count: 3
+18:53:04.654 [AI Object Patrol 00041] HelicopterWreck category patrol count: 1
+18:54:16.666 [VehicleEngine] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) stopped vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<5809.07, 414.53, 3775.97>)
+18:54:19.887 [VehicleLeave] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) left vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<5809.07, 414.41, 3775.93>)
+18:54:59.236 [Killfeed] MeltingHolster got killed by AI Maria (West) with M200 CheyTac Green from a distance of 221 m.
+18:55:57.432 [SpawnSelection] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) spawned at <6517.890137, 308.565002, 4777.350098>
+18:55:57.445 [AI Object Patrol 00048] Spawning 3 East bots at <6370.080566, 323.869141, 5407.445313>
+18:55:57.489 [AI Object Patrol 00048] Global patrol count: 4
+18:55:57.500 [AI Object Patrol 00048] HelicopterWreck category patrol count: 2
+18:55:57.510 [AI Object Patrol 00050] Spawning 2 East bots at <6885.398926, 377.998352, 4172.042969>
+18:55:57.544 [AI Object Patrol 00050] Global patrol count: 5
+18:55:57.555 [AI Object Patrol 00050] HelicopterWreck category patrol count: 3
+18:57:59.380 [GraveStone] Spawned GraveStone for Survivor at position 0x00000000b5f92624 {<5817.71,414.414,3776.29>}
+19:03:08.689 [AI Object Patrol 00047] Despawning 3 West bots (spawn position <5019.195801, 508.798157, 2264.399902>, 0/3 deceased)
+19:03:08.705 [AI Object Patrol 00047] Global patrol count: 4
+19:03:08.723 [AI Object Patrol 00047] ContaminatedArea category patrol count: 0
+19:05:18.754 [Killfeed] MeltingHolster got killed by AI Maria (West) with M200 CheyTac Green from a distance of 220 m.
+19:05:59.042 [SpawnSelection] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) spawned at <6494.669922, 308.559998, 4704.560059>
+19:08:18.835 [GraveStone] Spawned GraveStone for Survivor at position 0x00000000b5f92624 {<5814.77,415.581,3766.74>}
+19:09:33.895 [AI Object Patrol 00048] Despawning 3 East bots (spawn position <6370.080566, 323.869141, 5407.445313>, 0/3 deceased)
+19:09:33.905 [AI Object Patrol 00048] Global patrol count: 3
+19:09:33.915 [AI Object Patrol 00048] HelicopterWreck category patrol count: 2
+19:09:38.670 [Killfeed] AI Gabi (West) got killed by AI Guo (Shamans) with KA-M from a distance of 12 m.
+19:13:39.392 [AI Object Patrol 00050] Despawning 2 East bots (spawn position <6885.398926, 377.998352, 4172.042969>, 0/2 deceased)
+19:13:39.403 [AI Object Patrol 00050] Global patrol count: 2
+19:13:39.413 [AI Object Patrol 00050] HelicopterWreck category patrol count: 1
+19:16:14.821 [Killfeed] AI Maria (West) got killed by MeltingHolster with SNAFU Scar-H OD from a distance of 105 m.
+19:16:16.990 [AI Object Patrol 00041] West bots were wiped out (spawn position <5904.459473, 405.925690, 3562.408691>, 1/1 deceased)
+19:16:17.007 [AI Object Patrol 00041] Global patrol count: 1
+19:16:17.026 [AI Object Patrol 00041] HelicopterWreck category patrol count: 0
+19:32:52.968 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): yooo!
+19:38:30.857 [MissionAirdrop] An airdrop is heading towards "Radunin" (pos=<7209.000000, 0.000000, 6073.000000> type=Random_Radunin) with a ExpansionAirdropContainer_Medical
+19:39:46.672 [AI Object Patrol 00051] Spawning 1 East bots at <4704.286133, 426.338318, 3220.663818>
+19:39:46.767 [AI Object Patrol 00051] Global patrol count: 2
+19:39:46.828 [AI Object Patrol 00051] HelicopterWreck category patrol count: 1
+19:41:49.061 [AI Object Patrol 00051] Despawning 1 East bots (spawn position <4704.286133, 426.338318, 3220.663818>, 0/1 deceased)
+19:41:49.106 [AI Object Patrol 00051] Global patrol count: 1
+19:41:49.157 [AI Object Patrol 00051] HelicopterWreck category patrol count: 0
+19:45:35.363 [VehicleEnter] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) entered vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<5809.13, 414.39, 3776.11>) as pilot
+19:45:37.060 [VehicleEngine] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) started vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<5809.13, 414.39, 3776.12>)
+19:46:56.539 [AI Object Patrol 00058] Spawning 3 West bots at <5439.029785, 436.356201, 1434.458008>
+19:46:56.568 [AI Object Patrol 00058] Global patrol count: 2
+19:46:56.578 [AI Object Patrol 00058] HelicopterWreck category patrol count: 1
+19:46:59.486 [AI Object Patrol 00041] Despawning 0 West bots (spawn position <5904.459473, 405.925690, 3562.408691>, 1/1 deceased)
+19:48:21.915 [VehicleEngine] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) stopped vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<4960.61, 532.54, 2100.06>)
+19:48:24.466 [VehicleLeave] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) left vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<4960.74, 532.5, 2100.07>)
+20:03:38.993 [VehicleEnter] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) entered vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<4960.8, 532.4, 2099.98>) as pilot
+20:03:40.897 [VehicleEngine] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) started vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<4960.8, 532.4, 2099.97>)
+20:04:24.786 [AI Object Patrol 00065] Spawning 1 West bots at <4874.024902, 496.695770, 2019.284302>
+20:04:24.829 [AI Object Patrol 00065] Global patrol count: 3
+20:04:24.840 [AI Object Patrol 00065] ContaminatedArea category patrol count: 1
+20:05:17.481 [AI Object Patrol 00066] Spawning 1 West bots at <5929.837402, 376.206665, 4994.051758>
+20:05:17.520 [AI Object Patrol 00066] Global patrol count: 4
+20:05:17.530 [AI Object Patrol 00066] HelicopterWreck category patrol count: 2
+20:05:46.977 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<5206.29, 373.72, 4671.83>)
+20:05:46.999 [VehicleLeave] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) left vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<5206.29, 373.72, 4671.83>)
+20:07:55.443 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): sup snake?
+20:08:03.174 [VehicleEnter] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) entered vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<5206.45, 373.71, 4671.78>) as pilot
+20:09:11.809 [VehicleEngine] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) started vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<5206.68, 373.71, 4671.76>)
+20:10:24.906 [AI Object Patrol 00058] Despawning 3 West bots (spawn position <5439.029785, 436.356201, 1434.458008>, 0/3 deceased)
+20:10:24.916 [AI Object Patrol 00058] Global patrol count: 3
+20:10:24.926 [AI Object Patrol 00058] HelicopterWreck category patrol count: 1
+20:12:35.959 [VehicleEngine] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) stopped vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<5660.38, 299.97, 8802.85>)
+20:12:39.683 [VehicleLeave] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) left vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<5660.38, 299.97, 8802.85>)
+20:14:40.507 [AI Object Patrol 00065] Despawning 1 West bots (spawn position <4874.024902, 496.695770, 2019.284302>, 0/1 deceased)
+20:14:40.517 [AI Object Patrol 00065] Global patrol count: 2
+20:14:40.526 [AI Object Patrol 00065] ContaminatedArea category patrol count: 0
+20:20:20.625 [AI Object Patrol 00066] Despawning 1 West bots (spawn position <5929.837402, 376.206665, 4994.051758>, 0/1 deceased)
+20:20:20.636 [AI Object Patrol 00066] Global patrol count: 1
+20:20:20.646 [AI Object Patrol 00066] HelicopterWreck category patrol count: 0
+20:24:08.065 [VehicleEnter] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) entered vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<5660.38, 299.97, 8802.85>) as pilot
+20:24:32.441 [VehicleEngine] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) started vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<5660.38, 299.97, 8802.85>)
+20:28:23.232 [AI Object Patrol 00064] Spawning 3 East bots at <10389.029297, 211.920059, 6206.174316>
+20:28:23.270 [AI Object Patrol 00064] Global patrol count: 2
+20:28:23.280 [AI Object Patrol 00064] HelicopterWreck category patrol count: 1
+20:30:04.640 [AI Object Patrol 00009] Spawning 3 West bots at <7813.972656, 244.483093, 5797.642090>
+20:30:04.683 [AI Object Patrol 00009] Global patrol count: 3
+20:30:04.693 [AI Object Patrol 00009] ContaminatedArea category patrol count: 1
+20:30:04.800 [AI Object Patrol 00011] Spawning 3 West bots at <7792.612793, 249.041046, 5994.507813>
+20:30:04.848 [AI Object Patrol 00011] Global patrol count: 4
+20:30:04.862 [AI Object Patrol 00011] ContaminatedArea category patrol count: 2
+20:32:40.742 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<7255.76, 232.46, 6285.63>)
+20:32:40.871 [VehicleLeave] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) left vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<7255.76, 232.46, 6285.63>)
+20:33:21.653 [AI Object Patrol 00064] Despawning 3 East bots (spawn position <10389.029297, 211.920059, 6206.174316>, 0/3 deceased)
+20:33:21.664 [AI Object Patrol 00064] Global patrol count: 3
+20:33:21.674 [AI Object Patrol 00064] HelicopterWreck category patrol count: 0
+20:45:07.444 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): yoo
+20:45:14.543 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): sorry i was afk
+20:46:47.801 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): just chillin man
+20:47:04.872 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): hows it going 4 you?
+20:50:39.805 [VehicleEnter] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) entered vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<7256.2, 232.31, 6285.85>) as pilot
+20:50:42.868 [VehicleLeave] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) left vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<7256.19, 232.31, 6285.85>)
+20:50:47.620 [VehicleEnter] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) entered vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<7256.19, 232.31, 6285.85>) as pilot
+20:50:49.555 [VehicleEngine] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) started vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<7256.19, 232.31, 6285.85>)
+20:52:18.094 [AI Object Patrol 00080] Spawning 2 East bots at <6783.718750, 344.100006, 4842.036621>
+20:52:18.133 [AI Object Patrol 00080] Global patrol count: 4
+20:52:18.149 [AI Object Patrol 00080] HelicopterWreck category patrol count: 1
+20:55:00.957 [VehicleEngine] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) stopped vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<5620.26, 421.95, 3815.24>)
+20:55:04.108 [VehicleLeave] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) left vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<5620.26, 421.95, 3815.24>)
+21:02:43.997 [AI Object Patrol 00011] Despawning 3 West bots (spawn position <7792.612793, 249.041046, 5994.507813>, 0/3 deceased)
+21:02:44.009 [AI Object Patrol 00011] Global patrol count: 3
+21:02:44.019 [AI Object Patrol 00011] ContaminatedArea category patrol count: 1
+21:02:44.597 [AI Object Patrol 00009] Despawning 3 West bots (spawn position <7813.972656, 244.483093, 5797.642090>, 0/3 deceased)
+21:02:44.607 [AI Object Patrol 00009] Global patrol count: 2
+21:02:44.617 [AI Object Patrol 00009] ContaminatedArea category patrol count: 0
+21:03:14.071 [AI Object Patrol 00080] Despawning 2 East bots (spawn position <6783.718750, 344.100006, 4842.036621>, 0/2 deceased)
+21:03:14.082 [AI Object Patrol 00080] Global patrol count: 1
+21:03:14.093 [AI Object Patrol 00080] HelicopterWreck category patrol count: 0
+21:04:50.018 [MissionAirdrop] An airdrop is heading towards "Zapadlisko" (pos=<8399.000000, 0.000000, 8803.000000> type=Random_Zapadlisko) with a ExpansionAirdropContainer_Basebuilding
+21:20:03.574 [VehicleEnter] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) entered vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<5620.26, 421.95, 3815.24>) as pilot
+21:20:05.889 [VehicleEngine] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) started vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<5620.26, 421.95, 3815.24>)
+21:20:36.516 [VehicleEngine] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) stopped vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<5619.47, 428.16, 3821.3>)
+21:20:40.875 [VehicleLeave] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) left vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<5619.38, 428.17, 3821.16>)
+21:21:22.896 [VehicleEnter] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) entered vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<5619.29, 421.99, 3821.06>) as pilot
+21:21:24.704 [VehicleEngine] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) started vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<5619.29, 421.99, 3821.06>)
+21:22:27.257 [AI Object Patrol 00083] Spawning 2 West bots at <5051.638672, 511.848358, 2119.692139>
+21:22:27.407 [AI Object Patrol 00083] Global patrol count: 2
+21:22:27.582 [AI Object Patrol 00083] ContaminatedArea category patrol count: 1
+21:22:44.227 [AI Object Patrol 00082] Spawning 2 West bots at <5434.664063, 436.471802, 1439.534424>
+21:22:44.256 [AI Object Patrol 00082] Global patrol count: 3
+21:22:44.266 [AI Object Patrol 00082] HelicopterWreck category patrol count: 1
+21:24:14.940 [VehicleEngine] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) stopped vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<4430.71, 472.76, 481.36>)
+21:24:23.319 [VehicleLeave] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) left vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<4433.42, 472.26, 483.11>)
+21:33:11.434 [AI Object Patrol 00083] Despawning 2 West bots (spawn position <5051.638672, 511.848358, 2119.692139>, 0/2 deceased)
+21:33:11.444 [AI Object Patrol 00083] Global patrol count: 2
+21:33:11.454 [AI Object Patrol 00083] ContaminatedArea category patrol count: 0
+21:33:14.682 [AI Object Patrol 00082] Despawning 2 West bots (spawn position <5434.664063, 436.471802, 1439.534424>, 0/2 deceased)
+21:33:14.692 [AI Object Patrol 00082] Global patrol count: 1
+21:33:14.702 [AI Object Patrol 00082] HelicopterWreck category patrol count: 0
+22:29:17.756 [MissionAirdrop] An airdrop is heading towards "Kolembrody" (pos=<8676.000000, 0.000000, 12114.000000> type=Random_Kolembrody) with a ExpansionAirdropContainer
+23:57:56.962 [MissionAirdrop] An airdrop is heading towards "Dolnik" (pos=<11491.000000, 0.000000, 763.000000> type=Random_Dolnik) with a ExpansionAirdropContainer_Military
+01:28:16.471 [MissionAirdrop] An airdrop is heading towards "Topolin" (pos=<1367.000000, 0.000000, 7057.000000> type=Random_Topolin) with a ExpansionAirdropContainer_Military
+02:10:54.512 [Party] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) joined the party "Dragon Shadowed" (id=4 ownerUID=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU= ownerName=PoiiZoner3)
+02:10:54.922 [AI Object Patrol 00088] Spawning 2 West bots at <5644.521973, 419.515747, 3710.729492>
+02:10:54.948 [AI Object Patrol 00088] Global patrol count: 2
+02:10:54.958 [AI Object Patrol 00088] ContaminatedArea category patrol count: 1
+02:24:30.353 [Party] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) left the party "Dragon Shadowed" (id=4 ownerUID=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU= ownerName=PoiiZoner3)
+02:33:41.284 [AI Object Patrol 00088] Despawning 2 West bots (spawn position <5644.521973, 419.515747, 3710.729492>, 0/2 deceased)
+02:33:41.395 [AI Object Patrol 00088] Global patrol count: 1
+02:33:41.405 [AI Object Patrol 00088] ContaminatedArea category patrol count: 0
+02:56:35.842 [MissionAirdrop] An airdrop is heading towards "Kolembrody" (pos=<8676.000000, 0.000000, 12114.000000> type=Random_Kolembrody) with a ExpansionAirdropContainer
+04:24:43.788 [MissionAirdrop] An airdrop is heading towards "Radunin" (pos=<7209.000000, 0.000000, 6073.000000> type=Random_Radunin) with a ExpansionAirdropContainer_Medical
+05:50:16.369 [MissionAirdrop] An airdrop is heading towards "Radunin" (pos=<7209.000000, 0.000000, 6073.000000> type=Random_Radunin) with a ExpansionAirdropContainer_Medical

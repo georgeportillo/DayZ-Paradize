@@ -1,0 +1,16 @@
+{
+    "m_Version": 2,
+    "NewsFeedTexts": [
+        {
+            "m_Title": "Welcome to DayZ Paradise",
+            "m_Text": "Stay safe, have fun!"
+        }
+    ],
+    "NewsFeedLinks": [
+        {
+            "m_Label": "Discord",
+            "m_Icon": "set:expansion_iconset image:icon_discord",
+            "m_URL": "https://discord.gg/ECngt2zpzg"
+        }
+    ]
+}

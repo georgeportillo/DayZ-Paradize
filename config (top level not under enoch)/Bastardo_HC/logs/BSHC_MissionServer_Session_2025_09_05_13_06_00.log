@@ -1,0 +1,586 @@
+2025-09-05 13:06:00 [INFO] OnInit - Initializing Bastardos Hacked Crates System...
+2025-09-05 13:06:00 [INFO] OnInit - Loading Hacked Crate Loot Configuration (loot_pools.json)...
+2025-09-05 13:06:00 [INFO] [BSHCLootPoolConfig] Found loot_pools.json at: $profile:\Bastardo_HC\loot_pools.json
+2025-09-05 13:06:00 [INFO] [BSHCLootPoolConfig] JsonLoadFile executed. Loaded 2 categories defined in the root.
+2025-09-05 13:06:00 [INFO] [BSHCLootPoolConfig] Category 'DefaultArmaments' has 1 loot pools.
+2025-09-05 13:06:00 [INFO] [BSHCLootPoolConfig] Category 'DefaultMedical' has 1 loot pools.
+2025-09-05 13:06:00 [INFO] OnInit - Hacked Crate Loot Configuration processed successfully.
+2025-09-05 13:06:00 [INFO] OnInit - Loading Hacked Crate settings (global, static, dynamic)...
+2025-09-05 13:06:00 [INFO] CrateManagement instance created with default grace period and tick interval.
+2025-09-05 13:06:00 [INFO] [BSHCGlobalServerSettings] Loading from: $profile:\Bastardo_HC\BS_Global_settings.json
+2025-09-05 13:06:00 [INFO] [CrateConfigManager] Re-saved static_crates.json to include any new options.
+2025-09-05 13:06:00 [INFO] [CrateConfigManager] Re-saved dynamic_crates.json to include any new options.
+2025-09-05 13:06:00 [INFO] [CrateConfigManager] Static CrateManagement has been set.
+2025-09-05 13:06:00 [INFO] CrateSpawner instance created.
+2025-09-05 13:06:00 [INFO] OnInit - Crate Spawner created. Grace Period: 5 minutes. Periodic Tick: 3600 seconds.
+2025-09-05 13:06:00 [INFO] OnInit - Bastardos Hacked Crates System Initialization sequence finished.
+2025-09-05 13:06:01 [INFO] OnMissionStart - Server mission started. Scheduling Hacked Crate cleanup and initial spawn setup.
+2025-09-05 13:06:01 [INFO] OnMissionStart - Immediate STATIC Crate spawn scheduled in 15 seconds.
+2025-09-05 13:06:01 [INFO] OnMissionStart - Initial DYNAMIC Crate spawn scheduled in approx. 320 seconds.
+2025-09-05 13:06:01 [INFO] OnMissionStart - Scheduling first PERIODIC Crate Spawn Tick in approx. 3600 seconds.
+2025-09-05 13:06:22 [INFO] Inventory for BS_Hacked_Crate_Blue LOCKED. IsOpen: false LootAccessActionDone: false
+2025-09-05 13:06:22 [INFO] OnStoreLoad: m_ConfigUniqueID_Persist set from storage to: 'DefaultDynamicEvent_Example1' for BS_Hacked_Crate_Blue<2938086>
+2025-09-05 13:06:22 [INFO] OnStoreLoad: FINISHED loading raw data into member variables for BS_Hacked_Crate_Blue<2938086>
+2025-09-05 13:06:24 [INFO] Inventory for BS_Hacked_Crate LOCKED. IsOpen: false LootAccessActionDone: false
+2025-09-05 13:06:24 [INFO] OnStoreLoad: m_ConfigUniqueID_Persist set from storage to: 'DefaultDynamicEvent_Example1' for BS_Hacked_Crate<2939969>
+2025-09-05 13:06:24 [INFO] OnStoreLoad: FINISHED loading raw data into member variables for BS_Hacked_Crate<2939969>
+2025-09-05 13:06:28 [INFO] Inventory for BS_Hacked_Crate_Black LOCKED. IsOpen: false LootAccessActionDone: false
+2025-09-05 13:06:28 [INFO] OnStoreLoad: m_ConfigUniqueID_Persist set from storage to: 'DefaultDynamicEvent_Example1' for BS_Hacked_Crate_Black<2947248>
+2025-09-05 13:06:28 [INFO] OnStoreLoad: FINISHED loading raw data into member variables for BS_Hacked_Crate_Black<2947248>
+2025-09-05 13:06:29 [INFO] Inventory for BS_Hacked_Crate_Red LOCKED. IsOpen: false LootAccessActionDone: false
+2025-09-05 13:06:29 [INFO] OnStoreLoad: m_ConfigUniqueID_Persist set from storage to: 'DefaultDynamicEvent_Example1' for BS_Hacked_Crate_Red<2948317>
+2025-09-05 13:06:29 [INFO] OnStoreLoad: FINISHED loading raw data into member variables for BS_Hacked_Crate_Red<2948317>
+2025-09-05 13:06:45 [INFO] DeferredEEInitLogic: START for BS_Hacked_Crate_Blue<2938086>. m_LoadedExpansionMarkerUID (should be from OnStoreLoad) is ''. Current m_ExpansionMarkerUID (active) is '#STR_BSHC_HackedCrate_DisplayName155849364'
+2025-09-05 13:06:45 [INFO] GetCrateSettings: m_CrateSettings_Instance is NULL for BS_Hacked_Crate_Blue<2938086>. Calling AttemptToReacquireSettings().
+2025-09-05 13:06:45 [INFO] HackedCrate_Base (BS_Hacked_Crate_Blue): Attempting to re-acquire CrateSettings. Persisted ConfigUniqueID is: 'DefaultDynamicEvent_Example1'
+2025-09-05 13:06:45 [INFO] HackedCrate_Base (BS_Hacked_Crate_Blue): Instance specific CrateSettings assigned. ConfigUniqueID: DefaultDynamicEvent_Example1
+2025-09-05 13:06:45 [INFO] HackedCrate_Base (BS_Hacked_Crate_Blue): Successfully re-acquired CrateSettings by persisted ConfigUniqueID 'DefaultDynamicEvent_Example1'.
+2025-09-05 13:06:45 [INFO] DeferredEEInitLogic: Settings acquired successfully for BS_Hacked_Crate_Blue<2938086>.
+2025-09-05 13:06:45 [INFO] DeferredEEInitLogic: m_ExpansionMarkerUID ('#STR_BSHC_HackedCrate_DisplayName155849364') was already set. Not creating new marker for BS_Hacked_Crate_Blue<2938086>.
+2025-09-05 13:06:45 [INFO] DeferredEEInitLogic: Final m_LootAccessActionDone for BS_Hacked_Crate_Blue<2938086> is: false
+2025-09-05 13:06:45 [INFO] Inventory for BS_Hacked_Crate_Blue LOCKED. IsOpen: false LootAccessActionDone: false
+2025-09-05 13:06:45 [INFO] DeferredEEInitLogic: FINISHED for BS_Hacked_Crate_Blue<2938086>
+2025-09-05 13:06:46 [INFO] DeferredEEInitLogic: Re-added persistent crate BS_Hacked_Crate_Blue to g_ActiveHackedCrates list.
+2025-09-05 13:06:46 [INFO] DeferredEEInitLogic: START for BS_Hacked_Crate<2939969>. m_LoadedExpansionMarkerUID (should be from OnStoreLoad) is ''. Current m_ExpansionMarkerUID (active) is '#STR_BSHC_HackedCrate_DisplayName - #STR_BSHC_Marker_Unlocked1312988292'
+2025-09-05 13:06:46 [INFO] GetCrateSettings: m_CrateSettings_Instance is NULL for BS_Hacked_Crate<2939969>. Calling AttemptToReacquireSettings().
+2025-09-05 13:06:46 [INFO] HackedCrate_Base (BS_Hacked_Crate): Attempting to re-acquire CrateSettings. Persisted ConfigUniqueID is: 'DefaultDynamicEvent_Example1'
+2025-09-05 13:06:46 [INFO] HackedCrate_Base (BS_Hacked_Crate): Instance specific CrateSettings assigned. ConfigUniqueID: DefaultDynamicEvent_Example1
+2025-09-05 13:06:46 [INFO] HackedCrate_Base (BS_Hacked_Crate): Successfully re-acquired CrateSettings by persisted ConfigUniqueID 'DefaultDynamicEvent_Example1'.
+2025-09-05 13:06:46 [INFO] DeferredEEInitLogic: Settings acquired successfully for BS_Hacked_Crate<2939969>.
+2025-09-05 13:06:46 [INFO] DeferredEEInitLogic: m_ExpansionMarkerUID ('#STR_BSHC_HackedCrate_DisplayName - #STR_BSHC_Marker_Unlocked1312988292') was already set. Not creating new marker for BS_Hacked_Crate<2939969>.
+2025-09-05 13:06:46 [INFO] DeferredEEInitLogic: Final m_LootAccessActionDone for BS_Hacked_Crate<2939969> is: false
+2025-09-05 13:06:46 [INFO] StartAutoDespawnTimer: Auto-despawn timer started for BS_Hacked_Crate<edafd4e0>. Will delete in 997.59s.
+2025-09-05 13:06:46 [INFO] DeferredEEInitLogic: Rescheduling Expansion marker (UID: #STR_BSHC_HackedCrate_DisplayName - #STR_BSHC_Marker_Unlocked1312988292) removal in 867.068s for BS_Hacked_Crate<2939969>
+2025-09-05 13:06:46 [INFO] Inventory for BS_Hacked_Crate LOCKED. IsOpen: true LootAccessActionDone: false
+2025-09-05 13:06:46 [INFO] DeferredEEInitLogic: FINISHED for BS_Hacked_Crate<2939969>
+2025-09-05 13:06:46 [INFO] DeferredEEInitLogic: Re-added persistent crate BS_Hacked_Crate to g_ActiveHackedCrates list.
+2025-09-05 13:06:46 [INFO] DeferredEEInitLogic: START for BS_Hacked_Crate_Black<2947248>. m_LoadedExpansionMarkerUID (should be from OnStoreLoad) is ''. Current m_ExpansionMarkerUID (active) is '#STR_BSHC_HackedCrate_DisplayName1161398898'
+2025-09-05 13:06:46 [INFO] GetCrateSettings: m_CrateSettings_Instance is NULL for BS_Hacked_Crate_Black<2947248>. Calling AttemptToReacquireSettings().
+2025-09-05 13:06:46 [INFO] HackedCrate_Base (BS_Hacked_Crate_Black): Attempting to re-acquire CrateSettings. Persisted ConfigUniqueID is: 'DefaultDynamicEvent_Example1'
+2025-09-05 13:06:46 [INFO] HackedCrate_Base (BS_Hacked_Crate_Black): Instance specific CrateSettings assigned. ConfigUniqueID: DefaultDynamicEvent_Example1
+2025-09-05 13:06:46 [INFO] HackedCrate_Base (BS_Hacked_Crate_Black): Successfully re-acquired CrateSettings by persisted ConfigUniqueID 'DefaultDynamicEvent_Example1'.
+2025-09-05 13:06:46 [INFO] DeferredEEInitLogic: Settings acquired successfully for BS_Hacked_Crate_Black<2947248>.
+2025-09-05 13:06:46 [INFO] DeferredEEInitLogic: m_ExpansionMarkerUID ('#STR_BSHC_HackedCrate_DisplayName1161398898') was already set. Not creating new marker for BS_Hacked_Crate_Black<2947248>.
+2025-09-05 13:06:46 [INFO] DeferredEEInitLogic: Final m_LootAccessActionDone for BS_Hacked_Crate_Black<2947248> is: false
+2025-09-05 13:06:46 [INFO] Inventory for BS_Hacked_Crate_Black LOCKED. IsOpen: false LootAccessActionDone: false
+2025-09-05 13:06:46 [INFO] DeferredEEInitLogic: FINISHED for BS_Hacked_Crate_Black<2947248>
+2025-09-05 13:06:46 [INFO] DeferredEEInitLogic: Re-added persistent crate BS_Hacked_Crate_Black to g_ActiveHackedCrates list.
+2025-09-05 13:06:46 [INFO] DeferredEEInitLogic: START for BS_Hacked_Crate_Red<2948317>. m_LoadedExpansionMarkerUID (should be from OnStoreLoad) is ''. Current m_ExpansionMarkerUID (active) is '#STR_BSHC_HackedCrate_DisplayName1273403340'
+2025-09-05 13:06:46 [INFO] GetCrateSettings: m_CrateSettings_Instance is NULL for BS_Hacked_Crate_Red<2948317>. Calling AttemptToReacquireSettings().
+2025-09-05 13:06:46 [INFO] HackedCrate_Base (BS_Hacked_Crate_Red): Attempting to re-acquire CrateSettings. Persisted ConfigUniqueID is: 'DefaultDynamicEvent_Example1'
+2025-09-05 13:06:46 [INFO] HackedCrate_Base (BS_Hacked_Crate_Red): Instance specific CrateSettings assigned. ConfigUniqueID: DefaultDynamicEvent_Example1
+2025-09-05 13:06:46 [INFO] HackedCrate_Base (BS_Hacked_Crate_Red): Successfully re-acquired CrateSettings by persisted ConfigUniqueID 'DefaultDynamicEvent_Example1'.
+2025-09-05 13:06:46 [INFO] DeferredEEInitLogic: Settings acquired successfully for BS_Hacked_Crate_Red<2948317>.
+2025-09-05 13:06:47 [INFO] DeferredEEInitLogic: m_ExpansionMarkerUID ('#STR_BSHC_HackedCrate_DisplayName1273403340') was already set. Not creating new marker for BS_Hacked_Crate_Red<2948317>.
+2025-09-05 13:06:47 [INFO] DeferredEEInitLogic: Final m_LootAccessActionDone for BS_Hacked_Crate_Red<2948317> is: false
+2025-09-05 13:06:47 [INFO] Inventory for BS_Hacked_Crate_Red LOCKED. IsOpen: false LootAccessActionDone: false
+2025-09-05 13:06:47 [INFO] DeferredEEInitLogic: FINISHED for BS_Hacked_Crate_Red<2948317>
+2025-09-05 13:06:47 [INFO] DeferredEEInitLogic: Re-added persistent crate BS_Hacked_Crate_Red to g_ActiveHackedCrates list.
+2025-09-05 13:06:57 [INFO] DeleteHackedCratesFromKnownLocations - Starting cleanup of Hacked Crates from KNOWN SPAWN LOCATIONS as defined in configurations...
+2025-09-05 13:06:57 [INFO] DeleteHackedCratesFromKnownLocations - Cleanup from known locations finished. Total inactive Hacked Crates (matching type and location) deleted: 0
+2025-09-05 13:07:02 [INFO] PerformImmediateStaticSpawn - Calling CrateSpawner to setup STATIC Hacked Crates...
+2025-09-05 13:07:02 [INFO] CrateSpawner: ------------- Starting IMMEDIATE STATIC Spawn Pass -------------
+2025-09-05 13:07:02 [INFO] CrateSpawner: Processing IMMEDIATE STATIC for ConfigUniqueID: 'DefaultStaticEvent_Example1'.
+2025-09-05 13:07:02 [INFO] SpawnStaticCrates: Procesando 1 localizaciones estaticas para ConfigUniqueID: 'DefaultStaticEvent_Example1'.
+2025-09-05 13:07:02 [INFO] SpawnStaticCrates: Ubicación <2471.820068, 193.177002, 5114.220215> está libre. Intentando generar caja.
+2025-09-05 13:07:02 [INFO] Inventory for BS_Hacked_Crate LOCKED. IsOpen: false LootAccessActionDone: false
+2025-09-05 13:07:02 [INFO] HackedCrate_Base (BS_Hacked_Crate): Instance specific CrateSettings assigned. ConfigUniqueID: DefaultStaticEvent_Example1
+2025-09-05 13:07:02 [INFO] [SpawnAIAroundCrate] They will be generated 2 IA(s) next to the crate.
+2025-09-05 13:07:02 [INFO] [SpawnAIAroundCrate] Success in generatingZmbM_SoldierNormal in <2469.088379, 365.604858, 5097.574707>
+2025-09-05 13:07:02 [INFO] [SpawnAIAroundCrate] Success in generatingZmbM_SoldierNormal in <2451.405762, 362.959534, 5119.939453>
+2025-09-05 13:07:02 [INFO] CrateSpawner: ------------- Finished IMMEDIATE STATIC Spawn Pass -------------
+2025-09-05 13:07:02 [INFO] DeferredEEInitLogic: START for BS_Hacked_Crate<2962872>. m_LoadedExpansionMarkerUID (should be from OnStoreLoad) is ''. Current m_ExpansionMarkerUID (active) is ''
+2025-09-05 13:07:02 [INFO] DeferredEEInitLogic: Settings acquired successfully for BS_Hacked_Crate<2962872>.
+2025-09-05 13:07:02 [INFO] DeferredEEInitLogic: m_ExpansionMarkerUID is empty. Calling CreateExpansionMapMarker for BS_Hacked_Crate<2962872>.
+2025-09-05 13:07:02 [INFO] EXP_DEBUG: Dentro de CreateExpansionMapMarker para BS_Hacked_Crate. UseExpansionMapMarker es true.
+2025-09-05 13:07:02 [INFO] EXP_DEBUG: EXPANSIONMODNAVIGATION está definida.
+2025-09-05 13:07:02 [INFO] EXP_DEBUG: Intentando crear marcador Expansion con Nombre Clave: '#STR_BSHC_HackedCrate_DisplayName', Icono: Hacked Crate, Pos: <2471.820068, 193.177002, 5114.220215>, Color: -65536, Es3D: true
+2025-09-05 13:07:02 [INFO] EXP_DEBUG: UID devuelto por markerData.GetUID(): '#STR_BSHC_HackedCrate_DisplayName1696451130'
+2025-09-05 13:07:02 [INFO] SetExpansionMarkerUID: Setting m_ExpansionMarkerUID to '#STR_BSHC_HackedCrate_DisplayName1696451130' for BS_Hacked_Crate<2962872>
+2025-09-05 13:07:03 [INFO] EXP_SUCCESS: Creado marcador de Expansion (UID guardado: #STR_BSHC_HackedCrate_DisplayName1696451130) en <2471.820068, 193.177002, 5114.220215> para BS_Hacked_Crate
+2025-09-05 13:07:03 [INFO] DeferredEEInitLogic: Final m_LootAccessActionDone for BS_Hacked_Crate<2962872> is: false
+2025-09-05 13:07:03 [INFO] Inventory for BS_Hacked_Crate LOCKED. IsOpen: false LootAccessActionDone: false
+2025-09-05 13:07:03 [INFO] DeferredEEInitLogic: FINISHED for BS_Hacked_Crate<2962872>
+2025-09-05 13:12:08 [INFO] PerformInitialDynamicSpawn - Grace period ended. Calling CrateSpawner to setup initial DYNAMIC Hacked Crates...
+2025-09-05 13:12:08 [INFO] CrateSpawner: ------------- Starting INITIAL DYNAMIC Spawn Pass (Post-Grace) -------------
+2025-09-05 13:12:08 [INFO] CrateSpawner: Current server population for dynamic spawn: 0 players.
+2025-09-05 13:12:08 [INFO] CrateSpawner: Processing DYNAMIC for ConfigUniqueID: 'DefaultDynamicEvent_Example1'.
+2025-09-05 13:12:08 [INFO] CrateSpawner: Skipping ConfigUniqueID 'DefaultDynamicEvent_Example1'. Players required: 1, Current: 0
+2025-09-05 13:12:08 [INFO] CrateSpawner: ------------- Finished INITIAL DYNAMIC Spawn Pass -------------
+2025-09-05 13:21:15 [INFO] ScheduleRemoveExpansionMarker_FromTimer: Timer expired for BS_Hacked_Crate<2939969>. Calling RemoveExpansionMapMarker.
+2025-09-05 13:21:16 [INFO] EXP_REMOVE_DEBUG: Attempting RemoveExpansionMapMarker. Context: MarkerRemovalTimer. Current UID: '#STR_BSHC_HackedCrate_DisplayName - #STR_BSHC_Marker_Unlocked1312988292' for BS_Hacked_Crate<2939969>
+2025-09-05 13:21:16 [INFO] EXP_REMOVE_DEBUG: Calling markerModule.RemoveServerMarker with UID: '#STR_BSHC_HackedCrate_DisplayName - #STR_BSHC_Marker_Unlocked1312988292'. Context: MarkerRemovalTimer for BS_Hacked_Crate<2939969>
+2025-09-05 13:21:16 [INFO] EXP_REMOVE_SUCCESS: Call to RemoveServerMarker performed. Marker should be removed. Context: MarkerRemovalTimer for BS_Hacked_Crate<2939969>
+2025-09-05 13:23:26 [INFO] DeleteCrateScheduled: Auto-despawn timer finished for BS_Hacked_Crate<edafd4e0>. Deleting crate now.
+2025-09-05 13:23:26 [INFO] EXP_REMOVE_DEBUG: Attempting RemoveExpansionMapMarker. Context: UnknownContext. Current UID: '#STR_BSHC_HackedCrate_DisplayName - #STR_BSHC_Marker_Unlocked1312988292' for BS_Hacked_Crate<2939969>
+2025-09-05 13:23:26 [INFO] EXP_REMOVE_DEBUG: Calling markerModule.RemoveServerMarker with UID: '#STR_BSHC_HackedCrate_DisplayName - #STR_BSHC_Marker_Unlocked1312988292'. Context: UnknownContext for BS_Hacked_Crate<2939969>
+2025-09-05 13:23:26 [INFO] EXP_REMOVE_SUCCESS: Call to RemoveServerMarker performed. Marker should be removed. Context: UnknownContext for BS_Hacked_Crate<2939969>
+2025-09-05 13:23:26 [INFO] EEDelete called for BS_Hacked_Crate at <3332.550049, 487.114014, 2033.329956>
+2025-09-05 13:23:26 [INFO] EXP_REMOVE_DEBUG: Attempting RemoveExpansionMapMarker. Context: EEDelete. Current UID: '#STR_BSHC_HackedCrate_DisplayName - #STR_BSHC_Marker_Unlocked1312988292' for BS_Hacked_Crate<2939969>
+2025-09-05 13:23:26 [INFO] EXP_REMOVE_DEBUG: Calling markerModule.RemoveServerMarker with UID: '#STR_BSHC_HackedCrate_DisplayName - #STR_BSHC_Marker_Unlocked1312988292'. Context: EEDelete for BS_Hacked_Crate<2939969>
+2025-09-05 13:23:26 [INFO] EXP_REMOVE_SUCCESS: Call to RemoveServerMarker performed. Marker should be removed. Context: EEDelete for BS_Hacked_Crate<2939969>
+2025-09-05 13:23:26 [INFO] HackedCrate (BS_Hacked_Crate): Sending RPC Notification. Type: DESPAWN, Key: #STR_BSHC_Notification_Despawn_Located
+2025-09-05 13:23:26 [INFO] EEDelete: Removed BS_Hacked_Crate from g_ActiveHackedCrates. Remaining count: 4
+2025-09-05 13:52:51 [INFO] EEDelete called for BS_Hacked_Crate_Red at <6438.100098, 357.165985, 4763.759766>
+2025-09-05 13:52:51 [INFO] EXP_REMOVE_DEBUG: Attempting RemoveExpansionMapMarker. Context: EEDelete. Current UID: '#STR_BSHC_HackedCrate_DisplayName1273403340' for BS_Hacked_Crate_Red<2948317>
+2025-09-05 13:52:51 [INFO] EXP_REMOVE_DEBUG: Calling markerModule.RemoveServerMarker with UID: '#STR_BSHC_HackedCrate_DisplayName1273403340'. Context: EEDelete for BS_Hacked_Crate_Red<2948317>
+2025-09-05 13:52:51 [INFO] EXP_REMOVE_SUCCESS: Call to RemoveServerMarker performed. Marker should be removed. Context: EEDelete for BS_Hacked_Crate_Red<2948317>
+2025-09-05 13:52:51 [INFO] HackedCrate (BS_Hacked_Crate_Red): Sending RPC Notification. Type: DESPAWN, Key: #STR_BSHC_Notification_Despawn_Located
+2025-09-05 13:52:51 [INFO] EEDelete: Removed BS_Hacked_Crate_Red from g_ActiveHackedCrates. Remaining count: 3
+2025-09-05 13:53:47 [INFO] EEDelete called for BS_Hacked_Crate_Black at <7319.649902, 290.610992, 2616.830078>
+2025-09-05 13:53:47 [INFO] EXP_REMOVE_DEBUG: Attempting RemoveExpansionMapMarker. Context: EEDelete. Current UID: '#STR_BSHC_HackedCrate_DisplayName1161398898' for BS_Hacked_Crate_Black<2947248>
+2025-09-05 13:53:47 [INFO] EXP_REMOVE_DEBUG: Calling markerModule.RemoveServerMarker with UID: '#STR_BSHC_HackedCrate_DisplayName1161398898'. Context: EEDelete for BS_Hacked_Crate_Black<2947248>
+2025-09-05 13:53:47 [INFO] EXP_REMOVE_SUCCESS: Call to RemoveServerMarker performed. Marker should be removed. Context: EEDelete for BS_Hacked_Crate_Black<2947248>
+2025-09-05 13:53:47 [INFO] HackedCrate (BS_Hacked_Crate_Black): Sending RPC Notification. Type: DESPAWN, Key: #STR_BSHC_Notification_Despawn_Located
+2025-09-05 13:53:47 [INFO] EEDelete: Removed BS_Hacked_Crate_Black from g_ActiveHackedCrates. Remaining count: 2
+2025-09-05 14:07:04 [INFO] --------------------------------------------------------------------------
+2025-09-05 14:07:04 [INFO] OnCrateSpawnTickPeriodic - Tick received. Re-evaluating Hacked Crate spawns...
+2025-09-05 14:07:04 [INFO] --------------------------------------------------------------------------
+2025-09-05 14:07:04 [INFO] CrateSpawner: ------------- Starting SetupCrateSpawns Pass -------------
+2025-09-05 14:07:04 [INFO] CrateSpawner: Current server population: 1 players.
+2025-09-05 14:07:04 [INFO] CrateSpawner: Processing ConfigUniqueID: 'DefaultStaticEvent_Example1' (CrateType: 'BS_Hacked_Crate', StaticSpawns flag: true)
+2025-09-05 14:07:04 [INFO] CrateSpawner: No min player requirement for ConfigUniqueID 'DefaultStaticEvent_Example1'.
+2025-09-05 14:07:04 [INFO] CrateSpawner: Handling STATIC for ConfigUniqueID: 'DefaultStaticEvent_Example1'.
+2025-09-05 14:07:04 [INFO] SpawnStaticCrates: Procesando 1 localizaciones estaticas para ConfigUniqueID: 'DefaultStaticEvent_Example1'.
+2025-09-05 14:07:04 [INFO] SpawnStaticCrates: La ubicación <2471.820068, 193.177002, 5114.220215> ya está ocupada por una caja activa. Omitiendo.
+2025-09-05 14:07:04 [INFO] CrateSpawner: Processing ConfigUniqueID: 'DefaultDynamicEvent_Example1' (CrateType: 'BS_Hacked_Crate', StaticSpawns flag: false)
+2025-09-05 14:07:04 [INFO] CrateSpawner: Player check PASSED for ConfigUniqueID 'DefaultDynamicEvent_Example1' (1/1).
+2025-09-05 14:07:04 [INFO] CrateSpawner: Handling RANDOM for ConfigUniqueID: 'DefaultDynamicEvent_Example1'.
+2025-09-05 14:07:04 [INFO] CrateSpawner: ConfigUniqueID 'DefaultDynamicEvent_Example1' - Existing: 1, Target Active: 2
+2025-09-05 14:07:04 [INFO] CrateSpawner: Attempting to spawn 1 for ConfigUniqueID: 'DefaultDynamicEvent_Example1'.
+2025-09-05 14:07:04 [INFO] SpawnRandomCrates: Attempting to spawn 1 of type 'BS_Hacked_Crate' with ConfigUniqueID 'DefaultDynamicEvent_Example1'.
+2025-09-05 14:07:04 [INFO] SpawnRandomCrates: Found 2 available locations for ConfigUniqueID 'DefaultDynamicEvent_Example1'.
+2025-09-05 14:07:04 [INFO] CrateSpawner: Sending spawn warning for 'BS_Hacked_Crate' at VMC
+2025-09-05 14:07:04 [INFO] CrateSpawner: Added to pending list for ConfigUniqueID 'DefaultDynamicEvent_Example1'. New pending count: 1
+2025-09-05 14:07:04 [INFO] CrateSpawner: ------------- Finished SetupCrateSpawns Pass -------------
+2025-09-05 14:07:04 [INFO] OnCrateSpawnTickPeriodic - Periodic spawn pass completed. Next periodic tick scheduled in 3600 seconds.
+2025-09-05 14:07:18 [INFO] EEDelete called for BS_Hacked_Crate_Blue at <1833.869995, 205.158005, 7328.250000>
+2025-09-05 14:07:18 [INFO] EXP_REMOVE_DEBUG: Attempting RemoveExpansionMapMarker. Context: EEDelete. Current UID: '#STR_BSHC_HackedCrate_DisplayName155849364' for BS_Hacked_Crate_Blue<2938086>
+2025-09-05 14:07:18 [INFO] EXP_REMOVE_DEBUG: Calling markerModule.RemoveServerMarker with UID: '#STR_BSHC_HackedCrate_DisplayName155849364'. Context: EEDelete for BS_Hacked_Crate_Blue<2938086>
+2025-09-05 14:07:18 [INFO] EXP_REMOVE_SUCCESS: Call to RemoveServerMarker performed. Marker should be removed. Context: EEDelete for BS_Hacked_Crate_Blue<2938086>
+2025-09-05 14:07:18 [INFO] HackedCrate (BS_Hacked_Crate_Blue): Sending RPC Notification. Type: DESPAWN, Key: #STR_BSHC_Notification_Despawn_Located
+2025-09-05 14:07:18 [INFO] EEDelete: Removed BS_Hacked_Crate_Blue from g_ActiveHackedCrates. Remaining count: 1
+2025-09-05 14:17:04 [INFO] SpawnCrateAfterWarning: Timer finished. Spawning crate BS_Hacked_Crate. Removed from pending list. New pending count: 0
+2025-09-05 14:17:04 [INFO] Inventory for BS_Hacked_Crate LOCKED. IsOpen: false LootAccessActionDone: false
+2025-09-05 14:17:04 [INFO] HackedCrate_Base (BS_Hacked_Crate): Instance specific CrateSettings assigned. ConfigUniqueID: DefaultDynamicEvent_Example1
+2025-09-05 14:17:04 [INFO] [SpawnAIAroundCrate] They will be generated 3 IA(s) next to the crate.
+2025-09-05 14:17:04 [INFO] [SpawnAIAroundCrate] Success in generatingZmbM_SoldierNormal in <4534.890625, 194.213470, 8358.512695>
+2025-09-05 14:17:04 [INFO] [SpawnAIAroundCrate] Success in generatingZmbM_SoldierNormal in <4571.093750, 196.042770, 8364.457031>
+2025-09-05 14:17:04 [INFO] [SpawnAIAroundCrate] Success in generatingZmbM_SoldierNormal in <4567.948242, 196.309875, 8359.918945>
+2025-09-05 14:17:05 [INFO] DeferredEEInitLogic: START for BS_Hacked_Crate<2971149>. m_LoadedExpansionMarkerUID (should be from OnStoreLoad) is ''. Current m_ExpansionMarkerUID (active) is ''
+2025-09-05 14:17:05 [INFO] DeferredEEInitLogic: Settings acquired successfully for BS_Hacked_Crate<2971149>.
+2025-09-05 14:17:05 [INFO] DeferredEEInitLogic: m_ExpansionMarkerUID is empty. Calling CreateExpansionMapMarker for BS_Hacked_Crate<2971149>.
+2025-09-05 14:17:05 [INFO] EXP_DEBUG: Dentro de CreateExpansionMapMarker para BS_Hacked_Crate. UseExpansionMapMarker es true.
+2025-09-05 14:17:05 [INFO] EXP_DEBUG: EXPANSIONMODNAVIGATION está definida.
+2025-09-05 14:17:05 [INFO] EXP_DEBUG: Intentando crear marcador Expansion con Nombre Clave: '#STR_BSHC_HackedCrate_DisplayName', Icono: Hacked Crate, Pos: <4553.689941, 317.975006, 8352.099609>, Color: -65536, Es3D: true
+2025-09-05 14:17:05 [INFO] EXP_DEBUG: UID devuelto por markerData.GetUID(): '#STR_BSHC_HackedCrate_DisplayName112528746'
+2025-09-05 14:17:05 [INFO] SetExpansionMarkerUID: Setting m_ExpansionMarkerUID to '#STR_BSHC_HackedCrate_DisplayName112528746' for BS_Hacked_Crate<2971149>
+2025-09-05 14:17:05 [INFO] EXP_SUCCESS: Creado marcador de Expansion (UID guardado: #STR_BSHC_HackedCrate_DisplayName112528746) en <4553.689941, 317.975006, 8352.099609> para BS_Hacked_Crate
+2025-09-05 14:17:05 [INFO] DeferredEEInitLogic: Final m_LootAccessActionDone for BS_Hacked_Crate<2971149> is: false
+2025-09-05 14:17:05 [INFO] Inventory for BS_Hacked_Crate LOCKED. IsOpen: false LootAccessActionDone: false
+2025-09-05 14:17:05 [INFO] DeferredEEInitLogic: FINISHED for BS_Hacked_Crate<2971149>
+2025-09-05 14:23:38 [INFO] EEDelete (BS_Hacked_Crate): Cleaning up 2 referenced AI units...
+2025-09-05 14:23:38 [INFO] EEDelete called for BS_Hacked_Crate at <2471.820068, 193.177002, 5114.220215>
+2025-09-05 14:23:38 [INFO] EXP_REMOVE_DEBUG: Attempting RemoveExpansionMapMarker. Context: EEDelete. Current UID: '#STR_BSHC_HackedCrate_DisplayName1696451130' for BS_Hacked_Crate<2962872>
+2025-09-05 14:23:38 [INFO] EXP_REMOVE_DEBUG: Calling markerModule.RemoveServerMarker with UID: '#STR_BSHC_HackedCrate_DisplayName1696451130'. Context: EEDelete for BS_Hacked_Crate<2962872>
+2025-09-05 14:23:38 [INFO] EXP_REMOVE_SUCCESS: Call to RemoveServerMarker performed. Marker should be removed. Context: EEDelete for BS_Hacked_Crate<2962872>
+2025-09-05 14:23:38 [INFO] HackedCrate (BS_Hacked_Crate): Sending RPC Notification. Type: DESPAWN, Key: #STR_BSHC_Notification_Despawn_Located
+2025-09-05 14:23:38 [INFO] EEDelete: Removed BS_Hacked_Crate from g_ActiveHackedCrates. Remaining count: 1
+2025-09-05 14:54:06 [INFO] EEDelete (BS_Hacked_Crate): Cleaning up 3 referenced AI units...
+2025-09-05 14:54:06 [INFO] EEDelete called for BS_Hacked_Crate at <4553.689941, 317.975006, 8352.099609>
+2025-09-05 14:54:06 [INFO] EXP_REMOVE_DEBUG: Attempting RemoveExpansionMapMarker. Context: EEDelete. Current UID: '#STR_BSHC_HackedCrate_DisplayName112528746' for BS_Hacked_Crate<2971149>
+2025-09-05 14:54:06 [INFO] EXP_REMOVE_DEBUG: Calling markerModule.RemoveServerMarker with UID: '#STR_BSHC_HackedCrate_DisplayName112528746'. Context: EEDelete for BS_Hacked_Crate<2971149>
+2025-09-05 14:54:06 [INFO] EXP_REMOVE_SUCCESS: Call to RemoveServerMarker performed. Marker should be removed. Context: EEDelete for BS_Hacked_Crate<2971149>
+2025-09-05 14:54:06 [INFO] HackedCrate (BS_Hacked_Crate): Sending RPC Notification. Type: DESPAWN, Key: #STR_BSHC_Notification_Despawn_Located
+2025-09-05 14:54:06 [INFO] EEDelete: Removed BS_Hacked_Crate from g_ActiveHackedCrates. Remaining count: 0
+2025-09-05 15:07:07 [INFO] --------------------------------------------------------------------------
+2025-09-05 15:07:07 [INFO] OnCrateSpawnTickPeriodic - Tick received. Re-evaluating Hacked Crate spawns...
+2025-09-05 15:07:07 [INFO] --------------------------------------------------------------------------
+2025-09-05 15:07:07 [INFO] CrateSpawner: ------------- Starting SetupCrateSpawns Pass -------------
+2025-09-05 15:07:07 [INFO] CrateSpawner: Current server population: 3 players.
+2025-09-05 15:07:07 [INFO] CrateSpawner: Processing ConfigUniqueID: 'DefaultStaticEvent_Example1' (CrateType: 'BS_Hacked_Crate', StaticSpawns flag: true)
+2025-09-05 15:07:07 [INFO] CrateSpawner: No min player requirement for ConfigUniqueID 'DefaultStaticEvent_Example1'.
+2025-09-05 15:07:07 [INFO] CrateSpawner: Handling STATIC for ConfigUniqueID: 'DefaultStaticEvent_Example1'.
+2025-09-05 15:07:07 [INFO] SpawnStaticCrates: Procesando 1 localizaciones estaticas para ConfigUniqueID: 'DefaultStaticEvent_Example1'.
+2025-09-05 15:07:07 [INFO] SpawnStaticCrates: Ubicación <2471.820068, 193.177002, 5114.220215> está libre. Intentando generar caja.
+2025-09-05 15:07:07 [INFO] Inventory for BS_Hacked_Crate LOCKED. IsOpen: false LootAccessActionDone: false
+2025-09-05 15:07:07 [INFO] HackedCrate_Base (BS_Hacked_Crate): Instance specific CrateSettings assigned. ConfigUniqueID: DefaultStaticEvent_Example1
+2025-09-05 15:07:07 [INFO] CrateSpawner: Standard Notification RPC sent. Key: #STR_BSHC_Notification_Spawn_Located
+2025-09-05 15:07:07 [INFO] [SpawnAIAroundCrate] They will be generated 3 IA(s) next to the crate.
+2025-09-05 15:07:07 [INFO] [SpawnAIAroundCrate] Success in generatingZmbM_SoldierNormal in <2484.337402, 368.518188, 5129.774902>
+2025-09-05 15:07:07 [INFO] [SpawnAIAroundCrate] Success in generatingZmbM_SoldierNormal in <2482.745117, 367.887207, 5120.239258>
+2025-09-05 15:07:07 [INFO] [SpawnAIAroundCrate] Success in generatingZmbM_SoldierNormal in <2475.810791, 366.986908, 5124.900879>
+2025-09-05 15:07:07 [INFO] CrateSpawner: Processing ConfigUniqueID: 'DefaultDynamicEvent_Example1' (CrateType: 'BS_Hacked_Crate', StaticSpawns flag: false)
+2025-09-05 15:07:07 [INFO] CrateSpawner: Player check PASSED for ConfigUniqueID 'DefaultDynamicEvent_Example1' (3/1).
+2025-09-05 15:07:07 [INFO] CrateSpawner: Handling RANDOM for ConfigUniqueID: 'DefaultDynamicEvent_Example1'.
+2025-09-05 15:07:07 [INFO] CrateSpawner: ConfigUniqueID 'DefaultDynamicEvent_Example1' - Existing: 0, Target Active: 2
+2025-09-05 15:07:07 [INFO] CrateSpawner: Attempting to spawn 2 for ConfigUniqueID: 'DefaultDynamicEvent_Example1'.
+2025-09-05 15:07:07 [INFO] SpawnRandomCrates: Attempting to spawn 2 of type 'BS_Hacked_Crate' with ConfigUniqueID 'DefaultDynamicEvent_Example1'.
+2025-09-05 15:07:07 [INFO] SpawnRandomCrates: Found 2 available locations for ConfigUniqueID 'DefaultDynamicEvent_Example1'.
+2025-09-05 15:07:07 [INFO] CrateSpawner: Sending spawn warning for 'BS_Hacked_Crate' at Airfield
+2025-09-05 15:07:07 [INFO] CrateSpawner: Added to pending list for ConfigUniqueID 'DefaultDynamicEvent_Example1'. New pending count: 1
+2025-09-05 15:07:07 [INFO] CrateSpawner: Sending spawn warning for 'BS_Hacked_Crate' at VMC
+2025-09-05 15:07:07 [INFO] CrateSpawner: Added to pending list for ConfigUniqueID 'DefaultDynamicEvent_Example1'. New pending count: 2
+2025-09-05 15:07:07 [INFO] CrateSpawner: ------------- Finished SetupCrateSpawns Pass -------------
+2025-09-05 15:07:07 [INFO] OnCrateSpawnTickPeriodic - Periodic spawn pass completed. Next periodic tick scheduled in 3600 seconds.
+2025-09-05 15:07:07 [INFO] DeferredEEInitLogic: START for BS_Hacked_Crate<2978398>. m_LoadedExpansionMarkerUID (should be from OnStoreLoad) is ''. Current m_ExpansionMarkerUID (active) is ''
+2025-09-05 15:07:07 [INFO] DeferredEEInitLogic: Settings acquired successfully for BS_Hacked_Crate<2978398>.
+2025-09-05 15:07:07 [INFO] DeferredEEInitLogic: m_ExpansionMarkerUID is empty. Calling CreateExpansionMapMarker for BS_Hacked_Crate<2978398>.
+2025-09-05 15:07:07 [INFO] EXP_DEBUG: Dentro de CreateExpansionMapMarker para BS_Hacked_Crate. UseExpansionMapMarker es true.
+2025-09-05 15:07:07 [INFO] EXP_DEBUG: EXPANSIONMODNAVIGATION está definida.
+2025-09-05 15:07:07 [INFO] EXP_DEBUG: Intentando crear marcador Expansion con Nombre Clave: '#STR_BSHC_HackedCrate_DisplayName', Icono: Hacked Crate, Pos: <2471.820068, 193.177002, 5114.220215>, Color: -65536, Es3D: true
+2025-09-05 15:07:07 [INFO] EXP_DEBUG: UID devuelto por markerData.GetUID(): '#STR_BSHC_HackedCrate_DisplayName669536208'
+2025-09-05 15:07:07 [INFO] SetExpansionMarkerUID: Setting m_ExpansionMarkerUID to '#STR_BSHC_HackedCrate_DisplayName669536208' for BS_Hacked_Crate<2978398>
+2025-09-05 15:07:07 [INFO] EXP_SUCCESS: Creado marcador de Expansion (UID guardado: #STR_BSHC_HackedCrate_DisplayName669536208) en <2471.820068, 193.177002, 5114.220215> para BS_Hacked_Crate
+2025-09-05 15:07:07 [INFO] DeferredEEInitLogic: Final m_LootAccessActionDone for BS_Hacked_Crate<2978398> is: false
+2025-09-05 15:07:07 [INFO] Inventory for BS_Hacked_Crate LOCKED. IsOpen: false LootAccessActionDone: false
+2025-09-05 15:07:07 [INFO] DeferredEEInitLogic: FINISHED for BS_Hacked_Crate<2978398>
+2025-09-05 15:17:09 [INFO] SpawnCrateAfterWarning: Timer finished. Spawning crate BS_Hacked_Crate. Removed from pending list. New pending count: 1
+2025-09-05 15:17:09 [INFO] Inventory for BS_Hacked_Crate LOCKED. IsOpen: false LootAccessActionDone: false
+2025-09-05 15:17:09 [INFO] HackedCrate_Base (BS_Hacked_Crate): Instance specific CrateSettings assigned. ConfigUniqueID: DefaultDynamicEvent_Example1
+2025-09-05 15:17:09 [INFO] CrateSpawner: Standard Notification RPC sent. Key: #STR_BSHC_Notification_Spawn_Located
+2025-09-05 15:17:09 [INFO] [SpawnAIAroundCrate] They will be generated 1 IA(s) next to the crate.
+2025-09-05 15:17:09 [INFO] [SpawnAIAroundCrate] Success in generatingZmbM_SoldierNormal in <4726.141113, 210.676453, 10361.027344>
+2025-09-05 15:17:09 [INFO] SpawnCrateAfterWarning: Timer finished. Spawning crate BS_Hacked_Crate. Removed from pending list. New pending count: 0
+2025-09-05 15:17:09 [INFO] Inventory for BS_Hacked_Crate LOCKED. IsOpen: false LootAccessActionDone: false
+2025-09-05 15:17:09 [INFO] HackedCrate_Base (BS_Hacked_Crate): Instance specific CrateSettings assigned. ConfigUniqueID: DefaultDynamicEvent_Example1
+2025-09-05 15:17:09 [INFO] CrateSpawner: Standard Notification RPC sent. Key: #STR_BSHC_Notification_Spawn_Located
+2025-09-05 15:17:09 [INFO] [SpawnAIAroundCrate] They will be generated 1 IA(s) next to the crate.
+2025-09-05 15:17:09 [INFO] [SpawnAIAroundCrate] Success in generatingZmbM_SoldierNormal in <4569.394043, 195.820007, 8365.836914>
+2025-09-05 15:17:09 [INFO] DeferredEEInitLogic: START for BS_Hacked_Crate<2979627>. m_LoadedExpansionMarkerUID (should be from OnStoreLoad) is ''. Current m_ExpansionMarkerUID (active) is ''
+2025-09-05 15:17:09 [INFO] DeferredEEInitLogic: Settings acquired successfully for BS_Hacked_Crate<2979627>.
+2025-09-05 15:17:09 [INFO] DeferredEEInitLogic: m_ExpansionMarkerUID is empty. Calling CreateExpansionMapMarker for BS_Hacked_Crate<2979627>.
+2025-09-05 15:17:09 [INFO] EXP_DEBUG: Dentro de CreateExpansionMapMarker para BS_Hacked_Crate. UseExpansionMapMarker es true.
+2025-09-05 15:17:09 [INFO] EXP_DEBUG: EXPANSIONMODNAVIGATION está definida.
+2025-09-05 15:17:09 [INFO] EXP_DEBUG: Intentando crear marcador Expansion con Nombre Clave: '#STR_BSHC_HackedCrate_DisplayName', Icono: Hacked Crate, Pos: <4732.430176, 338.968994, 10350.200195>, Color: -65536, Es3D: true
+2025-09-05 15:17:09 [INFO] EXP_DEBUG: UID devuelto por markerData.GetUID(): '#STR_BSHC_HackedCrate_DisplayName1878384618'
+2025-09-05 15:17:09 [INFO] SetExpansionMarkerUID: Setting m_ExpansionMarkerUID to '#STR_BSHC_HackedCrate_DisplayName1878384618' for BS_Hacked_Crate<2979627>
+2025-09-05 15:17:09 [INFO] EXP_SUCCESS: Creado marcador de Expansion (UID guardado: #STR_BSHC_HackedCrate_DisplayName1878384618) en <4732.430176, 338.968994, 10350.200195> para BS_Hacked_Crate
+2025-09-05 15:17:09 [INFO] DeferredEEInitLogic: Final m_LootAccessActionDone for BS_Hacked_Crate<2979627> is: false
+2025-09-05 15:17:09 [INFO] Inventory for BS_Hacked_Crate LOCKED. IsOpen: false LootAccessActionDone: false
+2025-09-05 15:17:09 [INFO] DeferredEEInitLogic: FINISHED for BS_Hacked_Crate<2979627>
+2025-09-05 15:17:09 [INFO] DeferredEEInitLogic: START for BS_Hacked_Crate<2979629>. m_LoadedExpansionMarkerUID (should be from OnStoreLoad) is ''. Current m_ExpansionMarkerUID (active) is ''
+2025-09-05 15:17:09 [INFO] DeferredEEInitLogic: Settings acquired successfully for BS_Hacked_Crate<2979629>.
+2025-09-05 15:17:09 [INFO] DeferredEEInitLogic: m_ExpansionMarkerUID is empty. Calling CreateExpansionMapMarker for BS_Hacked_Crate<2979629>.
+2025-09-05 15:17:09 [INFO] EXP_DEBUG: Dentro de CreateExpansionMapMarker para BS_Hacked_Crate. UseExpansionMapMarker es true.
+2025-09-05 15:17:09 [INFO] EXP_DEBUG: EXPANSIONMODNAVIGATION está definida.
+2025-09-05 15:17:09 [INFO] EXP_DEBUG: Intentando crear marcador Expansion con Nombre Clave: '#STR_BSHC_HackedCrate_DisplayName', Icono: Hacked Crate, Pos: <4553.689941, 317.975006, 8352.099609>, Color: -65536, Es3D: true
+2025-09-05 15:17:09 [INFO] EXP_DEBUG: UID devuelto por markerData.GetUID(): '#STR_BSHC_HackedCrate_DisplayName289809036'
+2025-09-05 15:17:09 [INFO] SetExpansionMarkerUID: Setting m_ExpansionMarkerUID to '#STR_BSHC_HackedCrate_DisplayName289809036' for BS_Hacked_Crate<2979629>
+2025-09-05 15:17:09 [INFO] EXP_SUCCESS: Creado marcador de Expansion (UID guardado: #STR_BSHC_HackedCrate_DisplayName289809036) en <4553.689941, 317.975006, 8352.099609> para BS_Hacked_Crate
+2025-09-05 15:17:09 [INFO] DeferredEEInitLogic: Final m_LootAccessActionDone for BS_Hacked_Crate<2979629> is: false
+2025-09-05 15:17:09 [INFO] Inventory for BS_Hacked_Crate LOCKED. IsOpen: false LootAccessActionDone: false
+2025-09-05 15:17:09 [INFO] DeferredEEInitLogic: FINISHED for BS_Hacked_Crate<2979629>
+2025-09-05 16:03:03 [INFO] EEDelete (BS_Hacked_Crate): Cleaning up 3 referenced AI units...
+2025-09-05 16:03:03 [INFO] EEDelete called for BS_Hacked_Crate at <2471.820068, 193.177002, 5114.220215>
+2025-09-05 16:03:03 [INFO] EXP_REMOVE_DEBUG: Attempting RemoveExpansionMapMarker. Context: EEDelete. Current UID: '#STR_BSHC_HackedCrate_DisplayName669536208' for BS_Hacked_Crate<2978398>
+2025-09-05 16:03:03 [INFO] EXP_REMOVE_DEBUG: Calling markerModule.RemoveServerMarker with UID: '#STR_BSHC_HackedCrate_DisplayName669536208'. Context: EEDelete for BS_Hacked_Crate<2978398>
+2025-09-05 16:03:03 [INFO] EXP_REMOVE_SUCCESS: Call to RemoveServerMarker performed. Marker should be removed. Context: EEDelete for BS_Hacked_Crate<2978398>
+2025-09-05 16:03:03 [INFO] HackedCrate (BS_Hacked_Crate): Sending RPC Notification. Type: DESPAWN, Key: #STR_BSHC_Notification_Despawn_Located
+2025-09-05 16:03:03 [INFO] EEDelete: Removed BS_Hacked_Crate from g_ActiveHackedCrates. Remaining count: 2
+2025-09-05 16:07:13 [INFO] --------------------------------------------------------------------------
+2025-09-05 16:07:13 [INFO] OnCrateSpawnTickPeriodic - Tick received. Re-evaluating Hacked Crate spawns...
+2025-09-05 16:07:13 [INFO] --------------------------------------------------------------------------
+2025-09-05 16:07:13 [INFO] CrateSpawner: ------------- Starting SetupCrateSpawns Pass -------------
+2025-09-05 16:07:13 [INFO] CrateSpawner: Current server population: 3 players.
+2025-09-05 16:07:13 [INFO] CrateSpawner: Processing ConfigUniqueID: 'DefaultStaticEvent_Example1' (CrateType: 'BS_Hacked_Crate', StaticSpawns flag: true)
+2025-09-05 16:07:13 [INFO] CrateSpawner: No min player requirement for ConfigUniqueID 'DefaultStaticEvent_Example1'.
+2025-09-05 16:07:13 [INFO] CrateSpawner: Handling STATIC for ConfigUniqueID: 'DefaultStaticEvent_Example1'.
+2025-09-05 16:07:13 [INFO] SpawnStaticCrates: Procesando 1 localizaciones estaticas para ConfigUniqueID: 'DefaultStaticEvent_Example1'.
+2025-09-05 16:07:13 [INFO] SpawnStaticCrates: Ubicación <2471.820068, 193.177002, 5114.220215> está libre. Intentando generar caja.
+2025-09-05 16:07:13 [INFO] Inventory for BS_Hacked_Crate LOCKED. IsOpen: false LootAccessActionDone: false
+2025-09-05 16:07:13 [INFO] HackedCrate_Base (BS_Hacked_Crate): Instance specific CrateSettings assigned. ConfigUniqueID: DefaultStaticEvent_Example1
+2025-09-05 16:07:13 [INFO] CrateSpawner: Standard Notification RPC sent. Key: #STR_BSHC_Notification_Spawn_Located
+2025-09-05 16:07:13 [INFO] [SpawnAIAroundCrate] They will be generated 3 IA(s) next to the crate.
+2025-09-05 16:07:13 [INFO] [SpawnAIAroundCrate] Success in generatingZmbM_SoldierNormal in <2486.801270, 368.424408, 5119.112305>
+2025-09-05 16:07:13 [INFO] [SpawnAIAroundCrate] Success in generatingZmbM_SoldierNormal in <2480.848145, 367.339417, 5097.218750>
+2025-09-05 16:07:13 [INFO] [SpawnAIAroundCrate] Success in generatingZmbM_SoldierNormal in <2477.103027, 367.409119, 5129.871094>
+2025-09-05 16:07:13 [INFO] CrateSpawner: Processing ConfigUniqueID: 'DefaultDynamicEvent_Example1' (CrateType: 'BS_Hacked_Crate', StaticSpawns flag: false)
+2025-09-05 16:07:13 [INFO] CrateSpawner: Player check PASSED for ConfigUniqueID 'DefaultDynamicEvent_Example1' (3/1).
+2025-09-05 16:07:13 [INFO] CrateSpawner: Handling RANDOM for ConfigUniqueID: 'DefaultDynamicEvent_Example1'.
+2025-09-05 16:07:13 [INFO] CrateSpawner: ConfigUniqueID 'DefaultDynamicEvent_Example1' - Existing: 2, Target Active: 2
+2025-09-05 16:07:13 [INFO] CrateSpawner: Max ActiveCrateCount for ConfigUniqueID 'DefaultDynamicEvent_Example1' met. No new random spawns.
+2025-09-05 16:07:13 [INFO] CrateSpawner: ------------- Finished SetupCrateSpawns Pass -------------
+2025-09-05 16:07:13 [INFO] OnCrateSpawnTickPeriodic - Periodic spawn pass completed. Next periodic tick scheduled in 3600 seconds.
+2025-09-05 16:07:13 [INFO] DeferredEEInitLogic: START for BS_Hacked_Crate<2985751>. m_LoadedExpansionMarkerUID (should be from OnStoreLoad) is ''. Current m_ExpansionMarkerUID (active) is ''
+2025-09-05 16:07:13 [INFO] DeferredEEInitLogic: Settings acquired successfully for BS_Hacked_Crate<2985751>.
+2025-09-05 16:07:13 [INFO] DeferredEEInitLogic: m_ExpansionMarkerUID is empty. Calling CreateExpansionMapMarker for BS_Hacked_Crate<2985751>.
+2025-09-05 16:07:13 [INFO] EXP_DEBUG: Dentro de CreateExpansionMapMarker para BS_Hacked_Crate. UseExpansionMapMarker es true.
+2025-09-05 16:07:14 [INFO] EXP_DEBUG: EXPANSIONMODNAVIGATION está definida.
+2025-09-05 16:07:14 [INFO] EXP_DEBUG: Intentando crear marcador Expansion con Nombre Clave: '#STR_BSHC_HackedCrate_DisplayName', Icono: Hacked Crate, Pos: <2471.820068, 193.177002, 5114.220215>, Color: -65536, Es3D: true
+2025-09-05 16:07:14 [INFO] EXP_DEBUG: UID devuelto por markerData.GetUID(): '#STR_BSHC_HackedCrate_DisplayName2095839702'
+2025-09-05 16:07:14 [INFO] SetExpansionMarkerUID: Setting m_ExpansionMarkerUID to '#STR_BSHC_HackedCrate_DisplayName2095839702' for BS_Hacked_Crate<2985751>
+2025-09-05 16:07:14 [INFO] EXP_SUCCESS: Creado marcador de Expansion (UID guardado: #STR_BSHC_HackedCrate_DisplayName2095839702) en <2471.820068, 193.177002, 5114.220215> para BS_Hacked_Crate
+2025-09-05 16:07:14 [INFO] DeferredEEInitLogic: Final m_LootAccessActionDone for BS_Hacked_Crate<2985751> is: false
+2025-09-05 16:07:14 [INFO] Inventory for BS_Hacked_Crate LOCKED. IsOpen: false LootAccessActionDone: false
+2025-09-05 16:07:14 [INFO] DeferredEEInitLogic: FINISHED for BS_Hacked_Crate<2985751>
+2025-09-05 16:13:19 [INFO] EEDelete (BS_Hacked_Crate): Cleaning up 1 referenced AI units...
+2025-09-05 16:13:19 [INFO] EEDelete called for BS_Hacked_Crate at <4732.430176, 338.968994, 10350.200195>
+2025-09-05 16:13:19 [INFO] EXP_REMOVE_DEBUG: Attempting RemoveExpansionMapMarker. Context: EEDelete. Current UID: '#STR_BSHC_HackedCrate_DisplayName1878384618' for BS_Hacked_Crate<2979627>
+2025-09-05 16:13:19 [INFO] EXP_REMOVE_DEBUG: Calling markerModule.RemoveServerMarker with UID: '#STR_BSHC_HackedCrate_DisplayName1878384618'. Context: EEDelete for BS_Hacked_Crate<2979627>
+2025-09-05 16:13:19 [INFO] EXP_REMOVE_SUCCESS: Call to RemoveServerMarker performed. Marker should be removed. Context: EEDelete for BS_Hacked_Crate<2979627>
+2025-09-05 16:13:19 [INFO] HackedCrate (BS_Hacked_Crate): Sending RPC Notification. Type: DESPAWN, Key: #STR_BSHC_Notification_Despawn_Located
+2025-09-05 16:13:19 [INFO] EEDelete: Removed BS_Hacked_Crate from g_ActiveHackedCrates. Remaining count: 2
+2025-09-05 16:17:30 [INFO] EEDelete (BS_Hacked_Crate): Cleaning up 1 referenced AI units...
+2025-09-05 16:17:30 [INFO] EEDelete called for BS_Hacked_Crate at <4553.689941, 317.975006, 8352.099609>
+2025-09-05 16:17:30 [INFO] EXP_REMOVE_DEBUG: Attempting RemoveExpansionMapMarker. Context: EEDelete. Current UID: '#STR_BSHC_HackedCrate_DisplayName289809036' for BS_Hacked_Crate<2979629>
+2025-09-05 16:17:30 [INFO] EXP_REMOVE_DEBUG: Calling markerModule.RemoveServerMarker with UID: '#STR_BSHC_HackedCrate_DisplayName289809036'. Context: EEDelete for BS_Hacked_Crate<2979629>
+2025-09-05 16:17:30 [INFO] EXP_REMOVE_SUCCESS: Call to RemoveServerMarker performed. Marker should be removed. Context: EEDelete for BS_Hacked_Crate<2979629>
+2025-09-05 16:17:30 [INFO] HackedCrate (BS_Hacked_Crate): Sending RPC Notification. Type: DESPAWN, Key: #STR_BSHC_Notification_Despawn_Located
+2025-09-05 16:17:30 [INFO] EEDelete: Removed BS_Hacked_Crate from g_ActiveHackedCrates. Remaining count: 1
+2025-09-05 16:45:37 [INFO] EEDelete (BS_Hacked_Crate): Cleaning up 3 referenced AI units...
+2025-09-05 16:45:37 [INFO] EEDelete called for BS_Hacked_Crate at <2471.820068, 193.177002, 5114.220215>
+2025-09-05 16:45:37 [INFO] EXP_REMOVE_DEBUG: Attempting RemoveExpansionMapMarker. Context: EEDelete. Current UID: '#STR_BSHC_HackedCrate_DisplayName2095839702' for BS_Hacked_Crate<2985751>
+2025-09-05 16:45:37 [INFO] EXP_REMOVE_DEBUG: Calling markerModule.RemoveServerMarker with UID: '#STR_BSHC_HackedCrate_DisplayName2095839702'. Context: EEDelete for BS_Hacked_Crate<2985751>
+2025-09-05 16:45:37 [INFO] EXP_REMOVE_SUCCESS: Call to RemoveServerMarker performed. Marker should be removed. Context: EEDelete for BS_Hacked_Crate<2985751>
+2025-09-05 16:45:37 [INFO] HackedCrate (BS_Hacked_Crate): Sending RPC Notification. Type: DESPAWN, Key: #STR_BSHC_Notification_Despawn_Located
+2025-09-05 16:45:37 [INFO] EEDelete: Removed BS_Hacked_Crate from g_ActiveHackedCrates. Remaining count: 0
+2025-09-05 17:07:16 [INFO] --------------------------------------------------------------------------
+2025-09-05 17:07:16 [INFO] OnCrateSpawnTickPeriodic - Tick received. Re-evaluating Hacked Crate spawns...
+2025-09-05 17:07:16 [INFO] --------------------------------------------------------------------------
+2025-09-05 17:07:16 [INFO] CrateSpawner: ------------- Starting SetupCrateSpawns Pass -------------
+2025-09-05 17:07:16 [INFO] CrateSpawner: Current server population: 3 players.
+2025-09-05 17:07:16 [INFO] CrateSpawner: Processing ConfigUniqueID: 'DefaultStaticEvent_Example1' (CrateType: 'BS_Hacked_Crate', StaticSpawns flag: true)
+2025-09-05 17:07:16 [INFO] CrateSpawner: No min player requirement for ConfigUniqueID 'DefaultStaticEvent_Example1'.
+2025-09-05 17:07:16 [INFO] CrateSpawner: Handling STATIC for ConfigUniqueID: 'DefaultStaticEvent_Example1'.
+2025-09-05 17:07:16 [INFO] SpawnStaticCrates: Procesando 1 localizaciones estaticas para ConfigUniqueID: 'DefaultStaticEvent_Example1'.
+2025-09-05 17:07:16 [INFO] SpawnStaticCrates: Ubicación <2471.820068, 193.177002, 5114.220215> está libre. Intentando generar caja.
+2025-09-05 17:07:16 [INFO] Inventory for BS_Hacked_Crate LOCKED. IsOpen: false LootAccessActionDone: false
+2025-09-05 17:07:16 [INFO] HackedCrate_Base (BS_Hacked_Crate): Instance specific CrateSettings assigned. ConfigUniqueID: DefaultStaticEvent_Example1
+2025-09-05 17:07:16 [INFO] CrateSpawner: Standard Notification RPC sent. Key: #STR_BSHC_Notification_Spawn_Located
+2025-09-05 17:07:16 [INFO] [SpawnAIAroundCrate] They will be generated 2 IA(s) next to the crate.
+2025-09-05 17:07:16 [INFO] [SpawnAIAroundCrate] Success in generatingZmbM_SoldierNormal in <2494.915771, 369.226379, 5108.283691>
+2025-09-05 17:07:16 [INFO] [SpawnAIAroundCrate] Success in generatingZmbM_SoldierNormal in <2484.124268, 367.823029, 5109.421875>
+2025-09-05 17:07:16 [INFO] CrateSpawner: Processing ConfigUniqueID: 'DefaultDynamicEvent_Example1' (CrateType: 'BS_Hacked_Crate', StaticSpawns flag: false)
+2025-09-05 17:07:16 [INFO] CrateSpawner: Player check PASSED for ConfigUniqueID 'DefaultDynamicEvent_Example1' (3/1).
+2025-09-05 17:07:16 [INFO] CrateSpawner: Handling RANDOM for ConfigUniqueID: 'DefaultDynamicEvent_Example1'.
+2025-09-05 17:07:16 [INFO] CrateSpawner: ConfigUniqueID 'DefaultDynamicEvent_Example1' - Existing: 0, Target Active: 2
+2025-09-05 17:07:16 [INFO] CrateSpawner: Attempting to spawn 2 for ConfigUniqueID: 'DefaultDynamicEvent_Example1'.
+2025-09-05 17:07:16 [INFO] SpawnRandomCrates: Attempting to spawn 2 of type 'BS_Hacked_Crate' with ConfigUniqueID 'DefaultDynamicEvent_Example1'.
+2025-09-05 17:07:16 [INFO] SpawnRandomCrates: Found 2 available locations for ConfigUniqueID 'DefaultDynamicEvent_Example1'.
+2025-09-05 17:07:16 [INFO] CrateSpawner: Sending spawn warning for 'BS_Hacked_Crate' at VMC
+2025-09-05 17:07:16 [INFO] CrateSpawner: Added to pending list for ConfigUniqueID 'DefaultDynamicEvent_Example1'. New pending count: 1
+2025-09-05 17:07:16 [INFO] CrateSpawner: Sending spawn warning for 'BS_Hacked_Crate' at Airfield
+2025-09-05 17:07:16 [INFO] CrateSpawner: Added to pending list for ConfigUniqueID 'DefaultDynamicEvent_Example1'. New pending count: 2
+2025-09-05 17:07:16 [INFO] CrateSpawner: ------------- Finished SetupCrateSpawns Pass -------------
+2025-09-05 17:07:16 [INFO] OnCrateSpawnTickPeriodic - Periodic spawn pass completed. Next periodic tick scheduled in 3600 seconds.
+2025-09-05 17:07:16 [INFO] DeferredEEInitLogic: START for BS_Hacked_Crate<2991078>. m_LoadedExpansionMarkerUID (should be from OnStoreLoad) is ''. Current m_ExpansionMarkerUID (active) is ''
+2025-09-05 17:07:16 [INFO] DeferredEEInitLogic: Settings acquired successfully for BS_Hacked_Crate<2991078>.
+2025-09-05 17:07:16 [INFO] DeferredEEInitLogic: m_ExpansionMarkerUID is empty. Calling CreateExpansionMapMarker for BS_Hacked_Crate<2991078>.
+2025-09-05 17:07:16 [INFO] EXP_DEBUG: Dentro de CreateExpansionMapMarker para BS_Hacked_Crate. UseExpansionMapMarker es true.
+2025-09-05 17:07:16 [INFO] EXP_DEBUG: EXPANSIONMODNAVIGATION está definida.
+2025-09-05 17:07:16 [INFO] EXP_DEBUG: Intentando crear marcador Expansion con Nombre Clave: '#STR_BSHC_HackedCrate_DisplayName', Icono: Hacked Crate, Pos: <2471.820068, 193.177002, 5114.220215>, Color: -65536, Es3D: true
+2025-09-05 17:07:16 [INFO] EXP_DEBUG: UID devuelto por markerData.GetUID(): '#STR_BSHC_HackedCrate_DisplayName571294746'
+2025-09-05 17:07:16 [INFO] SetExpansionMarkerUID: Setting m_ExpansionMarkerUID to '#STR_BSHC_HackedCrate_DisplayName571294746' for BS_Hacked_Crate<2991078>
+2025-09-05 17:07:16 [INFO] EXP_SUCCESS: Creado marcador de Expansion (UID guardado: #STR_BSHC_HackedCrate_DisplayName571294746) en <2471.820068, 193.177002, 5114.220215> para BS_Hacked_Crate
+2025-09-05 17:07:16 [INFO] DeferredEEInitLogic: Final m_LootAccessActionDone for BS_Hacked_Crate<2991078> is: false
+2025-09-05 17:07:16 [INFO] Inventory for BS_Hacked_Crate LOCKED. IsOpen: false LootAccessActionDone: false
+2025-09-05 17:07:16 [INFO] DeferredEEInitLogic: FINISHED for BS_Hacked_Crate<2991078>
+2025-09-05 17:17:16 [INFO] SpawnCrateAfterWarning: Timer finished. Spawning crate BS_Hacked_Crate. Removed from pending list. New pending count: 1
+2025-09-05 17:17:16 [INFO] Inventory for BS_Hacked_Crate LOCKED. IsOpen: false LootAccessActionDone: false
+2025-09-05 17:17:16 [INFO] HackedCrate_Base (BS_Hacked_Crate): Instance specific CrateSettings assigned. ConfigUniqueID: DefaultDynamicEvent_Example1
+2025-09-05 17:17:16 [INFO] CrateSpawner: Standard Notification RPC sent. Key: #STR_BSHC_Notification_Spawn_Located
+2025-09-05 17:17:16 [INFO] [SpawnAIAroundCrate] They will be generated 1 IA(s) next to the crate.
+2025-09-05 17:17:16 [INFO] [SpawnAIAroundCrate] Success in generatingZmbM_SoldierNormal in <4540.173340, 193.186539, 8373.057617>
+2025-09-05 17:17:16 [INFO] SpawnCrateAfterWarning: Timer finished. Spawning crate BS_Hacked_Crate. Removed from pending list. New pending count: 0
+2025-09-05 17:17:16 [INFO] Inventory for BS_Hacked_Crate LOCKED. IsOpen: false LootAccessActionDone: false
+2025-09-05 17:17:16 [INFO] HackedCrate_Base (BS_Hacked_Crate): Instance specific CrateSettings assigned. ConfigUniqueID: DefaultDynamicEvent_Example1
+2025-09-05 17:17:16 [INFO] CrateSpawner: Standard Notification RPC sent. Key: #STR_BSHC_Notification_Spawn_Located
+2025-09-05 17:17:16 [INFO] [SpawnAIAroundCrate] They will be generated 2 IA(s) next to the crate.
+2025-09-05 17:17:16 [INFO] [SpawnAIAroundCrate] Success in generatingZmbM_SoldierNormal in <4749.556641, 209.278320, 10333.868164>
+2025-09-05 17:17:16 [INFO] [SpawnAIAroundCrate] Success in generatingZmbM_SoldierNormal in <4748.473633, 209.418549, 10363.491211>
+2025-09-05 17:17:16 [INFO] DeferredEEInitLogic: START for BS_Hacked_Crate<2992632>. m_LoadedExpansionMarkerUID (should be from OnStoreLoad) is ''. Current m_ExpansionMarkerUID (active) is ''
+2025-09-05 17:17:16 [INFO] DeferredEEInitLogic: Settings acquired successfully for BS_Hacked_Crate<2992632>.
+2025-09-05 17:17:16 [INFO] DeferredEEInitLogic: m_ExpansionMarkerUID is empty. Calling CreateExpansionMapMarker for BS_Hacked_Crate<2992632>.
+2025-09-05 17:17:16 [INFO] EXP_DEBUG: Dentro de CreateExpansionMapMarker para BS_Hacked_Crate. UseExpansionMapMarker es true.
+2025-09-05 17:17:16 [INFO] EXP_DEBUG: EXPANSIONMODNAVIGATION está definida.
+2025-09-05 17:17:16 [INFO] EXP_DEBUG: Intentando crear marcador Expansion con Nombre Clave: '#STR_BSHC_HackedCrate_DisplayName', Icono: Hacked Crate, Pos: <4553.689941, 317.975006, 8352.099609>, Color: -65536, Es3D: true
+2025-09-05 17:17:16 [INFO] EXP_DEBUG: UID devuelto por markerData.GetUID(): '#STR_BSHC_HackedCrate_DisplayName698962770'
+2025-09-05 17:17:16 [INFO] SetExpansionMarkerUID: Setting m_ExpansionMarkerUID to '#STR_BSHC_HackedCrate_DisplayName698962770' for BS_Hacked_Crate<2992632>
+2025-09-05 17:17:16 [INFO] EXP_SUCCESS: Creado marcador de Expansion (UID guardado: #STR_BSHC_HackedCrate_DisplayName698962770) en <4553.689941, 317.975006, 8352.099609> para BS_Hacked_Crate
+2025-09-05 17:17:16 [INFO] DeferredEEInitLogic: Final m_LootAccessActionDone for BS_Hacked_Crate<2992632> is: false
+2025-09-05 17:17:16 [INFO] Inventory for BS_Hacked_Crate LOCKED. IsOpen: false LootAccessActionDone: false
+2025-09-05 17:17:16 [INFO] DeferredEEInitLogic: FINISHED for BS_Hacked_Crate<2992632>
+2025-09-05 17:17:16 [INFO] DeferredEEInitLogic: START for BS_Hacked_Crate<2992634>. m_LoadedExpansionMarkerUID (should be from OnStoreLoad) is ''. Current m_ExpansionMarkerUID (active) is ''
+2025-09-05 17:17:16 [INFO] DeferredEEInitLogic: Settings acquired successfully for BS_Hacked_Crate<2992634>.
+2025-09-05 17:17:16 [INFO] DeferredEEInitLogic: m_ExpansionMarkerUID is empty. Calling CreateExpansionMapMarker for BS_Hacked_Crate<2992634>.
+2025-09-05 17:17:16 [INFO] EXP_DEBUG: Dentro de CreateExpansionMapMarker para BS_Hacked_Crate. UseExpansionMapMarker es true.
+2025-09-05 17:17:16 [INFO] EXP_DEBUG: EXPANSIONMODNAVIGATION está definida.
+2025-09-05 17:17:16 [INFO] EXP_DEBUG: Intentando crear marcador Expansion con Nombre Clave: '#STR_BSHC_HackedCrate_DisplayName', Icono: Hacked Crate, Pos: <4732.430176, 338.968994, 10350.200195>, Color: -65536, Es3D: true
+2025-09-05 17:17:16 [INFO] EXP_DEBUG: UID devuelto por markerData.GetUID(): '#STR_BSHC_HackedCrate_DisplayName1130137272'
+2025-09-05 17:17:16 [INFO] SetExpansionMarkerUID: Setting m_ExpansionMarkerUID to '#STR_BSHC_HackedCrate_DisplayName1130137272' for BS_Hacked_Crate<2992634>
+2025-09-05 17:17:16 [INFO] EXP_SUCCESS: Creado marcador de Expansion (UID guardado: #STR_BSHC_HackedCrate_DisplayName1130137272) en <4732.430176, 338.968994, 10350.200195> para BS_Hacked_Crate
+2025-09-05 17:17:16 [INFO] DeferredEEInitLogic: Final m_LootAccessActionDone for BS_Hacked_Crate<2992634> is: false
+2025-09-05 17:17:16 [INFO] Inventory for BS_Hacked_Crate LOCKED. IsOpen: false LootAccessActionDone: false
+2025-09-05 17:17:16 [INFO] DeferredEEInitLogic: FINISHED for BS_Hacked_Crate<2992634>
+2025-09-05 17:57:41 [INFO] EEDelete (BS_Hacked_Crate): Cleaning up 2 referenced AI units...
+2025-09-05 17:57:41 [INFO] EEDelete called for BS_Hacked_Crate at <2471.820068, 193.177002, 5114.220215>
+2025-09-05 17:57:41 [INFO] EXP_REMOVE_DEBUG: Attempting RemoveExpansionMapMarker. Context: EEDelete. Current UID: '#STR_BSHC_HackedCrate_DisplayName571294746' for BS_Hacked_Crate<2991078>
+2025-09-05 17:57:41 [INFO] EXP_REMOVE_DEBUG: Calling markerModule.RemoveServerMarker with UID: '#STR_BSHC_HackedCrate_DisplayName571294746'. Context: EEDelete for BS_Hacked_Crate<2991078>
+2025-09-05 17:57:41 [INFO] EXP_REMOVE_SUCCESS: Call to RemoveServerMarker performed. Marker should be removed. Context: EEDelete for BS_Hacked_Crate<2991078>
+2025-09-05 17:57:41 [INFO] HackedCrate (BS_Hacked_Crate): Sending RPC Notification. Type: DESPAWN, Key: #STR_BSHC_Notification_Despawn_Located
+2025-09-05 17:57:41 [INFO] EEDelete: Removed BS_Hacked_Crate from g_ActiveHackedCrates. Remaining count: 2
+2025-09-05 18:07:18 [INFO] --------------------------------------------------------------------------
+2025-09-05 18:07:18 [INFO] OnCrateSpawnTickPeriodic - Tick received. Re-evaluating Hacked Crate spawns...
+2025-09-05 18:07:18 [INFO] --------------------------------------------------------------------------
+2025-09-05 18:07:18 [INFO] CrateSpawner: ------------- Starting SetupCrateSpawns Pass -------------
+2025-09-05 18:07:18 [INFO] CrateSpawner: Current server population: 4 players.
+2025-09-05 18:07:18 [INFO] CrateSpawner: Processing ConfigUniqueID: 'DefaultStaticEvent_Example1' (CrateType: 'BS_Hacked_Crate', StaticSpawns flag: true)
+2025-09-05 18:07:18 [INFO] CrateSpawner: No min player requirement for ConfigUniqueID 'DefaultStaticEvent_Example1'.
+2025-09-05 18:07:18 [INFO] CrateSpawner: Handling STATIC for ConfigUniqueID: 'DefaultStaticEvent_Example1'.
+2025-09-05 18:07:18 [INFO] SpawnStaticCrates: Procesando 1 localizaciones estaticas para ConfigUniqueID: 'DefaultStaticEvent_Example1'.
+2025-09-05 18:07:18 [INFO] SpawnStaticCrates: Ubicación <2471.820068, 193.177002, 5114.220215> está libre. Intentando generar caja.
+2025-09-05 18:07:18 [INFO] Inventory for BS_Hacked_Crate LOCKED. IsOpen: false LootAccessActionDone: false
+2025-09-05 18:07:18 [INFO] HackedCrate_Base (BS_Hacked_Crate): Instance specific CrateSettings assigned. ConfigUniqueID: DefaultStaticEvent_Example1
+2025-09-05 18:07:18 [INFO] CrateSpawner: Standard Notification RPC sent. Key: #STR_BSHC_Notification_Spawn_Located
+2025-09-05 18:07:18 [INFO] [SpawnAIAroundCrate] They will be generated 2 IA(s) next to the crate.
+2025-09-05 18:07:18 [INFO] [SpawnAIAroundCrate] Success in generatingZmbM_SoldierNormal in <2455.189453, 363.550293, 5122.501953>
+2025-09-05 18:07:18 [INFO] [SpawnAIAroundCrate] Success in generatingZmbM_SoldierNormal in <2452.332031, 363.026337, 5099.751953>
+2025-09-05 18:07:18 [INFO] CrateSpawner: Processing ConfigUniqueID: 'DefaultDynamicEvent_Example1' (CrateType: 'BS_Hacked_Crate', StaticSpawns flag: false)
+2025-09-05 18:07:18 [INFO] CrateSpawner: Player check PASSED for ConfigUniqueID 'DefaultDynamicEvent_Example1' (4/1).
+2025-09-05 18:07:18 [INFO] CrateSpawner: Handling RANDOM for ConfigUniqueID: 'DefaultDynamicEvent_Example1'.
+2025-09-05 18:07:18 [INFO] CrateSpawner: ConfigUniqueID 'DefaultDynamicEvent_Example1' - Existing: 2, Target Active: 2
+2025-09-05 18:07:18 [INFO] CrateSpawner: Max ActiveCrateCount for ConfigUniqueID 'DefaultDynamicEvent_Example1' met. No new random spawns.
+2025-09-05 18:07:18 [INFO] CrateSpawner: ------------- Finished SetupCrateSpawns Pass -------------
+2025-09-05 18:07:18 [INFO] OnCrateSpawnTickPeriodic - Periodic spawn pass completed. Next periodic tick scheduled in 3600 seconds.
+2025-09-05 18:07:18 [INFO] DeferredEEInitLogic: START for BS_Hacked_Crate<3000213>. m_LoadedExpansionMarkerUID (should be from OnStoreLoad) is ''. Current m_ExpansionMarkerUID (active) is ''
+2025-09-05 18:07:18 [INFO] DeferredEEInitLogic: Settings acquired successfully for BS_Hacked_Crate<3000213>.
+2025-09-05 18:07:18 [INFO] DeferredEEInitLogic: m_ExpansionMarkerUID is empty. Calling CreateExpansionMapMarker for BS_Hacked_Crate<3000213>.
+2025-09-05 18:07:18 [INFO] EXP_DEBUG: Dentro de CreateExpansionMapMarker para BS_Hacked_Crate. UseExpansionMapMarker es true.
+2025-09-05 18:07:18 [INFO] EXP_DEBUG: EXPANSIONMODNAVIGATION está definida.
+2025-09-05 18:07:19 [INFO] EXP_DEBUG: Intentando crear marcador Expansion con Nombre Clave: '#STR_BSHC_HackedCrate_DisplayName', Icono: Hacked Crate, Pos: <2471.820068, 193.177002, 5114.220215>, Color: -65536, Es3D: true
+2025-09-05 18:07:19 [INFO] EXP_DEBUG: UID devuelto por markerData.GetUID(): '#STR_BSHC_HackedCrate_DisplayName927690390'
+2025-09-05 18:07:19 [INFO] SetExpansionMarkerUID: Setting m_ExpansionMarkerUID to '#STR_BSHC_HackedCrate_DisplayName927690390' for BS_Hacked_Crate<3000213>
+2025-09-05 18:07:19 [INFO] EXP_SUCCESS: Creado marcador de Expansion (UID guardado: #STR_BSHC_HackedCrate_DisplayName927690390) en <2471.820068, 193.177002, 5114.220215> para BS_Hacked_Crate
+2025-09-05 18:07:19 [INFO] DeferredEEInitLogic: Final m_LootAccessActionDone for BS_Hacked_Crate<3000213> is: false
+2025-09-05 18:07:19 [INFO] Inventory for BS_Hacked_Crate LOCKED. IsOpen: false LootAccessActionDone: false
+2025-09-05 18:07:19 [INFO] DeferredEEInitLogic: FINISHED for BS_Hacked_Crate<3000213>
+2025-09-05 18:11:13 [INFO] EEDelete (BS_Hacked_Crate): Cleaning up 1 referenced AI units...
+2025-09-05 18:11:13 [INFO] EEDelete called for BS_Hacked_Crate at <4553.689941, 317.975006, 8352.099609>
+2025-09-05 18:11:13 [INFO] EXP_REMOVE_DEBUG: Attempting RemoveExpansionMapMarker. Context: EEDelete. Current UID: '#STR_BSHC_HackedCrate_DisplayName698962770' for BS_Hacked_Crate<2992632>
+2025-09-05 18:11:13 [INFO] EXP_REMOVE_DEBUG: Calling markerModule.RemoveServerMarker with UID: '#STR_BSHC_HackedCrate_DisplayName698962770'. Context: EEDelete for BS_Hacked_Crate<2992632>
+2025-09-05 18:11:14 [INFO] EXP_REMOVE_SUCCESS: Call to RemoveServerMarker performed. Marker should be removed. Context: EEDelete for BS_Hacked_Crate<2992632>
+2025-09-05 18:11:14 [INFO] HackedCrate (BS_Hacked_Crate): Sending RPC Notification. Type: DESPAWN, Key: #STR_BSHC_Notification_Despawn_Located
+2025-09-05 18:11:14 [INFO] EEDelete: Removed BS_Hacked_Crate from g_ActiveHackedCrates. Remaining count: 2
+2025-09-05 18:14:01 [INFO] EEDelete (BS_Hacked_Crate): Cleaning up 2 referenced AI units...
+2025-09-05 18:14:01 [INFO] EEDelete called for BS_Hacked_Crate at <4732.430176, 338.968994, 10350.200195>
+2025-09-05 18:14:01 [INFO] EXP_REMOVE_DEBUG: Attempting RemoveExpansionMapMarker. Context: EEDelete. Current UID: '#STR_BSHC_HackedCrate_DisplayName1130137272' for BS_Hacked_Crate<2992634>
+2025-09-05 18:14:01 [INFO] EXP_REMOVE_DEBUG: Calling markerModule.RemoveServerMarker with UID: '#STR_BSHC_HackedCrate_DisplayName1130137272'. Context: EEDelete for BS_Hacked_Crate<2992634>
+2025-09-05 18:14:01 [INFO] EXP_REMOVE_SUCCESS: Call to RemoveServerMarker performed. Marker should be removed. Context: EEDelete for BS_Hacked_Crate<2992634>
+2025-09-05 18:14:01 [INFO] HackedCrate (BS_Hacked_Crate): Sending RPC Notification. Type: DESPAWN, Key: #STR_BSHC_Notification_Despawn_Located
+2025-09-05 18:14:01 [INFO] EEDelete: Removed BS_Hacked_Crate from g_ActiveHackedCrates. Remaining count: 1
+2025-09-05 19:06:20 [INFO] EEDelete (BS_Hacked_Crate): Cleaning up 2 referenced AI units...
+2025-09-05 19:06:20 [INFO] EEDelete called for BS_Hacked_Crate at <2471.820068, 193.177002, 5114.220215>
+2025-09-05 19:06:21 [INFO] EXP_REMOVE_DEBUG: Attempting RemoveExpansionMapMarker. Context: EEDelete. Current UID: '#STR_BSHC_HackedCrate_DisplayName927690390' for BS_Hacked_Crate<3000213>
+2025-09-05 19:06:21 [INFO] EXP_REMOVE_DEBUG: Calling markerModule.RemoveServerMarker with UID: '#STR_BSHC_HackedCrate_DisplayName927690390'. Context: EEDelete for BS_Hacked_Crate<3000213>
+2025-09-05 19:06:21 [INFO] EXP_REMOVE_SUCCESS: Call to RemoveServerMarker performed. Marker should be removed. Context: EEDelete for BS_Hacked_Crate<3000213>
+2025-09-05 19:06:21 [INFO] HackedCrate (BS_Hacked_Crate): Sending RPC Notification. Type: DESPAWN, Key: #STR_BSHC_Notification_Despawn_Located
+2025-09-05 19:06:21 [INFO] EEDelete: Removed BS_Hacked_Crate from g_ActiveHackedCrates. Remaining count: 0
+2025-09-05 19:07:20 [INFO] --------------------------------------------------------------------------
+2025-09-05 19:07:20 [INFO] OnCrateSpawnTickPeriodic - Tick received. Re-evaluating Hacked Crate spawns...
+2025-09-05 19:07:20 [INFO] --------------------------------------------------------------------------
+2025-09-05 19:07:20 [INFO] CrateSpawner: ------------- Starting SetupCrateSpawns Pass -------------
+2025-09-05 19:07:20 [INFO] CrateSpawner: Current server population: 3 players.
+2025-09-05 19:07:20 [INFO] CrateSpawner: Processing ConfigUniqueID: 'DefaultStaticEvent_Example1' (CrateType: 'BS_Hacked_Crate', StaticSpawns flag: true)
+2025-09-05 19:07:20 [INFO] CrateSpawner: No min player requirement for ConfigUniqueID 'DefaultStaticEvent_Example1'.
+2025-09-05 19:07:20 [INFO] CrateSpawner: Handling STATIC for ConfigUniqueID: 'DefaultStaticEvent_Example1'.
+2025-09-05 19:07:20 [INFO] SpawnStaticCrates: Procesando 1 localizaciones estaticas para ConfigUniqueID: 'DefaultStaticEvent_Example1'.
+2025-09-05 19:07:20 [INFO] SpawnStaticCrates: Ubicación <2471.820068, 193.177002, 5114.220215> está libre. Intentando generar caja.
+2025-09-05 19:07:20 [INFO] Inventory for BS_Hacked_Crate LOCKED. IsOpen: false LootAccessActionDone: false
+2025-09-05 19:07:20 [INFO] HackedCrate_Base (BS_Hacked_Crate): Instance specific CrateSettings assigned. ConfigUniqueID: DefaultStaticEvent_Example1
+2025-09-05 19:07:20 [INFO] CrateSpawner: Standard Notification RPC sent. Key: #STR_BSHC_Notification_Spawn_Located
+2025-09-05 19:07:20 [INFO] [SpawnAIAroundCrate] They will be generated 3 IA(s) next to the crate.
+2025-09-05 19:07:20 [INFO] [SpawnAIAroundCrate] Success in generatingZmbM_SoldierNormal in <2481.970703, 367.567688, 5114.134277>
+2025-09-05 19:07:20 [INFO] [SpawnAIAroundCrate] Success in generatingZmbM_SoldierNormal in <2486.370605, 368.453827, 5121.256836>
+2025-09-05 19:07:20 [INFO] [SpawnAIAroundCrate] Success in generatingZmbM_SoldierNormal in <2453.611084, 363.285858, 5117.997070>
+2025-09-05 19:07:20 [INFO] CrateSpawner: Processing ConfigUniqueID: 'DefaultDynamicEvent_Example1' (CrateType: 'BS_Hacked_Crate', StaticSpawns flag: false)
+2025-09-05 19:07:20 [INFO] CrateSpawner: Player check PASSED for ConfigUniqueID 'DefaultDynamicEvent_Example1' (3/1).
+2025-09-05 19:07:20 [INFO] CrateSpawner: Handling RANDOM for ConfigUniqueID: 'DefaultDynamicEvent_Example1'.
+2025-09-05 19:07:20 [INFO] CrateSpawner: ConfigUniqueID 'DefaultDynamicEvent_Example1' - Existing: 0, Target Active: 2
+2025-09-05 19:07:20 [INFO] CrateSpawner: Attempting to spawn 2 for ConfigUniqueID: 'DefaultDynamicEvent_Example1'.
+2025-09-05 19:07:20 [INFO] SpawnRandomCrates: Attempting to spawn 2 of type 'BS_Hacked_Crate' with ConfigUniqueID 'DefaultDynamicEvent_Example1'.
+2025-09-05 19:07:20 [INFO] SpawnRandomCrates: Found 2 available locations for ConfigUniqueID 'DefaultDynamicEvent_Example1'.
+2025-09-05 19:07:20 [INFO] CrateSpawner: Sending spawn warning for 'BS_Hacked_Crate' at Airfield
+2025-09-05 19:07:20 [INFO] CrateSpawner: Added to pending list for ConfigUniqueID 'DefaultDynamicEvent_Example1'. New pending count: 1
+2025-09-05 19:07:20 [INFO] CrateSpawner: Sending spawn warning for 'BS_Hacked_Crate' at VMC
+2025-09-05 19:07:20 [INFO] CrateSpawner: Added to pending list for ConfigUniqueID 'DefaultDynamicEvent_Example1'. New pending count: 2
+2025-09-05 19:07:20 [INFO] CrateSpawner: ------------- Finished SetupCrateSpawns Pass -------------
+2025-09-05 19:07:20 [INFO] OnCrateSpawnTickPeriodic - Periodic spawn pass completed. Next periodic tick scheduled in 3600 seconds.
+2025-09-05 19:07:20 [INFO] DeferredEEInitLogic: START for BS_Hacked_Crate<3007561>. m_LoadedExpansionMarkerUID (should be from OnStoreLoad) is ''. Current m_ExpansionMarkerUID (active) is ''
+2025-09-05 19:07:20 [INFO] DeferredEEInitLogic: Settings acquired successfully for BS_Hacked_Crate<3007561>.
+2025-09-05 19:07:20 [INFO] DeferredEEInitLogic: m_ExpansionMarkerUID is empty. Calling CreateExpansionMapMarker for BS_Hacked_Crate<3007561>.
+2025-09-05 19:07:20 [INFO] EXP_DEBUG: Dentro de CreateExpansionMapMarker para BS_Hacked_Crate. UseExpansionMapMarker es true.
+2025-09-05 19:07:20 [INFO] EXP_DEBUG: EXPANSIONMODNAVIGATION está definida.
+2025-09-05 19:07:20 [INFO] EXP_DEBUG: Intentando crear marcador Expansion con Nombre Clave: '#STR_BSHC_HackedCrate_DisplayName', Icono: Hacked Crate, Pos: <2471.820068, 193.177002, 5114.220215>, Color: -65536, Es3D: true
+2025-09-05 19:07:20 [INFO] EXP_DEBUG: UID devuelto por markerData.GetUID(): '#STR_BSHC_HackedCrate_DisplayName1818351810'
+2025-09-05 19:07:20 [INFO] SetExpansionMarkerUID: Setting m_ExpansionMarkerUID to '#STR_BSHC_HackedCrate_DisplayName1818351810' for BS_Hacked_Crate<3007561>
+2025-09-05 19:07:20 [INFO] EXP_SUCCESS: Creado marcador de Expansion (UID guardado: #STR_BSHC_HackedCrate_DisplayName1818351810) en <2471.820068, 193.177002, 5114.220215> para BS_Hacked_Crate
+2025-09-05 19:07:20 [INFO] DeferredEEInitLogic: Final m_LootAccessActionDone for BS_Hacked_Crate<3007561> is: false
+2025-09-05 19:07:20 [INFO] Inventory for BS_Hacked_Crate LOCKED. IsOpen: false LootAccessActionDone: false
+2025-09-05 19:07:20 [INFO] DeferredEEInitLogic: FINISHED for BS_Hacked_Crate<3007561>
+2025-09-05 19:17:20 [INFO] SpawnCrateAfterWarning: Timer finished. Spawning crate BS_Hacked_Crate. Removed from pending list. New pending count: 1
+2025-09-05 19:17:20 [INFO] Inventory for BS_Hacked_Crate LOCKED. IsOpen: false LootAccessActionDone: false
+2025-09-05 19:17:20 [INFO] HackedCrate_Base (BS_Hacked_Crate): Instance specific CrateSettings assigned. ConfigUniqueID: DefaultDynamicEvent_Example1
+2025-09-05 19:17:20 [INFO] CrateSpawner: Standard Notification RPC sent. Key: #STR_BSHC_Notification_Spawn_Located
+2025-09-05 19:17:20 [INFO] [SpawnAIAroundCrate] They will be generated 3 IA(s) next to the crate.
+2025-09-05 19:17:20 [INFO] [SpawnAIAroundCrate] Success in generatingZmbM_SoldierNormal in <4709.738281, 211.698593, 10348.379883>
+2025-09-05 19:17:20 [INFO] [SpawnAIAroundCrate] Success in generatingZmbM_SoldierNormal in <4733.114258, 210.251785, 10361.971680>
+2025-09-05 19:17:20 [INFO] [SpawnAIAroundCrate] Success in generatingZmbM_SoldierNormal in <4719.847656, 211.001526, 10330.789063>
+2025-09-05 19:17:20 [INFO] SpawnCrateAfterWarning: Timer finished. Spawning crate BS_Hacked_Crate. Removed from pending list. New pending count: 0
+2025-09-05 19:17:20 [INFO] Inventory for BS_Hacked_Crate LOCKED. IsOpen: false LootAccessActionDone: false
+2025-09-05 19:17:20 [INFO] HackedCrate_Base (BS_Hacked_Crate): Instance specific CrateSettings assigned. ConfigUniqueID: DefaultDynamicEvent_Example1
+2025-09-05 19:17:20 [INFO] CrateSpawner: Standard Notification RPC sent. Key: #STR_BSHC_Notification_Spawn_Located
+2025-09-05 19:17:20 [INFO] [SpawnAIAroundCrate] They will be generated 3 IA(s) next to the crate.
+2025-09-05 19:17:20 [INFO] [SpawnAIAroundCrate] Success in generatingZmbM_SoldierNormal in <4555.115234, 198.765152, 8329.165039>
+2025-09-05 19:17:20 [INFO] [SpawnAIAroundCrate] Success in generatingZmbM_SoldierNormal in <4572.190918, 198.510849, 8342.477539>
+2025-09-05 19:17:20 [INFO] [SpawnAIAroundCrate] Success in generatingZmbM_SoldierNormal in <4572.498047, 197.235245, 8353.912109>
+2025-09-05 19:17:20 [INFO] DeferredEEInitLogic: START for BS_Hacked_Crate<3008336>. m_LoadedExpansionMarkerUID (should be from OnStoreLoad) is ''. Current m_ExpansionMarkerUID (active) is ''
+2025-09-05 19:17:20 [INFO] DeferredEEInitLogic: Settings acquired successfully for BS_Hacked_Crate<3008336>.
+2025-09-05 19:17:20 [INFO] DeferredEEInitLogic: m_ExpansionMarkerUID is empty. Calling CreateExpansionMapMarker for BS_Hacked_Crate<3008336>.
+2025-09-05 19:17:20 [INFO] EXP_DEBUG: Dentro de CreateExpansionMapMarker para BS_Hacked_Crate. UseExpansionMapMarker es true.
+2025-09-05 19:17:20 [INFO] EXP_DEBUG: EXPANSIONMODNAVIGATION está definida.
+2025-09-05 19:17:20 [INFO] EXP_DEBUG: Intentando crear marcador Expansion con Nombre Clave: '#STR_BSHC_HackedCrate_DisplayName', Icono: Hacked Crate, Pos: <4732.430176, 338.968994, 10350.200195>, Color: -65536, Es3D: true
+2025-09-05 19:17:20 [INFO] EXP_DEBUG: UID devuelto por markerData.GetUID(): '#STR_BSHC_HackedCrate_DisplayName666652536'
+2025-09-05 19:17:20 [INFO] SetExpansionMarkerUID: Setting m_ExpansionMarkerUID to '#STR_BSHC_HackedCrate_DisplayName666652536' for BS_Hacked_Crate<3008336>
+2025-09-05 19:17:20 [INFO] EXP_SUCCESS: Creado marcador de Expansion (UID guardado: #STR_BSHC_HackedCrate_DisplayName666652536) en <4732.430176, 338.968994, 10350.200195> para BS_Hacked_Crate
+2025-09-05 19:17:20 [INFO] DeferredEEInitLogic: Final m_LootAccessActionDone for BS_Hacked_Crate<3008336> is: false
+2025-09-05 19:17:20 [INFO] Inventory for BS_Hacked_Crate LOCKED. IsOpen: false LootAccessActionDone: false
+2025-09-05 19:17:20 [INFO] DeferredEEInitLogic: FINISHED for BS_Hacked_Crate<3008336>
+2025-09-05 19:17:21 [INFO] DeferredEEInitLogic: START for BS_Hacked_Crate<3008340>. m_LoadedExpansionMarkerUID (should be from OnStoreLoad) is ''. Current m_ExpansionMarkerUID (active) is ''
+2025-09-05 19:17:21 [INFO] DeferredEEInitLogic: Settings acquired successfully for BS_Hacked_Crate<3008340>.
+2025-09-05 19:17:21 [INFO] DeferredEEInitLogic: m_ExpansionMarkerUID is empty. Calling CreateExpansionMapMarker for BS_Hacked_Crate<3008340>.
+2025-09-05 19:17:21 [INFO] EXP_DEBUG: Dentro de CreateExpansionMapMarker para BS_Hacked_Crate. UseExpansionMapMarker es true.
+2025-09-05 19:17:21 [INFO] EXP_DEBUG: EXPANSIONMODNAVIGATION está definida.
+2025-09-05 19:17:21 [INFO] EXP_DEBUG: Intentando crear marcador Expansion con Nombre Clave: '#STR_BSHC_HackedCrate_DisplayName', Icono: Hacked Crate, Pos: <4553.689941, 317.975006, 8352.099609>, Color: -65536, Es3D: true
+2025-09-05 19:17:21 [INFO] EXP_DEBUG: UID devuelto por markerData.GetUID(): '#STR_BSHC_HackedCrate_DisplayName1649656998'
+2025-09-05 19:17:21 [INFO] SetExpansionMarkerUID: Setting m_ExpansionMarkerUID to '#STR_BSHC_HackedCrate_DisplayName1649656998' for BS_Hacked_Crate<3008340>
+2025-09-05 19:17:21 [INFO] EXP_SUCCESS: Creado marcador de Expansion (UID guardado: #STR_BSHC_HackedCrate_DisplayName1649656998) en <4553.689941, 317.975006, 8352.099609> para BS_Hacked_Crate
+2025-09-05 19:17:21 [INFO] DeferredEEInitLogic: Final m_LootAccessActionDone for BS_Hacked_Crate<3008340> is: false
+2025-09-05 19:17:21 [INFO] Inventory for BS_Hacked_Crate LOCKED. IsOpen: false LootAccessActionDone: false
+2025-09-05 19:17:21 [INFO] DeferredEEInitLogic: FINISHED for BS_Hacked_Crate<3008340>
+2025-09-05 19:26:37 [INFO] Inventory for BS_Hacked_Crate LOCKED. IsOpen: false LootAccessActionDone: false
+2025-09-05 19:26:37 [INFO] DeferredEEInitLogic: START for BS_Hacked_Crate<3009345>. m_LoadedExpansionMarkerUID (should be from OnStoreLoad) is ''. Current m_ExpansionMarkerUID (active) is ''
+2025-09-05 19:26:37 [INFO] GetCrateSettings: m_CrateSettings_Instance is NULL for BS_Hacked_Crate<3009345>. Calling AttemptToReacquireSettings().
+2025-09-05 19:26:37 [INFO] HackedCrate_Base (BS_Hacked_Crate): Attempting to re-acquire CrateSettings. Persisted ConfigUniqueID is: ''
+2025-09-05 19:26:37 [INFO] HackedCrate_Base (BS_Hacked_Crate): No persisted ConfigUniqueID. Attempting to find the FIRST DYNAMIC configuration to use as default...
+2025-09-05 19:26:37 [INFO] HackedCrate_Base (BS_Hacked_Crate): Instance specific CrateSettings assigned. ConfigUniqueID: DefaultDynamicEvent_Example1
+2025-09-05 19:26:37 [INFO] HackedCrate_Base (BS_Hacked_Crate): Assigned the first dynamic config found ('DefaultDynamicEvent_Example1') to this manually spawned crate.
+2025-09-05 19:26:37 [INFO] DeferredEEInitLogic: Settings acquired successfully for BS_Hacked_Crate<3009345>.
+2025-09-05 19:26:37 [INFO] DeferredEEInitLogic: m_ExpansionMarkerUID is empty. Calling CreateExpansionMapMarker for BS_Hacked_Crate<3009345>.
+2025-09-05 19:26:37 [INFO] EXP_DEBUG: Dentro de CreateExpansionMapMarker para BS_Hacked_Crate. UseExpansionMapMarker es true.
+2025-09-05 19:26:37 [INFO] EXP_DEBUG: EXPANSIONMODNAVIGATION está definida.
+2025-09-05 19:26:37 [INFO] EXP_DEBUG: Intentando crear marcador Expansion con Nombre Clave: '#STR_BSHC_HackedCrate_DisplayName', Icono: Hacked Crate, Pos: <6097.641113, 404.654694, 4034.002197>, Color: -65536, Es3D: true
+2025-09-05 19:26:37 [INFO] EXP_DEBUG: UID devuelto por markerData.GetUID(): '#STR_BSHC_HackedCrate_DisplayName1332715230'
+2025-09-05 19:26:37 [INFO] SetExpansionMarkerUID: Setting m_ExpansionMarkerUID to '#STR_BSHC_HackedCrate_DisplayName1332715230' for BS_Hacked_Crate<3009345>
+2025-09-05 19:26:37 [INFO] EXP_SUCCESS: Creado marcador de Expansion (UID guardado: #STR_BSHC_HackedCrate_DisplayName1332715230) en <6097.641113, 404.654694, 4034.002197> para BS_Hacked_Crate
+2025-09-05 19:26:37 [INFO] DeferredEEInitLogic: Final m_LootAccessActionDone for BS_Hacked_Crate<3009345> is: false
+2025-09-05 19:26:37 [INFO] Inventory for BS_Hacked_Crate LOCKED. IsOpen: false LootAccessActionDone: false
+2025-09-05 19:26:37 [INFO] DeferredEEInitLogic: FINISHED for BS_Hacked_Crate<3009345>
+2025-09-05 19:26:37 [INFO] DeferredEEInitLogic: Re-added persistent crate BS_Hacked_Crate to g_ActiveHackedCrates list.
+2025-09-05 19:26:45 [INFO] HackedCrate (BS_Hacked_Crate): Sending RPC Notification. Type: START, Key: #STR_BSHC_Notification_Start_Located
+2025-09-05 19:26:52 [INFO] EEDelete called for BS_Hacked_Crate at <6097.641113, 404.654694, 4034.002197>
+2025-09-05 19:26:52 [INFO] EXP_REMOVE_DEBUG: Attempting RemoveExpansionMapMarker. Context: EEDelete. Current UID: '#STR_BSHC_HackedCrate_DisplayName - #STR_BSHC_Marker_Hacking 1%377302266' for BS_Hacked_Crate<3009345>
+2025-09-05 19:26:52 [INFO] EXP_REMOVE_DEBUG: Calling markerModule.RemoveServerMarker with UID: '#STR_BSHC_HackedCrate_DisplayName - #STR_BSHC_Marker_Hacking 1%377302266'. Context: EEDelete for BS_Hacked_Crate<3009345>
+2025-09-05 19:26:52 [INFO] EXP_REMOVE_SUCCESS: Call to RemoveServerMarker performed. Marker should be removed. Context: EEDelete for BS_Hacked_Crate<3009345>
+2025-09-05 19:26:52 [INFO] HackedCrate (BS_Hacked_Crate): Sending RPC Notification. Type: DESPAWN, Key: #STR_BSHC_Notification_Despawn_Located
+2025-09-05 19:26:52 [INFO] EEDelete: Removed BS_Hacked_Crate from g_ActiveHackedCrates. Remaining count: 3

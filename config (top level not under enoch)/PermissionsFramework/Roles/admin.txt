@@ -8,6 +8,10 @@ Expansion.Territories.Delete 2
 Expansion.Territories.Delete.All 2
 Expansion.Territories.Delete.Destroyed 2
 Expansion.Territories.Teleport 2
+Expansion.Groups 2
+Expansion.Groups.View 2
+Expansion.Groups.EditGroup 2
+Expansion.Groups.DeleteGroup 2
 Expansion.Creature 2
 Expansion.Creature.Lobotomize 2
 Admin 2
@@ -55,7 +59,9 @@ Admin.Player.Set.Water 2
 Admin.Player.Set.Stamina 2
 Admin.Player.Set.HeatBuffer 2
 Admin.Player.Set.BloodyHands 2
+Admin.Player.Set.ExpansionEntityStorage 2
 Admin.Player.Set.ExpansionFaction 2
+Admin.Player.Set.ExpansionReputation 2
 Admin.Player.Read 2
 Admin.Transport 2
 Admin.Transport.Repair 2

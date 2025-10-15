@@ -1,0 +1,29 @@
+00:19:00.318 [AI Patrol 00017] Spawning 1 West bots at <7419.599121, 324.264008, 2685.067139>
+00:19:07.976 [AI Patrol 00017] Global patrol count: 1
+00:19:07.985 [AI Patrol 00017] Patrol category patrol count: 1
+00:19:07.996 [AI Patrol 00016] Spawning 1 East bots at <7738.883301, 313.483398, 3000.443115>
+00:19:08.030 [AI Patrol 00016] Global patrol count: 2
+00:19:08.040 [AI Patrol 00016] Patrol category patrol count: 2
+00:19:13.561 [AI Patrol 00017] West bots were wiped out (spawn position <7419.599121, 324.264008, 2685.067139>, 1/1 deceased)
+00:19:13.573 [AI Patrol 00017] Global patrol count: 1
+00:19:13.587 [AI Patrol 00017] Patrol category patrol count: 1
+00:20:08.351 [AI Object Patrol 00003] Spawning 1 East bots at <3961.441406, 313.171570, 6854.833008>
+00:20:08.389 [AI Object Patrol 00003] Global patrol count: 2
+00:20:08.399 [AI Object Patrol 00003] HelicopterWreck category patrol count: 1
+00:20:32.528 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle M3S Covered (id=E5D5C649EF4B8542E52332840E8CE58A pos=<4148.6, 229.53, 7760.95>) as driver
+00:20:34.536 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle M3S Covered (id=E5D5C649EF4B8542E52332840E8CE58A pos=<4148.6, 229.53, 7760.95>)
+00:24:37.391 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle M3S Covered (id=E5D5C649EF4B8542E52332840E8CE58A pos=<3060.4, 249.98, 7075.18>)
+00:24:37.823 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle M3S Covered (id=E5D5C649EF4B8542E52332840E8CE58A pos=<3060.4, 249.98, 7075.18>)
+00:24:55.334 [VehicleEnter] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) entered vehicle M3S Covered (id=E5D5C649EF4B8542E52332840E8CE58A pos=<3060.41, 249.98, 7075.18>) as driver
+00:24:59.871 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) started vehicle M3S Covered (id=E5D5C649EF4B8542E52332840E8CE58A pos=<3060.42, 249.98, 7075.18>)
+00:25:29.173 [VehicleEngine] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) stopped vehicle M3S Covered (id=E5D5C649EF4B8542E52332840E8CE58A pos=<3045.41, 250.53, 7052.83>)
+00:25:32.257 [VehicleLeave] Player "Dan" (id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=) left vehicle M3S Covered (id=E5D5C649EF4B8542E52332840E8CE58A pos=<3045.41, 250.53, 7052.82>)
+00:26:59.772 [Chat - Global]("Dan"(id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=)): i found a truck on a road, if anybody is lookig for it let me know
+00:27:25.386 [Chat - Global]("Survivor"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): ty!
+00:28:49.522 [Chat - Global]("Dan"(id=J3DN6WXzRjVAt4j_gUAEgL4v34hqtXpOtTWQ5nCMCS0=)): i am going to work, see you later, have a good day !
+00:39:39.652 [AI Object Patrol 00003] Despawning 1 East bots (spawn position <3961.441406, 313.171570, 6854.833008>, 0/1 deceased)
+00:39:39.662 [AI Object Patrol 00003] Global patrol count: 1
+00:39:39.672 [AI Object Patrol 00003] HelicopterWreck category patrol count: 0
+00:52:34.414 [AI Patrol 00016] Despawning 1 East bots (spawn position <7738.883301, 313.483398, 3000.443115>, 0/1 deceased)
+00:52:34.423 [AI Patrol 00016] Global patrol count: 0
+00:52:34.433 [AI Patrol 00016] Patrol category patrol count: 0

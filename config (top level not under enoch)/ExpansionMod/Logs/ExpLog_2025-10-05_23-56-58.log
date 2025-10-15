@@ -1,0 +1,13 @@
+23:58:14.777 [VehicleDestroyed] ExpansionUh1h_Medical (id=77AD0DD7DB43E4E5A01CBB8B72980CB2 pos=<1230.44, 168.75, 7567.06>)
+23:58:14.799 [VehicleDestroyed] ExpansionUh1h_Resistance (id=D71836EA43410BA48BFCC7A32B1493ED pos=<7925.48, 169.09, 11835.6>)
+23:58:17.860 [VehicleDeleted] ExpansionUh1h_Medical (id=7B87E4A4E04C9C009304F7A538FE3340 pos=<1230.44, 168.75, 7567.06>)
+23:58:17.870 [VehicleDeleted] ExpansionUh1h_Resistance (id=E7B35413B143D522E679938BD0BF63A0 pos=<7925.48, 169.09, 11835.6>)
+23:59:14.071 [AI Patrol 00016] Spawning 1 West bots at <7257.087891, 294.431641, 2994.494385>
+23:59:14.101 [AI Patrol 00016] Global patrol count: 1
+23:59:14.112 [AI Patrol 00016] Patrol category patrol count: 1
+23:59:14.122 [AI Patrol 00015] Spawning 3 East bots at <7696.665527, 296.745178, 2751.506836>
+23:59:14.154 [AI Patrol 00015] Global patrol count: 2
+23:59:14.165 [AI Patrol 00015] Patrol category patrol count: 2
+00:01:04.461 [VehicleDestroyed] ExpansionUh1h_Uber (id=DD75E0D6CB4BCF03AB80A5B59F44AAD8 pos=<1228.06, 169.14, 7566.19>)
+00:01:19.164 [VehicleDestroyed] ExpansionUh1h_Uber (id=23DC8E7FD0420D1D243BF3A5797B8660 pos=<7925.25, 169.45, 11833.7>)
+00:03:38.824 [MissionAirdrop] An airdrop is heading towards "Kolembrody" (pos=<8676.000000, 0.000000, 12114.000000> type=Random_Kolembrody) with a ExpansionAirdropContainer_Medical

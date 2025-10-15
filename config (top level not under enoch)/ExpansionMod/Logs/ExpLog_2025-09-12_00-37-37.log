@@ -1,0 +1,58 @@
+00:39:13.657 [AI Patrol 00014] Spawning 3 East bots at <7668.749512, 309.758606, 2828.910156>
+00:39:21.977 [AI Patrol 00014] Global patrol count: 1
+00:39:21.987 [AI Patrol 00014] Patrol category patrol count: 1
+00:39:21.997 [AI Patrol 00015] Spawning 2 West bots at <7419.277832, 287.040009, 2550.250977>
+00:39:22.034 [AI Patrol 00015] Global patrol count: 2
+00:39:22.044 [AI Patrol 00015] Patrol category patrol count: 2
+00:39:22.054 [AI Patrol 00016] Spawning 1 Civilian bots at <6928.731445, 300.627136, 3182.727783>
+00:39:22.080 [AI Patrol 00016] Global patrol count: 3
+00:39:22.090 [AI Patrol 00016] Patrol category patrol count: 3
+00:39:43.032 [VehicleEnter] Player "Snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=D06F3B83D741C27B44C1EA87103929B5 pos=<6864.17, 376.97, 4143.13>) as pilot
+00:40:01.277 [AI Object Patrol 00007] Spawning 2 West bots at <7265.126465, 226.932617, 6331.971680>
+00:40:01.318 [AI Object Patrol 00007] Global patrol count: 4
+00:40:01.328 [AI Object Patrol 00007] ContaminatedArea category patrol count: 1
+00:40:01.338 [AI Object Patrol 00009] Spawning 1 West bots at <7698.631836, 241.320816, 6069.509277>
+00:40:01.368 [AI Object Patrol 00009] Global patrol count: 5
+00:40:01.378 [AI Object Patrol 00009] ContaminatedArea category patrol count: 2
+00:40:08.380 [AI Object Patrol 00019] Spawning 2 East bots at <5508.890625, 386.273926, 4912.623047>
+00:40:08.420 [AI Object Patrol 00019] Global patrol count: 6
+00:40:08.430 [AI Object Patrol 00019] HelicopterWreck category patrol count: 1
+00:40:18.967 [AI Object Patrol 00005] Spawning 1 East bots at <6707.966797, 234.747559, 6935.442383>
+00:40:19.004 [AI Object Patrol 00005] Global patrol count: 7
+00:40:19.013 [AI Object Patrol 00005] HelicopterWreck category patrol count: 2
+00:40:19.024 [AI Object Patrol 00003] Spawning 3 West bots at <5382.325195, 267.668274, 6685.963379>
+00:40:19.064 [AI Object Patrol 00003] Global patrol count: 8
+00:40:19.074 [AI Object Patrol 00003] HelicopterWreck category patrol count: 3
+00:44:24.910 [AI Patrol 00017] Spawning 2 East bots at <9302.456055, 198.324051, 10926.964844>
+00:44:24.935 [AI Patrol 00017] Global patrol count: 9
+00:44:24.946 [AI Patrol 00017] Patrol category patrol count: 4
+00:48:07.271 [VehicleLeave] Player "Snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=D06F3B83D741C27B44C1EA87103929B5 pos=<7397.39, 297.63, 2567.8>)
+00:49:13.534 [AI Object Patrol 00003] Despawning 3 West bots (spawn position <5382.325195, 267.668274, 6685.963379>, 0/3 deceased)
+00:49:13.545 [AI Object Patrol 00003] Global patrol count: 8
+00:49:13.556 [AI Object Patrol 00003] HelicopterWreck category patrol count: 2
+00:49:13.656 [AI Patrol 00014] East bots were wiped out (spawn position <7668.749512, 309.758606, 2828.910156>, 3/3 deceased)
+00:49:13.666 [AI Patrol 00014] Global patrol count: 7
+00:49:13.677 [AI Patrol 00014] Patrol category patrol count: 3
+00:50:18.705 [AI Object Patrol 00009] Despawning 1 West bots (spawn position <7698.631836, 241.320816, 6069.509277>, 0/1 deceased)
+00:50:18.718 [AI Object Patrol 00009] Global patrol count: 6
+00:50:18.732 [AI Object Patrol 00009] ContaminatedArea category patrol count: 1
+00:50:23.676 [AI Patrol 00015] West bots were wiped out (spawn position <7419.277832, 287.040009, 2550.250977>, 2/2 deceased)
+00:50:23.686 [AI Patrol 00015] Global patrol count: 5
+00:50:23.696 [AI Patrol 00015] Patrol category patrol count: 2
+00:50:32.216 [AI Object Patrol 00019] Despawning 2 East bots (spawn position <5508.890625, 386.273926, 4912.623047>, 0/2 deceased)
+00:50:32.226 [AI Object Patrol 00019] Global patrol count: 4
+00:50:32.235 [AI Object Patrol 00019] HelicopterWreck category patrol count: 1
+00:50:33.417 [AI Object Patrol 00007] Despawning 2 West bots (spawn position <7265.126465, 226.932617, 6331.971680>, 0/2 deceased)
+00:50:33.427 [AI Object Patrol 00007] Global patrol count: 3
+00:50:33.437 [AI Object Patrol 00007] ContaminatedArea category patrol count: 0
+00:50:58.422 [AI Object Patrol 00005] Despawning 1 East bots (spawn position <6707.966797, 234.747559, 6935.442383>, 0/1 deceased)
+00:50:58.515 [AI Object Patrol 00005] Global patrol count: 2
+00:50:58.619 [AI Object Patrol 00005] HelicopterWreck category patrol count: 0
+00:54:33.425 [AI Patrol 00017] Despawning 2 East bots (spawn position <9302.456055, 198.324051, 10926.964844>, 0/2 deceased)
+00:54:33.435 [AI Patrol 00017] Global patrol count: 1
+00:54:33.445 [AI Patrol 00017] Patrol category patrol count: 1
+00:58:43.336 [VehicleEnter] Player "Snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=D06F3B83D741C27B44C1EA87103929B5 pos=<7397.39, 297.63, 2567.78>) as pilot
+00:59:01.945 [VehicleLeave] Player "Snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=D06F3B83D741C27B44C1EA87103929B5 pos=<7386.1, 297.64, 2578.04>)
+01:10:04.128 [AI Patrol 00016] Despawning 1 Civilian bots (spawn position <6928.731445, 300.627136, 3182.727783>, 0/1 deceased)
+01:10:04.139 [AI Patrol 00016] Global patrol count: 0
+01:10:04.149 [AI Patrol 00016] Patrol category patrol count: 0

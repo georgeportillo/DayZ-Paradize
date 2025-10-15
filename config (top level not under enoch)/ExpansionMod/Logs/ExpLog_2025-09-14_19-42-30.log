@@ -1,0 +1,157 @@
+19:43:29.129 [VehicleDestroyed] ExpansionUh1h_Uber (id=359B512E714D839BD8F2B78D37338D22 pos=<7924.96, 169.45, 11833.6>)
+19:43:32.444 [VehicleDeleted] ExpansionUh1h_Uber (id=B833BC3E794CEA364BF474B9735297CB pos=<7924.96, 169.45, 11833.6>)
+19:44:36.075 [AI Patrol 00016] Spawning 2 East bots at <7724.527344, 316.367889, 2993.913086>
+19:44:44.932 [AI Patrol 00016] Global patrol count: 1
+19:44:44.942 [AI Patrol 00016] Patrol category patrol count: 1
+19:44:44.952 [AI Patrol 00017] Spawning 1 West bots at <7266.889160, 293.239990, 2920.337891>
+19:44:44.983 [AI Patrol 00017] Global patrol count: 2
+19:44:44.993 [AI Patrol 00017] Patrol category patrol count: 2
+19:46:35.785 [VehicleDestroyed] ExpansionUh1h_Uber (id=F9673D3C8D4A583A5772F380A2FB0EC5 pos=<1228.17, 169.12, 7566.27>)
+19:46:55.109 [VehicleDestroyed] ExpansionUh1h_Medical (id=B3113BAE7A4221D6DAC7AA84CF23BF8F pos=<7924.97, 169.47, 11833.5>)
+19:50:42.534 [AI Object Patrol 00007] Spawning 3 West bots at <5541.921875, 386.537415, 4903.401855>
+19:50:42.579 [AI Object Patrol 00007] Global patrol count: 3
+19:50:42.589 [AI Object Patrol 00007] HelicopterWreck category patrol count: 1
+19:50:42.598 [AI Patrol 00018] Spawning 1 Civilian bots at <6657.365723, 371.626953, 3580.031494>
+19:50:42.632 [AI Patrol 00018] Global patrol count: 4
+19:50:42.642 [AI Patrol 00018] Patrol category patrol count: 3
+19:52:44.285 [VehicleDeleted] ExpansionUh1h_Uber (id=F9673D3C8D4A583A5772F380A2FB0EC5 pos=<1230.48, 168.72, 7567.18>)
+19:53:12.351 [VehicleDeleted] ExpansionUh1h_Medical (id=B3113BAE7A4221D6DAC7AA84CF23BF8F pos=<7924.97, 169.47, 11833.5>)
+19:55:26.810 [VehicleDestroyed] ExpansionUh1h_Uber (id=3CE94E51034BFB09B611318B47D32570 pos=<1228.18, 169.14, 7566.17>)
+19:55:43.654 [VehicleDestroyed] ExpansionUh1h_Medical (id=62F4F018C24764DB64327288DB9A58DA pos=<7924.47, 169.35, 11833.5>)
+19:56:03.006 [VehicleEnter] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8340.54, 334.75, 1642.81>) as pilot
+19:56:04.998 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8340.54, 334.75, 1642.83>)
+19:56:06.775 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8340.54, 334.75, 1642.85>)
+19:56:09.616 [VehicleLeave] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8340.54, 334.75, 1642.88>)
+19:57:30.956 [VehicleEnter] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8340.54, 334.75, 1643.02>) as pilot
+19:57:34.414 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8340.54, 334.75, 1643.05>)
+19:58:58.083 [VehicleEnter] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) entered vehicle Mh-6 Little Bird (id=994F5F4FBF433CBFE47A75B67AE1D77F pos=<5792.34, 412.21, 4022.49>) as pilot
+19:59:01.941 [VehicleEngine] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) started vehicle Mh-6 Little Bird (id=994F5F4FBF433CBFE47A75B67AE1D77F pos=<5792.32, 412.2, 4022.45>)
+19:59:42.796 [AI Object Patrol 00007] Despawning 3 West bots (spawn position <5541.921875, 386.537415, 4903.401855>, 0/3 deceased)
+19:59:42.807 [AI Object Patrol 00007] Global patrol count: 3
+19:59:42.817 [AI Object Patrol 00007] HelicopterWreck category patrol count: 0
+20:00:43.675 [VehicleEngine] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) stopped vehicle Mh-6 Little Bird (id=994F5F4FBF433CBFE47A75B67AE1D77F pos=<6447.05, 393.64, 3831.04>)
+20:00:52.598 [VehicleLeave] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) left vehicle Mh-6 Little Bird (id=994F5F4FBF433CBFE47A75B67AE1D77F pos=<6447.12, 393, 3831.07>)
+20:01:34.569 [VehicleDeleted] ExpansionUh1h_Uber (id=3CE94E51034BFB09B611318B47D32570 pos=<1230.43, 168.76, 7567.04>)
+20:02:02.472 [VehicleDeleted] ExpansionUh1h_Medical (id=62F4F018C24764DB64327288DB9A58DA pos=<7924.24, 169.33, 11833.4>)
+20:02:30.632 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<10908.7, 185.57, 9021.94>)
+20:02:30.656 [VehicleLeave] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<10908.7, 185.57, 9021.94>)
+20:04:17.417 [VehicleDestroyed] ExpansionUh1h_Medical (id=7CECE4BCD24075CB13515EBCF1FB1B1B pos=<1228.18, 169.13, 7566.19>)
+20:04:30.593 [VehicleDestroyed] ExpansionUh1h_Resistance (id=DC683259D347C721CED2EDB4E0C471D1 pos=<7924.54, 169.35, 11833.6>)
+20:10:25.362 [VehicleDeleted] ExpansionUh1h_Medical (id=7CECE4BCD24075CB13515EBCF1FB1B1B pos=<1230.57, 168.75, 7567.06>)
+20:10:53.200 [VehicleDeleted] ExpansionUh1h_Resistance (id=DC683259D347C721CED2EDB4E0C471D1 pos=<7924.76, 169.41, 11833.6>)
+20:13:08.702 [VehicleDestroyed] ExpansionUh1h_Resistance (id=A5B9801F0F4DBD53F547D0A79FB9D75D pos=<1228.12, 169.15, 7566.13>)
+20:13:11.458 [VehicleDestroyed] ExpansionUh1h_Uber (id=CFC7B60DFD43CC4C6AFA3E8E4D4076B9 pos=<7924.44, 169.24, 11834.1>)
+20:13:26.914 [AI Patrol 00018] Despawning 1 Civilian bots (spawn position <6657.365723, 371.626953, 3580.031494>, 0/1 deceased)
+20:13:26.924 [AI Patrol 00018] Global patrol count: 2
+20:13:26.934 [AI Patrol 00018] Patrol category patrol count: 2
+20:19:16.840 [VehicleDeleted] ExpansionUh1h_Uber (id=CFC7B60DFD43CC4C6AFA3E8E4D4076B9 pos=<7924.62, 169.27, 11834.1>)
+20:19:16.852 [VehicleDeleted] ExpansionUh1h_Resistance (id=A5B9801F0F4DBD53F547D0A79FB9D75D pos=<1230.53, 168.76, 7567.02>)
+20:21:59.726 [VehicleDestroyed] ExpansionUh1h_Resistance (id=AEF9ACA68F4898CC330B5DB45F1E2396 pos=<1228.09, 169.15, 7566.12>)
+20:22:08.299 [VehicleDestroyed] ExpansionUh1h (id=01859F3E594F176F0DB233B9C265FFFE pos=<7924.6, 169.32, 11833.8>)
+20:28:07.655 [VehicleDeleted] ExpansionUh1h_Resistance (id=AEF9ACA68F4898CC330B5DB45F1E2396 pos=<1230.39, 168.76, 7567.03>)
+20:28:35.465 [VehicleDeleted] ExpansionUh1h (id=01859F3E594F176F0DB233B9C265FFFE pos=<7925.53, 169.59, 11833.4>)
+20:30:50.999 [VehicleDestroyed] ExpansionUh1h (id=ADAD92BCA2468D89BF1543A506916528 pos=<1228.16, 169.11, 7566.27>)
+20:30:57.654 [VehicleDestroyed] ExpansionUh1h_Resistance (id=E2F97DD04448854B6FD0C1829061B753 pos=<7924.7, 169.26, 11834.1>)
+20:31:30.003 [VehicleEnter] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<10908.7, 185.57, 9021.94>) as pilot
+20:31:31.812 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<10908.7, 185.57, 9021.94>)
+20:32:21.343 [AI Object Patrol 00034] Spawning 1 East bots at <9398.057617, 253.435120, 8097.729004>
+20:32:21.383 [AI Object Patrol 00034] Global patrol count: 3
+20:32:21.393 [AI Object Patrol 00034] HelicopterWreck category patrol count: 1
+20:33:13.123 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<9204.45, 271.2, 8225.77>)
+20:33:13.146 [VehicleLeave] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<9204.45, 271.2, 8225.77>)
+20:35:15.813 [AI Object Patrol 00034] East bots were wiped out (spawn position <9398.057617, 253.435120, 8097.729004>, 1/1 deceased)
+20:35:15.824 [AI Object Patrol 00034] Global patrol count: 2
+20:35:15.834 [AI Object Patrol 00034] HelicopterWreck category patrol count: 0
+20:36:59.698 [VehicleDeleted] ExpansionUh1h (id=ADAD92BCA2468D89BF1543A506916528 pos=<1230.25, 168.77, 7567.06>)
+20:37:27.481 [VehicleDeleted] ExpansionUh1h_Resistance (id=E2F97DD04448854B6FD0C1829061B753 pos=<7923.88, 168.81, 11835.5>)
+20:39:41.863 [VehicleDestroyed] ExpansionUh1h_Uber (id=7376A976E7437E39C600358D947BB717 pos=<1228.16, 169.11, 7566.27>)
+20:39:58.464 [VehicleDestroyed] ExpansionUh1h_Resistance (id=3EE8545C7141CBBB08878180BD8A9908 pos=<7924.76, 169.39, 11833.6>)
+20:41:33.476 [AI Object Patrol 00039] Spawning 3 West bots at <9649.033203, 215.085114, 8617.997070>
+20:41:33.700 [AI Object Patrol 00039] Global patrol count: 3
+20:41:33.838 [AI Object Patrol 00039] ContaminatedArea category patrol count: 1
+20:45:50.567 [VehicleDeleted] ExpansionUh1h_Uber (id=7376A976E7437E39C600358D947BB717 pos=<1230.49, 168.73, 7567.15>)
+20:46:18.342 [VehicleDeleted] ExpansionUh1h_Resistance (id=3EE8545C7141CBBB08878180BD8A9908 pos=<7924.83, 169.41, 11833.6>)
+20:46:26.960 [VehicleEnter] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<9204.45, 271.2, 8225.79>) as pilot
+20:46:28.858 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<9204.45, 271.2, 8225.79>)
+20:47:36.234 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8136.47, 279.93, 7726.63>)
+20:47:36.257 [VehicleLeave] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8136.47, 279.93, 7726.63>)
+20:48:34.237 [VehicleDestroyed] ExpansionUh1h_Uber (id=5078F0C00F474430CA6F1DBEF83A60A5 pos=<1228.07, 169.16, 7566.11>)
+20:48:52.613 [VehicleDestroyed] ExpansionUh1h_Uber (id=F4436A80D24F4439B786AAA8BA28C409 pos=<7925.39, 169.53, 11833.5>)
+20:53:47.106 [VehicleEnter] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8136.47, 279.93, 7726.63>) as pilot
+20:53:50.908 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8136.47, 279.93, 7726.63>)
+20:54:19.901 [AI Object Patrol 00032] Spawning 2 West bots at <9183.083984, 296.233856, 6722.033203>
+20:54:19.929 [AI Object Patrol 00032] Global patrol count: 4
+20:54:19.939 [AI Object Patrol 00032] ContaminatedArea category patrol count: 2
+20:54:40.302 [AI Object Patrol 00040] Spawning 3 West bots at <9207.882813, 292.048126, 6031.705566>
+20:54:40.337 [AI Object Patrol 00040] Global patrol count: 5
+20:54:40.347 [AI Object Patrol 00040] HelicopterWreck category patrol count: 1
+20:54:40.975 [VehicleDeleted] ExpansionUh1h_Uber (id=5078F0C00F474430CA6F1DBEF83A60A5 pos=<1230.5, 168.76, 7567.03>)
+20:55:02.870 [AI Object Patrol 00041] Spawning 3 East bots at <10052.944336, 298.707825, 7018.115234>
+20:55:02.907 [AI Object Patrol 00041] Global patrol count: 6
+20:55:02.917 [AI Object Patrol 00041] HelicopterWreck category patrol count: 2
+20:55:09.072 [VehicleDeleted] ExpansionUh1h_Uber (id=F4436A80D24F4439B786AAA8BA28C409 pos=<7927.19, 169.93, 11833.2>)
+20:56:53.895 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<9891.19, 351.87, 3800.18>)
+20:56:53.918 [VehicleLeave] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<9891.19, 351.87, 3800.18>)
+20:56:58.641 [AI Object Patrol 00039] Despawning 3 West bots (spawn position <9649.033203, 215.085114, 8617.997070>, 0/3 deceased)
+20:56:58.651 [AI Object Patrol 00039] Global patrol count: 5
+20:56:58.662 [AI Object Patrol 00039] ContaminatedArea category patrol count: 1
+20:57:23.787 [VehicleDestroyed] ExpansionUh1h_Medical (id=C27D5D9EF44C0333955A4781BD2C89EC pos=<1228.1, 169.13, 7566.21>)
+20:57:41.770 [VehicleDestroyed] ExpansionUh1h_Resistance (id=1B65EF7FB14ECFFBDC1795807450CC7F pos=<7924.73, 169.4, 11833.5>)
+20:58:52.696 [AI Object Patrol 00032] Despawning 2 West bots (spawn position <9183.083984, 296.233856, 6722.033203>, 0/2 deceased)
+20:58:52.708 [AI Object Patrol 00032] Global patrol count: 4
+20:58:52.718 [AI Object Patrol 00032] ContaminatedArea category patrol count: 0
+20:59:52.038 [VehicleEnter] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<9891.19, 351.87, 3800.18>) as pilot
+20:59:53.585 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<9891.19, 351.87, 3800.18>)
+21:01:25.838 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8915.37, 472.23, 2073.49>)
+21:01:25.901 [VehicleLeave] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8915.37, 472.23, 2073.49>)
+21:03:33.039 [VehicleDeleted] ExpansionUh1h_Medical (id=C27D5D9EF44C0333955A4781BD2C89EC pos=<1230.36, 168.71, 7567.27>)
+21:04:00.843 [VehicleDeleted] ExpansionUh1h_Resistance (id=1B65EF7FB14ECFFBDC1795807450CC7F pos=<7924.7, 169.4, 11833.4>)
+21:05:28.527 [AI Object Patrol 00041] Despawning 3 East bots (spawn position <10052.944336, 298.707825, 7018.115234>, 0/3 deceased)
+21:05:28.537 [AI Object Patrol 00041] Global patrol count: 3
+21:05:28.547 [AI Object Patrol 00041] HelicopterWreck category patrol count: 1
+21:05:57.815 [AI Object Patrol 00040] Despawning 3 West bots (spawn position <9207.882813, 292.048126, 6031.705566>, 0/3 deceased)
+21:05:57.830 [AI Object Patrol 00040] Global patrol count: 2
+21:05:57.845 [AI Object Patrol 00040] HelicopterWreck category patrol count: 0
+21:06:15.956 [VehicleDestroyed] ExpansionUh1h_Resistance (id=EA3DC08D9A475E1C977FB6852A098665 pos=<1228.13, 169.15, 7566.14>)
+21:06:36.645 [VehicleDestroyed] ExpansionUh1h (id=70B8AA7DDC46B4E6F55A039FE67D7F4A pos=<7924.99, 169.49, 11833.4>)
+21:06:49.059 [VehicleEnter] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8915.55, 472.23, 2073.47>) as pilot
+21:06:50.506 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8915.55, 472.23, 2073.47>)
+21:07:44.135 [AI Object Patrol 00034] Despawning East patrol (spawn position <9392.740234, 252.340057, 8129.562988>)
+21:08:57.135 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8338.54, 334.76, 1641.4>)
+21:09:03.266 [VehicleLeave] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8338.54, 334.75, 1641.48>)
+21:12:24.540 [VehicleDeleted] ExpansionUh1h_Resistance (id=EA3DC08D9A475E1C977FB6852A098665 pos=<1230.55, 168.75, 7567.06>)
+21:12:52.272 [VehicleDeleted] ExpansionUh1h (id=70B8AA7DDC46B4E6F55A039FE67D7F4A pos=<7925.08, 169.5, 11833.5>)
+21:15:06.389 [VehicleDestroyed] ExpansionUh1h_Uber (id=F6B23AE3E54E4C15FC092F80C68C9B2A pos=<1228.14, 169.12, 7566.26>)
+21:15:23.762 [VehicleDestroyed] ExpansionUh1h_Uber (id=858978BA0845736F2FA0B4899EBFE022 pos=<7924.49, 169.35, 11833.5>)
+21:21:15.531 [VehicleDeleted] ExpansionUh1h_Uber (id=F6B23AE3E54E4C15FC092F80C68C9B2A pos=<1230.45, 168.74, 7567.1>)
+21:21:43.289 [VehicleDeleted] ExpansionUh1h_Uber (id=858978BA0845736F2FA0B4899EBFE022 pos=<7924.42, 169.34, 11833.5>)
+21:23:56.617 [VehicleDestroyed] ExpansionUh1h_Uber (id=524AB0A09642EE8F6A6789B81C4ADF4B pos=<1228.17, 169.1, 7566.32>)
+21:24:16.336 [VehicleDestroyed] ExpansionUh1h_Resistance (id=6F49E0CE694C15382A75A9BA0CC58D80 pos=<7924.89, 169.47, 11833.4>)
+21:30:07.107 [VehicleDeleted] ExpansionUh1h_Uber (id=524AB0A09642EE8F6A6789B81C4ADF4B pos=<1230.39, 168.74, 7567.11>)
+21:30:34.833 [VehicleDeleted] ExpansionUh1h_Resistance (id=6F49E0CE694C15382A75A9BA0CC58D80 pos=<7924.77, 169.47, 11833.3>)
+21:32:50.078 [VehicleDestroyed] ExpansionUh1h_Medical (id=43DEF68BA54DE1E3C1DCEA81B7F7C279 pos=<1228.06, 169.14, 7566.21>)
+21:33:07.950 [VehicleDestroyed] ExpansionUh1h_Medical (id=1D506C4F514652F5FA453BA1B0876CB2 pos=<7925.23, 169.5, 11833.5>)
+21:38:58.427 [VehicleDeleted] ExpansionUh1h_Medical (id=43DEF68BA54DE1E3C1DCEA81B7F7C279 pos=<1230.3, 168.74, 7567.17>)
+21:39:26.499 [VehicleDeleted] ExpansionUh1h_Medical (id=1D506C4F514652F5FA453BA1B0876CB2 pos=<7925.61, 169.65, 11833.1>)
+21:41:41.490 [VehicleDestroyed] ExpansionUh1h_Resistance (id=BCCB8FD85342F2F7F51F3BBBDCB3C835 pos=<1228.1, 169.15, 7566.13>)
+21:41:55.138 [VehicleDestroyed] ExpansionUh1h (id=6E1383CBA2473DE68A85A58CC2C3C768 pos=<7924.97, 169.44, 11833.6>)
+21:47:49.430 [VehicleDeleted] ExpansionUh1h_Resistance (id=BCCB8FD85342F2F7F51F3BBBDCB3C835 pos=<1230.44, 168.77, 7566.99>)
+21:48:17.211 [VehicleDeleted] ExpansionUh1h (id=6E1383CBA2473DE68A85A58CC2C3C768 pos=<7925.68, 169.67, 11833.2>)
+21:50:33.257 [VehicleDestroyed] ExpansionUh1h_Resistance (id=A51D9629ED46C93D9B0E929504344A5D pos=<1228.07, 169.16, 7566.11>)
+21:50:39.786 [VehicleDestroyed] ExpansionUh1h_Medical (id=938214764A4A5F6D1143DB8BAF323534 pos=<7924.79, 169.29, 11834>)
+21:56:57.132 [VehicleDeleted] ExpansionUh1h_Resistance (id=A51D9629ED46C93D9B0E929504344A5D pos=<1230.54, 168.76, 7566.99>)
+21:57:25.484 [VehicleDeleted] ExpansionUh1h_Medical (id=938214764A4A5F6D1143DB8BAF323534 pos=<7928.35, 169.7, 11835.5>)
+21:59:39.175 [VehicleDestroyed] ExpansionUh1h_Medical (id=40A07F1D684AF2C5FC813CB89A186E90 pos=<1228.11, 169.12, 7566.28>)
+21:59:56.754 [VehicleDestroyed] ExpansionUh1h (id=F7F67F6AEE4AE2CCC7AEEC8E127D7AE2 pos=<7925.37, 169.5, 11833.7>)
+22:05:47.533 [VehicleDeleted] ExpansionUh1h_Medical (id=40A07F1D684AF2C5FC813CB89A186E90 pos=<1230.49, 168.73, 7567.14>)
+22:06:15.521 [VehicleDeleted] ExpansionUh1h (id=F7F67F6AEE4AE2CCC7AEEC8E127D7AE2 pos=<7927.26, 169.88, 11833.5>)
+22:08:29.598 [VehicleDestroyed] ExpansionUh1h_Uber (id=7F8FDC4BA741CBB3952F2782E29A0E12 pos=<1228.14, 169.11, 7566.31>)
+22:08:40.257 [VehicleDestroyed] ExpansionUh1h_Resistance (id=802B876F6248C504F14904B2F201F8A4 pos=<7924.24, 169.28, 11833.7>)
+22:09:53.096 [Chat - Global]("vERKE"(id=yvJkN5qXM69k4xYaDnfdkc8E-_KSFkOOk2WBLvNcg54=)): hi
+22:14:39.681 [VehicleDeleted] ExpansionUh1h_Uber (id=7F8FDC4BA741CBB3952F2782E29A0E12 pos=<1230.37, 168.69, 7567.31>)
+22:15:07.702 [VehicleDeleted] ExpansionUh1h_Resistance (id=802B876F6248C504F14904B2F201F8A4 pos=<7923.82, 169.15, 11833.9>)
+22:17:22.978 [VehicleDestroyed] ExpansionUh1h_Uber (id=60FC1E6E3641FC86D5743291C925E510 pos=<1228.09, 169.16, 7566.12>)
+22:17:30.839 [VehicleDestroyed] ExpansionUh1h_Medical (id=7D77474B2C4123C9771CD682FB6D60FB pos=<7924.36, 169.27, 11833.8>)
+22:18:04.796 [AI Object Patrol 00057] Spawning 1 West bots at <5413.310059, 434.334473, 1430.841919>
+22:18:04.823 [AI Object Patrol 00057] Global patrol count: 3
+22:18:04.833 [AI Object Patrol 00057] HelicopterWreck category patrol count: 1

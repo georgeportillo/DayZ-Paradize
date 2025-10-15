@@ -1,0 +1,26 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "BS_Hacked_Crate_Blue",
+            "m_LocalPosition": [
+                4219.58642578125,
+                247.35809326171876,
+                10403.787109375
+            ],
+            "m_LocalRotation": [
+                89.17871856689453,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 13000.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        }
+    ]
+}

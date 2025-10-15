@@ -1,0 +1,36 @@
+{
+    "EnableDrawAttention": 1,
+    "List": [
+        {
+            "ClassName": "NomNom_Poke_Box_G1",
+            "OpenedItem": "",
+            "DropAmount": 1,
+            "Contents": [
+                {
+                    "GroupName": "Gen 1 1999",
+                    "Drop_Chance": 100.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 12,
+                            "Classname": "NomNom_Poke_Pack_G1_Blast"
+                        },
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 12,
+                            "Classname": "NomNom_Poke_Pack_G1_Chard"
+                        },
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 12,
+                            "Classname": "NomNom_Poke_Pack_G1_Vena"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

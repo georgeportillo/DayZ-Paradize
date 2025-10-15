@@ -1,0 +1,3698 @@
+{
+    "EnableDrawAttention": 1,
+    "List": [
+        {
+            "ClassName": "NomNom_Poke_Pack_G1_Chard",
+            "OpenedItem": "OpenNomNom_Poke_Pack_G1_Chard",
+            "DropAmount": 11,
+            "Contents": [
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_44"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_45"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_46"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_47"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_48"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_49"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_50"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_51"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_52"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_53"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_54"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_55"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_56"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_57"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_58"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_59"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_60"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_61"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_62"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_63"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_64"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_65"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_66"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_67"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_68"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_69"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_91"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_92"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_93"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_94"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_95"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_96"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_97"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_98"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_99"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_100"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_101"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_102"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_23"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_24"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_25"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_26"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_27"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_28"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_29"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_30"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_31"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_32"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_33"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_34"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_35"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_36"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_37"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_38"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_39"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_40"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_41"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_42"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_43"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_80"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_81"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_82"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_83"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_84"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_85"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_86"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_87"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_88"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_89"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_90"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_1"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_2"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_3"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_4"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_5"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_6"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_7"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_8"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_9"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_10"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_11"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_12"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_13"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_14"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_15"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_16"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_17"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_18"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_19"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_20"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_21"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_22"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_70"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_71"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_72"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_73"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_74"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_75"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_76"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_77"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_78"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_79"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ClassName": "NomNom_Poke_Pack_G1_Blast",
+            "OpenedItem": "OpenNomNom_Poke_Pack_G1_Blast",
+            "DropAmount": 11,
+            "Contents": [
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_44"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_45"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_46"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_47"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_48"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_49"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_50"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_51"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_52"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_53"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_54"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_55"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_56"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_57"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_58"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_59"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_60"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_61"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_62"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_63"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_64"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_65"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_66"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_67"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_68"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_69"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_91"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_92"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_93"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_94"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_95"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_96"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_97"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_98"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_99"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_100"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_101"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_102"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_23"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_24"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_25"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_26"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_27"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_28"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_29"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_30"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_31"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_32"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_33"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_34"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_35"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_36"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_37"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_38"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_39"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_40"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_41"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_42"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_43"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_80"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_81"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_82"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_83"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_84"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_85"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_86"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_87"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_88"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_89"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_90"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_1"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_2"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_3"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_4"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_5"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_6"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_7"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_8"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_9"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_10"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_11"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_12"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_13"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_14"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_15"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_16"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_17"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_18"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_19"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_20"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_21"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_22"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_70"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_71"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_72"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_73"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_74"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_75"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_76"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_77"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_78"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_79"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ClassName": "NomNom_Poke_Pack_G1_Vena",
+            "OpenedItem": "OpenNomNom_Poke_Pack_G1_Vena",
+            "DropAmount": 11,
+            "Contents": [
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_44"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_45"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_46"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_47"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_48"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_49"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_50"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_51"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_52"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_53"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_54"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_55"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_56"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_57"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_58"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_59"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_60"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_61"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_62"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_63"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_64"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_65"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_66"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_67"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_68"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_69"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_91"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_92"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_93"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_94"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_95"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_96"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_97"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_98"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_99"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_100"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_101"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Common",
+                    "Drop_Chance": 90.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_102"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_23"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_24"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_25"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_26"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_27"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_28"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_29"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_30"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_31"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_32"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_33"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_34"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_35"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_36"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_37"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_38"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_39"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_40"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_41"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_42"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_43"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_80"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_81"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_82"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_83"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_84"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_85"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_86"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_87"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_88"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_89"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Uncommon",
+                    "Drop_Chance": 60.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_90"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_1"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_2"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_3"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_4"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_5"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_6"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_7"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_8"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_9"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_10"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_11"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_12"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_13"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_14"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_15"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_16"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_17"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_18"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_19"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_20"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_21"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_22"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_70"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_71"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_72"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_73"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_74"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_75"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_76"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_77"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_78"
+                        }
+                    ]
+                },
+                {
+                    "GroupName": "Rare",
+                    "Drop_Chance": 30.0,
+                    "ContentItems": [
+                        {
+                            "DrawAttention": 0,
+                            "ShowLocation": 0,
+                            "Amount": 1,
+                            "Classname": "NomNom_Poke_Card_G1_79"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "eAI_SurvivorM_Peter",
+            "m_LocalPosition": [
+                7202.07666015625,
+                301.0677185058594,
+                2601.72265625
+            ],
+            "m_LocalRotation": [
+                124.12387084960938,
+                -20.91982650756836,
+                12.95964241027832
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 36
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "USMCJacket_Woodland",
+                    "m_Data": {
+                        "m_Health": 179.00625610351563,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "USMCPants_Woodland",
+                    "m_Data": {
+                        "m_Health": 159.26901245117188,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CombatBoots_Beige",
+                    "m_Data": {
+                        "m_Health": 135.65756225585938,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CoyoteBag_Green",
+                    "m_Data": {
+                        "m_Health": 159.40818786621095,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "HighCapacityVest_Olive",
+                    "m_Data": {
+                        "m_Health": 93.53202819824219,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "BallisticHelmet_Black",
+                    "m_Data": {
+                        "m_Health": 67.07449340820313,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "TacticalGloves_Black",
+                    "m_Data": {
+                        "m_Health": 126.87984466552735,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "MilitaryBelt",
+                    "m_Data": {
+                        "m_Health": 102.07705688476563,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        }
+    ]
+}

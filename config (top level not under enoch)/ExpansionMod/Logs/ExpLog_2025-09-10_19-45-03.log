@@ -1,0 +1,99 @@
+20:08:46.281 [AI Object Patrol 00022] Spawning 2 West bots at <5912.142090, 231.078140, 8154.698730>
+20:08:55.049 [AI Object Patrol 00022] Global patrol count: 1
+20:08:55.059 [AI Object Patrol 00022] ContaminatedArea category patrol count: 1
+20:09:33.790 [VehicleEnter] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) entered vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<10336.5, 223.98, 5902.8>) as pilot
+20:09:36.279 [VehicleLeave] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) left vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<10336.5, 223.98, 5902.79>)
+20:09:46.066 [VehicleEnter] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) entered vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<10336.5, 223.98, 5902.79>) as pilot
+20:09:50.344 [VehicleEngine] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) started vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<10336.5, 223.98, 5902.79>)
+20:10:50.799 [AI Object Patrol 00028] Spawning 1 East bots at <8679.637695, 320.406555, 6404.164551>
+20:10:50.837 [AI Object Patrol 00028] Global patrol count: 2
+20:10:50.847 [AI Object Patrol 00028] HelicopterWreck category patrol count: 1
+20:11:22.663 [AI Object Patrol 00010] Spawning 1 West bots at <7843.797363, 252.957794, 5967.879395>
+20:11:22.705 [AI Object Patrol 00010] Global patrol count: 3
+20:11:22.716 [AI Object Patrol 00010] ContaminatedArea category patrol count: 2
+20:12:20.209 [AI Patrol 00016] Spawning 1 East bots at <7655.182617, 311.262299, 2814.369385>
+20:12:20.245 [AI Patrol 00016] Global patrol count: 4
+20:12:20.254 [AI Patrol 00016] Patrol category patrol count: 1
+20:12:20.271 [AI Patrol 00017] Spawning 3 West bots at <7248.303711, 293.260010, 2971.059326>
+20:12:20.306 [AI Patrol 00017] Global patrol count: 5
+20:12:20.317 [AI Patrol 00017] Patrol category patrol count: 2
+20:12:39.796 [AI Object Patrol 00030] Spawning 3 East bots at <9912.173828, 350.790009, 3866.917236>
+20:12:39.894 [AI Object Patrol 00030] Global patrol count: 6
+20:12:39.939 [AI Object Patrol 00030] HelicopterWreck category patrol count: 2
+20:14:03.483 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<9983.17, 333.24, 3527.02>)
+20:14:03.494 [VehicleLeave] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) left vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<9983.17, 333.24, 3527.02>)
+20:15:34.848 [VehicleEnter] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) entered vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<9983.22, 333.2, 3526.58>) as pilot
+20:15:37.402 [VehicleEngine] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) started vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<9983.22, 333.19, 3526.56>)
+20:16:50.827 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): This little mili base doesn't looked gassed, but it is
+20:18:17.311 [AI Object Patrol 00031] Spawning 2 East bots at <8489.936523, 386.193787, 2843.074707>
+20:18:17.344 [AI Object Patrol 00031] Global patrol count: 7
+20:18:17.354 [AI Object Patrol 00031] HelicopterWreck category patrol count: 3
+20:20:06.923 [AI Patrol 00016] East bots were wiped out (spawn position <7655.182617, 311.262299, 2814.369385>, 1/1 deceased)
+20:20:06.932 [AI Patrol 00016] Global patrol count: 6
+20:20:06.941 [AI Patrol 00016] Patrol category patrol count: 1
+20:20:19.027 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<8804.39, 308.46, 6149.51>)
+20:20:19.040 [VehicleLeave] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) left vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<8804.39, 308.46, 6149.51>)
+20:22:39.941 [AI Object Patrol 00028] East bots were wiped out (spawn position <8679.637695, 320.406555, 6404.164551>, 1/1 deceased)
+20:22:39.952 [AI Object Patrol 00028] Global patrol count: 5
+20:22:39.961 [AI Object Patrol 00028] HelicopterWreck category patrol count: 2
+20:24:22.098 [AI Object Patrol 00022] Despawning 2 West bots (spawn position <5912.142090, 231.078140, 8154.698730>, 0/2 deceased)
+20:24:22.116 [AI Object Patrol 00022] Global patrol count: 4
+20:24:22.134 [AI Object Patrol 00022] ContaminatedArea category patrol count: 1
+20:26:24.688 [VehicleEnter] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) entered vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<8804.28, 308.48, 6149.18>) as pilot
+20:26:26.332 [VehicleEngine] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) started vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<8804.28, 308.48, 6149.18>)
+20:28:24.962 [AI Object Patrol 00030] Despawning 2 East bots (spawn position <9912.173828, 350.790009, 3866.917236>, 1/3 deceased)
+20:28:24.972 [AI Object Patrol 00030] Global patrol count: 3
+20:28:24.981 [AI Object Patrol 00030] HelicopterWreck category patrol count: 1
+20:28:28.096 [AI Object Patrol 00031] Despawning 2 East bots (spawn position <8489.936523, 386.193787, 2843.074707>, 0/2 deceased)
+20:28:28.106 [AI Object Patrol 00031] Global patrol count: 2
+20:28:28.117 [AI Object Patrol 00031] HelicopterWreck category patrol count: 0
+20:29:08.310 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<10336.6, 224.01, 5905.75>)
+20:29:08.363 [VehicleLeave] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) left vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<10336.6, 224.01, 5905.75>)
+20:29:37.859 [AI Object Patrol 00010] Despawning 1 West bots (spawn position <7843.797363, 252.957794, 5967.879395>, 0/1 deceased)
+20:29:37.869 [AI Object Patrol 00010] Global patrol count: 1
+20:29:37.879 [AI Object Patrol 00010] ContaminatedArea category patrol count: 0
+20:33:12.223 [AI Object Patrol 00028] Despawning 0 East bots (spawn position <8679.637695, 320.406555, 6404.164551>, 1/1 deceased)
+20:38:28.165 [AI Patrol 00017] Despawning 2 West bots (spawn position <7248.303711, 293.260010, 2971.059326>, 1/3 deceased)
+20:38:28.179 [AI Patrol 00017] Global patrol count: 0
+20:38:28.189 [AI Patrol 00017] Patrol category patrol count: 0
+20:44:25.769 [AI Object Patrol 00012] Spawning 3 West bots at <7736.125488, 243.340668, 6037.981934>
+20:44:25.814 [AI Object Patrol 00012] Global patrol count: 1
+20:44:25.824 [AI Object Patrol 00012] ContaminatedArea category patrol count: 1
+20:44:25.835 [AI Object Patrol 00011] Spawning 2 West bots at <7655.269043, 233.160004, 5970.165527>
+20:44:25.878 [AI Object Patrol 00011] Global patrol count: 2
+20:44:25.888 [AI Object Patrol 00011] ContaminatedArea category patrol count: 2
+20:49:59.920 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): are cars just random spawn
+20:50:09.571 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): or do they spawn in a specific pace
+20:50:12.168 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): place
+20:54:38.180 [AI Object Patrol 00011] Despawning 2 West bots (spawn position <7655.269043, 233.160004, 5970.165527>, 0/2 deceased)
+20:54:38.190 [AI Object Patrol 00011] Global patrol count: 1
+20:54:38.200 [AI Object Patrol 00011] ContaminatedArea category patrol count: 1
+20:54:38.262 [AI Object Patrol 00009] Spawning 3 West bots at <7434.499023, 226.377594, 6418.296387>
+20:54:38.282 [AI Object Patrol 00009] Global patrol count: 2
+20:54:38.294 [AI Object Patrol 00009] ContaminatedArea category patrol count: 2
+20:54:38.544 [AI Object Patrol 00012] Despawning 3 West bots (spawn position <7736.125488, 243.340668, 6037.981934>, 0/3 deceased)
+20:54:38.555 [AI Object Patrol 00012] Global patrol count: 1
+20:54:38.565 [AI Object Patrol 00012] ContaminatedArea category patrol count: 1
+20:54:39.263 [AI Object Patrol 00008] Spawning 2 West bots at <7382.548828, 228.253632, 6166.784180>
+20:54:39.299 [AI Object Patrol 00008] Global patrol count: 2
+20:54:39.309 [AI Object Patrol 00008] ContaminatedArea category patrol count: 2
+21:02:13.184 [AI Object Patrol 00009] West bots were wiped out (spawn position <7434.499023, 226.377594, 6418.296387>, 3/3 deceased)
+21:02:13.193 [AI Object Patrol 00009] Global patrol count: 1
+21:02:13.203 [AI Object Patrol 00009] ContaminatedArea category patrol count: 1
+21:05:31.085 [Chat - Global]("Snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): they spawn in specific places
+21:08:18.288 [AI Object Patrol 00008] West bots were wiped out (spawn position <7382.548828, 228.253632, 6166.784180>, 2/2 deceased)
+21:08:18.299 [AI Object Patrol 00008] Global patrol count: 0
+21:08:18.308 [AI Object Patrol 00008] ContaminatedArea category patrol count: 0
+21:11:14.903 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): okay
+21:11:29.767 [Chat - Global]("Snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): topolin has range rovers but be careful
+21:13:30.664 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): gotcha i saw a bus in topolin 
+21:13:59.511 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): so hard to get nbc jacket without ruining it 
+21:14:13.982 [VehicleDeleted] Expansion_Landrover_Red (id=559B70748F402960CDFE4D9C0A02DB0F pos=<1812.86, 199.98, 7366.76>)
+21:15:55.108 [VehicleDeleted] Expansion_Landrover_Green (id=3269AF68804E7FD8D19D57BEDB6137AE pos=<1965.91, 208.11, 7368.08>)
+21:19:14.559 [AI Object Patrol 00050] Spawning 1 East bots at <9907.911133, 350.790009, 3879.446533>
+21:19:14.590 [AI Object Patrol 00050] Global patrol count: 1
+21:19:14.601 [AI Object Patrol 00050] HelicopterWreck category patrol count: 1
+21:25:25.723 [VehicleDeleted] ExpansionUh1h_Resistance (id=5E2823EE234F474D5537CFB2041E0BFF pos=<1907.28, 204.75, 7357.6>)
+21:54:15.700 [AI Object Patrol 00050] Despawning 1 East bots (spawn position <9907.911133, 350.790009, 3879.446533>, 0/1 deceased)
+21:54:15.849 [AI Object Patrol 00050] Global patrol count: 0
+21:54:15.996 [AI Object Patrol 00050] HelicopterWreck category patrol count: 0

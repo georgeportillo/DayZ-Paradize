@@ -1,0 +1,65 @@
+[COT 2025-09-02 09:30:30] 76561198024482897: Activated Community Online Tools [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-02 09:31:00] 76561198024482897: Teleported 76561198024482897 to position <8343.560547, 330.559448, 1635.251587>
+[COT 2025-09-02 09:38:39] 76561198024482897: Deactivated Community Online Tools [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-02 09:38:41] 76561198024482897: Activated Community Online Tools [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-09-02 09:38:51] 76561198024482897: ESP: Viewing ESP
+[COT 2025-09-02 09:39:02] 76561198024482897: Created Deletion Backup '2025-09-02_09-39-02'
+[COT 2025-09-02 09:39:02] 76561198024482897: ESP index=0 target=Animal_CanisLupus_Grey:444 position=<8334.826172, 322.530426, 1634.403931> action=delete
+[COT 2025-09-02 09:39:02] 76561198024482897: ESP index=1 target=Animal_CanisLupus_White:446 position=<8307.668945, 303.237366, 1572.141968> action=delete
+[COT 2025-09-02 09:39:02] 76561198024482897: ESP action=delete_all count=2 attempted=2
+[COT 2025-09-02 09:39:08] 76561198024482897: Created Deletion Backup '2025-09-02_09-39-08'
+[COT 2025-09-02 09:39:08] 76561198024482897: ESP index=0 target=Animal_CanisLupus_Grey:445 position=<8330.428711, 322.548462, 1640.927612> action=delete
+[COT 2025-09-02 09:39:08] 76561198024482897: ESP action=delete_all count=1 attempted=1
+[COT 2025-09-02 09:40:34] 76561198024482897: ESP: Clearing ESP
+[COT 2025-09-02 09:40:36] 76561198024482897: ESP: ESP updating
+[COT 2025-09-02 09:40:44] 76561198024482897: ESP target=mmg_storage_openable_noLock_base<e592610> action=position value=<8331.740234, 331.703003, 1638.569946>
+[COT 2025-09-02 09:40:44] 76561198024482897: ESP target=mmg_storage_openable_noLock_base<e592610> action=position value=<8331.740234, 331.703003, 1638.469971>
+[COT 2025-09-02 09:40:47] 76561198024482897: ESP target=mmg_storage_openable_noLock_base<e592610> action=position value=<8331.740234, 331.703003, 1638.569946>
+[COT 2025-09-02 09:40:48] 76561198024482897: ESP target=mmg_storage_openable_noLock_base<e592610> action=position value=<8331.740234, 331.703003, 1639.569946>
+[COT 2025-09-02 09:40:51] 76561198024482897: ESP target=mmg_storage_openable_noLock_base<e592610> action=position value=<8331.740234, 331.703003, 1639.469971>
+[COT 2025-09-02 09:40:52] 76561198024482897: ESP target=mmg_storage_openable_noLock_base<e592610> action=position value=<8331.740234, 331.703003, 1639.369995>
+[COT 2025-09-02 09:40:52] 76561198024482897: ESP target=mmg_storage_openable_noLock_base<e592610> action=position value=<8331.740234, 331.703003, 1639.270020>
+[COT 2025-09-02 09:40:53] 76561198024482897: ESP target=mmg_storage_openable_noLock_base<e592610> action=position value=<8331.740234, 331.703003, 1639.170044>
+[COT 2025-09-02 09:40:54] 76561198024482897: ESP target=mmg_storage_openable_noLock_base<e592610> action=position value=<8331.740234, 331.703003, 1639.069946>
+[COT 2025-09-02 09:40:54] 76561198024482897: ESP target=mmg_storage_openable_noLock_base<e592610> action=position value=<8331.740234, 331.703003, 1638.969971>
+[COT 2025-09-02 09:41:02] 76561198024482897: ESP target=mmg_storage_openable_noLock_base<e592610> action=position value=<8331.740234, 331.703003, 1638.869995>
+[COT 2025-09-02 09:41:06] 76561198024482897: ESP target=mmg_storage_openable_noLock_base<e592610> action=position value=<8331.740234, 331.703003, 1638.770020>
+[COT 2025-09-02 09:41:08] 76561198024482897: ESP target=mmg_storage_openable_noLock_base<e592610> action=position value=<8331.740234, 331.703003, 1638.670044>
+[COT 2025-09-02 09:41:10] 76561198024482897: ESP target=mmg_storage_openable_noLock_base<e592610> action=position value=<8331.639648, 331.703003, 1638.670044>
+[COT 2025-09-02 09:41:11] 76561198024482897: ESP target=mmg_storage_openable_noLock_base<e592610> action=position value=<8332.639648, 331.703003, 1638.670044>
+[COT 2025-09-02 09:41:13] 76561198024482897: ESP target=mmg_storage_openable_noLock_base<e592610> action=position value=<8332.540039, 331.703003, 1638.670044>
+[COT 2025-09-02 09:41:13] 76561198024482897: ESP target=mmg_storage_openable_noLock_base<e592610> action=position value=<8332.440430, 331.703003, 1638.670044>
+[COT 2025-09-02 09:41:14] 76561198024482897: ESP target=mmg_storage_openable_noLock_base<e592610> action=position value=<8332.339844, 331.703003, 1638.670044>
+[COT 2025-09-02 09:41:14] 76561198024482897: ESP target=mmg_storage_openable_noLock_base<e592610> action=position value=<8332.240234, 331.703003, 1638.670044>
+[COT 2025-09-02 09:41:15] 76561198024482897: ESP target=mmg_storage_openable_noLock_base<e592610> action=position value=<8332.139648, 331.703003, 1638.670044>
+[COT 2025-09-02 09:41:15] 76561198024482897: ESP target=mmg_storage_openable_noLock_base<e592610> action=position value=<8332.040039, 331.703003, 1638.670044>
+[COT 2025-09-02 09:41:16] 76561198024482897: ESP target=mmg_storage_openable_noLock_base<e592610> action=position value=<8331.940430, 331.703003, 1638.670044>
+[COT 2025-09-02 09:41:16] 76561198024482897: ESP target=mmg_storage_openable_noLock_base<e592610> action=position value=<8331.839844, 331.703003, 1638.670044>
+[COT 2025-09-02 09:41:24] 76561198024482897: ESP: Clearing ESP
+[COT 2025-09-02 09:41:51] 76561198024482897: ESP: ESP updating
+[COT 2025-09-02 09:41:59] 76561198024482897: ESP target=ExpansionSafeLarge<e590ef0> action=position value=<8342.669922, 334.674011, 1634.810059>
+[COT 2025-09-02 09:42:02] 76561198024482897: ESP target=ExpansionSafeLarge<e590ef0> action=position value=<8342.669922, 334.574005, 1634.810059>
+[COT 2025-09-02 09:42:02] 76561198024482897: ESP target=ExpansionSafeLarge<e590ef0> action=position value=<8342.669922, 334.473999, 1634.810059>
+[COT 2025-09-02 09:42:02] 76561198024482897: ESP target=ExpansionSafeLarge<e590ef0> action=position value=<8342.669922, 334.373993, 1634.810059>
+[COT 2025-09-02 09:42:03] 76561198024482897: ESP target=ExpansionSafeLarge<e590ef0> action=position value=<8342.669922, 334.273987, 1634.810059>
+[COT 2025-09-02 09:42:06] 76561198024482897: ESP target=ExpansionSafeLarge<e590ef0> action=position value=<8342.669922, 334.174011, 1634.810059>
+[COT 2025-09-02 09:42:06] 76561198024482897: ESP target=ExpansionSafeLarge<e590ef0> action=position value=<8342.669922, 334.074005, 1634.810059>
+[COT 2025-09-02 09:42:07] 76561198024482897: ESP target=ExpansionSafeLarge<e590ef0> action=position value=<8342.669922, 333.973999, 1634.810059>
+[COT 2025-09-02 09:42:07] 76561198024482897: ESP target=ExpansionSafeLarge<e590ef0> action=position value=<8342.669922, 333.873993, 1634.810059>
+[COT 2025-09-02 09:42:11] 76561198024482897: ESP target=ExpansionSafeLarge<e590ef0> action=position value=<8342.669922, 333.773987, 1634.810059>
+[COT 2025-09-02 09:42:11] 76561198024482897: ESP target=ExpansionSafeLarge<e590ef0> action=position value=<8342.669922, 333.674011, 1634.810059>
+[COT 2025-09-02 09:42:14] 76561198024482897: ESP target=ExpansionSafeLarge<e590ef0> action=position value=<8342.669922, 333.574005, 1634.810059>
+[COT 2025-09-02 09:42:15] 76561198024482897: ESP target=ExpansionSafeLarge<e590ef0> action=position value=<8342.669922, 333.473999, 1634.810059>
+[COT 2025-09-02 09:42:16] 76561198024482897: ESP target=ExpansionSafeLarge<e590ef0> action=position value=<8342.669922, 333.373993, 1634.810059>
+[COT 2025-09-02 09:42:17] 76561198024482897: ESP target=ExpansionSafeLarge<e590ef0> action=position value=<8342.669922, 333.273987, 1634.810059>
+[COT 2025-09-02 09:42:20] 76561198024482897: ESP target=ExpansionSafeLarge<e590ef0> action=position value=<8342.669922, 333.174011, 1634.810059>
+[COT 2025-09-02 09:42:21] 76561198024482897: ESP target=ExpansionSafeLarge<e590ef0> action=position value=<8342.669922, 333.074005, 1634.810059>
+[COT 2025-09-02 09:42:22] 76561198024482897: ESP target=ExpansionSafeLarge<e590ef0> action=position value=<8342.669922, 332.973999, 1634.810059>
+[COT 2025-09-02 09:42:23] 76561198024482897: ESP target=ExpansionSafeLarge<e590ef0> action=position value=<8342.669922, 332.873993, 1634.810059>
+[COT 2025-09-02 09:42:26] 76561198024482897: ESP target=ExpansionSafeLarge<e590ef0> action=position value=<8342.669922, 332.773987, 1634.810059>
+[COT 2025-09-02 09:42:32] 76561198024482897: ESP: Clearing ESP
+[COT 2025-09-02 09:45:34] 76561198024482897: ESP: Viewing ESP
+[COT 2025-09-02 09:45:35] 76561198024482897: ESP: Clearing ESP
+[COT 2025-09-02 09:45:46] 76561198024482897: Spawned Entity Canteen (Canteen<e3843cf0>, 1000, 100, 15, 512) at <8344.586914, 331.703827, 1632.817505>
+[COT 2025-09-02 09:49:17] 76561198024482897: Spawned Entity Crye G3 Combat Pants (FOG_Pants_Crye_G3_RG_BlackTrim<60096810>, 1000, 300, 15, 0) at <8344.790039, 331.702911, 1638.880615>
+[COT 2025-09-02 09:49:31] 76561198024482897: Deleted Entity FOG_Pants_Crye_G3_RG_BlackTrim:20627 at <8344.790039, 331.825317, 1638.880615>

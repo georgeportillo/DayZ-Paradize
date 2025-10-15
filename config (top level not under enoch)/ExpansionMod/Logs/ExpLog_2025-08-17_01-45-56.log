@@ -1,0 +1,27 @@
+01:47:28.437 [AI Patrol 00017] Spawning 2 West bots at <7479.963867, 287.040009, 2527.878174>
+01:47:35.997 [AI Patrol 00017] Global patrol count: 1
+01:47:36.006 [AI Patrol 00017] Patrol category patrol count: 1
+01:47:36.016 [AI Patrol 00016] Spawning 3 East bots at <7652.634277, 296.750000, 2634.490234>
+01:47:36.050 [AI Patrol 00016] Global patrol count: 2
+01:47:36.059 [AI Patrol 00016] Patrol category patrol count: 2
+01:47:51.844 [AI Object Patrol 00022] Spawning 1 West bots at <8811.262695, 454.968719, 2088.556396>
+01:47:51.883 [AI Object Patrol 00022] Global patrol count: 3
+01:47:51.893 [AI Object Patrol 00022] ContaminatedArea category patrol count: 1
+01:50:58.669 [AI Object Patrol 00006] Spawning 2 East bots at <8670.648438, 320.893829, 6401.466309>
+01:50:58.706 [AI Object Patrol 00006] Global patrol count: 4
+01:50:58.716 [AI Object Patrol 00006] HelicopterWreck category patrol count: 1
+01:51:54.541 [AI Object Patrol 00008] Spawning 3 West bots at <7442.361328, 238.866653, 6029.668945>
+01:51:54.578 [AI Object Patrol 00008] Global patrol count: 5
+01:51:54.589 [AI Object Patrol 00008] ContaminatedArea category patrol count: 2
+01:55:43.810 [AI Object Patrol 00024] Spawning 1 East bots at <7773.491699, 346.141357, 985.192383>
+01:55:43.849 [AI Object Patrol 00024] Global patrol count: 6
+01:55:43.858 [AI Object Patrol 00024] HelicopterWreck category patrol count: 2
+02:05:36.729 [AI Object Patrol 00008] Despawning 3 West bots (spawn position <7442.361328, 238.866653, 6029.668945>, 0/3 deceased)
+02:05:36.742 [AI Object Patrol 00008] Global patrol count: 5
+02:05:36.753 [AI Object Patrol 00008] ContaminatedArea category patrol count: 1
+02:05:41.147 [AI Object Patrol 00006] Despawning 2 East bots (spawn position <8670.648438, 320.893829, 6401.466309>, 0/2 deceased)
+02:05:41.298 [AI Object Patrol 00006] Global patrol count: 4
+02:05:41.360 [AI Object Patrol 00006] HelicopterWreck category patrol count: 1
+02:20:17.242 [AI Patrol 00016] East bots were wiped out (spawn position <7652.634277, 296.750000, 2634.490234>, 3/3 deceased)
+02:20:17.278 [AI Patrol 00016] Global patrol count: 3
+02:20:17.288 [AI Patrol 00016] Patrol category patrol count: 1

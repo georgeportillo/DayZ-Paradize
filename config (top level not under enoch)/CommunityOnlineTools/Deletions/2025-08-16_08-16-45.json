@@ -1,0 +1,47 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "Animal_CervusElaphusF",
+            "m_LocalPosition": [
+                8326.673828125,
+                321.6238708496094,
+                1870.0238037109376
+            ],
+            "m_LocalRotation": [
+                -53.44913864135742,
+                -0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 300.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 38
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Animal_CervusElaphus",
+            "m_LocalPosition": [
+                8342.3779296875,
+                325.15863037109377,
+                1920.860107421875
+            ],
+            "m_LocalRotation": [
+                -152.2669219970703,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 400.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 38
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        }
+    ]
+}

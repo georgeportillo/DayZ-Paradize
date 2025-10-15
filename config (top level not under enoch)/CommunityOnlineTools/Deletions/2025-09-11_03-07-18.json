@@ -1,0 +1,196 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "ZmbM_PatrolNormal_Flat",
+            "m_LocalPosition": [
+                505.1455078125,
+                591.5590209960938,
+                1177.4962158203126
+            ],
+            "m_LocalRotation": [
+                176.29925537109376,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 115.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 36
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "MilitaryBeret_CDF",
+                    "m_Data": {
+                        "m_Health": 29.516590118408204,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "ZmbM_SoldierNormal",
+            "m_LocalPosition": [
+                507.9914245605469,
+                592.9502563476563,
+                1174.266357421875
+            ],
+            "m_LocalRotation": [
+                8.432353973388672,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 115.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 36
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "ZSh3PilotHelmet",
+                    "m_Data": {
+                        "m_Health": 18.77218246459961,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "ZmbM_PatrolNormal_PautRev",
+            "m_LocalPosition": [
+                564.0612182617188,
+                611.8541259765625,
+                1099.33154296875
+            ],
+            "m_LocalRotation": [
+                27.481674194335939,
+                -0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 115.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 36
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "ZSh3PilotHelmet",
+                    "m_Data": {
+                        "m_Health": 71.56529235839844,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "UKAssVest_Camo",
+                    "m_Data": {
+                        "m_Health": 31.74120330810547,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "ZmbM_SoldierNormal",
+            "m_LocalPosition": [
+                567.9715576171875,
+                612.2373046875,
+                1102.207275390625
+            ],
+            "m_LocalRotation": [
+                -137.15802001953126,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 115.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 36
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Headtorch_Black",
+                    "m_Data": {
+                        "m_Health": 11.969390869140625,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "Battery9V",
+                            "m_Data": {
+                                "m_Health": 20.0,
+                                "m_Quantity": 41.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "MilitaryBeret_NZ",
+                    "m_Data": {
+                        "m_Health": 42.737388610839847,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "ZmbM_usSoldier_Officer_Desert",
+            "m_LocalPosition": [
+                550.0541381835938,
+                595.0128784179688,
+                1184.973876953125
+            ],
+            "m_LocalRotation": [
+                162.02574157714845,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 115.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 36
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "OfficerHat",
+                    "m_Data": {
+                        "m_Health": 32.40388870239258,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        }
+    ]
+}

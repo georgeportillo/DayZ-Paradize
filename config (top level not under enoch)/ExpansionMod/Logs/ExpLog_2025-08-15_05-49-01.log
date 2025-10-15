@@ -1,0 +1,371 @@
+07:17:18.515 [AI Patrol 00017] Spawning 1 West bots at <7323.870117, 293.132568, 2916.180420>
+07:17:26.552 [AI Patrol 00017] Global patrol count: 1
+07:17:26.563 [AI Patrol 00017] Patrol category patrol count: 1
+07:17:26.574 [AI Patrol 00016] Spawning 3 East bots at <7354.020020, 287.040009, 2588.214844>
+07:17:26.609 [AI Patrol 00016] Global patrol count: 2
+07:17:26.619 [AI Patrol 00016] Patrol category patrol count: 2
+07:19:52.410 [BaseRaiding] mmg_locker02_tan (<5966.729980, 411.619812, 4204.665527>) Code set by "player "Survivor" (ID = "OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=" at <5967.650879, 411.659760, 4205.337402>)" and the code is 2882
+07:24:20.818 [VehicleEnter] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) entered vehicle M1025 (id=70602606F742DB25C4D230A762076C2C pos=<6097.52, 263.97, 6948.9>) as driver
+07:24:28.913 [VehicleLeave] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) left vehicle M1025 (id=70602606F742DB25C4D230A762076C2C pos=<6097.52, 263.97, 6948.9>)
+07:24:36.085 [VehicleEnter] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) entered vehicle M1025 (id=738A1539954B5D1BD1F3B6A2A3FD6850 pos=<6096.36, 263.97, 6954.62>) as driver
+07:24:38.686 [VehicleLeave] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) left vehicle M1025 (id=738A1539954B5D1BD1F3B6A2A3FD6850 pos=<6096.36, 263.97, 6954.62>)
+07:24:46.746 [VehicleEnter] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) entered vehicle M1025 (id=70602606F742DB25C4D230A762076C2C pos=<6097.52, 263.97, 6948.9>) as driver
+07:24:49.073 [VehicleEngine] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) started vehicle M1025 (id=70602606F742DB25C4D230A762076C2C pos=<6097.52, 263.97, 6948.9>)
+07:25:01.153 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle M1025 (id=70602606F742DB25C4D230A762076C2C pos=<6115.93, 263.38, 6954.39>)
+07:25:01.621 [VehicleLeave] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) left vehicle M1025 (id=70602606F742DB25C4D230A762076C2C pos=<6115.93, 263.38, 6954.39>)
+07:25:10.653 [VehicleEnter] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) entered vehicle Olga 24 (id=2587CF62D14B70DF636D2DB77175F554 pos=<6100.01, 263.93, 6954.28>) as driver
+07:25:13.072 [VehicleEngine] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) started vehicle Olga 24 (id=2587CF62D14B70DF636D2DB77175F554 pos=<6100.01, 263.93, 6954.28>)
+07:25:19.956 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Olga 24 (id=2587CF62D14B70DF636D2DB77175F554 pos=<6099.79, 263.93, 6960.19>)
+07:25:19.989 [VehicleLeave] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) left vehicle Olga 24 (id=2587CF62D14B70DF636D2DB77175F554 pos=<6099.79, 263.93, 6960.19>)
+07:25:26.652 [VehicleEnter] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) entered vehicle M1025 (id=738A1539954B5D1BD1F3B6A2A3FD6850 pos=<6096.36, 263.97, 6954.62>) as driver
+07:25:33.227 [VehicleEngine] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) started vehicle M1025 (id=738A1539954B5D1BD1F3B6A2A3FD6850 pos=<6096.36, 263.97, 6954.62>)
+07:26:53.216 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle M1025 (id=738A1539954B5D1BD1F3B6A2A3FD6850 pos=<6114.82, 263.87, 6946.64>)
+07:26:53.681 [VehicleLeave] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) left vehicle M1025 (id=738A1539954B5D1BD1F3B6A2A3FD6850 pos=<6114.82, 263.87, 6946.64>)
+07:26:58.180 [VehicleEnter] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) entered vehicle M1025 (id=70602606F742DB25C4D230A762076C2C pos=<6115.93, 263.38, 6954.39>) as driver
+07:27:06.223 [VehicleEngine] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) started vehicle M1025 (id=70602606F742DB25C4D230A762076C2C pos=<6115.93, 263.38, 6954.39>)
+07:27:19.481 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle M1025 (id=70602606F742DB25C4D230A762076C2C pos=<6097.98, 263.97, 6954.49>)
+07:27:19.952 [VehicleLeave] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) left vehicle M1025 (id=70602606F742DB25C4D230A762076C2C pos=<6097.98, 263.97, 6954.49>)
+07:27:31.054 [VehicleEnter] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) entered vehicle M1025 (id=738A1539954B5D1BD1F3B6A2A3FD6850 pos=<6114.82, 263.87, 6946.64>) as driver
+07:27:33.249 [VehicleEngine] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) started vehicle M1025 (id=738A1539954B5D1BD1F3B6A2A3FD6850 pos=<6114.82, 263.87, 6946.64>)
+07:27:56.749 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle M1025 (id=738A1539954B5D1BD1F3B6A2A3FD6850 pos=<6057.81, 265.8, 6930.43>)
+07:27:57.222 [VehicleLeave] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) left vehicle M1025 (id=738A1539954B5D1BD1F3B6A2A3FD6850 pos=<6057.81, 265.8, 6930.43>)
+07:28:07.095 [VehicleEnter] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) entered vehicle M1025 (id=738A1539954B5D1BD1F3B6A2A3FD6850 pos=<6057.81, 265.8, 6930.43>) as driver
+07:28:13.523 [VehicleLeave] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) left vehicle M1025 (id=738A1539954B5D1BD1F3B6A2A3FD6850 pos=<6057.81, 265.8, 6930.43>)
+07:28:18.296 [VehicleEnter] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) entered vehicle M1025 (id=738A1539954B5D1BD1F3B6A2A3FD6850 pos=<6057.81, 265.8, 6930.43>) as driver
+07:28:20.997 [VehicleEngine] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) started vehicle M1025 (id=738A1539954B5D1BD1F3B6A2A3FD6850 pos=<6057.81, 265.8, 6930.43>)
+07:29:38.579 [AI Object Patrol 00007] Spawning 1 East bots at <4858.408691, 374.443634, 5670.032227>
+07:29:38.762 [AI Object Patrol 00007] Global patrol count: 3
+07:29:38.808 [AI Object Patrol 00007] HelicopterWreck category patrol count: 1
+07:32:14.777 [AI Object Patrol 00011] Spawning 3 West bots at <7574.679688, 230.135132, 6001.059570>
+07:32:14.818 [AI Object Patrol 00011] Global patrol count: 4
+07:32:14.836 [AI Object Patrol 00011] ContaminatedArea category patrol count: 1
+07:32:21.016 [AI Object Patrol 00008] Spawning 1 West bots at <7639.148438, 236.536835, 6179.925293>
+07:32:21.083 [AI Object Patrol 00008] Global patrol count: 5
+07:32:21.093 [AI Object Patrol 00008] ContaminatedArea category patrol count: 2
+07:32:56.064 [AI Patrol 00016] East bots were wiped out (spawn position <7354.020020, 287.040009, 2588.214844>, 3/3 deceased)
+07:32:56.074 [AI Patrol 00016] Global patrol count: 4
+07:32:56.084 [AI Patrol 00016] Patrol category patrol count: 1
+07:33:35.516 [AI Object Patrol 00007] Despawning 1 East bots (spawn position <4858.408691, 374.443634, 5670.032227>, 0/1 deceased)
+07:33:35.527 [AI Object Patrol 00007] Global patrol count: 3
+07:33:35.538 [AI Object Patrol 00007] HelicopterWreck category patrol count: 0
+07:38:12.180 [AI Object Patrol 00024] Spawning 1 East bots at <8471.762695, 385.020660, 2843.031006>
+07:38:12.214 [AI Object Patrol 00024] Global patrol count: 4
+07:38:12.224 [AI Object Patrol 00024] HelicopterWreck category patrol count: 1
+07:38:20.447 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<14fe82e0> at <5992.119629, 392.606476, 3977.159180> has been hit by explosive M67Grenade<159444a0>
+07:38:20.629 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+07:38:20.814 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <5992.12, 392.61, 3977.16>
+07:38:20.949 [BaseBuildingRaiding] They dealt 47.3879 * 50 = 2369.4 damage with M67Grenade_Ammo from M67Grenade
+07:38:21.039 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 14811 to 12441.6
+07:38:21.130 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+07:39:04.855 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<14fe82e0> at <5992.119629, 392.606476, 3977.159180> has been hit by explosive RGD5Grenade<15004130>
+07:39:04.896 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+07:39:04.940 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <5992.12, 392.61, 3977.16>
+07:39:04.969 [BaseBuildingRaiding] They dealt 45.0493 * 50 = 2252.47 damage with RGD5Grenade_Ammo from RGD5Grenade
+07:39:04.979 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 12441.6 to 10189.2
+07:39:04.990 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+07:39:39.178 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle M1025 (id=738A1539954B5D1BD1F3B6A2A3FD6850 pos=<10192.8, 242.25, 2215.53>)
+07:39:39.656 [VehicleLeave] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) left vehicle M1025 (id=738A1539954B5D1BD1F3B6A2A3FD6850 pos=<10192.8, 242.25, 2215.53>)
+07:39:49.249 [VehicleEnter] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) entered vehicle M1025 (id=738A1539954B5D1BD1F3B6A2A3FD6850 pos=<10192.8, 242.25, 2215.53>) as driver
+07:39:52.966 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<14fe82e0> at <5992.119629, 392.606476, 3977.159180> has been hit by explosive RGD5Grenade<15006560>
+07:39:52.977 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+07:39:52.987 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <5992.12, 392.61, 3977.16>
+07:39:52.997 [BaseBuildingRaiding] They dealt 35.9235 * 50 = 1796.17 damage with RGD5Grenade_Ammo from RGD5Grenade
+07:39:53.007 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 10189.2 to 8393
+07:39:53.017 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+07:39:53.031 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<14fe82e0> at <5992.119629, 392.606476, 3977.159180> has been hit by explosive M67Grenade<159468d0>
+07:39:53.040 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+07:39:53.050 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <5992.12, 392.61, 3977.16>
+07:39:53.060 [BaseBuildingRaiding] They dealt 38.1217 * 50 = 1906.09 damage with M67Grenade_Ammo from M67Grenade
+07:39:53.070 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 8393 to 6486.91
+07:39:53.080 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+07:39:53.117 [VehicleEngine] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) started vehicle M1025 (id=738A1539954B5D1BD1F3B6A2A3FD6850 pos=<10192.8, 242.25, 2215.53>)
+07:40:11.691 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle M1025 (id=738A1539954B5D1BD1F3B6A2A3FD6850 pos=<10220.8, 242.62, 2188.64>)
+07:40:12.167 [VehicleLeave] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) left vehicle M1025 (id=738A1539954B5D1BD1F3B6A2A3FD6850 pos=<10220.8, 242.62, 2188.64>)
+07:41:02.189 [VehicleEnter] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) entered vehicle M1025 (id=738A1539954B5D1BD1F3B6A2A3FD6850 pos=<10220.8, 242.62, 2188.64>) as driver
+07:41:04.369 [VehicleEngine] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) started vehicle M1025 (id=738A1539954B5D1BD1F3B6A2A3FD6850 pos=<10220.8, 242.62, 2188.64>)
+07:41:30.513 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle M1025 (id=738A1539954B5D1BD1F3B6A2A3FD6850 pos=<10207, 242.27, 2225.07>)
+07:41:30.988 [VehicleLeave] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) left vehicle M1025 (id=738A1539954B5D1BD1F3B6A2A3FD6850 pos=<10207, 242.27, 2225.07>)
+07:41:56.080 [VehicleAttachments] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) detached M1025 Wheel (type=Offroad_02_Wheel_Ruined) from vehicle M1025 (id=738A1539954B5D1BD1F3B6A2A3FD6850 pos=<10207, 242.27, 2225.07>)
+07:42:42.199 [VehicleAttachments] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) detached M1025 Wheel (type=Offroad_02_Wheel) from vehicle M1025 (id=738A1539954B5D1BD1F3B6A2A3FD6850 pos=<10207, 242.23, 2225.07>)
+07:42:47.222 [VehicleAttachments] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) detached M1025 Wheel (type=Offroad_02_Wheel) from vehicle M1025 (id=738A1539954B5D1BD1F3B6A2A3FD6850 pos=<10207, 242.16, 2225.07>)
+07:43:56.917 [VehicleEnter] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) entered vehicle M3S Covered (id=0D44F3EAD74729205EA7B39F1C07D79D pos=<10224.9, 242.54, 2191.93>) as driver
+07:43:59.661 [VehicleEngine] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) started vehicle M3S Covered (id=0D44F3EAD74729205EA7B39F1C07D79D pos=<10224.9, 242.54, 2191.92>)
+07:44:46.324 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle M3S Covered (id=0D44F3EAD74729205EA7B39F1C07D79D pos=<10229.1, 242.53, 2185.71>)
+07:44:46.796 [VehicleLeave] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) left vehicle M3S Covered (id=0D44F3EAD74729205EA7B39F1C07D79D pos=<10229.1, 242.53, 2185.71>)
+07:44:47.394 [AI Object Patrol 00008] Despawning 1 West bots (spawn position <7639.148438, 236.536835, 6179.925293>, 0/1 deceased)
+07:44:47.429 [AI Object Patrol 00008] Global patrol count: 3
+07:44:47.477 [AI Object Patrol 00008] ContaminatedArea category patrol count: 1
+07:45:02.408 [AI Object Patrol 00011] Despawning 3 West bots (spawn position <7574.679688, 230.135132, 6001.059570>, 0/3 deceased)
+07:45:02.441 [AI Object Patrol 00011] Global patrol count: 2
+07:45:02.451 [AI Object Patrol 00011] ContaminatedArea category patrol count: 0
+07:45:23.330 [VehicleEnter] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) entered vehicle M3S Covered (id=0D44F3EAD74729205EA7B39F1C07D79D pos=<10229.1, 242.53, 2185.72>) as driver
+07:45:25.570 [VehicleEngine] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) started vehicle M3S Covered (id=0D44F3EAD74729205EA7B39F1C07D79D pos=<10229.1, 242.53, 2185.73>)
+07:46:58.101 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<14fe82e0> at <5992.119629, 392.606476, 3977.159180> has been hit by explosive M67Grenade<1500a1b0>
+07:46:58.111 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+07:46:58.121 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <5992.12, 392.61, 3977.16>
+07:46:58.131 [BaseBuildingRaiding] They dealt 42.9392 * 50 = 2146.96 damage with M67Grenade_Ammo from M67Grenade
+07:46:58.141 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 6486.91 to 4339.95
+07:46:58.150 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+07:47:39.908 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<14fe82e0> at <5992.119629, 392.606476, 3977.159180> has been hit by explosive M67Grenade<15942c80>
+07:47:39.918 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+07:47:39.928 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <5992.12, 392.61, 3977.16>
+07:47:39.939 [BaseBuildingRaiding] They dealt 36.0392 * 50 = 1801.96 damage with M67Grenade_Ammo from M67Grenade
+07:47:39.949 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 4339.95 to 2537.99
+07:47:39.959 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+07:47:48.358 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<14fe82e0> at <5992.119629, 392.606476, 3977.159180> has been hit by explosive M67Grenade<159480f0>
+07:47:48.369 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+07:47:48.379 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <5992.12, 392.61, 3977.16>
+07:47:48.388 [BaseBuildingRaiding] They dealt 44.3332 * 50 = 2216.66 damage with M67Grenade_Ammo from M67Grenade
+07:47:48.397 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 2537.99 to 321.33
+07:47:48.407 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+07:48:21.539 [BaseBuildingRaiding] BaseRaiding: ExpansionWallBase<14fe82e0> at <5992.119629, 392.606476, 3977.159180> has been hit by explosive M67Grenade<159474e0>
+07:48:21.558 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+07:48:21.575 [BaseBuildingRaiding] A player damaged ExpansionWall6x3 at <5992.12, 392.61, 3977.16>
+07:48:21.588 [BaseBuildingRaiding] They dealt 35.5648 * 50 = 1778.24 damage with M67Grenade_Ammo from M67Grenade
+07:48:21.598 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 321.33 to 0
+07:48:21.608 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+07:50:17.306 [AI Object Patrol 00024] Despawning 1 East bots (spawn position <8471.762695, 385.020660, 2843.031006>, 0/1 deceased)
+07:50:17.316 [AI Object Patrol 00024] Global patrol count: 1
+07:50:17.326 [AI Object Patrol 00024] HelicopterWreck category patrol count: 0
+07:54:14.691 [AI Object Patrol 00035] Spawning 1 East bots at <11591.700195, 309.947815, 4318.758789>
+07:54:14.734 [AI Object Patrol 00035] Global patrol count: 2
+07:54:14.746 [AI Object Patrol 00035] HelicopterWreck category patrol count: 1
+07:55:24.732 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle M3S Covered (id=0D44F3EAD74729205EA7B39F1C07D79D pos=<10927.2, 342.91, 4158.52>)
+07:55:25.191 [VehicleLeave] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) left vehicle M3S Covered (id=0D44F3EAD74729205EA7B39F1C07D79D pos=<10927.2, 342.91, 4158.52>)
+07:56:38.729 [VehicleEnter] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) entered vehicle M3S Covered (id=0D44F3EAD74729205EA7B39F1C07D79D pos=<10927.2, 342.91, 4158.52>) as driver
+07:56:42.529 [VehicleEngine] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) started vehicle M3S Covered (id=0D44F3EAD74729205EA7B39F1C07D79D pos=<10927.2, 342.91, 4158.51>)
+08:00:20.353 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle M3S Covered (id=0D44F3EAD74729205EA7B39F1C07D79D pos=<9020.48, 340.11, 4369.25>)
+08:00:20.829 [VehicleLeave] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) left vehicle M3S Covered (id=0D44F3EAD74729205EA7B39F1C07D79D pos=<9020.48, 340.11, 4369.25>)
+08:01:07.298 [VehicleEnter] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) entered vehicle M3S Covered (id=0D44F3EAD74729205EA7B39F1C07D79D pos=<9020.48, 340.11, 4369.25>) as driver
+08:01:09.628 [VehicleEngine] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) started vehicle M3S Covered (id=0D44F3EAD74729205EA7B39F1C07D79D pos=<9020.48, 340.11, 4369.25>)
+08:04:07.871 [AI Patrol 00018] Spawning 1 Civilian bots at <7126.574219, 298.394287, 3156.073242>
+08:04:07.909 [AI Patrol 00018] Global patrol count: 3
+08:04:07.918 [AI Patrol 00018] Patrol category patrol count: 2
+08:05:34.058 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle M3S Covered (id=0D44F3EAD74729205EA7B39F1C07D79D pos=<7055.14, 371.19, 3990.57>)
+08:05:34.517 [VehicleLeave] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) left vehicle M3S Covered (id=0D44F3EAD74729205EA7B39F1C07D79D pos=<7055.14, 371.19, 3990.57>)
+08:06:25.901 [VehicleEnter] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) entered vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<5924.61, 396.27, 4184.3>) as driver
+08:06:28.666 [VehicleEngine] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) started vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<5924.61, 396.27, 4184.3>)
+08:06:39.789 [VehicleEngine] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) stopped vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<5934.34, 396.16, 4189.45>)
+08:06:43.071 [VehicleLeave] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) left vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<5934.34, 396.16, 4189.45>)
+08:07:10.163 [VehicleEnter] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) entered vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<5934.34, 396.16, 4189.45>) as driver
+08:07:12.717 [VehicleEngine] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) started vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<5934.34, 396.16, 4189.45>)
+08:07:24.487 [VehicleEnter] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) entered vehicle M3S Covered (id=0D44F3EAD74729205EA7B39F1C07D79D pos=<7055.14, 371.19, 3990.57>) as driver
+08:07:29.462 [VehicleLeave] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) left vehicle M3S Covered (id=0D44F3EAD74729205EA7B39F1C07D79D pos=<7055.15, 371.19, 3990.57>)
+08:07:39.222 [VehicleEnter] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) entered vehicle Transit Bus (id=4287317F914597E320F47CBF37665C73 pos=<7060.93, 371.1, 3984.09>) as driver
+08:07:42.866 [VehicleLeave] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) left vehicle Transit Bus (id=4287317F914597E320F47CBF37665C73 pos=<7060.93, 371.1, 3984.12>)
+08:07:45.407 [AI Object Patrol 00035] Despawning 1 East bots (spawn position <11591.700195, 309.947815, 4318.758789>, 0/1 deceased)
+08:07:45.417 [AI Object Patrol 00035] Global patrol count: 2
+08:07:45.427 [AI Object Patrol 00035] HelicopterWreck category patrol count: 0
+08:07:45.833 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<5717.48, 416.59, 4103.62>)
+08:07:45.865 [VehicleLeave] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) left vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<5717.48, 416.59, 4103.62>)
+08:08:09.562 [VehicleAttachments] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) detached Bus Double Wheel (type=ExpansionBusWheelDouble) from vehicle Transit Bus (id=4287317F914597E320F47CBF37665C73 pos=<7060.95, 371.1, 3984.07>)
+08:08:20.358 [VehicleAttachments] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) detached Bus Wheel (type=ExpansionBusWheel) from vehicle Transit Bus (id=4287317F914597E320F47CBF37665C73 pos=<7060.95, 370.95, 3984.05>)
+08:08:20.544 [VehicleEnter] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) entered vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<5717.48, 416.59, 4103.62>) as driver
+08:08:23.572 [VehicleEngine] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) started vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<5717.48, 416.59, 4103.62>)
+08:08:57.803 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<5644.93, 422.18, 3814.83>)
+08:08:57.848 [VehicleLeave] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) left vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<5644.93, 422.18, 3814.83>)
+08:09:35.317 [VehicleEnter] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) entered vehicle M3S Covered (id=0D44F3EAD74729205EA7B39F1C07D79D pos=<7055.15, 371.19, 3990.57>) as driver
+08:09:37.646 [VehicleEngine] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) started vehicle M3S Covered (id=0D44F3EAD74729205EA7B39F1C07D79D pos=<7055.16, 371.19, 3990.57>)
+08:11:22.201 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle M3S Covered (id=0D44F3EAD74729205EA7B39F1C07D79D pos=<6258.74, 382.43, 3944.83>)
+08:11:22.666 [VehicleLeave] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) left vehicle M3S Covered (id=0D44F3EAD74729205EA7B39F1C07D79D pos=<6258.74, 382.43, 3944.83>)
+08:12:57.057 [VehicleEnter] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) entered vehicle M3S Covered (id=0D44F3EAD74729205EA7B39F1C07D79D pos=<6258.74, 382.43, 3944.82>) as driver
+08:12:59.669 [VehicleLeave] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) left vehicle M3S Covered (id=0D44F3EAD74729205EA7B39F1C07D79D pos=<6258.74, 382.43, 3944.81>)
+08:15:14.663 [VehicleEnter] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) entered vehicle M3S Covered (id=0D44F3EAD74729205EA7B39F1C07D79D pos=<6258.74, 382.43, 3944.81>) as driver
+08:15:17.486 [VehicleLeave] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) left vehicle M3S Covered (id=0D44F3EAD74729205EA7B39F1C07D79D pos=<6258.74, 382.43, 3944.81>)
+08:16:46.133 [AI Object Patrol 00037] Spawning 3 East bots at <4730.449707, 427.449036, 3215.190430>
+08:16:46.170 [AI Object Patrol 00037] Global patrol count: 3
+08:16:46.180 [AI Object Patrol 00037] HelicopterWreck category patrol count: 1
+08:17:30.185 [VehicleEnter] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) entered vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<5644.93, 422.18, 3814.83>) as driver
+08:17:30.834 [VehicleAttachments] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) detached Truck Battery (type=TruckBattery) from vehicle M3S Covered (id=0D44F3EAD74729205EA7B39F1C07D79D pos=<6258.74, 382.43, 3944.81>)
+08:17:32.824 [VehicleEngine] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) started vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<5644.93, 422.18, 3814.83>)
+08:21:40.230 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<3396.56, 485.98, 2077.21>)
+08:21:40.265 [VehicleLeave] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) left vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<3396.56, 485.98, 2077.21>)
+08:30:32.845 [AI Object Patrol 00037] Despawning 3 East bots (spawn position <4730.449707, 427.449036, 3215.190430>, 0/3 deceased)
+08:30:32.916 [AI Object Patrol 00037] Global patrol count: 2
+08:30:32.925 [AI Object Patrol 00037] HelicopterWreck category patrol count: 0
+08:36:11.272 [AI Object Patrol 00044] Spawning 3 West bots at <7437.181152, 287.040009, 2588.699219>
+08:36:11.308 [AI Object Patrol 00044] Global patrol count: 3
+08:36:11.318 [AI Object Patrol 00044] ContaminatedArea category patrol count: 1
+08:40:00.687 [VehicleEnter] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) entered vehicle M3S Covered (id=0D44F3EAD74729205EA7B39F1C07D79D pos=<6258.74, 382.43, 3944.8>) as driver
+08:40:03.373 [VehicleLeave] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) left vehicle M3S Covered (id=0D44F3EAD74729205EA7B39F1C07D79D pos=<6258.75, 382.43, 3944.8>)
+08:40:11.370 [VehicleEnter] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) entered vehicle M3S Covered (id=0D44F3EAD74729205EA7B39F1C07D79D pos=<6258.75, 382.43, 3944.8>) as driver
+08:40:13.602 [VehicleEngine] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) started vehicle M3S Covered (id=0D44F3EAD74729205EA7B39F1C07D79D pos=<6258.75, 382.43, 3944.79>)
+08:44:47.023 [VehicleEnter] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) entered vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<3396.56, 485.98, 2077.21>) as driver
+08:44:49.671 [VehicleEngine] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) started vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<3396.56, 485.98, 2077.21>)
+08:46:14.445 [AI Object Patrol 00044] Despawning 3 West bots (spawn position <7437.181152, 287.040009, 2588.699219>, 0/3 deceased)
+08:46:14.535 [AI Object Patrol 00044] Global patrol count: 2
+08:46:14.626 [AI Object Patrol 00044] ContaminatedArea category patrol count: 0
+08:46:43.808 [AI Object Patrol 00010] Spawning 1 West bots at <7986.635254, 258.318146, 5857.595703>
+08:46:43.846 [AI Object Patrol 00010] Global patrol count: 3
+08:46:43.857 [AI Object Patrol 00010] ContaminatedArea category patrol count: 1
+08:47:01.836 [AI Object Patrol 00012] Spawning 3 West bots at <7845.043457, 255.373077, 6102.558594>
+08:47:01.876 [AI Object Patrol 00012] Global patrol count: 4
+08:47:01.886 [AI Object Patrol 00012] ContaminatedArea category patrol count: 2
+08:49:57.472 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<4914.22, 524.41, 2103.97>)
+08:49:57.528 [VehicleLeave] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) left vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<4914.22, 524.41, 2103.97>)
+08:50:41.477 [AI Object Patrol 00042] Spawning 1 East bots at <7286.436035, 216.222977, 7725.554688>
+08:50:41.512 [AI Object Patrol 00042] Global patrol count: 5
+08:50:41.523 [AI Object Patrol 00042] HelicopterWreck category patrol count: 1
+08:52:16.625 [AI Patrol 00018] Despawning 1 Civilian bots (spawn position <7126.574219, 298.394287, 3156.073242>, 0/1 deceased)
+08:52:16.635 [AI Patrol 00018] Global patrol count: 4
+08:52:16.646 [AI Patrol 00018] Patrol category patrol count: 1
+08:54:09.044 [AI Object Patrol 00041] Spawning 2 East bots at <6384.059570, 298.967743, 6160.599609>
+08:54:09.073 [AI Object Patrol 00041] Global patrol count: 5
+08:54:09.083 [AI Object Patrol 00041] HelicopterWreck category patrol count: 2
+08:55:17.421 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle M3S Covered (id=0D44F3EAD74729205EA7B39F1C07D79D pos=<6112.73, 263.04, 6959.24>)
+08:55:17.847 [VehicleLeave] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) left vehicle M3S Covered (id=0D44F3EAD74729205EA7B39F1C07D79D pos=<6112.73, 263.04, 6959.24>)
+08:55:35.895 [VehicleAttachments] Player "***** (2)" (id=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=) detached Truck Battery (type=TruckBattery) from vehicle M3S Covered (id=0D44F3EAD74729205EA7B39F1C07D79D pos=<6112.73, 263.04, 6959.24>)
+08:58:08.378 [AI Object Patrol 00042] Despawning 1 East bots (spawn position <7286.436035, 216.222977, 7725.554688>, 0/1 deceased)
+08:58:08.411 [AI Object Patrol 00042] Global patrol count: 4
+08:58:08.438 [AI Object Patrol 00042] HelicopterWreck category patrol count: 1
+08:59:43.097 [AI Object Patrol 00010] Despawning 1 West bots (spawn position <7986.635254, 258.318146, 5857.595703>, 0/1 deceased)
+08:59:43.107 [AI Object Patrol 00010] Global patrol count: 3
+08:59:43.117 [AI Object Patrol 00010] ContaminatedArea category patrol count: 1
+09:00:48.610 [AI Object Patrol 00012] Despawning 3 West bots (spawn position <7845.043457, 255.373077, 6102.558594>, 0/3 deceased)
+09:00:48.620 [AI Object Patrol 00012] Global patrol count: 2
+09:00:48.630 [AI Object Patrol 00012] ContaminatedArea category patrol count: 0
+09:06:29.496 [VehicleEnter] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) entered vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<4914.22, 524.41, 2103.97>) as driver
+09:06:34.817 [VehicleEngine] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) started vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<4914.22, 524.41, 2103.97>)
+09:06:36.841 [AI Object Patrol 00053] Spawning 1 West bots at <5816.467773, 282.861938, 6725.109375>
+09:06:36.870 [AI Object Patrol 00053] Global patrol count: 3
+09:06:36.880 [AI Object Patrol 00053] ContaminatedArea category patrol count: 1
+09:07:14.343 [AI Object Patrol 00009] Spawning 1 West bots at <7282.866211, 225.858627, 6518.441895>
+09:07:14.383 [AI Object Patrol 00009] Global patrol count: 4
+09:07:14.394 [AI Object Patrol 00009] ContaminatedArea category patrol count: 2
+09:10:43.508 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<5933.15, 396.16, 4187.23>)
+09:10:43.542 [VehicleLeave] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) left vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<5933.15, 396.16, 4187.23>)
+09:10:58.625 [VehicleEnter] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) entered vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<5933.15, 396.16, 4187.23>) as driver
+09:11:01.689 [VehicleEngine] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) started vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<5933.15, 396.16, 4187.23>)
+09:11:08.337 [VehicleEngine] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) stopped vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<5925.93, 396.27, 4184.93>)
+09:11:10.312 [VehicleLeave] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) left vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<5925.93, 396.27, 4184.93>)
+09:11:37.215 [AI Object Patrol 00041] Despawning 2 East bots (spawn position <6384.059570, 298.967743, 6160.599609>, 0/2 deceased)
+09:11:37.226 [AI Object Patrol 00041] Global patrol count: 3
+09:11:37.236 [AI Object Patrol 00041] HelicopterWreck category patrol count: 0
+09:21:24.557 [AI Object Patrol 00009] Despawning 1 West bots (spawn position <7282.866211, 225.858627, 6518.441895>, 0/1 deceased)
+09:21:24.569 [AI Object Patrol 00009] Global patrol count: 2
+09:21:24.580 [AI Object Patrol 00009] ContaminatedArea category patrol count: 1
+09:21:27.264 [AI Object Patrol 00053] Despawning 1 West bots (spawn position <5816.467773, 282.861938, 6725.109375>, 0/1 deceased)
+09:21:27.274 [AI Object Patrol 00053] Global patrol count: 1
+09:21:27.283 [AI Object Patrol 00053] ContaminatedArea category patrol count: 0
+09:33:35.079 [AI Patrol 00017] Despawning 1 West bots (spawn position <7323.870117, 293.132568, 2916.180420>, 0/1 deceased)
+09:33:35.089 [AI Patrol 00017] Global patrol count: 0
+09:33:35.099 [AI Patrol 00017] Patrol category patrol count: 0
+09:38:24.686 [AI Object Patrol 00055] Spawning 3 East bots at <9795.708008, 281.830566, 5993.492188>
+09:38:24.714 [AI Object Patrol 00055] Global patrol count: 1
+09:38:24.723 [AI Object Patrol 00055] HelicopterWreck category patrol count: 1
+09:55:28.083 [AI Object Patrol 00055] Despawning 3 East bots (spawn position <9795.708008, 281.830566, 5993.492188>, 0/3 deceased)
+09:55:28.095 [AI Object Patrol 00055] Global patrol count: 0
+09:55:28.105 [AI Object Patrol 00055] HelicopterWreck category patrol count: 0
+10:09:42.182 [AI Object Patrol 00065] Spawning 3 East bots at <10373.722656, 212.415207, 6202.583496>
+10:09:42.217 [AI Object Patrol 00065] Global patrol count: 1
+10:09:42.227 [AI Object Patrol 00065] HelicopterWreck category patrol count: 1
+10:27:55.538 [AI Object Patrol 00065] Despawning 3 East bots (spawn position <10373.722656, 212.415207, 6202.583496>, 0/3 deceased)
+10:27:55.549 [AI Object Patrol 00065] Global patrol count: 0
+10:27:55.559 [AI Object Patrol 00065] HelicopterWreck category patrol count: 0
+10:57:41.268 [AI Object Patrol 00079] Spawning 3 East bots at <4617.474121, 333.496063, 6979.164551>
+10:57:41.307 [AI Object Patrol 00079] Global patrol count: 1
+10:57:41.317 [AI Object Patrol 00079] HelicopterWreck category patrol count: 1
+11:05:35.452 [VehicleEnter] Player "Survivor (2)" (id=dbCGnkAR_mEznmKtCMZqcB5N5QDJ61S0xAwcz_DCvfw=) entered vehicle Gyrocopter (id=3ED00DAD7D4F183ED43B758A59CD7D03 pos=<4426.59, 317.24, 6684.47>) as pilot
+11:05:40.109 [VehicleLeave] Player "Survivor (2)" (id=dbCGnkAR_mEznmKtCMZqcB5N5QDJ61S0xAwcz_DCvfw=) left vehicle Gyrocopter (id=3ED00DAD7D4F183ED43B758A59CD7D03 pos=<4426.59, 317.24, 6684.47>)
+11:05:53.834 [VehicleEnter] Player "Survivor (2)" (id=dbCGnkAR_mEznmKtCMZqcB5N5QDJ61S0xAwcz_DCvfw=) entered vehicle Gyrocopter (id=3ED00DAD7D4F183ED43B758A59CD7D03 pos=<4426.59, 317.24, 6684.47>) as pilot
+11:06:10.290 [VehicleLeave] Player "Survivor (2)" (id=dbCGnkAR_mEznmKtCMZqcB5N5QDJ61S0xAwcz_DCvfw=) left vehicle Gyrocopter (id=3ED00DAD7D4F183ED43B758A59CD7D03 pos=<4426.59, 317.24, 6684.47>)
+11:16:14.653 [AI Object Patrol 00079] Despawning 3 East bots (spawn position <4617.474121, 333.496063, 6979.164551>, 0/3 deceased)
+11:16:14.669 [AI Object Patrol 00079] Global patrol count: 0
+11:16:14.679 [AI Object Patrol 00079] HelicopterWreck category patrol count: 0
+11:42:55.020 [AI Object Patrol 00088] Spawning 2 West bots at <8860.937500, 438.015991, 1925.744141>
+11:42:55.065 [AI Object Patrol 00088] Global patrol count: 1
+11:42:55.077 [AI Object Patrol 00088] ContaminatedArea category patrol count: 1
+11:43:10.309 [VehicleEnter] Player "Survivor (2)" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8341.59, 334.75, 1639.99>) as pilot
+11:43:13.006 [VehicleEngine] Player "Survivor (2)" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8341.59, 334.75, 1640.01>)
+11:43:19.358 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8341.59, 334.75, 1640.06>)
+11:43:19.523 [VehicleLeave] Player "Survivor (2)" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8341.59, 334.75, 1640.06>)
+11:43:38.138 [VehicleEnter] Player "Survivor (2)" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8341.59, 334.75, 1640.22>) as pilot
+11:43:40.827 [VehicleLeave] Player "Survivor (2)" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8341.59, 334.75, 1640.25>)
+11:50:29.530 [VehicleEnter] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) entered vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<5925.93, 396.27, 4184.93>) as driver
+11:50:32.523 [VehicleEngine] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) started vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<5925.93, 396.27, 4184.93>)
+11:50:47.176 [VehicleEngine] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) stopped vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<5932.7, 396.16, 4193.04>)
+11:50:50.547 [VehicleLeave] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) left vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<5932.7, 396.16, 4193.04>)
+11:51:00.274 [VehicleEnter] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) entered vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<5932.7, 396.16, 4193.04>) as driver
+11:51:02.998 [VehicleEngine] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) started vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<5932.7, 396.16, 4193.04>)
+11:51:11.045 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<5932.85, 396.16, 4194.34>)
+11:51:11.080 [VehicleLeave] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) left vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<5932.85, 396.16, 4194.34>)
+11:51:33.349 [VehicleEnter] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) entered vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<5932.85, 396.16, 4194.34>) as driver
+11:51:37.184 [VehicleEngine] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) started vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<5932.85, 396.16, 4194.34>)
+11:52:27.442 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<5946.64, 396.3, 4209.27>)
+11:52:27.467 [VehicleLeave] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) left vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<5946.64, 396.3, 4209.27>)
+11:52:41.404 [VehicleEnter] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) entered vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<5946.64, 396.3, 4209.27>) as driver
+11:52:46.646 [VehicleEngine] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) started vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<5946.64, 396.3, 4209.27>)
+11:55:45.313 [AI Object Patrol 00084] Spawning 3 East bots at <5443.565430, 437.370087, 1443.564331>
+11:55:45.345 [AI Object Patrol 00084] Global patrol count: 2
+11:55:45.355 [AI Object Patrol 00084] HelicopterWreck category patrol count: 1
+11:56:23.236 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<5193.36, 472.1, 1686.5>)
+11:56:23.336 [VehicleLeave] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) left vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<5193.36, 472.1, 1686.5>)
+11:56:27.754 [VehicleEnter] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) entered vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<5193.36, 472.1, 1686.5>) as driver
+11:56:30.775 [VehicleLeave] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) left vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<5193.36, 472.1, 1686.51>)
+11:56:47.891 [VehicleEnter] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) entered vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<5193.36, 472.1, 1686.51>) as driver
+11:56:55.758 [VehicleEngine] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) started vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<5193.36, 472.1, 1686.51>)
+12:00:18.428 [AI Object Patrol 00084] Despawning 3 East bots (spawn position <5443.565430, 437.370087, 1443.564331>, 0/3 deceased)
+12:00:18.438 [AI Object Patrol 00084] Global patrol count: 1
+12:00:18.448 [AI Object Patrol 00084] HelicopterWreck category patrol count: 0
+12:01:24.899 [VehicleEngine] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) stopped vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<3091.62, 445.17, 2689.93>)
+12:01:33.566 [VehicleLeave] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) left vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<3091.62, 445.17, 2689.93>)
+12:04:22.339 [VehicleEnter] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) entered vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<3091.62, 445.17, 2689.93>) as driver
+12:04:27.694 [VehicleEngine] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) started vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<3091.62, 445.17, 2689.93>)
+12:04:50.459 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<3115.68, 426.41, 2872.33>)
+12:04:50.481 [VehicleLeave] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) left vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<3115.68, 426.41, 2872.33>)
+12:08:10.276 [VehicleEnter] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) entered vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<3115.68, 426.41, 2872.33>) as driver
+12:08:13.918 [VehicleEngine] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) started vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<3115.68, 426.41, 2872.33>)
+12:10:48.581 [AI Object Patrol 00089] Spawning 1 East bots at <2649.503662, 326.478882, 6406.067871>
+12:10:48.615 [AI Object Patrol 00089] Global patrol count: 2
+12:10:48.626 [AI Object Patrol 00089] HelicopterWreck category patrol count: 1
+12:14:16.055 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<774.41, 213.85, 6616.15>)
+12:14:16.078 [VehicleLeave] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) left vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<774.41, 213.85, 6616.15>)
+12:14:24.040 [VehicleEnter] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) entered vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<774.41, 213.85, 6616.15>) as driver
+12:14:27.150 [VehicleEngine] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) started vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<774.41, 213.85, 6616.15>)
+12:15:53.644 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<810.28, 240.53, 5597.33>)
+12:15:53.698 [VehicleLeave] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) left vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<810.28, 240.53, 5597.33>)
+12:16:00.189 [VehicleEnter] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) entered vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<810.28, 240.53, 5597.33>) as driver
+12:16:03.287 [VehicleLeave] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) left vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<810.28, 240.53, 5597.33>)
+12:19:22.603 [AI Object Patrol 00088] Despawning 2 West bots (spawn position <8860.937500, 438.015991, 1925.744141>, 0/2 deceased)
+12:19:22.613 [AI Object Patrol 00088] Global patrol count: 1
+12:19:22.622 [AI Object Patrol 00088] ContaminatedArea category patrol count: 0
+12:19:50.674 [AI Object Patrol 00089] Despawning 1 East bots (spawn position <2649.503662, 326.478882, 6406.067871>, 0/1 deceased)
+12:19:50.684 [AI Object Patrol 00089] Global patrol count: 0
+12:19:50.694 [AI Object Patrol 00089] HelicopterWreck category patrol count: 0
+12:26:22.956 [VehicleEnter] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) entered vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<810.28, 240.53, 5597.33>) as driver
+12:26:27.724 [VehicleLeave] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) left vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<810.28, 240.53, 5597.33>)
+12:26:33.109 [VehicleEnter] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) entered vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<810.28, 240.53, 5597.33>) as driver
+12:26:38.777 [VehicleEngine] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) started vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<810.28, 240.53, 5597.33>)
+12:27:04.731 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<896.88, 243.07, 5481.32>)
+12:27:04.767 [VehicleLeave] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) left vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<896.88, 243.07, 5481.32>)
+12:27:26.308 [VehicleEnter] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) entered vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<896.88, 243.07, 5481.32>) as driver
+12:27:43.815 [VehicleEngine] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) started vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<896.88, 243.07, 5481.32>)
+12:28:58.870 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<1305.4, 252.6, 4881.41>)
+12:28:58.892 [VehicleLeave] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) left vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<1305.41, 252.6, 4881.41>)
+12:31:59.671 [VehicleEnter] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) entered vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<1305.4, 252.6, 4881.41>) as driver
+12:32:04.709 [VehicleEngine] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) started vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<1305.41, 252.6, 4881.41>)
+12:32:27.173 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<1310.01, 252.56, 4887.24>)
+12:32:27.228 [VehicleLeave] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) left vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<1310.01, 252.56, 4887.24>)
+12:32:55.868 [VehicleEnter] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) entered vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<1309.97, 252.56, 4887.29>) as driver
+12:33:02.622 [VehicleLeave] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) left vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<1309.88, 252.55, 4887.41>)
+12:33:43.251 [VehicleEnter] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) entered vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<1309.78, 252.55, 4887.5>) as driver
+12:33:45.062 [VehicleEngine] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) started vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<1309.75, 252.54, 4887.54>)
+12:34:00.861 [VehicleEngine] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) stopped vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<1309.61, 252.54, 4887.74>)
+12:34:03.379 [VehicleLeave] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) left vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<1309.59, 252.53, 4887.79>)
+12:34:46.372 [VehicleAttachments] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) detached Car Radiator (type=CarRadiator) from vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<1309.46, 252.53, 4887.93>)
+12:35:11.708 [VehicleAttachments] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) detached UAZ 469 Wheel (type=ExpansionUAZWheel) from vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<1309.34, 252.52, 4888.13>)
+12:35:28.939 [VehicleAttachments] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) detached UAZ 469 Wheel (type=ExpansionUAZWheel) from vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<1309.28, 252.51, 4888.25>)
+12:36:44.646 [VehicleEnter] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) entered vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<1308.66, 252.42, 4888.58>) as driver
+12:36:56.220 [VehicleEngine] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) started vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<1308.51, 252.41, 4888.58>)
+12:38:30.746 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<1621.78, 357.25, 3908.05>)
+12:38:30.939 [VehicleLeave] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) left vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<1621.78, 357.25, 3908.05>)
+12:38:51.715 [VehicleEnter] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) entered vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<1621.78, 357.25, 3908.05>) as driver
+12:38:57.788 [VehicleLeave] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) left vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<1621.78, 357.25, 3908.05>)
+12:39:23.402 [VehicleEnter] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) entered vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<1621.78, 357.25, 3908.05>) as driver
+12:39:29.204 [VehicleEngine] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) started vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<1621.78, 357.25, 3908.05>)
+12:40:03.379 [VehicleEngine] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) stopped vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<1602.53, 336.56, 4142.38>)
+12:40:03.389 [VehicleDestroyed] ExpansionUAZ (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<1602.53, 336.56, 4142.38>)
+12:40:46.715 [VehicleLeave] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) left vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<1471.57, 258.4, 4762.5>)
+12:44:36.477 [VehicleEnter] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) entered vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<1471.58, 258.39, 4762.44>) as driver
+12:44:56.393 [VehicleLeave] Player "Survivor" (id=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=) left vehicle UAZ 469 (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<1471.7, 258.37, 4762.15>)
+12:50:33.371 [VehicleDeleted] ExpansionUAZ (id=03334FE26D4B1BD1D3D89FA270D326AB pos=<1471.7, 258.37, 4762.15>)

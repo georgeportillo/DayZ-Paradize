@@ -1,0 +1,26 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "TLC_LobbyTable",
+            "m_LocalPosition": [
+                8342.51953125,
+                331.5950012207031,
+                1639.1700439453126
+            ],
+            "m_LocalRotation": [
+                -135.8889923095703,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 10000.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        }
+    ]
+}

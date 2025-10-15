@@ -1,0 +1,438 @@
+09:07:49.643 [AI Patrol 00017] Spawning 2 West bots at <7557.274902, 289.209991, 2596.225586>
+09:07:57.205 [AI Patrol 00017] Global patrol count: 1
+09:07:57.215 [AI Patrol 00017] Patrol category patrol count: 1
+09:07:57.226 [AI Patrol 00016] Spawning 1 East bots at <7706.652344, 308.054077, 2859.690674>
+09:07:57.267 [AI Patrol 00016] Global patrol count: 2
+09:07:57.277 [AI Patrol 00016] Patrol category patrol count: 2
+09:40:26.718 [AI Patrol 00016] East bots were wiped out (spawn position <7706.652344, 308.054077, 2859.690674>, 1/1 deceased)
+09:40:26.728 [AI Patrol 00016] Global patrol count: 1
+09:40:26.738 [AI Patrol 00016] Patrol category patrol count: 1
+12:47:33.351 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+12:47:33.363 [BaseBuildingRaiding] Player "Keiko" (id= pos=<8388.86, 329.16, 1665.9>) damaged Fence at <8337.49, 334.75, 1640.99>
+12:47:33.373 [BaseBuildingRaiding] They dealt 70 * 1 = 70 damage with Bullet_556x45 from AK101
+12:47:33.383 [BaseBuildingRaiding] Wall_Metal_Down hitpoints decreased from 20840 to 20770
+12:47:33.393 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+12:47:33.725 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+12:47:33.734 [BaseBuildingRaiding] Player "Keiko" (id= pos=<8388.44, 328.86, 1666.29>) damaged Fence at <8337.49, 334.75, 1640.99>
+12:47:33.744 [BaseBuildingRaiding] They dealt 70 * 1 = 70 damage with Bullet_556x45 from AK101
+12:47:33.753 [BaseBuildingRaiding] Wall_Base_Down hitpoints decreased from 12000 to 11930
+12:47:33.763 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+12:47:34.857 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+12:47:34.867 [BaseBuildingRaiding] Player "Keiko" (id= pos=<8389.1, 328.45, 1668.03>) damaged Fence at <8337.49, 334.75, 1640.99>
+12:47:34.878 [BaseBuildingRaiding] They dealt 70 * 1 = 70 damage with Bullet_556x45 from AK101
+12:47:34.887 [BaseBuildingRaiding] Wall_Metal_Down hitpoints decreased from 20770 to 20700
+12:47:34.898 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+12:47:36.252 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+12:47:36.261 [BaseBuildingRaiding] Player "Keiko" (id= pos=<8390.11, 327.99, 1670.16>) damaged Fence at <8337.49, 334.75, 1640.99>
+12:47:36.271 [BaseBuildingRaiding] They dealt 70 * 1 = 70 damage with Bullet_556x45 from AK101
+12:47:36.280 [BaseBuildingRaiding] Wall_Metal_Down hitpoints decreased from 20700 to 20630
+12:47:36.290 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+12:47:37.358 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+12:47:37.369 [BaseBuildingRaiding] Player "Keiko" (id= pos=<8390.9, 327.84, 1671.91>) damaged Fence at <8337.49, 334.75, 1640.99>
+12:47:37.380 [BaseBuildingRaiding] They dealt 70 * 1 = 70 damage with Bullet_556x45 from AK101
+12:47:37.391 [BaseBuildingRaiding] Wall_Metal_Down hitpoints decreased from 20630 to 20560
+12:47:37.402 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+12:47:38.837 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+12:47:38.916 [BaseBuildingRaiding] Player "Keiko" (id= pos=<8390.82, 327.5, 1673.66>) damaged Fence at <8337.49, 334.75, 1640.99>
+12:47:38.955 [BaseBuildingRaiding] They dealt 70 * 1 = 70 damage with Bullet_556x45 from AK101
+12:47:38.967 [BaseBuildingRaiding] Wall_Metal_Down hitpoints decreased from 20560 to 20490
+12:47:38.987 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+12:47:53.784 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+12:47:53.795 [BaseBuildingRaiding] Player "Keiko" (id= pos=<8373.58, 324.48, 1673.45>) damaged Fence at <8337.49, 334.75, 1640.99>
+12:47:53.805 [BaseBuildingRaiding] They dealt 21 * 1 = 21 damage with Bullet_380 from PP19
+12:47:53.815 [BaseBuildingRaiding] Wall_Metal_Down hitpoints decreased from 20490 to 20469
+12:47:53.824 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+12:48:03.466 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+12:48:03.477 [BaseBuildingRaiding] Player "Keiko" (id= pos=<8369.28, 322.77, 1678.46>) damaged Fence at <8339.69, 338.48, 1635.94>
+12:48:03.494 [BaseBuildingRaiding] They dealt 21 * 1 = 21 damage with Bullet_380 from PP19
+12:48:03.508 [BaseBuildingRaiding] Wall_Metal_Down hitpoints decreased from 21000 to 20979
+12:48:03.523 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+12:48:04.161 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+12:48:04.179 [BaseBuildingRaiding] Player "Keiko" (id= pos=<8369.28, 322.77, 1678.46>) damaged Watchtower at <8338.41, 335.71, 1634.5>
+12:48:04.194 [BaseBuildingRaiding] They dealt 8.4 * 1 = 8.4 damage with Bullet_380 from PP19
+12:48:04.205 [BaseBuildingRaiding] Level_2_Wall_3_Metal_Down hitpoints decreased from 21000 to 20991.6
+12:48:04.216 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+12:48:06.318 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+12:48:06.336 [BaseBuildingRaiding] Player "Keiko" (id= pos=<8369.28, 322.77, 1678.46>) damaged Fence at <8339.69, 338.48, 1635.94>
+12:48:06.352 [BaseBuildingRaiding] They dealt 21 * 1 = 21 damage with Bullet_380 from PP19
+12:48:06.364 [BaseBuildingRaiding] Wall_Metal_Down hitpoints decreased from 20979 to 20958
+12:48:06.375 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+12:48:08.658 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+12:48:08.676 [BaseBuildingRaiding] Player "Keiko" (id= pos=<8369.28, 322.77, 1678.46>) damaged Watchtower at <8338.41, 335.71, 1634.5>
+12:48:08.691 [BaseBuildingRaiding] They dealt 21 * 1 = 21 damage with Bullet_380 from PP19
+12:48:08.703 [BaseBuildingRaiding] Level_2_Wall_3_Metal_Down hitpoints decreased from 20991.6 to 20970.6
+12:48:08.713 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+12:54:26.140 [AI Object Patrol 00048] Spawning 2 West bots at <8926.999023, 450.915924, 2144.452148>
+12:54:26.177 [AI Object Patrol 00048] Global patrol count: 2
+12:54:26.187 [AI Object Patrol 00048] ContaminatedArea category patrol count: 1
+13:30:55.005 [AI Object Patrol 00048] Despawning 2 West bots (spawn position <8926.999023, 450.915924, 2144.452148>, 0/2 deceased)
+13:30:55.017 [AI Object Patrol 00048] Global patrol count: 1
+13:30:55.028 [AI Object Patrol 00048] ContaminatedArea category patrol count: 0
+14:26:16.635 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:26:16.689 [BaseBuildingRaiding] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8345.38, 322.64, 1641.26>) damaged ExpansionWall6x3 at <8365.54, 322.59, 1627.34>
+14:26:16.744 [BaseBuildingRaiding] They dealt 160 * 1 = 160 damage with Bullet_308Win from SkyFall_HK23e
+14:26:16.812 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29840
+14:26:16.903 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+15:05:37.902 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+15:05:37.913 [BaseBuildingRaiding] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8347.2, 331.95, 1627.26>) damaged ExpansionWall6x3 at <8345.96, 331.46, 1624.99>
+15:05:37.922 [BaseBuildingRaiding] They dealt 160 * 1 = 160 damage with Bullet_762x54 from Snafu_PKP_Black_GUN
+15:05:37.932 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 28910 to 28750
+15:05:37.942 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+15:05:38.000 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+15:05:38.010 [BaseBuildingRaiding] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8347.06, 331.88, 1627.11>) damaged ExpansionWall6x3 at <8345.96, 331.46, 1624.99>
+15:05:38.020 [BaseBuildingRaiding] They dealt 160 * 1 = 160 damage with Bullet_762x54 from Snafu_PKP_Black_GUN
+15:05:38.030 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 28750 to 28590
+15:05:38.040 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+15:20:39.237 [VehicleDestroyed] Boat_01_Black (id=B7DA5810884B55ABFC11A79F23FE22DA pos=<8425.91, 169.67, 11876.8>)
+15:26:50.100 [VehicleDeleted] Boat_01_Black (id=B7DA5810884B55ABFC11A79F23FE22DA pos=<8426.01, 168.16, 11876.8>)
+15:44:12.507 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): It's a little wet outside
+15:44:20.062 [Chat - Global]("SGT. Saggy Sax"(id=mzOdm3HvWBvOK_c4KMjlCsgwtphSfGrM_ONiwgzQ7HM=)): indeed
+15:47:01.879 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): Just had a 10 pack of wolves at my base. Fuck me
+15:47:18.960 [Chat - Global]("SGT. Saggy Sax"(id=mzOdm3HvWBvOK_c4KMjlCsgwtphSfGrM_ONiwgzQ7HM=)): i cant even find my base lol
+15:47:31.572 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): Where did you make it?
+15:47:45.984 [Chat - Global]("SGT. Saggy Sax"(id=mzOdm3HvWBvOK_c4KMjlCsgwtphSfGrM_ONiwgzQ7HM=)): north of topliin, but im also lost
+15:47:51.010 [Chat - Global]("SGT. Saggy Sax"(id=mzOdm3HvWBvOK_c4KMjlCsgwtphSfGrM_ONiwgzQ7HM=)): dont usually play this map
+15:48:19.353 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): Yea me either. Reason why I am is to learn it
+15:48:31.743 [Chat - Global]("SGT. Saggy Sax"(id=mzOdm3HvWBvOK_c4KMjlCsgwtphSfGrM_ONiwgzQ7HM=)): same!
+15:50:00.364 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): I made a base down by Lembork on a nice pond. Cool spot. 
+15:50:22.717 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): I left a solo Heli btw at the airstrip on the west end if you don't have one.
+15:50:29.289 [Chat - Global]("SGT. Saggy Sax"(id=mzOdm3HvWBvOK_c4KMjlCsgwtphSfGrM_ONiwgzQ7HM=)): hell yeah i found a little pond myself.
+15:50:40.145 [Chat - Global]("SGT. Saggy Sax"(id=mzOdm3HvWBvOK_c4KMjlCsgwtphSfGrM_ONiwgzQ7HM=)): which airstrip?
+15:51:31.632 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): The NW one above Gliniska
+15:51:43.492 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): The west end isn't gassed. It's where I left it
+15:51:58.158 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): Be careful there are AI in the gassed part
+15:52:09.796 [Chat - Global]("SGT. Saggy Sax"(id=mzOdm3HvWBvOK_c4KMjlCsgwtphSfGrM_ONiwgzQ7HM=)): for sure ill check it out. just figured out where i am lol
+15:52:23.853 [Chat - Global]("SGT. Saggy Sax"(id=mzOdm3HvWBvOK_c4KMjlCsgwtphSfGrM_ONiwgzQ7HM=)): at least what town im in
+15:52:40.338 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): There was a Merlin up there and a flipped over Little Bird in the gas last I checked. A heli is really helping me learn this map
+15:53:00.690 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): Nice you found your way =P
+15:53:56.028 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): Down by me I know if 2 Hueys and 1 Little Bird. I just can't find an igniter plug to save my life
+15:54:31.746 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): Mr. Snake who is the owner has one for me if we ever cross paths again
+15:56:51.273 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): You found a plate carrier yet?
+15:57:25.328 [Chat - Global]("SGT. Saggy Sax"(id=mzOdm3HvWBvOK_c4KMjlCsgwtphSfGrM_ONiwgzQ7HM=)): yeah, got a few press vests stashed as well
+15:58:02.145 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): Cool, I've been getting mine off the Mili zombies in Nadbor at the mili base
+15:59:28.460 [VehicleEnter] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) entered vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<10339.8, 224.02, 5904.96>) as pilot
+15:59:29.843 [VehicleEngine] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) started vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<10339.8, 224.02, 5904.98>)
+15:59:49.472 [AI Object Patrol 00087] Spawning 2 East bots at <11437.248047, 234.920654, 6523.088379>
+15:59:49.509 [AI Object Patrol 00087] Global patrol count: 2
+15:59:49.521 [AI Object Patrol 00087] HelicopterWreck category patrol count: 1
+16:00:22.048 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<10714.8, 219.62, 6185.85>)
+16:00:22.061 [VehicleLeave] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) left vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<10714.8, 219.62, 6185.85>)
+16:00:46.614 [VehicleEnter] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) entered vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<10714.6, 218.89, 6185.75>) as pilot
+16:00:47.965 [VehicleEngine] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) started vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<10714.6, 218.89, 6185.75>)
+16:01:27.273 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<11350.6, 264.55, 6184.97>)
+16:01:27.296 [VehicleLeave] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) left vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<11350.6, 264.54, 6184.97>)
+16:02:35.696 [VehicleEnter] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) entered vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<11350.6, 264.33, 6186.22>) as pilot
+16:02:37.589 [VehicleEngine] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) started vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<11350.6, 264.33, 6186.24>)
+16:04:11.900 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<11609.1, 253.15, 6888.92>)
+16:04:11.913 [VehicleLeave] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) left vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<11609.1, 253.15, 6888.92>)
+16:05:47.970 [AI Object Patrol 00087] East bots were wiped out (spawn position <11437.248047, 234.920654, 6523.088379>, 2/2 deceased)
+16:05:47.980 [AI Object Patrol 00087] Global patrol count: 1
+16:05:47.990 [AI Object Patrol 00087] HelicopterWreck category patrol count: 0
+16:06:22.232 [VehicleEnter] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) entered vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<11609.1, 253.15, 6889.15>) as pilot
+16:06:24.035 [VehicleEngine] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) started vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<11609.1, 253.15, 6889.15>)
+16:06:53.697 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<11469.2, 233.63, 6549.6>)
+16:06:53.719 [VehicleLeave] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) left vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<11469.2, 233.63, 6549.6>)
+16:07:09.279 [AI Object Patrol 00100] Spawning 3 West bots at <3185.571533, 236.372437, 6888.416992>
+16:07:09.318 [AI Object Patrol 00100] Global patrol count: 2
+16:07:09.328 [AI Object Patrol 00100] ContaminatedArea category patrol count: 1
+16:08:30.359 [VehicleEnter] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) entered vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<11469.1, 233.61, 6549.07>) as pilot
+16:08:32.399 [VehicleEngine] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) started vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<11469.1, 233.6, 6549.06>)
+16:09:37.198 [AI Object Patrol 00087] Despawning 0 East bots (spawn position <11457.745117, 233.438721, 6538.164551>, 2/2 deceased)
+16:15:43.395 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<11072.8, 229.1, 11957>)
+16:15:43.408 [VehicleLeave] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) left vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<11072.8, 229.1, 11957>)
+16:17:49.635 [Chat - Global]("Survivor"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): got that igniter plug homie ill drop it off sometime
+16:18:05.473 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): any way you could help me. I just made a boo boo
+16:18:14.159 [Chat - Global]("Survivor"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): what happened haha
+16:18:43.047 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): way up north. Crashed in some trees. No wrench, no axe, can't get back in
+16:19:01.135 [Chat - Global]("Survivor"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): ah shit, cool bro yeah
+16:19:04.801 [Chat - Global]("Survivor"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): ill head over
+16:19:09.601 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): Thank you!
+16:19:13.475 [Chat - Global]("Survivor"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): where specifically?
+16:19:31.786 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): North of Grabin
+16:19:59.094 [AI Object Patrol 00100] Despawning 3 West bots (spawn position <3185.571533, 236.372437, 6888.416992>, 0/3 deceased)
+16:19:59.104 [AI Object Patrol 00100] Global patrol count: 1
+16:19:59.114 [AI Object Patrol 00100] ContaminatedArea category patrol count: 0
+16:21:45.560 [VehicleEnter] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8343.06, 334.75, 1639.96>) as pilot
+16:21:47.472 [VehicleEngine] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8343.06, 334.75, 1639.97>)
+16:24:42.231 [AI Patrol 00018] Spawning 1 Civilian bots at <6644.255859, 355.332397, 3406.292236>
+16:24:42.316 [AI Patrol 00018] Global patrol count: 2
+16:24:42.326 [AI Patrol 00018] Patrol category patrol count: 2
+16:27:03.057 [AI Object Patrol 00104] Spawning 2 East bots at <2744.372070, 402.115784, 5612.769043>
+16:27:03.096 [AI Object Patrol 00104] Global patrol count: 3
+16:27:03.107 [AI Object Patrol 00104] HelicopterWreck category patrol count: 1
+16:28:26.518 [AI Object Patrol 00098] Spawning 1 East bots at <10505.531250, 270.876373, 7453.235352>
+16:28:26.555 [AI Object Patrol 00098] Global patrol count: 4
+16:28:26.567 [AI Object Patrol 00098] HelicopterWreck category patrol count: 2
+16:28:38.239 [AI Object Patrol 00105] Spawning 1 East bots at <9609.227539, 231.864609, 8951.180664>
+16:28:38.262 [AI Object Patrol 00105] Global patrol count: 5
+16:28:38.272 [AI Object Patrol 00105] HelicopterWreck category patrol count: 3
+16:30:21.624 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): I'm definitely north of Grabin
+16:30:27.451 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): I hear you
+16:30:49.442 [Chat - Global]("Survivor"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): at the bridge
+16:31:10.170 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): want me to meet you there?
+16:31:20.733 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): Thats me shooting
+16:31:26.939 [Chat - Global]("Survivor"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): awesome
+16:31:37.111 [Chat - Global]("Survivor"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): i see it!
+16:31:41.203 [Chat - Global]("Survivor"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): yeeees
+16:32:20.324 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<11055, 221.3, 11913.8>)
+16:32:20.358 [VehicleLeave] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<11055, 221.3, 11913.8>)
+16:35:32.267 [AI Patrol 00018] Despawning 1 Civilian bots (spawn position <6644.255859, 355.332397, 3406.292236>, 0/1 deceased)
+16:35:32.277 [AI Patrol 00018] Global patrol count: 4
+16:35:32.287 [AI Patrol 00018] Patrol category patrol count: 1
+16:35:41.808 [VehicleEnter] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) entered vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<11072.9, 228.14, 11957.1>) as pilot
+16:35:43.202 [VehicleEngine] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) started vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<11072.9, 228.14, 11957.1>)
+16:35:59.786 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): THANKS =)
+16:36:02.435 [VehicleEnter] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<11054.8, 221.23, 11913.2>) as pilot
+16:36:06.039 [Chat - Global]("Survivor"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): YEHAWWW
+16:36:08.804 [VehicleEngine] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<11054.8, 221.23, 11913.2>)
+16:37:32.917 [AI Patrol 00020] Spawning 2 East bots at <9393.302734, 211.309586, 10750.960938>
+16:37:32.950 [AI Patrol 00020] Global patrol count: 5
+16:37:32.960 [AI Patrol 00020] Patrol category patrol count: 2
+16:37:42.401 [AI Object Patrol 00104] Despawning 2 East bots (spawn position <2744.372070, 402.115784, 5612.769043>, 0/2 deceased)
+16:37:42.546 [AI Object Patrol 00104] Global patrol count: 4
+16:37:42.693 [AI Object Patrol 00104] HelicopterWreck category patrol count: 2
+16:37:42.996 [AI Patrol 00019] Spawning 3 East bots at <9265.378906, 199.581802, 10924.157227>
+16:37:43.232 [AI Patrol 00019] Global patrol count: 5
+16:37:43.381 [AI Patrol 00019] Patrol category patrol count: 3
+16:37:58.677 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<11504.9, 181.23, 9450.8>)
+16:37:58.689 [VehicleLeave] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) left vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<11504.9, 181.23, 9450.8>)
+16:38:20.799 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): You saved the day!  Ty
+16:38:31.670 [Chat - Global]("Survivor"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): yeah man no problem
+16:38:52.822 [AI Object Patrol 00098] Despawning 1 East bots (spawn position <10505.531250, 270.876373, 7453.235352>, 0/1 deceased)
+16:38:52.832 [AI Object Patrol 00098] Global patrol count: 4
+16:38:52.842 [AI Object Patrol 00098] HelicopterWreck category patrol count: 1
+16:39:09.258 [BaseRaiding] mmg_lockable_gun_rack_grey (<775.261292, 225.491272, 8560.096680>) Code set by "player "SGT. Saggy Sax" (ID = "mzOdm3HvWBvOK_c4KMjlCsgwtphSfGrM_ONiwgzQ7HM=" at <774.523621, 225.491257, 8561.440430>)" and the code is 8630
+16:39:32.104 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<10316.7, 197.6, 8918.58>)
+16:39:32.126 [VehicleLeave] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<10316.7, 197.6, 8918.58>)
+16:39:41.723 [VehicleEnter] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<10319.1, 197.53, 8918.5>) as pilot
+16:40:32.592 [VehicleEngine] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8289.28, 270.42, 1425.98>)
+16:40:50.044 [VehicleEnter] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) entered vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<11505, 181.24, 9450.9>) as pilot
+16:40:51.718 [VehicleEngine] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) started vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<11505, 181.24, 9450.9>)
+16:40:58.992 [AI Object Patrol 00105] Despawning 1 East bots (spawn position <9609.227539, 231.864609, 8951.180664>, 0/1 deceased)
+16:40:59.002 [AI Object Patrol 00105] Global patrol count: 3
+16:40:59.012 [AI Object Patrol 00105] HelicopterWreck category patrol count: 0
+16:41:09.200 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8341.5, 334.75, 1640.89>)
+16:41:09.233 [VehicleLeave] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Gyrocopter (id=961DFC0DD54BCF458A74E6A5EF960114 pos=<8341.5, 334.75, 1640.89>)
+16:42:09.088 [AI Object Patrol 00108] Spawning 2 East bots at <11459.630859, 234.760956, 6513.215820>
+16:42:09.120 [AI Object Patrol 00108] Global patrol count: 4
+16:42:09.129 [AI Object Patrol 00108] HelicopterWreck category patrol count: 1
+16:43:04.377 [AI Object Patrol 00106] Spawning 2 East bots at <9795.399414, 281.985596, 5991.104004>
+16:43:04.412 [AI Object Patrol 00106] Global patrol count: 5
+16:43:04.422 [AI Object Patrol 00106] HelicopterWreck category patrol count: 2
+16:45:36.730 [AI Object Patrol 00010] Spawning 1 West bots at <7834.627441, 239.927414, 5742.851074>
+16:45:36.762 [AI Object Patrol 00010] Global patrol count: 6
+16:45:36.772 [AI Object Patrol 00010] ContaminatedArea category patrol count: 1
+16:46:10.580 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<8531.8, 290.87, 5441.67>)
+16:46:10.616 [VehicleLeave] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) left vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<8531.8, 290.87, 5441.67>)
+16:46:21.474 [AI Object Patrol 00012] Spawning 2 West bots at <7760.906738, 247.945892, 6136.671875>
+16:46:21.505 [AI Object Patrol 00012] Global patrol count: 7
+16:46:21.515 [AI Object Patrol 00012] ContaminatedArea category patrol count: 2
+16:46:52.249 [VehicleEnter] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) entered vehicle Mh-6 Little Bird (id=5FA4E8232546C8B77E9360A18F88F8F0 pos=<8376.76, 274.19, 5444.33>) as pilot
+16:46:54.284 [VehicleLeave] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) left vehicle Mh-6 Little Bird (id=5FA4E8232546C8B77E9360A18F88F8F0 pos=<8376.69, 274.17, 5444.28>)
+16:47:02.670 [VehicleEnter] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) entered vehicle Mh-6 Little Bird (id=5FA4E8232546C8B77E9360A18F88F8F0 pos=<8376.64, 274.16, 5444.25>) as pilot
+16:48:07.452 [AI Patrol 00019] Despawning 3 East bots (spawn position <9265.378906, 199.581802, 10924.157227>, 0/3 deceased)
+16:48:07.463 [AI Patrol 00019] Global patrol count: 6
+16:48:07.474 [AI Patrol 00019] Patrol category patrol count: 2
+16:48:16.771 [AI Patrol 00020] Despawning 2 East bots (spawn position <9393.302734, 211.309586, 10750.960938>, 0/2 deceased)
+16:48:16.781 [AI Patrol 00020] Global patrol count: 5
+16:48:16.791 [AI Patrol 00020] Patrol category patrol count: 1
+16:48:31.070 [VehicleLeave] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) left vehicle Mh-6 Little Bird (id=5FA4E8232546C8B77E9360A18F88F8F0 pos=<8375.19, 273.93, 5443.37>)
+16:48:45.541 [BaseRaiding] mmg_lockable_gun_rack_grey (<775.261292, 225.491272, 8560.096680>) Code set by "player "SGT. Saggy Sax" (ID = "mzOdm3HvWBvOK_c4KMjlCsgwtphSfGrM_ONiwgzQ7HM=" at <774.463196, 225.491241, 8561.229492>)" and the code is 8630
+16:49:37.695 [VehicleEnter] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) entered vehicle UH-1H (id=97187DB64D421D7D70C493A6269B4D98 pos=<8640.64, 289.66, 5514.8>) as pilot
+16:49:40.103 [VehicleLeave] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) left vehicle UH-1H (id=97187DB64D421D7D70C493A6269B4D98 pos=<8640.64, 289.66, 5514.83>)
+16:49:56.779 [BaseRaiding] mmg_lockable_gun_rack_grey (<775.261292, 225.491272, 8560.096680>) Code set by "player "SGT. Saggy Sax" (ID = "mzOdm3HvWBvOK_c4KMjlCsgwtphSfGrM_ONiwgzQ7HM=" at <774.536560, 225.491257, 8561.254883>)" and the code is 8630
+16:50:14.320 [VehicleEnter] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) entered vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<8531.8, 290.88, 5441.16>) as pilot
+16:50:16.238 [VehicleEngine] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) started vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<8531.8, 290.88, 5441.15>)
+16:52:12.777 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<10340.4, 224.01, 5903.2>)
+16:52:12.810 [VehicleLeave] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) left vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<10340.4, 224.01, 5903.2>)
+16:53:16.210 [VehicleEnter] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) entered vehicle UAZ 469 Roofless (id=F83288C43E474D8DF77C90B822ABC4D0 pos=<10353.9, 217.94, 5911.67>) as driver
+16:53:16.455 [AI Object Patrol 00108] Despawning 2 East bots (spawn position <11459.630859, 234.760956, 6513.215820>, 0/2 deceased)
+16:53:16.464 [AI Object Patrol 00108] Global patrol count: 4
+16:53:16.474 [AI Object Patrol 00108] HelicopterWreck category patrol count: 1
+16:53:18.742 [VehicleEngine] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) started vehicle UAZ 469 Roofless (id=F83288C43E474D8DF77C90B822ABC4D0 pos=<10353.9, 217.94, 5911.67>)
+16:53:29.004 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle UAZ 469 Roofless (id=F83288C43E474D8DF77C90B822ABC4D0 pos=<10352.5, 217.94, 5911.82>)
+16:53:29.038 [VehicleLeave] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) left vehicle UAZ 469 Roofless (id=F83288C43E474D8DF77C90B822ABC4D0 pos=<10352.5, 217.94, 5911.82>)
+16:53:46.717 [Chat - Global]("Survivor"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): +
+16:53:49.644 [VehicleEnter] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) entered vehicle Gunter 2 (id=861E7AA4224DA1D69934E0B38FD601C8 pos=<10349.1, 217.97, 5908.97>) as driver
+16:53:55.104 [VehicleLeave] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) left vehicle Gunter 2 (id=861E7AA4224DA1D69934E0B38FD601C8 pos=<10349.2, 217.97, 5908.97>)
+16:54:08.000 [Chat - Global]("Survivor"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): i have one metal rack thing, and a wooden one.
+16:54:13.913 [Chat - Global]("Survivor"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): anyone want one?
+16:54:45.681 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): I saw one earlier. I'm good thanks
+16:54:56.637 [VehicleEnter] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) entered vehicle Gunter 2 (id=861E7AA4224DA1D69934E0B38FD601C8 pos=<10349.2, 217.97, 5908.97>) as driver
+16:54:58.539 [VehicleEngine] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) started vehicle Gunter 2 (id=861E7AA4224DA1D69934E0B38FD601C8 pos=<10349.2, 217.97, 5908.97>)
+16:55:13.239 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gunter 2 (id=861E7AA4224DA1D69934E0B38FD601C8 pos=<10364.4, 218.64, 5911.08>)
+16:55:13.549 [VehicleLeave] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) left vehicle Gunter 2 (id=861E7AA4224DA1D69934E0B38FD601C8 pos=<10364.5, 218.64, 5911.06>)
+16:55:19.777 [VehicleEnter] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) entered vehicle Gunter 2 (id=861E7AA4224DA1D69934E0B38FD601C8 pos=<10364.5, 218.64, 5911.06>) as driver
+16:55:21.486 [VehicleEngine] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) started vehicle Gunter 2 (id=861E7AA4224DA1D69934E0B38FD601C8 pos=<10364.5, 218.64, 5911.06>)
+16:56:41.317 [AI Object Patrol 00115] Spawning 2 East bots at <8942.722656, 319.497955, 5403.639160>
+16:56:41.340 [AI Object Patrol 00115] Global patrol count: 5
+16:56:41.350 [AI Object Patrol 00115] HelicopterWreck category patrol count: 2
+16:57:44.454 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gunter 2 (id=861E7AA4224DA1D69934E0B38FD601C8 pos=<9061.66, 312.32, 5710.84>)
+16:57:44.750 [VehicleLeave] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) left vehicle Gunter 2 (id=861E7AA4224DA1D69934E0B38FD601C8 pos=<9061.66, 312.32, 5710.84>)
+16:59:29.701 [VehicleEnter] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) entered vehicle Gunter 2 (id=861E7AA4224DA1D69934E0B38FD601C8 pos=<9061.66, 312.32, 5710.84>) as driver
+16:59:31.655 [VehicleEngine] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) started vehicle Gunter 2 (id=861E7AA4224DA1D69934E0B38FD601C8 pos=<9061.67, 312.32, 5710.84>)
+17:00:11.921 [AI Object Patrol 00106] Despawning 2 East bots (spawn position <9795.399414, 281.985596, 5991.104004>, 0/2 deceased)
+17:00:11.935 [AI Object Patrol 00106] Global patrol count: 4
+17:00:11.957 [AI Object Patrol 00106] HelicopterWreck category patrol count: 1
+17:00:25.354 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gunter 2 (id=861E7AA4224DA1D69934E0B38FD601C8 pos=<8634.24, 290.1, 5511.07>)
+17:00:25.662 [VehicleLeave] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) left vehicle Gunter 2 (id=861E7AA4224DA1D69934E0B38FD601C8 pos=<8634.24, 290.1, 5511.07>)
+17:01:13.541 [AI Object Patrol 00012] Despawning 2 West bots (spawn position <7760.906738, 247.945892, 6136.671875>, 0/2 deceased)
+17:01:13.552 [AI Object Patrol 00012] Global patrol count: 3
+17:01:13.562 [AI Object Patrol 00012] ContaminatedArea category patrol count: 1
+17:01:13.985 [AI Object Patrol 00110] Spawning 3 West bots at <8972.569336, 429.612030, 1925.503784>
+17:01:14.015 [AI Object Patrol 00110] Global patrol count: 4
+17:01:14.025 [AI Object Patrol 00110] ContaminatedArea category patrol count: 2
+17:01:43.566 [AI Object Patrol 00010] Despawning 1 West bots (spawn position <7834.627441, 239.927414, 5742.851074>, 0/1 deceased)
+17:01:43.577 [AI Object Patrol 00010] Global patrol count: 3
+17:01:43.587 [AI Object Patrol 00010] ContaminatedArea category patrol count: 1
+17:02:45.009 [VehicleEnter] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle UAZ 469 Cargo Roofless (id=878B4C6AEE4146F4FCBF22A711F98754 pos=<8342.8, 322.64, 1648.86>) as driver
+17:02:46.477 [VehicleEngine] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle UAZ 469 Cargo Roofless (id=878B4C6AEE4146F4FCBF22A711F98754 pos=<8342.8, 322.64, 1648.86>)
+17:02:59.174 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle UAZ 469 Cargo Roofless (id=878B4C6AEE4146F4FCBF22A711F98754 pos=<8345.97, 322.79, 1653.68>)
+17:02:59.221 [VehicleLeave] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle UAZ 469 Cargo Roofless (id=878B4C6AEE4146F4FCBF22A711F98754 pos=<8345.97, 322.79, 1653.68>)
+17:03:10.432 [VehicleEnter] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8345.39, 322.59, 1647.01>) as driver
+17:03:11.873 [VehicleEngine] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8345.39, 322.59, 1647.01>)
+17:03:40.892 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8347.67, 322.68, 1652.17>)
+17:03:40.928 [VehicleLeave] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8347.67, 322.68, 1652.17>)
+17:05:23.402 [VehicleEnter] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) entered vehicle UH-1H (id=97187DB64D421D7D70C493A6269B4D98 pos=<8640.62, 289.64, 5514.94>) as pilot
+17:05:24.822 [VehicleEngine] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) started vehicle UH-1H (id=97187DB64D421D7D70C493A6269B4D98 pos=<8640.62, 289.64, 5514.96>)
+17:06:00.771 [AI Object Patrol 00011] Spawning 1 West bots at <7655.809570, 235.208282, 6041.229980>
+17:06:00.884 [AI Object Patrol 00011] Global patrol count: 4
+17:06:00.981 [AI Object Patrol 00011] ContaminatedArea category patrol count: 2
+17:12:38.735 [VehicleEnter] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8347.67, 322.68, 1652.17>) as driver
+17:12:40.011 [VehicleEngine] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8347.67, 322.68, 1652.17>)
+17:12:47.211 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8347.81, 322.69, 1652.4>)
+17:12:47.246 [VehicleLeave] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle Land Rover Defender (id=CBB2CDFD12489855DC685EBA5C9B2FF7 pos=<8347.81, 322.69, 1652.4>)
+17:13:04.988 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+17:13:04.997 [BaseBuildingRaiding] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8343.89, 322.65, 1649.57>) damaged ExpansionWall6x3 at <8340.5, 322.45, 1650.21>
+17:13:05.007 [BaseBuildingRaiding] They dealt 54.8223 * 1 = 54.8223 damage with SNAFU_Bullet_300ACC from SNAFU_KAC_Gun
+17:13:05.017 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29945.2
+17:13:05.027 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+17:13:05.112 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+17:13:05.122 [BaseBuildingRaiding] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8343.78, 322.65, 1649.59>) damaged ExpansionWall6x3 at <8340.5, 322.45, 1650.21>
+17:13:05.132 [BaseBuildingRaiding] They dealt 54.7558 * 1 = 54.7558 damage with SNAFU_Bullet_300ACC from SNAFU_KAC_Gun
+17:13:05.141 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29945.2 to 29890.4
+17:13:05.150 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+17:13:05.203 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+17:13:05.213 [BaseBuildingRaiding] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8343.77, 322.65, 1649.59>) damaged ExpansionWall6x3 at <8340.5, 322.45, 1650.21>
+17:13:05.222 [BaseBuildingRaiding] They dealt 54.6732 * 1 = 54.6732 damage with SNAFU_Bullet_300ACC from SNAFU_KAC_Gun
+17:13:05.232 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29890.4 to 29835.7
+17:13:05.241 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+17:13:05.290 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+17:13:05.300 [BaseBuildingRaiding] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8343.77, 322.65, 1649.59>) damaged ExpansionWall6x3 at <8340.5, 322.45, 1650.21>
+17:13:05.309 [BaseBuildingRaiding] They dealt 54.6564 * 1 = 54.6564 damage with SNAFU_Bullet_300ACC from SNAFU_KAC_Gun
+17:13:05.318 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29835.7 to 29781.1
+17:13:05.327 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+17:13:05.509 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+17:13:05.519 [BaseBuildingRaiding] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8343.77, 322.65, 1649.59>) damaged ExpansionWall6x3 at <8340.5, 322.45, 1650.21>
+17:13:05.529 [BaseBuildingRaiding] They dealt 54.6704 * 1 = 54.6704 damage with SNAFU_Bullet_300ACC from SNAFU_KAC_Gun
+17:13:05.538 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29781.1 to 29726.4
+17:13:05.548 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+17:13:05.602 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+17:13:05.612 [BaseBuildingRaiding] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8343.77, 322.65, 1649.59>) damaged ExpansionWall6x3 at <8340.5, 322.45, 1650.21>
+17:13:05.621 [BaseBuildingRaiding] They dealt 54.6709 * 1 = 54.6709 damage with SNAFU_Bullet_300ACC from SNAFU_KAC_Gun
+17:13:05.631 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29726.4 to 29671.8
+17:13:05.641 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+17:13:05.693 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+17:13:05.702 [BaseBuildingRaiding] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8343.77, 322.65, 1649.59>) damaged ExpansionWall6x3 at <8340.5, 322.45, 1650.21>
+17:13:05.712 [BaseBuildingRaiding] They dealt 54.6613 * 1 = 54.6613 damage with SNAFU_Bullet_300ACC from SNAFU_KAC_Gun
+17:13:05.722 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29671.8 to 29617.1
+17:13:05.731 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+17:13:05.811 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+17:13:05.821 [BaseBuildingRaiding] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8343.77, 322.65, 1649.59>) damaged ExpansionWall6x3 at <8340.5, 322.45, 1650.21>
+17:13:05.830 [BaseBuildingRaiding] They dealt 54.6538 * 1 = 54.6538 damage with SNAFU_Bullet_300ACC from SNAFU_KAC_Gun
+17:13:05.840 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29617.1 to 29562.4
+17:13:05.849 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+17:13:05.913 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+17:13:05.922 [BaseBuildingRaiding] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8343.77, 322.65, 1649.59>) damaged ExpansionWall6x3 at <8340.5, 322.45, 1650.21>
+17:13:05.932 [BaseBuildingRaiding] They dealt 54.6671 * 1 = 54.6671 damage with SNAFU_Bullet_300ACC from SNAFU_KAC_Gun
+17:13:05.941 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29562.4 to 29507.8
+17:13:05.951 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+17:13:06.006 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+17:13:06.016 [BaseBuildingRaiding] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8343.77, 322.65, 1649.59>) damaged ExpansionWall6x3 at <8340.5, 322.45, 1650.21>
+17:13:06.025 [BaseBuildingRaiding] They dealt 54.6776 * 1 = 54.6776 damage with SNAFU_Bullet_300ACC from SNAFU_KAC_Gun
+17:13:06.035 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29507.8 to 29453.1
+17:13:06.045 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+17:13:06.101 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+17:13:06.111 [BaseBuildingRaiding] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8343.77, 322.65, 1649.59>) damaged ExpansionWall6x3 at <8340.5, 322.45, 1650.21>
+17:13:06.121 [BaseBuildingRaiding] They dealt 54.679 * 1 = 54.679 damage with SNAFU_Bullet_300ACC from SNAFU_KAC_Gun
+17:13:06.130 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29453.1 to 29398.4
+17:13:06.140 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+17:13:06.197 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+17:13:06.207 [BaseBuildingRaiding] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8343.77, 322.65, 1649.59>) damaged ExpansionWall6x3 at <8340.5, 322.45, 1650.21>
+17:13:06.217 [BaseBuildingRaiding] They dealt 54.6685 * 1 = 54.6685 damage with SNAFU_Bullet_300ACC from SNAFU_KAC_Gun
+17:13:06.227 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29398.4 to 29343.7
+17:13:06.236 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+17:13:06.287 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+17:13:06.296 [BaseBuildingRaiding] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8343.77, 322.65, 1649.59>) damaged ExpansionWall6x3 at <8340.5, 322.45, 1650.21>
+17:13:06.306 [BaseBuildingRaiding] They dealt 54.6656 * 1 = 54.6656 damage with SNAFU_Bullet_300ACC from SNAFU_KAC_Gun
+17:13:06.315 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29343.7 to 29289.1
+17:13:06.325 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+17:13:06.435 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+17:13:06.445 [BaseBuildingRaiding] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8343.77, 322.65, 1649.59>) damaged ExpansionWall6x3 at <8340.5, 322.45, 1650.21>
+17:13:06.455 [BaseBuildingRaiding] They dealt 54.6666 * 1 = 54.6666 damage with SNAFU_Bullet_300ACC from SNAFU_KAC_Gun
+17:13:06.465 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29289.1 to 29234.4
+17:13:06.475 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+17:13:06.526 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+17:13:06.535 [BaseBuildingRaiding] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8343.77, 322.65, 1649.59>) damaged ExpansionWall6x3 at <8340.5, 322.45, 1650.21>
+17:13:06.545 [BaseBuildingRaiding] They dealt 54.6786 * 1 = 54.6786 damage with SNAFU_Bullet_300ACC from SNAFU_KAC_Gun
+17:13:06.555 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29234.4 to 29179.7
+17:13:06.564 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+17:13:06.606 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+17:13:06.616 [BaseBuildingRaiding] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8343.77, 322.65, 1649.59>) damaged ExpansionWall6x3 at <8340.5, 322.45, 1650.21>
+17:13:06.625 [BaseBuildingRaiding] They dealt 54.6812 * 1 = 54.6812 damage with SNAFU_Bullet_300ACC from SNAFU_KAC_Gun
+17:13:06.635 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29179.7 to 29125.1
+17:13:06.645 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+17:13:06.692 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+17:13:06.701 [BaseBuildingRaiding] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8343.77, 322.65, 1649.59>) damaged ExpansionWall6x3 at <8340.5, 322.45, 1650.21>
+17:13:06.711 [BaseBuildingRaiding] They dealt 54.681 * 1 = 54.681 damage with SNAFU_Bullet_300ACC from SNAFU_KAC_Gun
+17:13:06.721 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29125.1 to 29070.4
+17:13:06.730 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+17:13:16.571 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+17:13:16.581 [BaseBuildingRaiding] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8340.27, 322.63, 1647.22>) damaged ExpansionWall6x3 at <8340.5, 322.45, 1650.21>
+17:13:16.591 [BaseBuildingRaiding] They dealt 54.7214 * 1 = 54.7214 damage with SNAFU_Bullet_300ACC from SNAFU_KAC_Gun
+17:13:16.601 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29070.4 to 29015.6
+17:13:16.611 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+17:13:16.652 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+17:13:16.662 [BaseBuildingRaiding] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8340.27, 322.63, 1647.22>) damaged ExpansionWall6x3 at <8340.5, 322.45, 1650.21>
+17:13:16.672 [BaseBuildingRaiding] They dealt 54.6991 * 1 = 54.6991 damage with SNAFU_Bullet_300ACC from SNAFU_KAC_Gun
+17:13:16.682 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29015.6 to 28960.9
+17:13:16.691 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+17:13:16.882 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+17:13:16.892 [BaseBuildingRaiding] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8340.27, 322.63, 1647.22>) damaged ExpansionWall6x3 at <8340.5, 322.45, 1650.21>
+17:13:16.902 [BaseBuildingRaiding] They dealt 54.7149 * 1 = 54.7149 damage with SNAFU_Bullet_300ACC from SNAFU_KAC_Gun
+17:13:16.912 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 28960.9 to 28906.2
+17:13:16.923 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+17:13:16.958 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+17:13:16.968 [BaseBuildingRaiding] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8340.27, 322.63, 1647.22>) damaged ExpansionWall6x3 at <8340.5, 322.45, 1650.21>
+17:13:16.978 [BaseBuildingRaiding] They dealt 54.7198 * 1 = 54.7198 damage with SNAFU_Bullet_300ACC from SNAFU_KAC_Gun
+17:13:16.989 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 28906.2 to 28851.5
+17:13:16.999 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+17:13:17.077 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+17:13:17.088 [BaseBuildingRaiding] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8340.26, 322.63, 1647.22>) damaged ExpansionWall6x3 at <8340.5, 322.45, 1650.21>
+17:13:17.098 [BaseBuildingRaiding] They dealt 54.7047 * 1 = 54.7047 damage with SNAFU_Bullet_300ACC from SNAFU_KAC_Gun
+17:13:17.107 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 28851.5 to 28796.8
+17:13:17.117 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+17:13:17.153 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+17:13:17.164 [BaseBuildingRaiding] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8340.23, 322.63, 1647.2>) damaged ExpansionWall6x3 at <8340.5, 322.45, 1650.21>
+17:13:17.174 [BaseBuildingRaiding] They dealt 54.72 * 1 = 54.72 damage with SNAFU_Bullet_300ACC from SNAFU_KAC_Gun
+17:13:17.184 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 28796.8 to 28742.1
+17:13:17.194 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+17:13:17.278 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+17:13:17.288 [BaseBuildingRaiding] Player "Survivor" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8340.03, 322.63, 1647.24>) damaged ExpansionWall6x3 at <8340.5, 322.45, 1650.21>
+17:13:17.298 [BaseBuildingRaiding] They dealt 54.7578 * 1 = 54.7578 damage with SNAFU_Bullet_300ACC from SNAFU_KAC_Gun
+17:13:17.309 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 28742.1 to 28687.3
+17:13:17.318 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+17:13:44.088 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle UH-1H (id=97187DB64D421D7D70C493A6269B4D98 pos=<10444.1, 231.18, 5918.45>)
+17:13:44.101 [VehicleLeave] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) left vehicle UH-1H (id=97187DB64D421D7D70C493A6269B4D98 pos=<10444.1, 231.18, 5918.45>)
+17:14:01.265 [AI Object Patrol 00115] Despawning 2 East bots (spawn position <8942.722656, 319.497955, 5403.639160>, 0/2 deceased)
+17:14:01.296 [AI Object Patrol 00115] Global patrol count: 3
+17:14:01.327 [AI Object Patrol 00115] HelicopterWreck category patrol count: 0
+17:16:23.488 [AI Object Patrol 00011] Despawning 1 West bots (spawn position <7655.809570, 235.208282, 6041.229980>, 0/1 deceased)
+17:16:23.497 [AI Object Patrol 00011] Global patrol count: 2
+17:16:23.507 [AI Object Patrol 00011] ContaminatedArea category patrol count: 1
+17:21:07.997 [AI Object Patrol 00110] Despawning 3 West bots (spawn position <8972.569336, 429.612030, 1925.503784>, 0/3 deceased)
+17:21:08.007 [AI Object Patrol 00110] Global patrol count: 1
+17:21:08.018 [AI Object Patrol 00110] ContaminatedArea category patrol count: 0
+17:51:40.079 [AI Object Patrol 00130] Spawning 1 West bots at <8969.076172, 433.695648, 2174.735840>
+17:51:40.107 [AI Object Patrol 00130] Global patrol count: 2
+17:51:40.118 [AI Object Patrol 00130] ContaminatedArea category patrol count: 1

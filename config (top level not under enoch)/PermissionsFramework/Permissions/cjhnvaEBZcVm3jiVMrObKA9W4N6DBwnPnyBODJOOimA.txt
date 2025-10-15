@@ -115,6 +115,10 @@ Expansion.Creature 0
 Expansion.Creature.Lobotomize 0
 Expansion.EntityStorage 0
 Expansion.EntityStorage.Goatify 1
+Expansion.Groups 0
+Expansion.Groups.DeleteGroup 0
+Expansion.Groups.EditGroup 0
+Expansion.Groups.View 0
 Expansion.Territories 0
 Expansion.Territories.Delete 0
 Expansion.Territories.Delete.All 0

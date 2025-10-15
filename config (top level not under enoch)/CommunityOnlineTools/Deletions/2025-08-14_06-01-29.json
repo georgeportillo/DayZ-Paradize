@@ -1,0 +1,511 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "eAI_SurvivorM_Kaito",
+            "m_LocalPosition": [
+                7280.84033203125,
+                296.7952880859375,
+                2683.401611328125
+            ],
+            "m_LocalRotation": [
+                106.80897521972656,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 99.46550750732422,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 36
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "NBCJacketYellow",
+                    "m_Data": {
+                        "m_Health": 80.63885498046875,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "Mag_FAMAS_25Rnd",
+                            "m_Data": {
+                                "m_Health": 117.77937316894531,
+                                "m_Quantity": 1.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "NBCPantsYellow",
+                    "m_Data": {
+                        "m_Health": 70.63722229003906,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "NBCBootsYellow",
+                    "m_Data": {
+                        "m_Health": 58.23889923095703,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "NBCHoodYellow",
+                    "m_Data": {
+                        "m_Health": 44.90768051147461,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "NBCGlovesYellow",
+                    "m_Data": {
+                        "m_Health": 116.91494750976563,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "TortillaBag",
+                    "m_Data": {
+                        "m_Health": 132.53431701660157,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "Mag_IJ70_8Rnd",
+                            "m_Data": {
+                                "m_Health": 100.0,
+                                "m_Quantity": 1.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "AirborneMask",
+                    "m_Data": {
+                        "m_Health": 88.01080322265625,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "GasMask_Filter",
+                            "m_Data": {
+                                "m_Health": 73.84234619140625,
+                                "m_Quantity": 150.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "MilitaryBelt",
+                    "m_Data": {
+                        "m_Health": 88.15777587890625,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "eAI_SurvivorM_Denis",
+            "m_LocalPosition": [
+                7321.86328125,
+                287.1799621582031,
+                2616.5
+            ],
+            "m_LocalRotation": [
+                102.588134765625,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 0.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 18
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "NBCJacketGray",
+                    "m_Data": {
+                        "m_Health": 0.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "Mag_AKM_30Rnd",
+                            "m_Data": {
+                                "m_Health": 20.0,
+                                "m_Quantity": 1.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        },
+                        {
+                            "m_Classname": "Mag_AKM_30Rnd",
+                            "m_Data": {
+                                "m_Health": 100.0,
+                                "m_Quantity": 1.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "NBCPantsGray",
+                    "m_Data": {
+                        "m_Health": 0.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "NBCBootsGray",
+                    "m_Data": {
+                        "m_Health": 55.10137176513672,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "NBCHoodGray",
+                    "m_Data": {
+                        "m_Health": 47.51756286621094,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "NBCGlovesGray",
+                    "m_Data": {
+                        "m_Health": 116.7369613647461,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "TortillaBag",
+                    "m_Data": {
+                        "m_Health": 5.766014099121094,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "GP5GasMask",
+                    "m_Data": {
+                        "m_Health": 73.8414306640625,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "GasMask_Filter",
+                            "m_Data": {
+                                "m_Health": 78.74166107177735,
+                                "m_Quantity": 150.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "MilitaryBelt",
+                    "m_Data": {
+                        "m_Health": 45.41041564941406,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "eAI_SurvivorM_Boris",
+            "m_LocalPosition": [
+                7376.564453125,
+                287.06500244140627,
+                2613.45556640625
+            ],
+            "m_LocalRotation": [
+                -10.111937522888184,
+                -0.000001181536049443821,
+                -0.00003654347165138461
+            ],
+            "m_Data": {
+                "m_Health": 37.32919692993164,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 36
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "PoliceJacket",
+                    "m_Data": {
+                        "m_Health": 99.1219253540039,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "Apple",
+                            "m_Data": {
+                                "m_Health": 10.0,
+                                "m_Quantity": 125.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 25
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "PolicePantsOrel",
+                    "m_Data": {
+                        "m_Health": 0.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CombatBoots_Grey",
+                    "m_Data": {
+                        "m_Health": 153.5179901123047,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "PoliceVest",
+                    "m_Data": {
+                        "m_Health": 92.37193298339844,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "PoliceCap",
+                    "m_Data": {
+                        "m_Health": 25.941253662109376,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "SurgicalGloves_Blue",
+                    "m_Data": {
+                        "m_Health": 0.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CivilianBelt",
+                    "m_Data": {
+                        "m_Health": 89.44544982910156,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Mp133Shotgun",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "eAI_SurvivorM_Hassan",
+            "m_LocalPosition": [
+                7322.0400390625,
+                287.32342529296877,
+                2648.825927734375
+            ],
+            "m_LocalRotation": [
+                178.87867736816407,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 36
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "NBCJacketYellow",
+                    "m_Data": {
+                        "m_Health": 90.16419219970703,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "Mag_STANAG_30Rnd",
+                            "m_Data": {
+                                "m_Health": 100.0,
+                                "m_Quantity": 1.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "NBCPantsYellow",
+                    "m_Data": {
+                        "m_Health": 74.22071075439453,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "NBCBootsYellow",
+                    "m_Data": {
+                        "m_Health": 74.88805389404297,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "NBCHoodYellow",
+                    "m_Data": {
+                        "m_Health": 37.82677459716797,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "NBCGlovesYellow",
+                    "m_Data": {
+                        "m_Health": 84.92288208007813,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "TortillaBag",
+                    "m_Data": {
+                        "m_Health": 126.42023468017578,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "Mag_IJ70_8Rnd",
+                            "m_Data": {
+                                "m_Health": 100.0,
+                                "m_Quantity": 1.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "GasMask",
+                    "m_Data": {
+                        "m_Health": 111.2996597290039,
+                        "m_Quantity": 225.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "MilitaryBelt",
+                    "m_Data": {
+                        "m_Health": 99.61064147949219,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,181 @@
+20:30:21.754 [MissionAirdrop] An airdrop is heading towards "Muratyn" (pos=<4559.000000, 0.000000, 6852.000000> type=Random_Muratyn) with a ExpansionAirdropContainer_Military
+20:44:41.455 [AI Patrol 00016] Spawning 3 East bots at <7717.778809, 296.750000, 2714.343506>
+20:44:41.494 [AI Patrol 00016] Global patrol count: 1
+20:44:41.505 [AI Patrol 00016] Patrol category patrol count: 1
+20:44:41.514 [AI Patrol 00017] Spawning 3 West bots at <7195.434082, 299.950714, 3011.751953>
+20:44:41.548 [AI Patrol 00017] Global patrol count: 2
+20:44:41.558 [AI Patrol 00017] Patrol category patrol count: 2
+21:09:49.661 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+21:09:49.671 [BaseBuildingRaiding] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8348.7, 335.36, 1638.11>) damaged ExpansionFloor6x6 at <8343.13, 334.46, 1639.72>
+21:09:49.681 [BaseBuildingRaiding] They dealt 80 * 1 = 80 damage with Bullet_762x39 from AKM
+21:09:49.690 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29920
+21:09:49.699 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+21:09:49.821 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+21:09:49.831 [BaseBuildingRaiding] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8348.7, 335.36, 1638.11>) damaged ExpansionFloor6x6 at <8343.13, 334.46, 1639.72>
+21:09:49.840 [BaseBuildingRaiding] They dealt 74.6067 * 1 = 74.6067 damage with Bullet_762x39 from AKM
+21:09:49.850 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29920 to 29845.4
+21:09:49.860 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+21:09:50.003 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+21:09:50.014 [BaseBuildingRaiding] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8348.7, 335.36, 1638.11>) damaged ExpansionWall6x3 at <8345.35, 334.46, 1637.7>
+21:09:50.023 [BaseBuildingRaiding] They dealt 80 * 1 = 80 damage with Bullet_762x39 from AKM
+21:09:50.034 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29850 to 29770
+21:09:50.043 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+21:09:50.053 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+21:09:50.063 [BaseBuildingRaiding] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8348.7, 335.36, 1638.11>) damaged ExpansionWall6x3 at <8345.35, 334.46, 1637.7>
+21:09:50.072 [BaseBuildingRaiding] They dealt 26.2906 * 1 = 26.2906 damage with Bullet_762x39 from AKM
+21:09:50.081 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29770 to 29743.7
+21:09:50.091 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+21:09:50.169 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+21:09:50.179 [BaseBuildingRaiding] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8348.7, 335.36, 1638.11>) damaged ExpansionWall6x3 at <8345.35, 334.46, 1637.7>
+21:09:50.188 [BaseBuildingRaiding] They dealt 80 * 1 = 80 damage with Bullet_762x39 from AKM
+21:09:50.197 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29743.7 to 29663.7
+21:09:50.207 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+21:09:50.378 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+21:09:50.388 [BaseBuildingRaiding] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8348.7, 335.36, 1638.11>) damaged ExpansionWall6x3 at <8336.67, 334.46, 1641.54>
+21:09:50.398 [BaseBuildingRaiding] They dealt 71.4917 * 1 = 71.4917 damage with Bullet_762x39 from AKM
+21:09:50.408 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29928.5
+21:09:50.418 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+21:09:50.531 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+21:09:50.541 [BaseBuildingRaiding] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8348.7, 335.36, 1638.11>) damaged ExpansionWall6x3 at <8345.35, 334.46, 1637.7>
+21:09:50.551 [BaseBuildingRaiding] They dealt 80 * 1 = 80 damage with Bullet_762x39 from AKM
+21:09:50.560 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29663.7 to 29583.7
+21:09:50.569 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+21:09:50.705 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+21:09:50.715 [BaseBuildingRaiding] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8348.7, 335.36, 1638.11>) damaged ExpansionWall6x3 at <8345.35, 334.46, 1637.7>
+21:09:50.724 [BaseBuildingRaiding] They dealt 80 * 1 = 80 damage with Bullet_762x39 from AKM
+21:09:50.734 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29583.7 to 29503.7
+21:09:50.743 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+21:09:50.931 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+21:09:50.941 [BaseBuildingRaiding] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8348.7, 335.36, 1638.11>) damaged ExpansionWall6x3 at <8345.35, 334.46, 1637.7>
+21:09:50.951 [BaseBuildingRaiding] They dealt 80 * 1 = 80 damage with Bullet_762x39 from AKM
+21:09:50.960 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29503.7 to 29423.7
+21:09:50.970 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+21:09:50.986 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+21:09:50.996 [BaseBuildingRaiding] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8348.7, 335.36, 1638.11>) damaged ExpansionWall6x3 at <8336.67, 331.45, 1641.54>
+21:09:51.006 [BaseBuildingRaiding] They dealt 32.3484 * 1 = 32.3484 damage with Bullet_762x39 from AKM
+21:09:51.016 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29967.7
+21:09:51.026 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+21:09:51.086 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+21:09:51.107 [BaseBuildingRaiding] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8348.7, 335.36, 1638.11>) damaged ExpansionWall6x3 at <8345.35, 334.46, 1637.7>
+21:09:51.132 [BaseBuildingRaiding] They dealt 80 * 1 = 80 damage with Bullet_762x39 from AKM
+21:09:51.185 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29423.7 to 29343.7
+21:09:51.264 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+21:09:52.632 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+21:09:52.642 [BaseBuildingRaiding] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8348.92, 335.27, 1637.84>) damaged ExpansionWall6x3 at <8345.35, 334.46, 1637.7>
+21:09:52.652 [BaseBuildingRaiding] They dealt 80 * 1 = 80 damage with Bullet_762x39 from AKM
+21:09:52.662 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29343.7 to 29263.7
+21:09:52.671 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+21:09:52.686 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+21:09:52.695 [BaseBuildingRaiding] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8348.92, 335.27, 1637.84>) damaged ExpansionWall6x3 at <8340.91, 331.45, 1641.74>
+21:09:52.705 [BaseBuildingRaiding] They dealt 35.8319 * 1 = 35.8319 damage with Bullet_762x39 from AKM
+21:09:52.715 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29964.2
+21:09:52.725 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+21:09:52.845 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+21:09:52.855 [BaseBuildingRaiding] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= pos=<8348.92, 335.27, 1637.84>) damaged ExpansionWall6x3 at <8345.35, 334.46, 1637.7>
+21:09:52.865 [BaseBuildingRaiding] They dealt 80 * 1 = 80 damage with Bullet_762x39 from AKM
+21:09:52.874 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29263.7 to 29183.7
+21:09:52.884 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+21:10:01.279 [Killfeed] AI Jose (East) got killed by snake with KA-M from a distance of 2 m.
+21:15:10.795 [Killfeed] AI Rolf (East) got killed by snake with KA-101 from a distance of 3 m.
+21:18:25.696 [VehicleDestroyed] Boat_01_Orange (id=E7C221BCAC41DEE6835E60BE249202B1 pos=<9516.47, 169.8, 11720.8>)
+21:24:51.841 [VehicleDeleted] Boat_01_Orange (id=E7C221BCAC41DEE6835E60BE249202B1 pos=<9516.46, 169.48, 11720.8>)
+21:25:11.757 [Killfeed] AI Baty (East) got killed by AI Frida (West) with M4-A1 from a distance of 61 m.
+21:48:18.934 [VehicleDestroyed] Boat_01_Orange (id=17E0CE27494142C7318C4FAF723D0E48 pos=<7927.17, 169.88, 11881.3>)
+21:52:15.916 [Killfeed] AI Lewis (East) got killed by AI Hassan (West) with AUR AX from a distance of 2 m.
+21:56:59.573 [MissionAirdrop] An airdrop is heading towards "Karlin" (pos=<9975.000000, 0.000000, 7242.000000> type=Random_Karlin) with a ExpansionAirdropContainer_Medical
+23:24:38.490 [MissionAirdrop] An airdrop is heading towards "Radunin" (pos=<7209.000000, 0.000000, 6073.000000> type=Random_Radunin) with a ExpansionAirdropContainer_Medical
+00:02:28.853 [VehicleDestroyed] Boat_01_Orange (id=1802D8C34844C9DAF50DF28E774CCB2C pos=<2561.3, 169.78, 8138.23>)
+00:50:23.563 [MissionAirdrop] An airdrop is heading towards "Radunin" (pos=<7209.000000, 0.000000, 6073.000000> type=Random_Radunin) with a ExpansionAirdropContainer_Medical
+01:49:28.806 [VehicleDestroyed] Boat_01_Black (id=2AA05821374808C2873EA290302761F2 pos=<6230.06, 169.71, 10767.6>)
+02:15:39.570 [MissionAirdrop] An airdrop is heading towards "Muratyn" (pos=<4559.000000, 0.000000, 6852.000000> type=Random_Muratyn) with a ExpansionAirdropContainer_Military
+02:57:54.351 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle Land Rover Defender (id=84FC80BCDA4ACD60EE080B92ADAD38B6 pos=<6096.77, 173.56, 10664.9>) as driver
+03:00:09.338 [VehicleDeleted] Boat_01_Orange (id=17E0CE27494142C7318C4FAF723D0E48 pos=<7927.2, 169.42, 11881.4>)
+03:00:09.348 [VehicleDeleted] Boat_01_Orange (id=1802D8C34844C9DAF50DF28E774CCB2C pos=<2561.34, 169.37, 8138.2>)
+03:00:17.926 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle Land Rover Defender (id=84FC80BCDA4ACD60EE080B92ADAD38B6 pos=<6096.77, 173.56, 10664.9>)
+03:00:47.056 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle Land Rover Defender (id=84FC80BCDA4ACD60EE080B92ADAD38B6 pos=<6096.77, 173.56, 10664.9>) as driver
+03:00:50.177 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle Land Rover Defender (id=84FC80BCDA4ACD60EE080B92ADAD38B6 pos=<6096.77, 173.56, 10664.9>)
+03:00:53.947 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle Land Rover Defender (id=84FC80BCDA4ACD60EE080B92ADAD38B6 pos=<6096.77, 173.56, 10664.9>) as driver
+03:00:55.959 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) started vehicle Land Rover Defender (id=84FC80BCDA4ACD60EE080B92ADAD38B6 pos=<6096.77, 173.56, 10664.9>)
+03:01:05.588 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Land Rover Defender (id=84FC80BCDA4ACD60EE080B92ADAD38B6 pos=<6079.67, 171.54, 10678.6>)
+03:01:05.686 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle Land Rover Defender (id=84FC80BCDA4ACD60EE080B92ADAD38B6 pos=<6079.67, 171.54, 10678.6>)
+03:01:15.856 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle Land Rover Defender (id=84FC80BCDA4ACD60EE080B92ADAD38B6 pos=<6079.67, 171.54, 10678.6>) as driver
+03:01:29.882 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) started vehicle Land Rover Defender (id=84FC80BCDA4ACD60EE080B92ADAD38B6 pos=<6079.67, 171.54, 10678.6>)
+03:02:47.670 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Land Rover Defender (id=84FC80BCDA4ACD60EE080B92ADAD38B6 pos=<5958.96, 182.13, 10934.5>)
+03:02:47.706 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle Land Rover Defender (id=84FC80BCDA4ACD60EE080B92ADAD38B6 pos=<5958.96, 182.13, 10934.5>)
+03:03:03.915 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle Land Rover Defender (id=84FC80BCDA4ACD60EE080B92ADAD38B6 pos=<5958.96, 182.13, 10934.5>) as driver
+03:03:05.520 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) started vehicle Land Rover Defender (id=84FC80BCDA4ACD60EE080B92ADAD38B6 pos=<5958.96, 182.13, 10934.5>)
+03:03:45.408 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Land Rover Defender (id=84FC80BCDA4ACD60EE080B92ADAD38B6 pos=<6374.72, 174.57, 10990.2>)
+03:03:45.448 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle Land Rover Defender (id=84FC80BCDA4ACD60EE080B92ADAD38B6 pos=<6374.72, 174.57, 10990.2>)
+03:03:58.636 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle Land Rover Defender (id=84FC80BCDA4ACD60EE080B92ADAD38B6 pos=<6374.72, 174.57, 10990.2>) as driver
+03:04:01.037 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) started vehicle Land Rover Defender (id=84FC80BCDA4ACD60EE080B92ADAD38B6 pos=<6374.72, 174.57, 10990.2>)
+03:04:35.508 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Land Rover Defender (id=84FC80BCDA4ACD60EE080B92ADAD38B6 pos=<6406.68, 175.7, 10753.7>)
+03:04:35.541 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle Land Rover Defender (id=84FC80BCDA4ACD60EE080B92ADAD38B6 pos=<6406.68, 175.7, 10753.7>)
+03:05:33.316 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle Land Rover Defender (id=84FC80BCDA4ACD60EE080B92ADAD38B6 pos=<6406.68, 175.7, 10753.7>) as driver
+03:05:35.921 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) started vehicle Land Rover Defender (id=84FC80BCDA4ACD60EE080B92ADAD38B6 pos=<6406.68, 175.7, 10753.7>)
+03:06:41.091 [VehicleDeleted] Boat_01_Black (id=2AA05821374808C2873EA290302761F2 pos=<6229.97, 169.35, 10767.6>)
+03:08:50.844 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Land Rover Defender (id=84FC80BCDA4ACD60EE080B92ADAD38B6 pos=<6548.05, 206.4, 8395.1>)
+03:08:50.878 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle Land Rover Defender (id=84FC80BCDA4ACD60EE080B92ADAD38B6 pos=<6548.05, 206.4, 8395.1>)
+03:22:20.420 [VehicleAttachments] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) detached Bus Wheel (type=ExpansionBusWheel) from vehicle Transit Bus (id=B49A53DA6E4CE9452FBF56B5AFE30445 pos=<6563.66, 205.85, 8371.84>)
+03:23:22.358 [VehicleAttachments] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) detached Bus Wheel (type=ExpansionBusWheel) from vehicle Transit Bus (id=B49A53DA6E4CE9452FBF56B5AFE30445 pos=<6563.52, 205.75, 8372.03>)
+03:25:37.910 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle Land Rover Defender (id=84FC80BCDA4ACD60EE080B92ADAD38B6 pos=<6548.05, 206.4, 8395.1>) as driver
+03:25:39.282 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) started vehicle Land Rover Defender (id=84FC80BCDA4ACD60EE080B92ADAD38B6 pos=<6548.05, 206.4, 8395.1>)
+03:26:21.826 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Land Rover Defender (id=84FC80BCDA4ACD60EE080B92ADAD38B6 pos=<6574.38, 206.77, 8386.57>)
+03:26:21.861 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle Land Rover Defender (id=84FC80BCDA4ACD60EE080B92ADAD38B6 pos=<6574.38, 206.77, 8386.57>)
+03:27:36.077 [AI Object Patrol 00046] Spawning 3 West bots at <6034.705566, 217.621567, 8121.383789>
+03:27:36.176 [AI Object Patrol 00046] Global patrol count: 3
+03:27:36.296 [AI Object Patrol 00046] ContaminatedArea category patrol count: 1
+03:29:42.072 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle Land Rover Defender (id=84FC80BCDA4ACD60EE080B92ADAD38B6 pos=<6574.38, 206.77, 8386.57>) as driver
+03:29:47.476 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) started vehicle Land Rover Defender (id=84FC80BCDA4ACD60EE080B92ADAD38B6 pos=<6574.38, 206.77, 8386.57>)
+03:31:35.883 [AI Object Patrol 00042] Spawning 2 East bots at <7889.366699, 231.639999, 8256.057617>
+03:31:35.923 [AI Object Patrol 00042] Global patrol count: 4
+03:31:35.933 [AI Object Patrol 00042] HelicopterWreck category patrol count: 1
+03:31:59.380 [AI Object Patrol 00009] Spawning 2 West bots at <7471.218750, 228.656982, 6462.321777>
+03:31:59.420 [AI Object Patrol 00009] Global patrol count: 5
+03:31:59.431 [AI Object Patrol 00009] ContaminatedArea category patrol count: 2
+03:32:11.663 [AI Object Patrol 00040] Spawning 2 East bots at <7948.216797, 281.907074, 6598.310059>
+03:32:11.705 [AI Object Patrol 00040] Global patrol count: 6
+03:32:11.716 [AI Object Patrol 00040] HelicopterWreck category patrol count: 2
+03:33:35.210 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Land Rover Defender (id=84FC80BCDA4ACD60EE080B92ADAD38B6 pos=<7145.34, 240.41, 6367.05>)
+03:33:35.254 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle Land Rover Defender (id=84FC80BCDA4ACD60EE080B92ADAD38B6 pos=<7145.37, 240.41, 6367.02>)
+03:34:04.391 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle Land Rover Defender (id=84FC80BCDA4ACD60EE080B92ADAD38B6 pos=<7145.97, 240.35, 6366.53>) as driver
+03:34:05.925 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) started vehicle Land Rover Defender (id=84FC80BCDA4ACD60EE080B92ADAD38B6 pos=<7145.97, 240.35, 6366.53>)
+03:35:46.212 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Land Rover Defender (id=84FC80BCDA4ACD60EE080B92ADAD38B6 pos=<7679.31, 234.75, 5767.18>)
+03:35:46.238 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle Land Rover Defender (id=84FC80BCDA4ACD60EE080B92ADAD38B6 pos=<7679.31, 234.75, 5767.18>)
+03:41:24.104 [MissionAirdrop] An airdrop is heading towards "Dolnik" (pos=<11491.000000, 0.000000, 763.000000> type=Random_Dolnik) with a ExpansionAirdropContainer_Military
+03:41:41.668 [AI Object Patrol 00046] Despawning 3 West bots (spawn position <6034.705566, 217.621567, 8121.383789>, 0/3 deceased)
+03:41:41.678 [AI Object Patrol 00046] Global patrol count: 5
+03:41:41.688 [AI Object Patrol 00046] ContaminatedArea category patrol count: 1
+03:41:41.935 [AI Object Patrol 00008] Spawning 3 West bots at <7456.600586, 239.262650, 6025.827637>
+03:41:41.972 [AI Object Patrol 00008] Global patrol count: 6
+03:41:41.981 [AI Object Patrol 00008] ContaminatedArea category patrol count: 2
+03:42:01.191 [AI Object Patrol 00042] Despawning 2 East bots (spawn position <7889.366699, 231.639999, 8256.057617>, 0/2 deceased)
+03:42:01.277 [AI Object Patrol 00042] Global patrol count: 5
+03:42:01.371 [AI Object Patrol 00042] HelicopterWreck category patrol count: 1
+04:02:21.059 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle Land Rover Defender (id=84FC80BCDA4ACD60EE080B92ADAD38B6 pos=<7679.31, 234.75, 5767.18>) as driver
+04:02:22.829 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) started vehicle Land Rover Defender (id=84FC80BCDA4ACD60EE080B92ADAD38B6 pos=<7679.31, 234.75, 5767.18>)
+04:04:42.464 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Land Rover Defender (id=84FC80BCDA4ACD60EE080B92ADAD38B6 pos=<7346.76, 254.28, 5866.03>)
+04:04:42.484 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle Land Rover Defender (id=84FC80BCDA4ACD60EE080B92ADAD38B6 pos=<7346.76, 254.28, 5866.03>)
+04:04:48.285 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle Land Rover Defender (id=84FC80BCDA4ACD60EE080B92ADAD38B6 pos=<7346.76, 254.28, 5866.03>) as driver
+04:04:51.126 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) started vehicle Land Rover Defender (id=84FC80BCDA4ACD60EE080B92ADAD38B6 pos=<7346.76, 254.28, 5866.03>)
+04:05:09.242 [AI Object Patrol 00051] Spawning 3 West bots at <6731.925781, 235.324966, 6947.018555>
+04:05:09.279 [AI Object Patrol 00051] Global patrol count: 6
+04:05:09.288 [AI Object Patrol 00051] HelicopterWreck category patrol count: 2
+04:06:11.529 [AI Object Patrol 00040] Despawning 2 East bots (spawn position <7948.216797, 281.907074, 6598.310059>, 0/2 deceased)
+04:06:11.547 [AI Object Patrol 00040] Global patrol count: 5
+04:06:11.557 [AI Object Patrol 00040] HelicopterWreck category patrol count: 1
+04:10:04.956 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Land Rover Defender (id=84FC80BCDA4ACD60EE080B92ADAD38B6 pos=<6078.93, 171.62, 10673.7>)
+04:10:04.992 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle Land Rover Defender (id=84FC80BCDA4ACD60EE080B92ADAD38B6 pos=<6078.93, 171.62, 10673.7>)
+04:10:22.627 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle Land Rover Defender (id=84FC80BCDA4ACD60EE080B92ADAD38B6 pos=<6078.93, 171.62, 10673.7>) as driver
+04:10:26.159 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) started vehicle Land Rover Defender (id=84FC80BCDA4ACD60EE080B92ADAD38B6 pos=<6078.93, 171.62, 10673.7>)
+04:10:44.563 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Land Rover Defender (id=84FC80BCDA4ACD60EE080B92ADAD38B6 pos=<6095.81, 173.58, 10665.6>)
+04:10:44.595 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle Land Rover Defender (id=84FC80BCDA4ACD60EE080B92ADAD38B6 pos=<6095.81, 173.58, 10665.6>)
+04:16:05.965 [AI Object Patrol 00008] Despawning 3 West bots (spawn position <7456.600586, 239.262650, 6025.827637>, 0/3 deceased)
+04:16:05.976 [AI Object Patrol 00008] Global patrol count: 4
+04:16:05.986 [AI Object Patrol 00008] ContaminatedArea category patrol count: 1
+04:16:21.179 [AI Object Patrol 00009] Despawning 2 West bots (spawn position <7471.218750, 228.656982, 6462.321777>, 0/2 deceased)
+04:16:21.189 [AI Object Patrol 00009] Global patrol count: 3
+04:16:21.199 [AI Object Patrol 00009] ContaminatedArea category patrol count: 0
+04:16:44.262 [AI Object Patrol 00051] Despawning 3 West bots (spawn position <6731.925781, 235.324966, 6947.018555>, 0/3 deceased)
+04:16:44.274 [AI Object Patrol 00051] Global patrol count: 2
+04:16:44.285 [AI Object Patrol 00051] HelicopterWreck category patrol count: 0
+05:11:27.089 [MissionAirdrop] An airdrop is heading towards "Nadbor" (pos=<5996.000000, 0.000000, 4513.000000> type=Random_Nadbor) with a ExpansionAirdropContainer_Medical

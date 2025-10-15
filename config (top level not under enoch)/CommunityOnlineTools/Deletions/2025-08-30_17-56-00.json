@@ -1,0 +1,47 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "Animal_CanisLupus_White",
+            "m_LocalPosition": [
+                8329.5009765625,
+                322.43585205078127,
+                1634.509033203125
+            ],
+            "m_LocalRotation": [
+                -7.604729652404785,
+                -0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 90.32447814941406,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 38
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Animal_CanisLupus_White",
+            "m_LocalPosition": [
+                8335.2734375,
+                322.9074401855469,
+                1645.532470703125
+            ],
+            "m_LocalRotation": [
+                44.07861328125,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 38
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        }
+    ]
+}

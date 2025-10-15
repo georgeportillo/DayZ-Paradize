@@ -1,0 +1,173 @@
+[COT 2025-08-15 15:25:53] 76561198024482897: Activated Community Online Tools [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-08-15 15:35:45] 76561198024482897: Spectating [guid=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=]
+[COT 2025-08-15 15:35:58] 76561198024482897: Stopped spectating
+[COT 2025-08-15 15:36:09] 76561198024482897: Spectating [guid=z2kvyqJl76pQ4vftnEZdzcVJOG7-nO7trxC-XJtn2ro=]
+[COT 2025-08-15 15:36:37] 76561198024482897: Stopped spectating
+[COT 2025-08-15 15:43:42] 76561198024482897: ESP: Viewing ESP
+[COT 2025-08-15 15:44:25] 76561198024482897: ESP: Clearing ESP
+[COT 2025-08-15 15:45:10] 76561198024482897: Deactivated Community Online Tools [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-08-15 15:48:58] 76561198024482897: Activated Community Online Tools [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-08-15 18:30:10] 76561198024482897: Activated Community Online Tools [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-08-15 18:35:06] 76561198024482897: Spectating [guid=OKxcsvV2KsCqlVzELkqmfegOmuewD7pyeAvtZiRRMOU=]
+[COT 2025-08-15 18:36:26] 76561198024482897: Stopped spectating
+[COT 2025-08-15 18:55:38] 76561198024482897: Spawned Entity Watchtower (Watchtower<1edff5d0>, 100, 100, 15, 0) at <8339.855469, 335.709778, 1635.418579>
+[COT 2025-08-15 18:55:49] 76561198024482897: Bleeding stopped [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-08-15 18:56:36] 76561198024482897: Set GodMode To true [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-08-15 18:56:37] 76561198024482897: Set GodMode To false [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-08-15 18:56:42] 76561198024482897: Deleted Entity Watchtower:10200 at <8339.855469, 335.774780, 1635.418579>
+[COT 2025-08-15 18:57:09] 76561198024482897: Bleeding stopped [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-08-15 18:57:10] 76561198024482897: Healed [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-08-15 18:57:48] 76561198024482897: ESP: Viewing ESP
+[COT 2025-08-15 18:58:01] 76561198024482897: ESP target=Watchtower<13020b40> action=built part=level_1_base required_materials=false
+[COT 2025-08-15 18:58:06] 76561198024482897: ESP target=Watchtower<13020b40> action=built part=level_1_wall_2_base_up required_materials=false
+[COT 2025-08-15 18:58:16] 76561198024482897: ESP target=Watchtower<13020b40> action=dismantle part=level_1_wall_2_base_up
+[COT 2025-08-15 18:58:19] 76561198024482897: ESP target=Watchtower<13020b40> action=built part=level_1_wall_2_base_down required_materials=false
+[COT 2025-08-15 18:58:21] 76561198024482897: ESP target=Watchtower<13020b40> action=dismantle part=level_1_wall_2_base_down
+[COT 2025-08-15 18:58:28] 76561198024482897: ESP target=Watchtower<13020b40> action=built part=level_1_roof required_materials=false
+[COT 2025-08-15 18:58:31] 76561198024482897: ESP target=Watchtower<13020b40> action=built part=level_1_wall_1_base_up required_materials=false
+[COT 2025-08-15 18:58:34] 76561198024482897: ESP target=Watchtower<13020b40> action=dismantle part=level_1_wall_1_base_up
+[COT 2025-08-15 18:58:41] 76561198024482897: ESP target=Watchtower<13020b40> action=built part=level_1_stairs required_materials=false
+[COT 2025-08-15 18:58:58] 76561198024482897: ESP target=Watchtower<13020b40> action=built part=level_1_wall_1_base_up required_materials=false
+[COT 2025-08-15 18:59:01] 76561198024482897: ESP target=Watchtower<13020b40> action=repair part=level_1_wall_1_base_up
+[COT 2025-08-15 18:59:02] 76561198024482897: ESP target=Watchtower<13020b40> action=dismantle part=level_1_wall_1_base_up
+[COT 2025-08-15 18:59:05] 76561198024482897: ESP target=Watchtower<13020b40> action=built part=level_1_wall_1_base_down required_materials=false
+[COT 2025-08-15 18:59:13] 76561198024482897: ESP target=Watchtower<13020b40> action=built part=level_1_wall_1_wood_down required_materials=false
+[COT 2025-08-15 18:59:17] 76561198024482897: ESP target=Watchtower<13020b40> action=built part=level_1_wall_2_base_down required_materials=false
+[COT 2025-08-15 18:59:27] 76561198024482897: ESP target=Watchtower<13020b40> action=built part=level_1_wall_2_wood_down required_materials=false
+[COT 2025-08-15 18:59:29] 76561198024482897: ESP target=Watchtower<13020b40> action=built part=level_1_wall_3_base_down required_materials=false
+[COT 2025-08-15 18:59:53] 76561198024482897: ESP target=Watchtower<13020b40> action=built part=level_1_wall_3_metal_down required_materials=false
+[COT 2025-08-15 18:59:58] 76561198024482897: ESP target=Watchtower<13020b40> action=built part=level_1_wall_1_base_up required_materials=false
+[COT 2025-08-15 19:00:00] 76561198024482897: ESP target=Watchtower<13020b40> action=dismantle part=level_1_wall_1_base_up
+[COT 2025-08-15 19:01:46] 76561198024482897: ESP: Clearing ESP
+[COT 2025-08-15 19:01:47] 76561198024482897: ESP: Viewing ESP
+[COT 2025-08-15 19:01:57] 76561198024482897: ESP target=Watchtower<13020b40> action=built part=level_1_wall_1_base_up required_materials=false
+[COT 2025-08-15 19:01:59] 76561198024482897: ESP target=Watchtower<13020b40> action=built part=level_1_wall_1_base_up required_materials=false
+[COT 2025-08-15 19:02:02] 76561198024482897: ESP: Clearing ESP
+[COT 2025-08-15 19:02:02] 76561198024482897: ESP: Viewing ESP
+[COT 2025-08-15 19:02:09] 76561198024482897: ESP target=Watchtower<13020b40> action=built part=level_1_wall_1_wood_up required_materials=false
+[COT 2025-08-15 19:02:14] 76561198024482897: ESP target=Watchtower<13020b40> action=built part=level_2_base required_materials=false
+[COT 2025-08-15 19:02:17] 76561198024482897: ESP target=Watchtower<13020b40> action=built part=level_1_wall_3_base_up required_materials=false
+[COT 2025-08-15 19:02:18] 76561198024482897: ESP target=Watchtower<13020b40> action=built part=level_1_wall_3_wood_up required_materials=false
+[COT 2025-08-15 19:02:20] 76561198024482897: ESP target=Watchtower<13020b40> action=built part=level_1_wall_2_base_up required_materials=false
+[COT 2025-08-15 19:02:21] 76561198024482897: ESP target=Watchtower<13020b40> action=built part=level_1_wall_2_wood_up required_materials=false
+[COT 2025-08-15 19:02:22] 76561198024482897: ESP target=Watchtower<13020b40> action=built part=level_2_roof required_materials=false
+[COT 2025-08-15 19:02:23] 76561198024482897: ESP target=Watchtower<13020b40> action=built part=level_2_roof required_materials=false
+[COT 2025-08-15 19:02:25] 76561198024482897: ESP target=Watchtower<13020b40> action=built part=level_2_wall_2_base_up required_materials=false
+[COT 2025-08-15 19:02:26] 76561198024482897: ESP target=Watchtower<13020b40> action=built part=level_2_wall_1_base_down required_materials=false
+[COT 2025-08-15 19:02:27] 76561198024482897: ESP target=Watchtower<13020b40> action=built part=level_2_wall_2_wood_up required_materials=false
+[COT 2025-08-15 19:02:29] 76561198024482897: ESP target=Watchtower<13020b40> action=dismantle part=level_1_base
+[COT 2025-08-15 19:02:40] 76561198024482897: ESP target=MilitaryBeret_NZ:5934 position=<9267.870117, 308.359894, 7127.150391> action=delete
+[COT 2025-08-15 19:02:44] 76561198024482897: ESP: Clearing ESP
+[COT 2025-08-15 19:05:33] 76561198024482897: ESP: Viewing ESP
+[COT 2025-08-15 19:05:41] 76561198024482897: ESP target=Watchtower<1134f9c0> action=built part=level_1_base required_materials=false
+[COT 2025-08-15 19:05:47] 76561198024482897: ESP target=Watchtower<1134f9c0> action=built part=level_1_wall_2_base_up required_materials=false
+[COT 2025-08-15 19:05:51] 76561198024482897: ESP target=Watchtower<1134f9c0> action=built part=level_1_wall_2_wood_up required_materials=false
+[COT 2025-08-15 19:05:55] 76561198024482897: ESP target=Watchtower<1134f9c0> action=built part=level_1_roof required_materials=false
+[COT 2025-08-15 19:05:59] 76561198024482897: ESP target=Watchtower<1134f9c0> action=built part=level_1_stairs required_materials=false
+[COT 2025-08-15 19:06:05] 76561198024482897: ESP target=Watchtower<1134f9c0> action=built part=level_1_wall_1_base_up required_materials=false
+[COT 2025-08-15 19:06:07] 76561198024482897: ESP target=Watchtower<1134f9c0> action=built part=level_1_wall_1_wood_up required_materials=false
+[COT 2025-08-15 19:06:10] 76561198024482897: ESP target=Watchtower<1134f9c0> action=dismantle part=level_1_wall_1_wood_up
+[COT 2025-08-15 19:06:15] 76561198024482897: ESP target=Watchtower<1134f9c0> action=dismantle part=level_1_wall_1_base_up
+[COT 2025-08-15 19:06:19] 76561198024482897: ESP target=Watchtower<1134f9c0> action=built part=level_2_base required_materials=false
+[COT 2025-08-15 19:06:32] 76561198024482897: ESP target=Watchtower<1134f9c0> action=built part=level_1_wall_1_base_down required_materials=false
+[COT 2025-08-15 19:06:33] 76561198024482897: ESP target=Watchtower<1134f9c0> action=repair part=level_1_wall_1_base_down
+[COT 2025-08-15 19:06:35] 76561198024482897: ESP target=Watchtower<1134f9c0> action=dismantle part=level_1_wall_1_base_down
+[COT 2025-08-15 19:06:38] 76561198024482897: ESP target=Watchtower<1134f9c0> action=built part=level_1_wall_1_base_up required_materials=false
+[COT 2025-08-15 19:06:40] 76561198024482897: ESP target=Watchtower<1134f9c0> action=dismantle part=level_1_wall_1_base_up
+[COT 2025-08-15 19:06:42] 76561198024482897: ESP target=Watchtower<1134f9c0> action=built part=level_2_wall_2_base_down required_materials=false
+[COT 2025-08-15 19:06:46] 76561198024482897: ESP target=Watchtower<1134f9c0> action=built part=level_2_wall_2_metal_down required_materials=false
+[COT 2025-08-15 19:06:54] 76561198024482897: ESP target=Watchtower<1134f9c0> action=built part=level_1_wall_2_base_down required_materials=false
+[COT 2025-08-15 19:06:57] 76561198024482897: ESP target=Watchtower<1134f9c0> action=built part=level_2_wall_3_base_up required_materials=false
+[COT 2025-08-15 19:06:59] 76561198024482897: ESP target=Watchtower<1134f9c0> action=built part=level_2_wall_3_metal_up required_materials=false
+[COT 2025-08-15 19:07:08] 76561198024482897: ESP target=Watchtower<1134f9c0> action=built part=level_2_wall_3_base_down required_materials=false
+[COT 2025-08-15 19:07:10] 76561198024482897: ESP target=Watchtower<1134f9c0> action=built part=level_1_wall_1_base_up required_materials=false
+[COT 2025-08-15 19:07:12] 76561198024482897: ESP target=Watchtower<1134f9c0> action=built part=level_1_wall_2_metal_down required_materials=false
+[COT 2025-08-15 19:07:14] 76561198024482897: ESP target=Watchtower<1134f9c0> action=built part=level_2_wall_3_wood_down required_materials=false
+[COT 2025-08-15 19:07:17] 76561198024482897: ESP target=Watchtower<1134f9c0> action=built part=level_1_wall_1_base_down required_materials=false
+[COT 2025-08-15 19:07:21] 76561198024482897: ESP target=Watchtower<1134f9c0> action=built part=level_1_wall_1_wood_up required_materials=false
+[COT 2025-08-15 19:07:24] 76561198024482897: ESP target=Watchtower<1134f9c0> action=built part=level_1_wall_1_wood_down required_materials=false
+[COT 2025-08-15 19:07:28] 76561198024482897: ESP target=Watchtower<1134f9c0> action=built part=level_1_wall_3_base_up required_materials=false
+[COT 2025-08-15 19:07:29] 76561198024482897: ESP target=Watchtower<1134f9c0> action=built part=level_2_roof required_materials=false
+[COT 2025-08-15 19:07:31] 76561198024482897: ESP target=Watchtower<1134f9c0> action=built part=level_2_wall_2_base_up required_materials=false
+[COT 2025-08-15 19:07:33] 76561198024482897: ESP target=Watchtower<1134f9c0> action=built part=level_2_wall_2_wood_up required_materials=false
+[COT 2025-08-15 19:07:35] 76561198024482897: ESP target=Watchtower<1134f9c0> action=built part=level_2_wall_1_base_down required_materials=false
+[COT 2025-08-15 19:07:38] 76561198024482897: ESP target=Watchtower<1134f9c0> action=built part=level_1_wall_3_base_down required_materials=false
+[COT 2025-08-15 19:07:39] 76561198024482897: ESP target=Watchtower<1134f9c0> action=built part=level_2_wall_1_base_up required_materials=false
+[COT 2025-08-15 19:07:41] 76561198024482897: ESP target=Watchtower<1134f9c0> action=built part=level_1_wall_3_metal_up required_materials=false
+[COT 2025-08-15 19:07:44] 76561198024482897: ESP target=Watchtower<1134f9c0> action=built part=level_2_wall_1_metal_up required_materials=false
+[COT 2025-08-15 19:07:53] 76561198024482897: ESP target=Watchtower<1134f9c0> action=built part=level_1_wall_3_metal_down required_materials=false
+[COT 2025-08-15 19:07:58] 76561198024482897: ESP target=Watchtower<1134f9c0> action=built part=level_2_wall_1_metal_down required_materials=false
+[COT 2025-08-15 19:08:00] 76561198024482897: ESP target=Watchtower<1134f9c0> action=built part=level_2_stairs required_materials=false
+[COT 2025-08-15 19:08:02] 76561198024482897: ESP target=Watchtower<1134f9c0> action=built part=level_3_base required_materials=false
+[COT 2025-08-15 19:08:04] 76561198024482897: ESP target=Watchtower<1134f9c0> action=built part=level_3_wall_1_base_up required_materials=false
+[COT 2025-08-15 19:08:10] 76561198024482897: ESP target=Watchtower<1134f9c0> action=built part=level_3_wall_2_base_down required_materials=false
+[COT 2025-08-15 19:08:18] 76561198024482897: ESP target=Watchtower<1134f9c0> action=built part=level_3_roof required_materials=false
+[COT 2025-08-15 19:08:42] 76561198024482897: Entered the Free Camera
+[COT 2025-08-15 19:09:00] 76561198024482897: ESP target=Watchtower<1134f9c0> action=dismantle part=level_1_wall_1_wood_down
+[COT 2025-08-15 19:09:07] 76561198024482897: ESP target=Watchtower<1134f9c0> action=dismantle part=level_1_wall_2_base_down
+[COT 2025-08-15 19:09:09] 76561198024482897: ESP target=Watchtower<1134f9c0> action=dismantle part=level_2_base
+[COT 2025-08-15 19:09:19] 76561198024482897: Left the Free Camera
+[COT 2025-08-15 19:09:25] 76561198024482897: Set GodMode To true [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-08-15 19:09:26] 76561198024482897: Set GodMode To false [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-08-15 19:09:36] 76561198024482897: ESP: Clearing ESP
+[COT 2025-08-15 19:10:36] 76561198024482897: Created Deletion Backup '2025-08-15_19-10-36'
+[COT 2025-08-15 19:10:39] 76561198024482897: Deleted Entity Watchtower:4905 at <8337.720703, 335.709778, 1635.079590>
+[COT 2025-08-15 19:12:47] 76561198024482897: Spawned Entity Wooden Log (WoodenLog<a556ec0>, 1, 444, 15, 0) at <8340.793945, 335.709778, 1636.519043>
+[COT 2025-08-15 19:12:48] 76561198024482897: Spawned Entity Wooden Log (WoodenLog<a5585e0>, 1, 444, 15, 0) at <8340.741211, 335.924469, 1636.636475>
+[COT 2025-08-15 19:12:49] 76561198024482897: Spawned Entity Wooden Log (WoodenLog<a559170>, 1, 444, 15, 0) at <8340.695313, 336.112518, 1636.739380>
+[COT 2025-08-15 19:12:49] 76561198024482897: Spawned Entity Wooden Log (WoodenLog<a559d00>, 1, 444, 15, 0) at <8340.643555, 336.322693, 1636.854370>
+[COT 2025-08-15 19:12:49] 76561198024482897: Spawned Entity Wooden Log (WoodenLog<a5627c0>, 1, 444, 15, 0) at <8340.596680, 336.510895, 1636.957275>
+[COT 2025-08-15 19:13:21] 76561198024482897: Spawned Entity Lock Pick (Lockpick<26dcdf10>, 1, 111, 15, 0) at <8339.381836, 335.709778, 1637.192261>
+[COT 2025-08-15 19:13:30] 76561198024482897: Spawned Entity Pickaxe (Pickaxe<26dceaa0>, 1, 222, 15, 0) at <8339.927734, 335.709778, 1636.967773>
+[COT 2025-08-15 19:14:27] 76561198024482897: Spawned Entity Plank (WoodenPlank<1e75dc20>, 20, 89, 15, 0) at <8340.195313, 335.709778, 1636.480591>
+[COT 2025-08-15 19:14:29] 76561198024482897: Spawned Entity Plank (WoodenPlank<1e75a250>, 20, 89, 15, 0) at <8340.165039, 335.859100, 1636.509521>
+[COT 2025-08-15 19:14:29] 76561198024482897: Spawned Entity Plank (WoodenPlank<1e75fed0>, 20, 89, 15, 0) at <8340.134766, 336.008423, 1636.538574>
+[COT 2025-08-15 19:14:52] 76561198024482897: Spawned Entity Plank (WoodenPlank<1e75ade0>, 20, 89, 15, 0) at <8340.362305, 335.709778, 1635.973999>
+[COT 2025-08-15 19:17:01] 76561198024482897: Spawned Entity Nails (Nail<1f4d5ac0>, 99, 71, 15, 0) at <8339.287109, 335.709778, 1636.327637>
+[COT 2025-08-15 19:17:01] 76561198024482897: Spawned Entity Nails (Nail<1f4cf2b0>, 99, 71, 15, 0) at <8339.299805, 335.784576, 1636.291138>
+[COT 2025-08-15 19:17:02] 76561198024482897: Spawned Entity Nails (Nail<1f4dd9f0>, 99, 71, 15, 0) at <8339.311523, 335.859375, 1636.254761>
+[COT 2025-08-15 19:17:02] 76561198024482897: Spawned Entity Nails (Nail<1f4db740>, 99, 71, 15, 0) at <8339.324219, 335.934204, 1636.218262>
+[COT 2025-08-15 19:17:18] 76561198024482897: Spawned Entity Hammer (Hammer<1f4d7d70>, 99, 89, 15, 0) at <8339.552734, 335.709778, 1638.020386>
+[COT 2025-08-15 19:17:58] 76561198024482897: Spawned Entity Hammer (Hammer<ffb9ace0>, 99, 89, 15, 0) at <8338.340820, 338.480286, 1633.670532>
+[COT 2025-08-15 19:18:07] 76561198024482897: Spawned Entity Wooden Log (WoodenLog<ffb9b870>, 1, 445, 15, 0) at <8338.350586, 338.480286, 1633.647461>
+[COT 2025-08-15 19:18:07] 76561198024482897: Spawned Entity Wooden Log (WoodenLog<ffb96780>, 1, 445, 15, 0) at <8338.319336, 338.673706, 1633.753296>
+[COT 2025-08-15 19:18:08] 76561198024482897: Spawned Entity Wooden Log (WoodenLog<ffb95bf0>, 1, 445, 15, 0) at <8338.284180, 338.888397, 1633.870728>
+[COT 2025-08-15 19:18:08] 76561198024482897: Spawned Entity Wooden Log (WoodenLog<ffb9cf90>, 1, 445, 15, 0) at <8338.249023, 339.103119, 1633.988159>
+[COT 2025-08-15 19:19:11] 76561198024482897: Spawned Entity Plank (WoodenPlank<bcfb710>, 20, 89, 15, 0) at <8337.764648, 338.480286, 1634.687622>
+[COT 2025-08-15 19:19:11] 76561198024482897: Spawned Entity Plank (WoodenPlank<bccbbf0>, 20, 89, 15, 0) at <8337.814453, 338.629608, 1634.659302>
+[COT 2025-08-15 19:19:11] 76561198024482897: Spawned Entity Plank (WoodenPlank<814c990>, 20, 89, 15, 0) at <8337.864258, 338.778931, 1634.630859>
+[COT 2025-08-15 19:19:12] 76561198024482897: Spawned Entity Plank (WoodenPlank<8150ef0>, 20, 89, 15, 0) at <8337.913086, 338.928284, 1634.602539>
+[COT 2025-08-15 19:19:12] 76561198024482897: Spawned Entity Plank (WoodenPlank<8158e20>, 20, 89, 15, 0) at <8337.962891, 339.077576, 1634.574097>
+[COT 2025-08-15 19:20:53] 76561198024482897: Set GodMode To true [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-08-15 19:20:53] 76561198024482897: Set GodMode To false [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-08-15 19:21:02] 76561198024482897: Spawned Entity Nails (Nail<a708c20>, 99, 71, 15, 0) at <8338.107422, 338.480286, 1634.503174>
+[COT 2025-08-15 19:21:03] 76561198024482897: Spawned Entity Nails (Nail<a70ba60>, 99, 71, 15, 0) at <8338.127930, 338.555115, 1634.486328>
+[COT 2025-08-15 19:21:03] 76561198024482897: Spawned Entity Nails (Nail<a712e00>, 99, 71, 15, 0) at <8338.148438, 338.629944, 1634.469482>
+[COT 2025-08-15 19:21:04] 76561198024482897: Spawned Entity Nails (Nail<a70c5f0>, 99, 71, 15, 0) at <8338.168945, 338.704742, 1634.452637>
+[COT 2025-08-15 19:22:15] 76561198024482897: Set GodMode To true [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-08-15 19:22:16] 76561198024482897: Set GodMode To false [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-08-15 19:22:17] 76561198024482897: Set GodMode To true [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-08-15 19:22:25] 76561198024482897: Spawned Entity Nails (Nail<22432f30>, 99, 71, 15, 0) at <8338.401367, 341.222748, 1633.401978>
+[COT 2025-08-15 19:22:26] 76561198024482897: Spawned Entity Nails (Nail<2053a720>, 99, 71, 15, 0) at <8338.393555, 341.297577, 1633.441040>
+[COT 2025-08-15 19:22:26] 76561198024482897: Spawned Entity Nails (Nail<2053e0f0>, 99, 71, 15, 0) at <8338.385742, 341.372406, 1633.480103>
+[COT 2025-08-15 19:22:26] 76561198024482897: Spawned Entity Nails (Nail<205431e0>, 99, 71, 15, 0) at <8338.377930, 341.447205, 1633.519165>
+[COT 2025-08-15 19:22:30] 76561198024482897: Set GodMode To false [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-08-15 19:22:30] 76561198024482897: Set GodMode To true [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-08-15 19:22:35] 76561198024482897: Spawned Entity Plank (WoodenPlank<20548e60>, 20, 89, 15, 0) at <8337.804688, 341.222748, 1633.761719>
+[COT 2025-08-15 19:22:36] 76561198024482897: Spawned Entity Plank (WoodenPlank<2050a070>, 20, 89, 15, 0) at <8337.833008, 341.372070, 1633.824341>
+[COT 2025-08-15 19:22:36] 76561198024482897: Spawned Entity Plank (WoodenPlank<20511410>, 20, 89, 15, 0) at <8337.861328, 341.521393, 1633.886963>
+[COT 2025-08-15 19:22:36] 76561198024482897: Spawned Entity Plank (WoodenPlank<20512b30>, 20, 89, 15, 0) at <8337.889648, 341.670715, 1633.949463>
+[COT 2025-08-15 19:22:38] 76561198024482897: Set GodMode To false [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-08-15 19:22:39] 76561198024482897: Set GodMode To true [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-08-15 19:22:44] 76561198024482897: Spawned Entity Wooden Log (WoodenLog<2050c320>, 1, 445, 15, 0) at <8337.535156, 341.222748, 1635.102295>
+[COT 2025-08-15 19:22:44] 76561198024482897: Spawned Entity Wooden Log (WoodenLog<2050ceb0>, 1, 445, 15, 0) at <8337.635742, 341.424042, 1635.073975>
+[COT 2025-08-15 19:22:44] 76561198024482897: Spawned Entity Wooden Log (WoodenLog<20533380>, 1, 445, 15, 0) at <8337.737305, 341.626038, 1635.045532>
+[COT 2025-08-15 19:22:45] 76561198024482897: Spawned Entity Wooden Log (WoodenLog<205310d0>, 1, 445, 15, 0) at <8337.838867, 341.829163, 1635.016968>
+[COT 2025-08-15 19:23:13] 76561198024482897: Set GodMode To false [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-08-15 19:23:13] 76561198024482897: Set GodMode To true [guid=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=]
+[COT 2025-08-15 19:23:23] 76561198024482897: Spawned Entity Sheet Metal (MetalPlate<135797c0>, 10, 89, 15, 0) at <8337.578125, 341.222748, 1634.998779>
+[COT 2025-08-15 19:23:23] 76561198024482897: Spawned Entity Sheet Metal (MetalPlate<13575df0>, 10, 89, 15, 0) at <8337.578125, 341.222748, 1634.998779>
+[COT 2025-08-15 19:23:41] 76561198024482897: Created Deletion Backup '2025-08-15_19-23-41'
+[COT 2025-08-15 19:30:44] 76561198024482897: Spawned Entity Sheet Metal (MetalPlate<b2eceb90>, 10, 89, 15, 0) at <8338.853516, 338.480286, 1633.789551>
+[COT 2025-08-15 19:30:44] 76561198024482897: Spawned Entity Sheet Metal (MetalPlate<b2ec8380>, 10, 89, 15, 0) at <8338.846680, 338.569366, 1633.792969>
+[COT 2025-08-15 19:30:45] 76561198024482897: Spawned Entity Sheet Metal (MetalPlate<b2ed53a0>, 10, 89, 15, 0) at <8338.838867, 338.658447, 1633.796387>

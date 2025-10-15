@@ -1,0 +1,13 @@
+22:58:17.722 [MissionAirdrop] An airdrop is heading towards "Zapadlisko" (pos=<8399.000000, 0.000000, 8803.000000> type=Random_Zapadlisko) with a ExpansionAirdropContainer_Basebuilding
+22:59:03.949 [VehicleDestroyed] ExpansionUh1h_Resistance (id=25EADE5DD546BC76A5546884BD482575 pos=<1228.16, 169.1, 7566.33>)
+22:59:11.014 [AI Patrol 00017] Spawning 1 West bots at <7222.208984, 295.162506, 3044.308838>
+22:59:11.050 [AI Patrol 00017] Global patrol count: 1
+22:59:11.060 [AI Patrol 00017] Patrol category patrol count: 1
+22:59:11.070 [AI Patrol 00016] Spawning 1 East bots at <7461.780762, 287.040009, 2566.505615>
+22:59:11.111 [AI Patrol 00016] Global patrol count: 2
+22:59:11.121 [AI Patrol 00016] Patrol category patrol count: 2
+22:59:12.972 [VehicleDestroyed] ExpansionUh1h_Resistance (id=1187B9A6D649944135FBE79A65AF5AEB pos=<7924.57, 169.33, 11833.8>)
+23:05:15.658 [VehicleDeleted] ExpansionUh1h_Resistance (id=25EADE5DD546BC76A5546884BD482575 pos=<1230.4, 168.71, 7567.23>)
+23:05:44.507 [VehicleDeleted] ExpansionUh1h_Resistance (id=1187B9A6D649944135FBE79A65AF5AEB pos=<7925.55, 169.55, 11833.6>)
+23:08:00.136 [VehicleDestroyed] ExpansionUh1h_Resistance (id=CE912487D6469BA4E1E93FBDF7E652E4 pos=<1228.06, 169.13, 7566.24>)
+23:08:22.159 [VehicleDestroyed] ExpansionUh1h_Medical (id=CCDC233E7F45FF98B2DDC6A537664DAD pos=<7925.02, 169.5, 11833.4>)

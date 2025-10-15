@@ -1,0 +1,27 @@
+13:21:36.981 [VehicleDestroyed] Boat_01_Black (id=BBC38CD52A4CE90CD6EDEB93FBA9FA38 pos=<2560.71, 169.79, 8136.97>)
+13:21:36.991 [VehicleDestroyed] Boat_01_Blue (id=F1C5EDF4EE45714C6ADBAEA9649F464E pos=<3637.13, 169.81, 9095.39>)
+13:21:37.002 [VehicleDestroyed] Boat_01_Orange (id=6E9F8E1D19452890364C37AFA202740A pos=<6377.71, 169.8, 10766.5>)
+17:30:46.871 [VehicleDestroyed] Boat_01_Blue (id=F6CD2DAF734A621AE60093BE699D04B5 pos=<5286.87, 169.75, 9483.75>)
+18:14:43.049 [AI Object Patrol 00003] Spawning 2 East bots at <5909.416504, 405.686737, 3569.907715>
+18:14:50.618 [AI Object Patrol 00003] Global patrol count: 1
+18:14:50.629 [AI Object Patrol 00003] HelicopterWreck category patrol count: 1
+18:14:50.639 [AI Patrol 00017] Spawning 1 West bots at <7192.928711, 301.583313, 2975.075439>
+18:14:50.674 [AI Patrol 00017] Global patrol count: 2
+18:14:50.685 [AI Patrol 00017] Patrol category patrol count: 1
+18:14:50.697 [AI Patrol 00018] Spawning 2 Civilian bots at <6328.497559, 381.766998, 3697.086426>
+18:14:50.728 [AI Patrol 00018] Global patrol count: 3
+18:14:50.743 [AI Patrol 00018] Patrol category patrol count: 2
+18:14:50.761 [AI Patrol 00016] Spawning 3 East bots at <7688.191406, 321.064087, 2965.987061>
+18:14:50.804 [AI Patrol 00016] Global patrol count: 4
+18:14:50.815 [AI Patrol 00016] Patrol category patrol count: 3
+18:20:23.433 [VehicleDeleted] Boat_01_Blue (id=F1C5EDF4EE45714C6ADBAEA9649F464E pos=<3637.14, 169.25, 9095.39>)
+18:20:23.443 [VehicleDeleted] Boat_01_Black (id=BBC38CD52A4CE90CD6EDEB93FBA9FA38 pos=<2560.7, 169.56, 8136.99>)
+18:20:23.453 [VehicleDeleted] Boat_01_Orange (id=6E9F8E1D19452890364C37AFA202740A pos=<6377.72, 169.32, 10766.5>)
+18:20:23.464 [VehicleDeleted] Boat_01_Blue (id=F6CD2DAF734A621AE60093BE699D04B5 pos=<5286.87, 169.49, 9483.68>)
+18:26:52.780 [AI Object Patrol 00003] East bots were wiped out (spawn position <5909.416504, 405.686737, 3569.907715>, 2/2 deceased)
+18:26:52.869 [AI Object Patrol 00003] Global patrol count: 3
+18:26:52.959 [AI Object Patrol 00003] HelicopterWreck category patrol count: 0
+18:36:12.795 [AI Object Patrol 00003] Despawning 0 East bots (spawn position <5920.960938, 404.660889, 3568.277832>, 2/2 deceased)
+18:45:53.804 [AI Patrol 00018] Despawning 2 Civilian bots (spawn position <6328.497559, 381.766998, 3697.086426>, 0/2 deceased)
+18:45:53.815 [AI Patrol 00018] Global patrol count: 2
+18:45:53.825 [AI Patrol 00018] Patrol category patrol count: 2

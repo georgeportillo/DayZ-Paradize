@@ -1,0 +1,47 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "Animal_CapreolusCapreolusF",
+            "m_LocalPosition": [
+                8474.8271484375,
+                368.68255615234377,
+                1540.747802734375
+            ],
+            "m_LocalRotation": [
+                157.81741333007813,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 160.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 38
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Animal_CapreolusCapreolusF",
+            "m_LocalPosition": [
+                8467.6806640625,
+                367.90472412109377,
+                1555.412109375
+            ],
+            "m_LocalRotation": [
+                151.35635375976563,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 160.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 38
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        }
+    ]
+}

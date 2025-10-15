@@ -1,0 +1,124 @@
+{
+    "RewardSets": [
+        {
+            "SetName": "Cartridges",
+            "Rewards": [
+                {
+                    "ClassName": "BandageDressing",
+                    "ItemQuantity": 1,
+                    "ItemAmount": 1
+                }
+            ]
+        },
+        {
+            "SetName": "Advance Cartridges",
+            "Rewards": [
+                {
+                    "ClassName": "BandageDressing",
+                    "ItemQuantity": 1,
+                    "ItemAmount": 1
+                }
+            ]
+        },
+        {
+            "SetName": "Top 10 Most Expensive Comics",
+            "Rewards": [
+                {
+                    "ClassName": "BandageDressing",
+                    "ItemQuantity": 1,
+                    "ItemAmount": 1
+                }
+            ]
+        },
+        {
+            "SetName": "NomNom's Original 20",
+            "Rewards": [
+                {
+                    "ClassName": "BandageDressing",
+                    "ItemQuantity": 1,
+                    "ItemAmount": 1
+                }
+            ]
+        },
+        {
+            "SetName": "Copper Variants",
+            "Rewards": [
+                {
+                    "ClassName": "BandageDressing",
+                    "ItemQuantity": 1,
+                    "ItemAmount": 1
+                }
+            ]
+        },
+        {
+            "SetName": "Moss Variants",
+            "Rewards": [
+                {
+                    "ClassName": "BandageDressing",
+                    "ItemQuantity": 1,
+                    "ItemAmount": 1
+                }
+            ]
+        },
+        {
+            "SetName": "Metallic Variants",
+            "Rewards": [
+                {
+                    "ClassName": "BandageDressing",
+                    "ItemQuantity": 1,
+                    "ItemAmount": 1
+                }
+            ]
+        },
+        {
+            "SetName": "Anime One Piece",
+            "Rewards": [
+                {
+                    "ClassName": "BandageDressing",
+                    "ItemQuantity": 1,
+                    "ItemAmount": 1
+                }
+            ]
+        },
+        {
+            "SetName": "Halloween 2024",
+            "Rewards": [
+                {
+                    "ClassName": "BandageDressing",
+                    "ItemQuantity": 1,
+                    "ItemAmount": 1
+                }
+            ]
+        },
+        {
+            "SetName": "Top 10 Oldest",
+            "Rewards": [
+                {
+                    "ClassName": "BandageDressing",
+                    "ItemQuantity": 1,
+                    "ItemAmount": 1
+                }
+            ]
+        },
+        {
+            "SetName": "Marvel Inspired",
+            "Rewards": [
+                {
+                    "ClassName": "BandageDressing",
+                    "ItemQuantity": 1,
+                    "ItemAmount": 1
+                }
+            ]
+        },
+        {
+            "SetName": "Base Set (1996)",
+            "Rewards": [
+                {
+                    "ClassName": "BandageDressing",
+                    "ItemQuantity": 1,
+                    "ItemAmount": 1
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1224 @@
+20:42:14.040 [AI Patrol 00017] Spawning 2 West bots at <7485.865723, 325.559082, 2700.330566>
+20:42:25.522 [AI Patrol 00017] Global patrol count: 1
+20:42:25.532 [AI Patrol 00017] Patrol category patrol count: 1
+20:42:25.542 [AI Patrol 00016] Spawning 2 East bots at <7489.952148, 331.308319, 2723.089844>
+20:42:25.573 [AI Patrol 00016] Global patrol count: 2
+20:42:25.583 [AI Patrol 00016] Patrol category patrol count: 2
+20:48:13.128 [AI Patrol 00016] East bots were wiped out (spawn position <7489.952148, 331.308319, 2723.089844>, 2/2 deceased)
+20:48:13.137 [AI Patrol 00016] Global patrol count: 1
+20:48:13.147 [AI Patrol 00016] Patrol category patrol count: 1
+21:05:08.862 [VehicleEnter] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) entered vehicle Olga 24 (id=64D2A073D144116D22E9FD8F531A42E5 pos=<8685.28, 398.85, 2263.89>) as driver
+21:05:11.646 [VehicleEngine] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) started vehicle Olga 24 (id=64D2A073D144116D22E9FD8F531A42E5 pos=<8685.28, 398.85, 2263.92>)
+21:05:29.203 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): yo!
+21:06:01.543 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): yoo
+21:06:17.407 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): paratroopers atacking me near base
+21:06:31.748 [VehicleEnter] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) entered vehicle UH-1H (id=C0204722F14B36C8DF97E187A316AC9F pos=<9181.63, 325.88, 4196.83>) as pilot
+21:06:41.871 [VehicleLeave] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) left vehicle UH-1H (id=C0204722F14B36C8DF97E187A316AC9F pos=<9181.84, 325.86, 4196.82>)
+21:06:47.985 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): im omw back but it will be a few mins
+21:07:28.510 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): okay np
+21:07:35.214 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): we need gas for this heli
+21:08:17.689 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): is there a gas station in nadbor?
+21:08:22.745 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): yes
+21:08:26.580 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Olga 24 (id=64D2A073D144116D22E9FD8F531A42E5 pos=<7676.75, 298.82, 2775.95>)
+21:08:26.605 [VehicleLeave] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) left vehicle Olga 24 (id=64D2A073D144116D22E9FD8F531A42E5 pos=<7676.75, 298.82, 2775.95>)
+21:08:59.867 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): ok ill stop there. paratroopers just flew over me
+21:09:07.130 [VehicleEnter] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) entered vehicle Olga 24 (id=64D2A073D144116D22E9FD8F531A42E5 pos=<7676.79, 298.82, 2775.9>) as driver
+21:09:10.941 [VehicleEngine] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) started vehicle Olga 24 (id=64D2A073D144116D22E9FD8F531A42E5 pos=<7676.86, 298.8, 2775.8>)
+21:11:10.174 [AI Patrol 00018] Spawning 1 Civilian bots at <6492.382813, 381.403015, 3575.706787>
+21:11:10.219 [AI Patrol 00018] Global patrol count: 2
+21:11:10.228 [AI Patrol 00018] Patrol category patrol count: 2
+21:11:14.758 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): ill tp 2 u 2 try groups saint
+21:11:21.217 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): okay
+21:11:34.452 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): i just killed the paratroopers
+21:11:42.560 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): any good gear
+21:11:55.049 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): i got a cool belt
+21:12:02.187 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): saving it for you
+21:12:29.247 [Party] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) joined the party "Ghost Thunderous" (id=0 ownerUID= ownerName=)
+21:12:29.285 [Party] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) created a party named Ghost Thunderous (Ghost)
+21:12:29.331 [Party] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) invited the player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)to the party named Ghost Thunderous
+21:13:39.321 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Olga 24 (id=64D2A073D144116D22E9FD8F531A42E5 pos=<6248.57, 382.43, 3969.2>)
+21:13:39.346 [VehicleLeave] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) left vehicle Olga 24 (id=64D2A073D144116D22E9FD8F531A42E5 pos=<6248.57, 382.43, 3969.2>)
+21:14:12.004 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): oh shit is this the heli you found in nadbor
+21:14:43.584 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): shoot see if i hear you
+21:14:58.309 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): hear it
+21:15:10.641 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): didnt 
+21:15:12.789 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): did you?
+21:15:15.761 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): no
+21:15:24.465 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): then it must be a different one
+21:15:30.965 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): theres a merlin here in perfect condition
+21:15:34.363 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): in a field
+21:15:41.504 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): but idk how to check what it needs
+21:15:42.970 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): same here just needs gas
+21:15:49.390 [VehicleEnter] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) entered vehicle Olga 24 (id=64D2A073D144116D22E9FD8F531A42E5 pos=<6248.57, 382.43, 3969.21>) as driver
+21:15:54.410 [VehicleEngine] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) started vehicle Olga 24 (id=64D2A073D144116D22E9FD8F531A42E5 pos=<6248.57, 382.43, 3969.23>)
+21:16:09.873 [VehicleLeave] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) left vehicle Olga 24 (id=64D2A073D144116D22E9FD8F531A42E5 pos=<6261.67, 382.43, 3942.68>)
+21:17:43.188 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): ok i got a gas can
+21:17:46.837 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): do i meet you at base?
+21:17:55.415 [VehicleEnter] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) entered vehicle Olga 24 (id=64D2A073D144116D22E9FD8F531A42E5 pos=<6261.66, 382.43, 3942.68>) as driver
+21:18:01.223 [Chat - Team]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): base still toxic
+21:18:13.987 [VehicleLeave] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) left vehicle Olga 24 (id=64D2A073D144116D22E9FD8F531A42E5 pos=<6269.03, 382.41, 3940.82>)
+21:18:39.970 [VehicleEnter] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) entered vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<6190.9, 381.43, 3903.33>) as passenger
+21:18:48.633 [VehicleLeave] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) left vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<6190.9, 381.43, 3903.33>)
+21:18:51.410 [VehicleEnter] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) entered vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<6190.9, 381.43, 3903.32>) as pilot
+21:19:02.795 [Party] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) left the party "Ghost Thunderous" (id=0 ownerUID=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw= ownerName=Saint)
+21:19:02.813 [COT] Expansion Groups Manager - snake [0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=] has deleted the group [0] Ghost Thunderous
+21:19:11.987 [Party] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) joined the party "Shadow Celestial" (id=1 ownerUID= ownerName=)
+21:19:12.027 [Party] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) created a party named Shadow Celestial (Shado)
+21:19:12.072 [Party] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) invited the player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)to the party named Shadow Celestial
+21:19:14.949 [VehicleLeave] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) left vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<6190.91, 381.4, 3903.08>)
+21:19:49.263 [Party] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left the party "Shadow Celestial" (id=1 ownerUID=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= ownerName=snake)
+21:19:49.280 [COT] Expansion Groups Manager - snake [0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=] has deleted the group [1] Shadow Celestial
+21:20:14.212 [VehicleEnter] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) entered vehicle Olga 24 (id=64D2A073D144116D22E9FD8F531A42E5 pos=<6269.03, 382.41, 3940.82>) as driver
+21:20:24.762 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): this one has no parts lol just some gas in it
+21:20:53.294 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): but we have parts at base i think
+21:21:19.630 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): yo hes bugged out
+21:21:29.393 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): hes trying to type
+21:21:37.468 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): oh lol
+21:22:06.313 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): he said sure 2 meet at bazse
+21:23:15.613 [Chat - Global]("Saint (2)"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): alright i can talk now
+21:23:25.665 [VehicleLeave] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) left vehicle Olga 24 (id=64D2A073D144116D22E9FD8F531A42E5 pos=<9104.5, 340.75, 4440.57>)
+21:23:42.852 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): just arrived
+21:23:46.358 [VehicleEnter] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) entered vehicle Olga 24 (id=64D2A073D144116D22E9FD8F531A42E5 pos=<9104.5, 340.75, 4440.57>) as driver
+21:24:06.713 [VehicleEngine] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) stopped vehicle Olga 24 (id=64D2A073D144116D22E9FD8F531A42E5 pos=<9124.69, 339.82, 4430.24>)
+21:24:11.302 [VehicleLeave] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) left vehicle Olga 24 (id=64D2A073D144116D22E9FD8F531A42E5 pos=<9124.69, 339.82, 4430.24>)
+21:26:59.634 [VehicleAttachments] Player "Saint (2)" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) detached Jerrycan (type=CanisterGasoline) from vehicle Land Rover Defender (id=9E837385694113FF4B61A2A698A3FB0A pos=<9127.4, 339.8, 4429.12>)
+21:27:34.239 [Party] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) joined the party "Knight Ancient" (id=2 ownerUID= ownerName=)
+21:27:34.773 [Party] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) created a party named Knight Ancient (Knigh)
+21:27:35.115 [Party] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) invited the player "Saint (2)" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)to the party named Knight Ancient
+21:28:36.809 [Party] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left the party "Knight Ancient" (id=2 ownerUID=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo= ownerName=snake)
+21:28:36.828 [COT] Expansion Groups Manager - snake [0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=] has deleted the group [2] Knight Ancient
+21:29:45.492 [Party] Player "Saint (2)" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) joined the party "Leviathan Magnificent" (id=3 ownerUID= ownerName=)
+21:29:45.539 [Party] Player "Saint (2)" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) created a party named Leviathan Magnificent (Levia)
+21:29:45.603 [Party] Player "Saint (2)" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) invited the player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)to the party named Leviathan Magnificent
+21:31:05.388 [VehicleEnter] Player "Saint (2)" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) entered vehicle UH-1H (id=C0204722F14B36C8DF97E187A316AC9F pos=<9181.86, 325.85, 4196.8>) as pilot
+21:31:26.484 [VehicleLeave] Player "Saint (2)" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) left vehicle UH-1H (id=C0204722F14B36C8DF97E187A316AC9F pos=<9181.93, 325.84, 4196.76>)
+21:31:45.017 [AI Patrol 00018] Despawning 1 Civilian bots (spawn position <6492.382813, 381.403015, 3575.706787>, 0/1 deceased)
+21:31:45.028 [AI Patrol 00018] Global patrol count: 1
+21:31:45.038 [AI Patrol 00018] Patrol category patrol count: 1
+21:32:38.798 [VehicleEnter] Player "Saint (2)" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) entered vehicle UH-1H (id=C0204722F14B36C8DF97E187A316AC9F pos=<9182.08, 325.82, 4196.72>) as pilot
+21:32:41.418 [VehicleEngine] Player "Saint (2)" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) started vehicle UH-1H (id=C0204722F14B36C8DF97E187A316AC9F pos=<9182.08, 325.82, 4196.71>)
+21:32:47.233 [VehicleEnter] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) entered vehicle UH-1H (id=C0204722F14B36C8DF97E187A316AC9F pos=<9182.1, 325.81, 4196.7>) as passenger
+21:32:57.270 [VehicleEngine] Player "Saint (2)" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) stopped vehicle UH-1H (id=C0204722F14B36C8DF97E187A316AC9F pos=<9183.04, 325.86, 4193.7>)
+21:33:08.606 [VehicleLeave] Player "Saint (2)" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) left vehicle UH-1H (id=C0204722F14B36C8DF97E187A316AC9F pos=<9182.88, 325.5, 4193.58>)
+21:33:21.974 [VehicleLeave] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) left vehicle UH-1H (id=C0204722F14B36C8DF97E187A316AC9F pos=<9182.88, 325.5, 4193.58>)
+21:33:44.811 [VehicleEnter] Player "Saint (2)" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) entered vehicle UH-1H (id=C0204722F14B36C8DF97E187A316AC9F pos=<9182.88, 325.5, 4193.58>) as pilot
+21:34:00.350 [VehicleEngine] Player "Saint (2)" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) started vehicle UH-1H (id=C0204722F14B36C8DF97E187A316AC9F pos=<9182.89, 325.5, 4193.58>)
+21:34:09.076 [VehicleEnter] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) entered vehicle UH-1H (id=C0204722F14B36C8DF97E187A316AC9F pos=<9182.9, 325.5, 4193.6>) as passenger
+21:34:34.413 [VehicleEngine] Player "Saint (2)" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) stopped vehicle UH-1H (id=C0204722F14B36C8DF97E187A316AC9F pos=<9190.51, 325.39, 4186.6>)
+21:34:47.961 [VehicleLeave] Player "Saint (2)" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) left vehicle UH-1H (id=C0204722F14B36C8DF97E187A316AC9F pos=<9191.1, 325.74, 4186.6>)
+21:34:50.757 [VehicleLeave] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) left vehicle UH-1H (id=C0204722F14B36C8DF97E187A316AC9F pos=<9191.17, 325.76, 4186.59>)
+21:35:46.348 [VehicleEnter] Player "Saint (2)" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) entered vehicle UH-1H (id=C0204722F14B36C8DF97E187A316AC9F pos=<9191.17, 323.93, 4186.63>) as pilot
+21:36:02.581 [VehicleEngine] Player "Saint (2)" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) started vehicle UH-1H (id=C0204722F14B36C8DF97E187A316AC9F pos=<9191.08, 323.95, 4186.73>)
+21:36:08.930 [VehicleEnter] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) entered vehicle UH-1H (id=C0204722F14B36C8DF97E187A316AC9F pos=<9191.04, 323.96, 4186.79>) as passenger
+21:39:06.139 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): wanna see the other chopper in nadbor?
+21:39:13.288 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): its bigger than this one
+21:39:17.872 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): has 800 slots
+21:40:27.190 [VehicleLeave] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) left vehicle UH-1H (id=C0204722F14B36C8DF97E187A316AC9F pos=<9083.48, 347.96, 4516.86>)
+21:40:27.647 [VehicleLeave] Player "Saint (2)" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) left vehicle UH-1H (id=C0204722F14B36C8DF97E187A316AC9F pos=<9083.51, 347.96, 4516.83>)
+21:40:41.907 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): LOL
+21:40:46.590 [Chat - Global]("Saint (2)"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): hahahaha
+21:40:47.991 [Chat - Global]("Saint (2)"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): omg
+21:40:57.000 [Chat - Global]("Saint (2)"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): its taking off
+21:41:00.633 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): wtfff
+21:42:27.098 [Chat - Global]("Saint (2)"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): snake
+21:42:31.862 [Chat - Global]("Saint (2)"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): are you here
+21:42:43.024 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): im at base
+21:42:48.960 [Chat - Global]("Saint (2)"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): you gotta see this
+21:42:49.283 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): sup
+21:42:52.545 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): our helicopter is glitched and flying in the air by itself
+21:44:46.715 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle UH-1H (id=C0204722F14B36C8DF97E187A316AC9F pos=<9096.36, 452.58, 4517.21>)
+21:44:46.725 [VehicleDestroyed] ExpansionUh1h_Uber (id=C0204722F14B36C8DF97E187A316AC9F pos=<9096.36, 452.58, 4517.21>)
+21:45:07.538 [VehicleEnter] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle UH-1H (id=C0204722F14B36C8DF97E187A316AC9F pos=<9090.14, 348, 4522.98>) as passenger
+21:45:14.215 [VehicleLeave] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle UH-1H (id=C0204722F14B36C8DF97E187A316AC9F pos=<9090.24, 347.96, 4522.92>)
+21:45:22.169 [VehicleEnter] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle UH-1H (id=C0204722F14B36C8DF97E187A316AC9F pos=<9090.24, 347.96, 4522.92>) as passenger
+21:45:29.540 [VehicleLeave] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle UH-1H (id=C0204722F14B36C8DF97E187A316AC9F pos=<9090.36, 345.35, 4522.93>)
+21:45:59.914 [VehicleEnter] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle UH-1H (id=C0204722F14B36C8DF97E187A316AC9F pos=<9090.36, 345.35, 4522.93>) as pilot
+21:46:01.233 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) started vehicle UH-1H (id=C0204722F14B36C8DF97E187A316AC9F pos=<9090.35, 345.35, 4522.94>)
+21:46:32.878 [Chat - Global]("Saint (2)"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): how is that flying
+21:46:46.080 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): oh shit lol
+21:46:46.279 [VehicleEngine] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) stopped vehicle UH-1H (id=C0204722F14B36C8DF97E187A316AC9F pos=<9019.82, 348.86, 4569.84>)
+21:46:54.172 [VehicleLeave] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle UH-1H (id=C0204722F14B36C8DF97E187A316AC9F pos=<9019.83, 348.86, 4569.84>)
+21:47:03.831 [VehicleEnter] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle UH-1H (id=C0204722F14B36C8DF97E187A316AC9F pos=<9019.83, 348.86, 4569.84>) as pilot
+21:47:18.889 [VehicleLeave] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle UH-1H (id=C0204722F14B36C8DF97E187A316AC9F pos=<9019.83, 348.86, 4569.84>)
+21:47:38.700 [Chat - Global]("Saint (2)"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): made a fire at base
+21:48:52.471 [VehicleEnter] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) entered vehicle UH-1H (id=EAA8192BAC4CFD709CBAC6A1DB7BC89A pos=<9019.54, 348.88, 4561.09>) as pilot
+21:48:55.016 [VehicleEngine] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) started vehicle UH-1H (id=EAA8192BAC4CFD709CBAC6A1DB7BC89A pos=<9019.56, 348.88, 4561.09>)
+21:49:05.549 [VehicleDeleted] ExpansionUh1h_Uber (id=C0204722F14B36C8DF97E187A316AC9F pos=<9019.83, 348.86, 4569.84>)
+21:49:16.429 [VehicleEnter] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) entered vehicle UH-1H (id=EAA8192BAC4CFD709CBAC6A1DB7BC89A pos=<9019.64, 348.88, 4561.1>) as passenger
+21:50:00.794 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): awesome!
+21:50:52.087 [AI Object Patrol 00010] Spawning 1 West bots at <7792.250488, 246.350006, 5913.427246>
+21:50:52.179 [AI Object Patrol 00010] Global patrol count: 2
+21:50:52.188 [AI Object Patrol 00010] ContaminatedArea category patrol count: 1
+21:50:52.243 [AI Object Patrol 00012] Spawning 2 West bots at <7775.860352, 245.711823, 5947.174316>
+21:50:52.279 [AI Object Patrol 00012] Global patrol count: 3
+21:50:52.289 [AI Object Patrol 00012] ContaminatedArea category patrol count: 2
+21:51:18.846 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): ill show you the other one i foun
+21:51:25.088 [AI Object Patrol 00038] Spawning 3 East bots at <6786.028320, 343.786652, 4814.290039>
+21:51:25.116 [AI Object Patrol 00038] Global patrol count: 4
+21:51:25.126 [AI Object Patrol 00038] HelicopterWreck category patrol count: 1
+21:51:53.202 [Chat - Global]("Saint (2)"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): cool let me get warm and dry
+21:51:56.893 [AI Object Patrol 00037] Spawning 3 East bots at <5898.210938, 406.513367, 3572.937256>
+21:51:56.931 [AI Object Patrol 00037] Global patrol count: 5
+21:51:56.941 [AI Object Patrol 00037] HelicopterWreck category patrol count: 2
+21:52:11.631 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): oh is that a crashed heli?
+21:55:06.288 [VehicleEngine] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) stopped vehicle UH-1H (id=EAA8192BAC4CFD709CBAC6A1DB7BC89A pos=<6117.07, 386.98, 3948.23>)
+21:55:06.551 [VehicleLeave] Player "snake" (id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=) left vehicle UH-1H (id=EAA8192BAC4CFD709CBAC6A1DB7BC89A pos=<6117.07, 386.97, 3948.23>)
+21:55:13.203 [VehicleLeave] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) left vehicle UH-1H (id=EAA8192BAC4CFD709CBAC6A1DB7BC89A pos=<6117.11, 386.82, 3948.18>)
+21:57:51.000 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): are you alive?
+21:57:57.185 [Chat - Global]("Saint (2)"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): me?
+21:58:01.192 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): nah snake 
+21:58:08.751 [Chat - Global]("Saint (2)"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): what happened
+21:58:12.648 [AI Object Patrol 00037] East bots were wiped out (spawn position <5898.210938, 406.513367, 3572.937256>, 3/3 deceased)
+21:58:12.657 [AI Object Patrol 00037] Global patrol count: 4
+21:58:12.667 [AI Object Patrol 00037] HelicopterWreck category patrol count: 1
+21:58:14.960 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): AI attack at nadbor
+21:58:34.052 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): shits gnarly
+21:58:49.856 [Chat - Global]("Saint (2)"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): at nadbor??
+21:59:02.646 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): you get them all?
+21:59:02.886 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): yes
+21:59:10.777 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): i think so
+21:59:17.560 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): k im coming over dont shoot lmao
+21:59:57.161 [Chat - Global]("Saint (2)"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): so now the coma works
+21:59:59.867 [Chat - Global]("Saint (2)"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): to change chats
+22:00:08.772 [Chat - Global]("Saint (2)"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): but still cant see group hub
+22:00:35.013 [Party] Player "Saint (2)" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) left the party "Leviathan Magnificent" (id=3 ownerUID=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw= ownerName=Saint (2))
+22:01:31.812 [AI Object Patrol 00010] Despawning 1 West bots (spawn position <7792.250488, 246.350006, 5913.427246>, 0/1 deceased)
+22:01:31.822 [AI Object Patrol 00010] Global patrol count: 3
+22:01:31.832 [AI Object Patrol 00010] ContaminatedArea category patrol count: 1
+22:01:32.042 [AI Object Patrol 00012] Despawning 2 West bots (spawn position <7775.860352, 245.711823, 5947.174316>, 0/2 deceased)
+22:01:32.052 [AI Object Patrol 00012] Global patrol count: 2
+22:01:32.061 [AI Object Patrol 00012] ContaminatedArea category patrol count: 0
+22:01:33.705 [AI Object Patrol 00044] Spawning 3 West bots at <5529.733398, 419.963684, 3728.645752>
+22:01:33.805 [AI Object Patrol 00044] Global patrol count: 3
+22:01:33.827 [AI Object Patrol 00044] ContaminatedArea category patrol count: 1
+22:02:03.246 [Party] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) joined the party "Leviathan Magnificent" (id=3 ownerUID=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw= ownerName=Saint (2))
+22:02:28.715 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): where are yall
+22:02:46.881 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): nadbor
+22:02:57.968 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): south of the mil base
+22:02:58.876 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): ill head that way
+22:03:18.028 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): ill tele and fly back here
+22:03:20.777 [VehicleEnter] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) entered vehicle Land Rover Defender (id=9E837385694113FF4B61A2A698A3FB0A pos=<9127.4, 339.8, 4429.12>) as driver
+22:03:24.890 [VehicleEngine] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) started vehicle Land Rover Defender (id=9E837385694113FF4B61A2A698A3FB0A pos=<9127.4, 339.8, 4429.12>)
+22:03:41.475 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Land Rover Defender (id=9E837385694113FF4B61A2A698A3FB0A pos=<9121.94, 339.8, 4440.94>)
+22:03:41.519 [VehicleLeave] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) left vehicle Land Rover Defender (id=9E837385694113FF4B61A2A698A3FB0A pos=<9121.94, 339.8, 4440.94>)
+22:03:48.990 [VehicleEnter] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) entered vehicle Land Rover Defender (id=9E837385694113FF4B61A2A698A3FB0A pos=<9121.94, 339.8, 4440.94>) as driver
+22:03:50.732 [VehicleEngine] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) started vehicle Land Rover Defender (id=9E837385694113FF4B61A2A698A3FB0A pos=<9121.94, 339.8, 4440.94>)
+22:03:57.516 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Land Rover Defender (id=9E837385694113FF4B61A2A698A3FB0A pos=<9109.1, 340.52, 4440.45>)
+22:03:57.561 [VehicleLeave] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) left vehicle Land Rover Defender (id=9E837385694113FF4B61A2A698A3FB0A pos=<9109.1, 340.52, 4440.45>)
+22:04:05.949 [VehicleEnter] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) entered vehicle Land Rover Defender (id=9E837385694113FF4B61A2A698A3FB0A pos=<9109.1, 340.52, 4440.45>) as driver
+22:04:08.146 [VehicleEngine] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) started vehicle Land Rover Defender (id=9E837385694113FF4B61A2A698A3FB0A pos=<9109.1, 340.52, 4440.45>)
+22:05:02.426 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): im heading back to the chopper
+22:05:14.696 [AI Object Patrol 00046] Spawning 1 East bots at <7188.615234, 382.635529, 3720.863525>
+22:05:14.728 [AI Object Patrol 00046] Global patrol count: 4
+22:05:14.739 [AI Object Patrol 00046] HelicopterWreck category patrol count: 2
+22:05:32.139 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): gas zones only need ,,ask now
+22:05:37.926 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): ill cofr,
+22:05:42.197 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): confirm
+22:06:39.866 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): i see you lol
+22:07:12.492 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Land Rover Defender (id=9E837385694113FF4B61A2A698A3FB0A pos=<6122.58, 386.12, 3940.77>)
+22:07:12.516 [VehicleLeave] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) left vehicle Land Rover Defender (id=9E837385694113FF4B61A2A698A3FB0A pos=<6122.58, 386.12, 3940.77>)
+22:07:20.944 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): confirming only gas mask required
+22:07:34.422 [Party] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) invited the player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)to the party named Leviathan Magnificent
+22:10:01.869 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Say less
+22:10:17.855 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): You do mean permanent gas zones too, right?
+22:10:25.345 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): yes
+22:10:49.567 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): alright gents, have fun, early flight tmrw
+22:13:10.275 [VehicleEnter] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) entered vehicle UH-1H (id=81F79584E1468E326FDD019A29A500E3 pos=<6489.19, 392.78, 3810.96>) as pilot
+22:13:13.311 [VehicleLeave] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) left vehicle UH-1H (id=81F79584E1468E326FDD019A29A500E3 pos=<6489.19, 392.78, 3810.96>)
+22:13:25.777 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): i lost you
+22:16:13.080 [AI Object Patrol 00038] Despawning 1 East bots (spawn position <6786.028320, 343.786652, 4814.290039>, 2/3 deceased)
+22:16:13.091 [AI Object Patrol 00038] Global patrol count: 3
+22:16:13.101 [AI Object Patrol 00038] HelicopterWreck category patrol count: 1
+22:16:15.043 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): i think i found the [arty hub
+22:16:27.281 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): where
+22:16:57.825 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): Asterisk num pad
+22:17:20.582 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): do gas filters spawn here
+22:17:26.326 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): if theres ai
+22:17:26.878 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): That just turns on/off marker visibility
+22:18:23.704 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Is it only vicinity or is there a party menu for inviting?
+22:18:47.504 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): vicinity but also you should be able to accept
+22:18:54.378 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): i was invited
+22:19:00.734 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): i had to leave, filter already ran out
+22:19:36.069 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): You get 8 minutes with vanilla filters if I remember correctly
+22:19:56.806 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Vanilla Combat Gas Mask gives like 10 or 12 but can't be refilled
+22:20:22.652 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): ill get more filters out of my car and come back
+22:20:30.327 [VehicleEnter] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) entered vehicle UH-1H (id=EAA8192BAC4CFD709CBAC6A1DB7BC89A pos=<6117.47, 386.81, 3948.07>) as pilot
+22:20:32.951 [VehicleEngine] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) started vehicle UH-1H (id=EAA8192BAC4CFD709CBAC6A1DB7BC89A pos=<6117.47, 386.81, 3948.07>)
+22:20:34.813 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Combat Gas Mask is 12.5 minutes in gas
+22:20:53.130 [VehicleEnter] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) entered vehicle UH-1H (id=81F79584E1468E326FDD019A29A500E3 pos=<6489.19, 392.78, 3810.96>) as pilot
+22:20:54.526 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): look at base
+22:20:56.986 [VehicleEngine] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) started vehicle UH-1H (id=81F79584E1468E326FDD019A29A500E3 pos=<6489.19, 392.78, 3810.96>)
+22:20:59.102 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): we have a lot of filters
+22:21:00.164 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): ill figure out that l8r, gonna sleep boys
+22:21:13.609 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): gn!
+22:21:24.483 [AI Object Patrol 00048] Spawning 3 West bots at <6785.726563, 344.100006, 4845.451172>
+22:21:24.514 [AI Object Patrol 00048] Global patrol count: 4
+22:21:24.523 [AI Object Patrol 00048] HelicopterWreck category patrol count: 2
+22:21:25.537 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): tinker with it, there are more controls in the settings
+22:21:39.306 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): num pad asterisk is key i think
+22:22:31.597 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): melt
+22:22:35.422 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): back to car
+22:22:39.144 [VehicleEngine] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) stopped vehicle UH-1H (id=EAA8192BAC4CFD709CBAC6A1DB7BC89A pos=<7212.5, 380.02, 3933.81>)
+22:22:48.099 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): i found a crashed heli im gonna check it out
+22:22:52.831 [VehicleLeave] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) left vehicle UH-1H (id=EAA8192BAC4CFD709CBAC6A1DB7BC89A pos=<7212.46, 380.01, 3933.85>)
+22:23:12.437 [AI Object Patrol 00046] East bots were wiped out (spawn position <7188.615234, 382.635529, 3720.863525>, 1/1 deceased)
+22:23:12.447 [AI Object Patrol 00046] Global patrol count: 3
+22:23:12.457 [AI Object Patrol 00046] HelicopterWreck category patrol count: 1
+22:23:43.701 [AI Object Patrol 00014] Spawning 1 West bots at <4090.476318, 238.260147, 10192.112305>
+22:23:43.731 [AI Object Patrol 00014] Global patrol count: 4
+22:23:43.740 [AI Object Patrol 00014] ContaminatedArea category patrol count: 2
+22:24:46.861 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): i see the smoke
+22:24:50.823 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): want help?
+22:25:12.621 [VehicleEngine] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) stopped vehicle UH-1H (id=81F79584E1468E326FDD019A29A500E3 pos=<3694.08, 238.25, 10062.3>)
+22:25:19.553 [VehicleLeave] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) left vehicle UH-1H (id=81F79584E1468E326FDD019A29A500E3 pos=<3694.47, 238.13, 10062.6>)
+22:26:02.606 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): I'm dipping my head into the airfield
+22:26:16.255 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): nice we were going to do that
+22:26:36.857 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Mainly to test how long the M50 lasts
+22:26:44.553 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): And see if you can refill it with charcoal
+22:28:24.530 [AI Object Patrol 00014] West bots were wiped out (spawn position <4090.476318, 238.260147, 10192.112305>, 1/1 deceased)
+22:28:24.540 [AI Object Patrol 00014] Global patrol count: 3
+22:28:24.552 [AI Object Patrol 00014] ContaminatedArea category patrol count: 1
+22:28:25.016 [AI Object Patrol 00013] Spawning 3 West bots at <4440.995605, 233.330078, 10556.612305>
+22:28:25.046 [AI Object Patrol 00013] Global patrol count: 4
+22:28:25.057 [AI Object Patrol 00013] ContaminatedArea category patrol count: 2
+22:28:36.971 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): M50 BAD
+22:28:52.697 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): How long?
+22:29:25.345 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Probably as long as a vanilla filter
+22:29:50.004 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): If you have the Ronin belt which has a dedicated slot for ONLY the M50 it'd make a good emergency mask for dynamic gas
+22:30:06.212 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Otherwise, only hope is it being refillable which I'll test now
+22:30:09.794 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): yea i dont think i have a m50
+22:30:33.862 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): i found a rocket launcher lol
+22:30:41.034 [VehicleEnter] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) entered vehicle Land Rover Defender (id=9E837385694113FF4B61A2A698A3FB0A pos=<6122.58, 386.12, 3940.77>) as driver
+22:30:43.083 [VehicleEngine] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) started vehicle Land Rover Defender (id=9E837385694113FF4B61A2A698A3FB0A pos=<6122.58, 386.12, 3940.77>)
+22:31:00.341 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Land Rover Defender (id=9E837385694113FF4B61A2A698A3FB0A pos=<6134.87, 386.68, 3954.6>)
+22:31:00.366 [VehicleLeave] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) left vehicle Land Rover Defender (id=9E837385694113FF4B61A2A698A3FB0A pos=<6134.87, 386.68, 3954.6>)
+22:32:57.132 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Ok, so it seems like the M50 is actually (who would've guessed) a reskinned Combat Gas Mask so it'll probably last a full 12.5 minutes in gas (I started my timer late but it checks out)
+22:33:24.633 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): thats pretty good tho
+22:33:28.999 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): With that in mind, they're kinda pitiful
+22:33:37.975 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): No, that's horseshit
+22:33:51.624 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): 12.5 minutes and that's it, no refill, no switching out the filter
+22:33:58.718 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): yea thats true
+22:34:10.310 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Yes, it's good as an emergency "oh shit gas dropped on my head" mask and that's it
+22:34:24.048 [VehicleEnter] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) entered vehicle UH-1H (id=EAA8192BAC4CFD709CBAC6A1DB7BC89A pos=<7212.24, 379.99, 3933.92>) as pilot
+22:34:26.090 [VehicleEngine] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) started vehicle UH-1H (id=EAA8192BAC4CFD709CBAC6A1DB7BC89A pos=<7212.22, 379.99, 3933.92>)
+22:34:35.970 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Go get a respirator and detachable filters if you want to go PermaGas diving
+22:35:01.182 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): whos flying over nadbor
+22:35:04.230 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): me
+22:35:15.253 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): hell yea 
+22:35:19.720 [AI Object Patrol 00044] Despawning 3 West bots (spawn position <5529.733398, 419.963684, 3728.645752>, 0/3 deceased)
+22:35:19.730 [AI Object Patrol 00044] Global patrol count: 3
+22:35:19.740 [AI Object Patrol 00044] ContaminatedArea category patrol count: 1
+22:35:30.978 [VehicleEnter] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) entered vehicle UH-1H (id=81F79584E1468E326FDD019A29A500E3 pos=<3694.28, 238.12, 10062.6>) as pilot
+22:35:34.258 [VehicleEngine] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) started vehicle UH-1H (id=81F79584E1468E326FDD019A29A500E3 pos=<3694.25, 238.12, 10062.6>)
+22:36:06.284 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Will definitely be keeping my M50 for dynamics but it isn't cut out for the airfield or Radunin or whatever the other permanent one is
+22:36:41.046 [AI Object Patrol 00015] Spawning 2 West bots at <3772.113770, 243.062881, 10297.070313>
+22:36:41.077 [AI Object Patrol 00015] Global patrol count: 4
+22:36:41.087 [AI Object Patrol 00015] ContaminatedArea category patrol count: 2
+22:37:11.202 [AI Object Patrol 00046] Despawning 0 East bots (spawn position <7190.525391, 382.888794, 3717.558105>, 1/1 deceased)
+22:38:08.477 [AI Object Patrol 00055] Spawning 1 East bots at <5665.957520, 342.178406, 5773.200684>
+22:38:08.508 [AI Object Patrol 00055] Global patrol count: 5
+22:38:08.518 [AI Object Patrol 00055] HelicopterWreck category patrol count: 2
+22:38:18.792 [VehicleEngine] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) stopped vehicle UH-1H (id=EAA8192BAC4CFD709CBAC6A1DB7BC89A pos=<9082.8, 341.83, 4434.08>)
+22:38:26.334 [VehicleLeave] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) left vehicle UH-1H (id=EAA8192BAC4CFD709CBAC6A1DB7BC89A pos=<9082.87, 341.69, 4434.13>)
+22:38:32.536 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): did you land?
+22:38:36.167 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): yup
+22:39:13.377 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): i found a SVD
+22:39:23.731 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): nice
+22:39:40.544 [VehicleEngine] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) stopped vehicle UH-1H (id=81F79584E1468E326FDD019A29A500E3 pos=<6494.13, 392.77, 3800.43>)
+22:39:45.157 [VehicleLeave] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) left vehicle UH-1H (id=81F79584E1468E326FDD019A29A500E3 pos=<6494.13, 392.78, 3800.47>)
+22:39:52.184 [VehicleEnter] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) entered vehicle Land Rover Defender (id=9E837385694113FF4B61A2A698A3FB0A pos=<6134.87, 386.68, 3954.6>) as driver
+22:39:54.333 [VehicleEngine] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) started vehicle Land Rover Defender (id=9E837385694113FF4B61A2A698A3FB0A pos=<6134.87, 386.68, 3954.6>)
+22:40:15.952 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): dynamic over nadbor
+22:40:20.170 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Why does it seem like Nadbor just attracts gas?
+22:41:33.058 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): AI dead at the crash next to Nadbor military?
+22:41:41.834 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): yep
+22:42:37.386 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Land Rover Defender (id=9E837385694113FF4B61A2A698A3FB0A pos=<9108.66, 340.53, 4440.18>)
+22:42:37.432 [VehicleLeave] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) left vehicle Land Rover Defender (id=9E837385694113FF4B61A2A698A3FB0A pos=<9108.66, 340.53, 4440.18>)
+22:42:44.824 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:42:44.834 [BaseBuildingRaiding] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw= pos=<9113.52, 340.19, 4432.64>) damaged ExpansionWall6x3 at <9114.6, 339.83, 4435.88>
+22:42:44.844 [BaseBuildingRaiding] They dealt 160 * 1 = 160 damage with Bullet_762x54Tracer from SkyFall_PKP
+22:42:44.855 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29840
+22:42:44.865 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:43:11.290 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:43:11.302 [BaseBuildingRaiding] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw= pos=<9110.18, 341.73, 4440.15>) damaged ExpansionWall6x3 at <9113.52, 339.83, 4429.98>
+22:43:11.313 [BaseBuildingRaiding] They dealt 148.361 * 1 = 148.361 damage with Bullet_762x54Tracer from SkyFall_PKP
+22:43:11.323 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29680 to 29531.6
+22:43:11.333 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:43:55.616 [VehicleEnter] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) entered vehicle Land Rover Defender (id=9E837385694113FF4B61A2A698A3FB0A pos=<9108.66, 340.53, 4440.18>) as driver
+22:43:57.354 [VehicleEngine] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) started vehicle Land Rover Defender (id=9E837385694113FF4B61A2A698A3FB0A pos=<9108.66, 340.53, 4440.18>)
+22:44:23.432 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Land Rover Defender (id=9E837385694113FF4B61A2A698A3FB0A pos=<9127.36, 339.8, 4430.08>)
+22:44:23.652 [VehicleLeave] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) left vehicle Land Rover Defender (id=9E837385694113FF4B61A2A698A3FB0A pos=<9127.36, 339.8, 4430.08>)
+22:46:54.118 [AI Object Patrol 00013] Despawning 3 West bots (spawn position <4440.995605, 233.330078, 10556.612305>, 0/3 deceased)
+22:46:54.127 [AI Object Patrol 00013] Global patrol count: 4
+22:46:54.136 [AI Object Patrol 00013] ContaminatedArea category patrol count: 1
+22:46:59.118 [AI Object Patrol 00015] Despawning 2 West bots (spawn position <3772.113770, 243.062881, 10297.070313>, 0/2 deceased)
+22:46:59.130 [AI Object Patrol 00015] Global patrol count: 3
+22:46:59.144 [AI Object Patrol 00015] ContaminatedArea category patrol count: 0
+22:48:53.495 [AI Object Patrol 00055] Despawning 1 East bots (spawn position <5665.957520, 342.178406, 5773.200684>, 0/1 deceased)
+22:48:53.505 [AI Object Patrol 00055] Global patrol count: 2
+22:48:53.514 [AI Object Patrol 00055] HelicopterWreck category patrol count: 1
+22:51:03.076 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): But yeah, start grabbing all the charcoal tablets you can find and at least 2 filters for when you go into a PermaGas zone, maybe 3 since AI are there
+22:51:18.871 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): yea ive got a bunch of filter
+22:54:11.299 [AI Object Patrol 00054] Spawning 2 West bots at <6034.872559, 387.259399, 4175.211914>
+22:54:11.334 [AI Object Patrol 00054] Global patrol count: 3
+22:54:11.344 [AI Object Patrol 00054] ContaminatedArea category patrol count: 1
+22:54:54.157 [AI Object Patrol 00048] Despawning 3 West bots (spawn position <6785.726563, 344.100006, 4845.451172>, 0/3 deceased)
+22:54:54.167 [AI Object Patrol 00048] Global patrol count: 2
+22:54:54.177 [AI Object Patrol 00048] HelicopterWreck category patrol count: 0
+22:56:57.579 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): weve got the full pilot outfit
+22:56:59.907 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): did you see
+22:57:05.041 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): NO
+23:02:22.429 [Party] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) left the party "Leviathan Magnificent" (id=3 ownerUID=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw= ownerName=Saint (2))
+23:14:26.011 [AI Object Patrol 00054] Despawning 2 West bots (spawn position <6034.872559, 387.259399, 4175.211914>, 0/2 deceased)
+23:14:26.022 [AI Object Patrol 00054] Global patrol count: 1
+23:14:26.032 [AI Object Patrol 00054] ContaminatedArea category patrol count: 0
+23:47:00.531 [AI Object Patrol 00037] Despawning East patrol (spawn position <5898.210938, 406.513367, 3572.937256>)
+01:35:19.649 [VehicleEnter] Player "vERKE" (id=yvJkN5qXM69k4xYaDnfdkc8E-_KSFkOOk2WBLvNcg54=) entered vehicle M3S Covered (id=9BF37D92484FA8CAE64B59A5E651CFE4 pos=<11318, 215.88, 636.08>) as driver
+01:35:28.515 [VehicleLeave] Player "vERKE" (id=yvJkN5qXM69k4xYaDnfdkc8E-_KSFkOOk2WBLvNcg54=) left vehicle M3S Covered (id=9BF37D92484FA8CAE64B59A5E651CFE4 pos=<11318, 215.88, 636.1>)
+05:19:39.892 [AI Object Patrol 00097] Spawning 1 East bots at <10789.611328, 314.874146, 5036.643555>
+05:19:39.920 [AI Object Patrol 00097] Global patrol count: 2
+05:19:39.930 [AI Object Patrol 00097] HelicopterWreck category patrol count: 1
+05:30:17.300 [VehicleEnter] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) entered vehicle Mh-6 Little Bird (id=85D451F846424C692CD392BEFA41AFD5 pos=<11309.2, 355.92, 4217.1>) as pilot
+05:30:20.994 [VehicleEngine] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) started vehicle Mh-6 Little Bird (id=85D451F846424C692CD392BEFA41AFD5 pos=<11309.2, 355.92, 4217.17>)
+05:31:38.425 [AI Object Patrol 00094] Spawning 2 East bots at <11601.548828, 309.037598, 4315.057617>
+05:31:38.463 [AI Object Patrol 00094] Global patrol count: 3
+05:31:38.473 [AI Object Patrol 00094] HelicopterWreck category patrol count: 2
+05:32:23.571 [AI Object Patrol 00094] Despawning 2 East bots (spawn position <11601.548828, 309.037598, 4315.057617>, 0/2 deceased)
+05:32:23.581 [AI Object Patrol 00094] Global patrol count: 2
+05:32:23.592 [AI Object Patrol 00094] HelicopterWreck category patrol count: 1
+05:33:19.707 [AI Object Patrol 00097] Despawning 1 East bots (spawn position <10789.611328, 314.874146, 5036.643555>, 0/1 deceased)
+05:33:19.814 [AI Object Patrol 00097] Global patrol count: 1
+05:33:19.947 [AI Object Patrol 00097] HelicopterWreck category patrol count: 0
+05:36:37.127 [VehicleEngine] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) stopped vehicle Mh-6 Little Bird (id=85D451F846424C692CD392BEFA41AFD5 pos=<10784.8, 201.59, 10997.5>)
+05:36:44.270 [VehicleLeave] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) left vehicle Mh-6 Little Bird (id=85D451F846424C692CD392BEFA41AFD5 pos=<10785, 201.24, 10997.4>)
+05:45:30.118 [VehicleEnter] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) entered vehicle Mh-6 Little Bird (id=85D451F846424C692CD392BEFA41AFD5 pos=<10785.4, 200.9, 10997.4>) as pilot
+05:45:34.790 [VehicleLeave] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) left vehicle Mh-6 Little Bird (id=85D451F846424C692CD392BEFA41AFD5 pos=<10785.4, 200.9, 10997.4>)
+05:50:12.826 [VehicleEnter] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) entered vehicle Mh-6 Little Bird (id=85D451F846424C692CD392BEFA41AFD5 pos=<10785.4, 200.77, 10997.4>) as pilot
+05:50:17.094 [VehicleEngine] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) started vehicle Mh-6 Little Bird (id=85D451F846424C692CD392BEFA41AFD5 pos=<10785.4, 200.7, 10997.4>)
+05:50:40.743 [VehicleEngine] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) stopped vehicle Mh-6 Little Bird (id=85D451F846424C692CD392BEFA41AFD5 pos=<10784.7, 201.72, 10996.3>)
+05:50:49.860 [VehicleLeave] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) left vehicle Mh-6 Little Bird (id=85D451F846424C692CD392BEFA41AFD5 pos=<10784.7, 201.75, 10996.2>)
+05:51:21.680 [VehicleEnter] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) entered vehicle Mh-6 Little Bird (id=85D451F846424C692CD392BEFA41AFD5 pos=<10784.7, 200.54, 10996.2>) as pilot
+05:51:24.541 [VehicleEngine] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) started vehicle Mh-6 Little Bird (id=85D451F846424C692CD392BEFA41AFD5 pos=<10784.7, 200.54, 10996.2>)
+05:53:44.257 [AI Object Patrol 00114] Spawning 3 East bots at <11843.721680, 280.643158, 6006.925781>
+05:53:44.303 [AI Object Patrol 00114] Global patrol count: 2
+05:53:44.316 [AI Object Patrol 00114] HelicopterWreck category patrol count: 1
+05:55:55.137 [VehicleEngine] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) stopped vehicle Mh-6 Little Bird (id=85D451F846424C692CD392BEFA41AFD5 pos=<11305.6, 355.94, 4217.89>)
+05:55:59.088 [VehicleLeave] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) left vehicle Mh-6 Little Bird (id=85D451F846424C692CD392BEFA41AFD5 pos=<11305.6, 355.93, 4217.83>)
+06:00:19.843 [VehicleEnter] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) entered vehicle Mh-6 Little Bird (id=85D451F846424C692CD392BEFA41AFD5 pos=<11305.7, 355.92, 4217.31>) as pilot
+06:00:24.195 [VehicleLeave] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) left vehicle Mh-6 Little Bird (id=85D451F846424C692CD392BEFA41AFD5 pos=<11305.7, 355.92, 4217.22>)
+06:04:21.552 [AI Object Patrol 00114] Despawning 3 East bots (spawn position <11843.721680, 280.643158, 6006.925781>, 0/3 deceased)
+06:04:21.563 [AI Object Patrol 00114] Global patrol count: 1
+06:04:21.573 [AI Object Patrol 00114] HelicopterWreck category patrol count: 0
+06:07:06.058 [VehicleEnter] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) entered vehicle Mh-6 Little Bird (id=85D451F846424C692CD392BEFA41AFD5 pos=<11305.7, 355.92, 4217.08>) as pilot
+06:07:08.357 [VehicleEngine] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) started vehicle Mh-6 Little Bird (id=85D451F846424C692CD392BEFA41AFD5 pos=<11305.7, 355.92, 4217.04>)
+06:11:17.438 [VehicleEngine] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) stopped vehicle Mh-6 Little Bird (id=85D451F846424C692CD392BEFA41AFD5 pos=<10784.9, 205.54, 10994.3>)
+06:11:33.102 [VehicleLeave] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) left vehicle Mh-6 Little Bird (id=85D451F846424C692CD392BEFA41AFD5 pos=<10798, 179.31, 11001.8>)
+06:44:18.752 [VehicleEnter] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) entered vehicle Mh-6 Little Bird (id=85D451F846424C692CD392BEFA41AFD5 pos=<10797.8, 177.92, 11002>) as pilot
+06:44:21.498 [VehicleEngine] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) started vehicle Mh-6 Little Bird (id=85D451F846424C692CD392BEFA41AFD5 pos=<10797.8, 177.92, 11002>)
+06:44:31.739 [VehicleEngine] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) stopped vehicle Mh-6 Little Bird (id=85D451F846424C692CD392BEFA41AFD5 pos=<10797.8, 177.92, 11002>)
+06:44:36.023 [VehicleLeave] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) left vehicle Mh-6 Little Bird (id=85D451F846424C692CD392BEFA41AFD5 pos=<10797.8, 177.92, 11002>)
+06:48:45.535 [BaseRaiding] ExpansionWall6x3 (<10790.256836, 197.195282, 10990.813477>) Code changed by "player "Akira" (ID = "_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=" at <10789.656250, 197.446808, 10991.354492>)" and the new code is 1997
+06:50:52.822 [VehicleEnter] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) entered vehicle Mh-6 Little Bird (id=85D451F846424C692CD392BEFA41AFD5 pos=<10797.8, 177.92, 11002>) as pilot
+06:50:57.063 [VehicleEngine] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) started vehicle Mh-6 Little Bird (id=85D451F846424C692CD392BEFA41AFD5 pos=<10797.8, 177.92, 11002>)
+06:51:42.332 [AI Patrol 00020] Spawning 1 East bots at <9450.370117, 241.940002, 10341.059570>
+06:51:42.366 [AI Patrol 00020] Global patrol count: 2
+06:51:42.376 [AI Patrol 00020] Patrol category patrol count: 2
+06:51:43.849 [AI Patrol 00019] Spawning 2 East bots at <9116.750977, 203.905991, 10993.100586>
+06:51:43.881 [AI Patrol 00019] Global patrol count: 3
+06:51:43.890 [AI Patrol 00019] Patrol category patrol count: 3
+06:53:00.147 [AI Object Patrol 00125] Spawning 2 West bots at <10522.940430, 269.484131, 7473.961426>
+06:53:00.176 [AI Object Patrol 00125] Global patrol count: 4
+06:53:00.186 [AI Object Patrol 00125] HelicopterWreck category patrol count: 1
+06:55:56.100 [VehicleEngine] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) stopped vehicle Mh-6 Little Bird (id=85D451F846424C692CD392BEFA41AFD5 pos=<11306.8, 355.92, 4217.18>)
+06:56:05.126 [VehicleLeave] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) left vehicle Mh-6 Little Bird (id=85D451F846424C692CD392BEFA41AFD5 pos=<11306.8, 355.92, 4217.34>)
+07:02:15.829 [AI Patrol 00019] Despawning 2 East bots (spawn position <9116.750977, 203.905991, 10993.100586>, 0/2 deceased)
+07:02:15.841 [AI Patrol 00019] Global patrol count: 3
+07:02:15.851 [AI Patrol 00019] Patrol category patrol count: 2
+07:02:31.351 [AI Patrol 00020] Despawning 1 East bots (spawn position <9450.370117, 241.940002, 10341.059570>, 0/1 deceased)
+07:02:31.362 [AI Patrol 00020] Global patrol count: 2
+07:02:31.372 [AI Patrol 00020] Patrol category patrol count: 1
+07:03:43.908 [AI Object Patrol 00125] Despawning 2 West bots (spawn position <10522.940430, 269.484131, 7473.961426>, 0/2 deceased)
+07:03:43.925 [AI Object Patrol 00125] Global patrol count: 1
+07:03:43.943 [AI Object Patrol 00125] HelicopterWreck category patrol count: 0
+07:04:17.924 [Territory] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) created territory "silverbloods" at <11301.492188, 355.816895, 4225.232910>
+08:12:22.186 [AI Object Patrol 00133] Spawning 3 West bots at <9966.412109, 353.059204, 3894.555664>
+08:12:22.245 [AI Object Patrol 00133] Global patrol count: 2
+08:12:22.255 [AI Object Patrol 00133] ContaminatedArea category patrol count: 1
+08:13:59.191 [Chat - Global]("Akira"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): hows it going today?
+08:17:11.156 [SpawnSelection] Player "Loopi" (id=cjhnvaEBZcVm3jiVMrObKA9W4N6DBwnPnyBODJOOimA=) spawned at <6517.890137, 308.565002, 4777.350098>
+08:17:11.178 [AI Object Patrol 00137] Spawning 2 East bots at <5908.493652, 377.826324, 5027.564941>
+08:17:11.214 [AI Object Patrol 00137] Global patrol count: 3
+08:17:11.224 [AI Object Patrol 00137] HelicopterWreck category patrol count: 1
+08:17:11.234 [AI Object Patrol 00134] Spawning 2 West bots at <6163.314453, 386.293732, 4062.296387>
+08:17:11.267 [AI Object Patrol 00134] Global patrol count: 4
+08:17:11.276 [AI Object Patrol 00134] ContaminatedArea category patrol count: 2
+08:19:46.250 [AI Object Patrol 00133] West bots were wiped out (spawn position <9966.412109, 353.059204, 3894.555664>, 3/3 deceased)
+08:19:46.260 [AI Object Patrol 00133] Global patrol count: 3
+08:19:46.270 [AI Object Patrol 00133] ContaminatedArea category patrol count: 1
+08:22:10.320 [SpawnSelection] Player "Loopi" (id=cjhnvaEBZcVm3jiVMrObKA9W4N6DBwnPnyBODJOOimA=) spawned at <6517.890137, 308.565002, 4777.350098>
+08:27:46.337 [SpawnSelection] Player "Loopi" (id=cjhnvaEBZcVm3jiVMrObKA9W4N6DBwnPnyBODJOOimA=) spawned at <6494.669922, 308.559998, 4704.560059>
+08:29:57.245 [AI Object Patrol 00133] Despawning 0 West bots (spawn position <9966.412109, 353.059204, 3894.555664>, 3/3 deceased)
+08:29:57.255 [AI Object Patrol 00134] Despawning 2 West bots (spawn position <6163.314453, 386.293732, 4062.296387>, 0/2 deceased)
+08:29:57.265 [AI Object Patrol 00134] Global patrol count: 2
+08:29:57.275 [AI Object Patrol 00134] ContaminatedArea category patrol count: 0
+08:48:05.431 [AI Object Patrol 00137] Despawning 1 East bots (spawn position <5908.493652, 377.826324, 5027.564941>, 1/2 deceased)
+08:48:05.442 [AI Object Patrol 00137] Global patrol count: 1
+08:48:05.453 [AI Object Patrol 00137] HelicopterWreck category patrol count: 0
+08:48:22.346 [AI Object Patrol 00138] Spawning 3 East bots at <6199.869629, 268.819855, 6925.459961>
+08:48:22.381 [AI Object Patrol 00138] Global patrol count: 2
+08:48:22.391 [AI Object Patrol 00138] HelicopterWreck category patrol count: 1
+08:52:17.030 [AI Object Patrol 00138] Despawning 3 East bots (spawn position <6199.869629, 268.819855, 6925.459961>, 0/3 deceased)
+08:52:17.041 [AI Object Patrol 00138] Global patrol count: 1
+08:52:17.051 [AI Object Patrol 00138] HelicopterWreck category patrol count: 0
+10:07:32.956 [AI Object Patrol 00164] Spawning 3 West bots at <8488.841797, 387.732788, 2814.618896>
+10:07:32.988 [AI Object Patrol 00164] Global patrol count: 2
+10:07:32.998 [AI Object Patrol 00164] HelicopterWreck category patrol count: 1
+10:12:30.365 [SpawnSelection] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) spawned at <11302.492188, 355.816895, 4226.232910>
+10:18:41.008 [AI Object Patrol 00164] West bots were wiped out (spawn position <8488.841797, 387.732788, 2814.618896>, 3/3 deceased)
+10:18:41.018 [AI Object Patrol 00164] Global patrol count: 1
+10:18:41.030 [AI Object Patrol 00164] HelicopterWreck category patrol count: 0
+10:30:09.756 [AI Object Patrol 00164] Despawning 0 West bots (spawn position <8479.943359, 385.976501, 2841.668213>, 3/3 deceased)
+10:42:10.748 [AI Object Patrol 00180] Spawning 2 West bots at <7251.023438, 287.139069, 2581.111572>
+10:42:10.776 [AI Object Patrol 00180] Global patrol count: 2
+10:42:10.786 [AI Object Patrol 00180] ContaminatedArea category patrol count: 1
+10:54:51.541 [AI Object Patrol 00180] Despawning 2 West bots (spawn position <7251.023438, 287.139069, 2581.111572>, 0/2 deceased)
+10:54:51.552 [AI Object Patrol 00180] Global patrol count: 1
+10:54:51.562 [AI Object Patrol 00180] ContaminatedArea category patrol count: 0
+10:59:57.411 [Chat - Global]("Akira"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): hey snake hows it going today
+11:00:40.104 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): supp dude, im on a flight rn lol
+11:03:22.828 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): b on l8r man have fun
+11:03:43.864 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): g
+11:30:22.921 [AI Object Patrol 00195] Spawning 1 West bots at <7238.246582, 306.739563, 2801.383057>
+11:30:23.049 [AI Object Patrol 00195] Global patrol count: 2
+11:30:23.164 [AI Object Patrol 00195] ContaminatedArea category patrol count: 1
+11:35:21.113 [VehicleDestroyed] Sedan_02_Grey (id=D0E49E269D4A5C6DBE919EA75AA2DD29 pos=<4943.42, 523.48, 2095.41>)
+11:41:18.522 [AI Object Patrol 00195] Despawning 1 West bots (spawn position <7238.246582, 306.739563, 2801.383057>, 0/1 deceased)
+11:41:18.533 [AI Object Patrol 00195] Global patrol count: 1
+11:41:18.542 [AI Object Patrol 00195] ContaminatedArea category patrol count: 0
+12:01:22.053 [AI Object Patrol 00200] Spawning 3 West bots at <11498.086914, 329.750000, 4599.639160>
+12:01:22.085 [AI Object Patrol 00200] Global patrol count: 2
+12:01:22.095 [AI Object Patrol 00200] ContaminatedArea category patrol count: 1
+12:01:44.904 [VehicleDeleted] Sedan_02_Grey (id=D0E49E269D4A5C6DBE919EA75AA2DD29 pos=<4943.42, 523.48, 2095.41>)
+12:25:40.780 [AI Object Patrol 00200] West bots were wiped out (spawn position <11498.086914, 329.750000, 4599.639160>, 3/3 deceased)
+12:25:40.790 [AI Object Patrol 00200] Global patrol count: 1
+12:25:40.800 [AI Object Patrol 00200] ContaminatedArea category patrol count: 0
+12:28:18.456 [AI Object Patrol 00200] Despawning 0 West bots (spawn position <11498.678711, 329.829987, 4673.008301>, 3/3 deceased)
+12:34:23.406 [Chat - Global]("NickTDrizzy"(id=fzd8mumj1VPzVcH_vKQyOZDa8Y7YQ1MVWhxYlcHMvMw=)): whats up 
+12:51:58.722 [AI Object Patrol 00218] Spawning 3 West bots at <5268.540039, 369.142212, 5650.604980>
+12:51:58.757 [AI Object Patrol 00218] Global patrol count: 2
+12:51:58.767 [AI Object Patrol 00218] ContaminatedArea category patrol count: 1
+12:57:49.645 [AI Object Patrol 00215] Spawning 1 East bots at <10455.808594, 316.191956, 4584.191406>
+12:57:49.684 [AI Object Patrol 00215] Global patrol count: 3
+12:57:49.694 [AI Object Patrol 00215] HelicopterWreck category patrol count: 1
+13:04:49.050 [AI Object Patrol 00218] Despawning 3 West bots (spawn position <5268.540039, 369.142212, 5650.604980>, 0/3 deceased)
+13:04:49.060 [AI Object Patrol 00218] Global patrol count: 2
+13:04:49.070 [AI Object Patrol 00218] ContaminatedArea category patrol count: 0
+13:05:24.214 [BaseRaiding] ExpansionSafeLarge (<11300.532227, 351.801300, 4224.219727>) Code set by "player "Akira" (ID = "_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=" at <11301.753906, 351.841217, 4225.040527>)" and the code is 1997
+13:17:46.581 [AI Object Patrol 00215] Despawning 1 East bots (spawn position <10455.808594, 316.191956, 4584.191406>, 0/1 deceased)
+13:17:46.591 [AI Object Patrol 00215] Global patrol count: 1
+13:17:46.602 [AI Object Patrol 00215] HelicopterWreck category patrol count: 0
+13:29:09.909 [VehicleAttachments] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) detached Jerrycan (type=CanisterGasoline) from vehicle Land Rover Defender (id=673F062D2B46F14078CCD5B9AD1713C0 pos=<1811.85, 199.96, 7366.36>)
+13:29:34.647 [VehicleEnter] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) entered vehicle Land Rover Defender (id=673F062D2B46F14078CCD5B9AD1713C0 pos=<1811.85, 199.96, 7366.36>) as driver
+13:29:36.576 [VehicleLeave] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) left vehicle Land Rover Defender (id=673F062D2B46F14078CCD5B9AD1713C0 pos=<1811.85, 199.96, 7366.36>)
+13:30:17.382 [VehicleEnter] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) entered vehicle Land Rover Defender (id=673F062D2B46F14078CCD5B9AD1713C0 pos=<1811.85, 199.96, 7366.36>) as driver
+13:30:24.862 [VehicleLeave] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) left vehicle Land Rover Defender (id=673F062D2B46F14078CCD5B9AD1713C0 pos=<1811.85, 199.96, 7366.36>)
+13:30:32.273 [VehicleEnter] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) entered vehicle Land Rover Defender (id=673F062D2B46F14078CCD5B9AD1713C0 pos=<1811.85, 199.96, 7366.36>) as driver
+13:30:43.792 [VehicleEngine] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) started vehicle Land Rover Defender (id=673F062D2B46F14078CCD5B9AD1713C0 pos=<1811.85, 199.96, 7366.36>)
+13:31:46.718 [AI Object Patrol 00225] Spawning 3 East bots at <11381.452148, 297.517517, 5137.503906>
+13:31:46.748 [AI Object Patrol 00225] Global patrol count: 2
+13:31:46.758 [AI Object Patrol 00225] HelicopterWreck category patrol count: 1
+13:32:33.062 [VehicleEngine] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) stopped vehicle Land Rover Defender (id=673F062D2B46F14078CCD5B9AD1713C0 pos=<11307.7, 346.87, 4235.45>)
+13:32:35.515 [VehicleLeave] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) left vehicle Land Rover Defender (id=673F062D2B46F14078CCD5B9AD1713C0 pos=<11307.7, 346.87, 4235.45>)
+13:32:59.888 [VehicleCarKey] PPlayer "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8= pos=<11307.4, 346.92, 4236.68>) paired ExpansionCarKey to Expansion_Landrover_Red (id=673F062D2B46F14078CCD5B9AD1713C0 pos=<11307.7, 346.87, 4235.45>)
+13:33:01.920 [VehicleCarKey] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8= pos=<11307.7, 346.92, 4236.8>) used ExpansionCarKey to lock Expansion_Landrover_Red (id=673F062D2B46F14078CCD5B9AD1713C0 pos=<11307.7, 346.87, 4235.45>)
+13:39:09.115 [Chat - Direct]("NickTDrizzy"(id=fzd8mumj1VPzVcH_vKQyOZDa8Y7YQ1MVWhxYlcHMvMw=)): yoo
+13:39:13.670 [Chat - Global]("NickTDrizzy"(id=fzd8mumj1VPzVcH_vKQyOZDa8Y7YQ1MVWhxYlcHMvMw=)): yooo
+13:39:22.283 [VehicleEnter] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) entered vehicle Land Rover Defender (id=673F062D2B46F14078CCD5B9AD1713C0 pos=<11307.7, 346.87, 4235.45>) as driver
+13:39:24.465 [VehicleEngine] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) started vehicle Land Rover Defender (id=673F062D2B46F14078CCD5B9AD1713C0 pos=<11307.7, 346.87, 4235.45>)
+13:39:37.745 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Land Rover Defender (id=673F062D2B46F14078CCD5B9AD1713C0 pos=<11296.5, 346.8, 4245.53>)
+13:39:37.792 [VehicleLeave] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) left vehicle Land Rover Defender (id=673F062D2B46F14078CCD5B9AD1713C0 pos=<11296.5, 346.8, 4245.53>)
+13:40:55.908 [Party] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) joined the party "Dragon Shadowed" (id=4 ownerUID= ownerName=)
+13:40:56.178 [Party] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) created a party named Dragon Shadowed (Drago)
+13:40:56.330 [Party] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) invited the player "Survivor" (id=7Z0-Qd_l-RdPlxSsjREkkjX-GxvLeS4WEoUXbkvpXr8=)to the party named Dragon Shadowed
+13:43:14.052 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Anyone know how to get the group shit to work? Like accepting an invite?
+13:43:54.559 [Chat - Global]("NickTDrizzy"(id=fzd8mumj1VPzVcH_vKQyOZDa8Y7YQ1MVWhxYlcHMvMw=)): nah i dont sorry man. snake prolly knows if you ping the discord tho
+13:43:59.407 [Chat - Global]("NickTDrizzy"(id=fzd8mumj1VPzVcH_vKQyOZDa8Y7YQ1MVWhxYlcHMvMw=)): bro is on top of shit
+13:44:24.378 [Chat - Global]("Akira"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): i can look into it one second
+13:47:36.459 [Chat - Global]("Akira"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): whats yalls group name
+13:59:21.429 [Chat - Global]("Akira"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): zoner whats ur mates name?
+14:01:39.095 [Party] Player "Survivor" (id=7Z0-Qd_l-RdPlxSsjREkkjX-GxvLeS4WEoUXbkvpXr8=) joined the party "Dragon Shadowed" (id=4 ownerUID=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU= ownerName=PoiiZoner3)
+14:01:39.154 [COT] Expansion Groups Manager - Akira [_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=] has invited the player Survivor into the group [4] Dragon Shadowed
+14:01:45.621 [Chat - Direct]("Survivor"(id=7Z0-Qd_l-RdPlxSsjREkkjX-GxvLeS4WEoUXbkvpXr8=)): Yes
+14:08:16.469 [AI Object Patrol 00237] Spawning 2 West bots at <11047.504883, 346.243256, 4350.983887>
+14:08:16.502 [AI Object Patrol 00237] Global patrol count: 3
+14:08:16.512 [AI Object Patrol 00237] ContaminatedArea category patrol count: 1
+14:08:46.122 [AI Object Patrol 00225] Despawning 3 East bots (spawn position <11381.452148, 297.517517, 5137.503906>, 0/3 deceased)
+14:08:46.132 [AI Object Patrol 00225] Global patrol count: 2
+14:08:46.141 [AI Object Patrol 00225] HelicopterWreck category patrol count: 0
+14:22:41.046 [VehicleEnter] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) entered vehicle Land Rover Defender (id=673F062D2B46F14078CCD5B9AD1713C0 pos=<11296.5, 346.8, 4245.53>) as driver
+14:22:46.183 [VehicleEngine] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) started vehicle Land Rover Defender (id=673F062D2B46F14078CCD5B9AD1713C0 pos=<11296.5, 346.8, 4245.53>)
+14:23:07.513 [VehicleEngine] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) stopped vehicle Land Rover Defender (id=673F062D2B46F14078CCD5B9AD1713C0 pos=<11309.4, 346.87, 4234.99>)
+14:23:11.305 [VehicleLeave] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) left vehicle Land Rover Defender (id=673F062D2B46F14078CCD5B9AD1713C0 pos=<11309.4, 346.87, 4234.99>)
+14:23:19.837 [VehicleCarKey] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8= pos=<11311, 346.92, 4236.07>) used ExpansionCarKey to lock Expansion_Landrover_Red (id=673F062D2B46F14078CCD5B9AD1713C0 pos=<11309.4, 346.87, 4234.99>)
+14:23:38.641 [BaseRaiding] ExpansionWall6x3 (<11307.812500, 346.900482, 4236.655762>) Code set by "player "Akira" (ID = "_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=" at <11305.372070, 346.924957, 4237.314941>)" and the code is 1997
+14:24:18.168 [AI Object Patrol 00233] Spawning 1 West bots at <7073.753906, 278.276367, 5605.591797>
+14:24:18.197 [AI Object Patrol 00233] Global patrol count: 3
+14:24:18.206 [AI Object Patrol 00233] HelicopterWreck category patrol count: 1
+14:30:38.648 [AI Object Patrol 00233] Despawning 1 West bots (spawn position <7073.753906, 278.276367, 5605.591797>, 0/1 deceased)
+14:30:38.658 [AI Object Patrol 00233] Global patrol count: 2
+14:30:38.668 [AI Object Patrol 00233] HelicopterWreck category patrol count: 0
+14:35:32.160 [VehicleCarKey] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8= pos=<11309.3, 346.92, 4237.4>) used ExpansionCarKey to unlock Expansion_Landrover_Red (id=673F062D2B46F14078CCD5B9AD1713C0 pos=<11309.4, 346.87, 4234.99>)
+14:35:36.924 [VehicleEnter] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) entered vehicle Land Rover Defender (id=673F062D2B46F14078CCD5B9AD1713C0 pos=<11309.4, 346.87, 4234.99>) as driver
+14:35:37.172 [VehicleCarKey] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8= pos=<11310, 347.87, 4234.94>) used ExpansionCarKey to lock Expansion_Landrover_Red (id=673F062D2B46F14078CCD5B9AD1713C0 pos=<11309.4, 346.87, 4234.99>)
+14:35:42.411 [VehicleEngine] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) started vehicle Land Rover Defender (Locked) (id=673F062D2B46F14078CCD5B9AD1713C0 pos=<11309.4, 346.87, 4234.99>)
+14:35:59.791 [VehicleCarKey] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8= pos=<11308.8, 347.87, 4236.55>) used ExpansionCarKey to lock Expansion_Landrover_Red (id=673F062D2B46F14078CCD5B9AD1713C0 pos=<11308.2, 346.87, 4236.61>)
+14:36:02.650 [VehicleCarKey] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8= pos=<11308.8, 347.87, 4236.55>) used ExpansionCarKey to lock Expansion_Landrover_Red (id=673F062D2B46F14078CCD5B9AD1713C0 pos=<11308.2, 346.87, 4236.61>)
+14:36:06.387 [VehicleEngine] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) stopped vehicle Land Rover Defender (id=673F062D2B46F14078CCD5B9AD1713C0 pos=<11308.2, 346.87, 4236.61>)
+14:36:16.867 [VehicleCarKey] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8= pos=<11308.8, 347.87, 4236.55>) used ExpansionCarKey to lock Expansion_Landrover_Red (id=673F062D2B46F14078CCD5B9AD1713C0 pos=<11308.2, 346.87, 4236.61>)
+14:36:18.837 [VehicleCarKey] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8= pos=<11308.8, 347.87, 4236.55>) used ExpansionCarKey to lock Expansion_Landrover_Red (id=673F062D2B46F14078CCD5B9AD1713C0 pos=<11308.2, 346.87, 4236.61>)
+14:36:35.940 [VehicleCarKey] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8= pos=<11308.8, 347.87, 4236.55>) used ExpansionCarKey to lock Expansion_Landrover_Red (id=673F062D2B46F14078CCD5B9AD1713C0 pos=<11308.2, 346.87, 4236.61>)
+14:36:41.788 [VehicleLeave] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) left vehicle Land Rover Defender (id=673F062D2B46F14078CCD5B9AD1713C0 pos=<11308.2, 346.87, 4236.61>)
+14:36:48.176 [VehicleCarKey] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8= pos=<11309, 346.92, 4238.15>) used ExpansionCarKey to lock Expansion_Landrover_Red (id=673F062D2B46F14078CCD5B9AD1713C0 pos=<11308.2, 346.87, 4236.61>)
+14:37:42.185 [VehicleCarKey] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8= pos=<11310.3, 346.92, 4237.38>) used ExpansionCarKey to unlock Expansion_Landrover_Red (id=673F062D2B46F14078CCD5B9AD1713C0 pos=<11308.2, 346.87, 4236.61>)
+14:37:47.678 [VehicleEnter] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) entered vehicle Land Rover Defender (id=673F062D2B46F14078CCD5B9AD1713C0 pos=<11308.2, 346.87, 4236.61>) as driver
+14:37:50.746 [VehicleEngine] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) started vehicle Land Rover Defender (id=673F062D2B46F14078CCD5B9AD1713C0 pos=<11308.2, 346.87, 4236.61>)
+14:37:58.940 [VehicleEngine] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) stopped vehicle Land Rover Defender (id=673F062D2B46F14078CCD5B9AD1713C0 pos=<11309.1, 346.87, 4234.72>)
+14:38:02.064 [VehicleLeave] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) left vehicle Land Rover Defender (id=673F062D2B46F14078CCD5B9AD1713C0 pos=<11309.1, 346.87, 4234.72>)
+14:39:31.361 [AI Object Patrol 00237] Despawning 2 West bots (spawn position <11047.504883, 346.243256, 4350.983887>, 0/2 deceased)
+14:39:31.372 [AI Object Patrol 00237] Global patrol count: 1
+14:39:31.383 [AI Object Patrol 00237] ContaminatedArea category patrol count: 0
+15:13:51.877 [BaseRaiding] ExpansionWall6x3 (<11315.032227, 351.801300, 4221.729004>) Code set by "player "Akira" (ID = "_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=" at <11313.999023, 351.841217, 4218.710449>)" and the code is 1997
+15:31:13.442 [AI Object Patrol 00260] Spawning 2 West bots at <6254.337891, 384.654114, 4173.339844>
+15:31:13.478 [AI Object Patrol 00260] Global patrol count: 2
+15:31:13.491 [AI Object Patrol 00260] ContaminatedArea category patrol count: 1
+15:38:09.837 [AI Object Patrol 00253] Spawning 1 West bots at <4736.424316, 427.743805, 3223.214844>
+15:38:09.873 [AI Object Patrol 00253] Global patrol count: 3
+15:38:09.883 [AI Object Patrol 00253] HelicopterWreck category patrol count: 1
+15:40:17.825 [AI Object Patrol 00253] Despawning 1 West bots (spawn position <4736.424316, 427.743805, 3223.214844>, 0/1 deceased)
+15:40:17.835 [AI Object Patrol 00253] Global patrol count: 2
+15:40:17.844 [AI Object Patrol 00253] HelicopterWreck category patrol count: 0
+15:44:53.074 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+15:44:53.084 [BaseBuildingRaiding] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8= pos=<9144.87, 341.96, 4417.75>) damaged ExpansionWall6x3 at <9141.55, 339.68, 4423.3>
+15:44:53.094 [BaseBuildingRaiding] They dealt 23.9667 * 1 = 23.9667 damage with Bullet_762x39Tracer from SNAFU_MK4716Gun
+15:44:53.103 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 29860 to 29836
+15:44:53.113 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+15:55:29.969 [Chat - Global]("Akira"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): whats everyone up to
+15:59:25.778 [AI Object Patrol 00260] Despawning 2 West bots (spawn position <6254.337891, 384.654114, 4173.339844>, 0/2 deceased)
+15:59:25.789 [AI Object Patrol 00260] Global patrol count: 1
+15:59:25.801 [AI Object Patrol 00260] ContaminatedArea category patrol count: 0
+16:10:58.470 [BaseRaiding] ExpansionSafeLarge (<6470.630859, 392.743378, 3795.738281>) Code set by "player "Survivor" (ID = "7Z0-Qd_l-RdPlxSsjREkkjX-GxvLeS4WEoUXbkvpXr8=" at <6469.709473, 392.783295, 3795.086670>)" and the code is 0329
+16:31:52.133 [VehicleEnter] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) entered vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<10344.6, 223.98, 5901.97>) as pilot
+16:31:54.167 [VehicleEngine] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) started vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<10344.6, 223.98, 5901.97>)
+16:32:40.207 [AI Object Patrol 00275] Spawning 3 East bots at <10781.838867, 225.462616, 7135.156738>
+16:32:40.250 [AI Object Patrol 00275] Global patrol count: 2
+16:32:40.260 [AI Object Patrol 00275] HelicopterWreck category patrol count: 1
+16:33:46.880 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<10335.7, 272.5, 7219.81>)
+16:33:46.893 [VehicleLeave] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) left vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<10335.7, 272.5, 7219.81>)
+16:34:45.271 [AI Object Patrol 00275] East bots were wiped out (spawn position <10781.838867, 225.462616, 7135.156738>, 3/3 deceased)
+16:34:45.402 [AI Object Patrol 00275] Global patrol count: 1
+16:34:45.412 [AI Object Patrol 00275] HelicopterWreck category patrol count: 0
+16:35:08.558 [VehicleEnter] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) entered vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<10335.8, 272.5, 7219.83>) as pilot
+16:35:10.486 [VehicleEngine] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) started vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<10335.8, 272.5, 7219.83>)
+16:35:46.158 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<10748.7, 226.5, 7133.82>)
+16:35:46.171 [VehicleLeave] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) left vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<10748.7, 226.5, 7133.82>)
+16:36:32.440 [Party] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) left the party "Dragon Shadowed" (id=4 ownerUID=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU= ownerName=PoiiZoner3)
+16:37:48.855 [VehicleEnter] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) entered vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<10748.6, 226.55, 7134.25>) as pilot
+16:37:50.717 [VehicleEngine] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) started vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<10748.6, 226.55, 7134.26>)
+16:38:49.669 [AI Object Patrol 00271] Spawning 2 West bots at <8761.969727, 311.478943, 6537.588379>
+16:38:49.703 [AI Object Patrol 00271] Global patrol count: 2
+16:38:49.713 [AI Object Patrol 00271] ContaminatedArea category patrol count: 1
+16:39:47.733 [Party] Player "Survivor" (id=7Z0-Qd_l-RdPlxSsjREkkjX-GxvLeS4WEoUXbkvpXr8=) left the party "Dragon Shadowed" (id=4 ownerUID=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU= ownerName=PoiiZoner3)
+16:41:56.522 [AI Object Patrol 00271] Despawning 2 West bots (spawn position <8761.969727, 311.478943, 6537.588379>, 0/2 deceased)
+16:41:56.532 [AI Object Patrol 00271] Global patrol count: 1
+16:41:56.542 [AI Object Patrol 00271] ContaminatedArea category patrol count: 0
+16:42:07.277 [AI Object Patrol 00272] Spawning 2 East bots at <4708.040039, 426.545349, 3221.162842>
+16:42:07.319 [AI Object Patrol 00272] Global patrol count: 2
+16:42:07.329 [AI Object Patrol 00272] HelicopterWreck category patrol count: 1
+16:43:48.759 [AI Object Patrol 00272] Despawning 2 East bots (spawn position <4708.040039, 426.545349, 3221.162842>, 0/2 deceased)
+16:43:48.769 [AI Object Patrol 00272] Global patrol count: 1
+16:43:48.779 [AI Object Patrol 00272] HelicopterWreck category patrol count: 0
+16:45:23.675 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<5670.12, 419.65, 3745.12>)
+16:45:23.707 [VehicleLeave] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) left vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<5670.12, 419.65, 3745.12>)
+16:50:33.199 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): hello
+16:51:05.636 [VehicleEnter] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) entered vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<5667.49, 419.65, 3745.34>) as pilot
+16:51:07.391 [VehicleEngine] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) started vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<5667.46, 419.65, 3745.34>)
+16:52:19.305 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<6472.38, 392.76, 3828.92>)
+16:52:19.317 [VehicleLeave] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) left vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<6472.38, 392.76, 3828.92>)
+16:52:29.152 [VehicleEnter] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) entered vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<6472.38, 392.76, 3829.02>) as pilot
+16:52:30.884 [VehicleEngine] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) started vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<6472.38, 392.76, 3829.03>)
+16:55:04.004 [AI Object Patrol 00284] Spawning 3 West bots at <11562.405273, 328.487091, 4474.824707>
+16:55:04.039 [AI Object Patrol 00284] Global patrol count: 2
+16:55:04.049 [AI Object Patrol 00284] ContaminatedArea category patrol count: 1
+16:55:05.412 [AI Object Patrol 00278] Spawning 3 East bots at <11619.434570, 307.481964, 4332.545410>
+16:55:05.444 [AI Object Patrol 00278] Global patrol count: 3
+16:55:05.455 [AI Object Patrol 00278] HelicopterWreck category patrol count: 1
+16:56:14.628 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<11674.3, 313.21, 4011.54>)
+16:56:14.642 [VehicleLeave] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) left vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<11674.3, 313.21, 4011.54>)
+16:56:26.551 [AI Object Patrol 00275] Despawning 0 East bots (spawn position <10761.036133, 226.076508, 7131.120605>, 3/3 deceased)
+16:57:53.307 [AI Object Patrol 00284] West bots were wiped out (spawn position <11562.405273, 328.487091, 4474.824707>, 3/3 deceased)
+16:57:53.322 [AI Object Patrol 00284] Global patrol count: 2
+16:57:53.337 [AI Object Patrol 00284] ContaminatedArea category patrol count: 0
+16:59:17.649 [VehicleDestroyed] Boat_01_Blue (id=20735F6E4E41822845379FA75827DE25 pos=<5285.71, 169.73, 9484.4>)
+16:59:22.677 [AI Object Patrol 00278] East bots were wiped out (spawn position <11619.434570, 307.481964, 4332.545410>, 3/3 deceased)
+16:59:22.687 [AI Object Patrol 00278] Global patrol count: 1
+16:59:22.696 [AI Object Patrol 00278] HelicopterWreck category patrol count: 0
+16:59:38.833 [VehicleEnter] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) entered vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<11674.3, 313.21, 4011.65>) as pilot
+16:59:40.936 [VehicleEngine] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) started vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<11674.3, 313.21, 4011.64>)
+17:00:14.870 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<11665.9, 300.05, 4284.36>)
+17:00:14.894 [VehicleLeave] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) left vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<11665.9, 300.05, 4284.36>)
+17:02:39.027 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): Hello
+17:02:43.404 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): hello!
+17:02:44.849 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): I just saw AI fight AI lol
+17:02:56.817 [VehicleEnter] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) entered vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<11665.9, 300.04, 4284.42>) as pilot
+17:03:04.997 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): i heard a heli, i thought it was you
+17:03:08.674 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): No need to worry. If I see you I won't shoot. I'm friendly
+17:03:11.313 [VehicleEngine] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) started vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<11665.9, 300.04, 4284.47>)
+17:03:14.451 [Chat - Global]("Mr. Blue"(id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=)): yea its me
+17:05:12.718 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<10338.9, 223.98, 5903.03>)
+17:05:12.755 [VehicleLeave] Player "Mr. Blue" (id=Lw52hZyZO7pZP21eLhjYCVUz5rrRVAodhUgchUxGS8A=) left vehicle Gyrocopter (id=6E84FF65E84850C42793EBBBEF7D8F7C pos=<10338.9, 223.98, 5903.03>)
+17:05:43.797 [VehicleDeleted] Boat_01_Blue (id=20735F6E4E41822845379FA75827DE25 pos=<5285.75, 169.08, 9484.33>)
+17:07:07.648 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): which kinda heli you got?
+17:08:31.672 [AI Object Patrol 00278] Despawning 0 East bots (spawn position <11619.434570, 307.481964, 4332.545410>, 3/3 deceased)
+17:11:34.761 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): are you solo or apart of a group?
+17:28:06.510 [AI Object Patrol 00284] Despawning West patrol (spawn position <11435.999023, 332.967041, 4417.547363>)
+17:30:37.910 [AI Object Patrol 00288] Spawning 3 East bots at <9914.865234, 354.191376, 3879.152832>
+17:30:37.945 [AI Object Patrol 00288] Global patrol count: 2
+17:30:37.955 [AI Object Patrol 00288] HelicopterWreck category patrol count: 1
+17:30:59.660 [VehicleCarKey] PPlayer "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8= pos=<9083.71, 341.66, 4435.97>) paired ExpansionCarKey to ExpansionUh1h_Uber (id=EAA8192BAC4CFD709CBAC6A1DB7BC89A pos=<9082.96, 341.69, 4434.24>)
+17:32:50.912 [Party] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) joined the party "Leviathan Magnificent" (id=3 ownerUID=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw= ownerName=Saint (2))
+17:33:11.852 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): howdy
+17:33:39.947 [Chat - Global]("Akira"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): yello
+17:34:05.548 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): heyyy whatsup
+17:34:54.820 [Chat - Global]("Akira"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): not much was waiting on the other saint to hop on
+17:35:01.850 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): thats me
+17:35:10.495 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): sorry i got 2 discords
+17:35:26.598 [Chat - Global]("Akira"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): oh lol i paired a key to your heli and left it inside
+17:36:23.890 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): do you have mic?
+17:36:40.256 [Party] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) invited the player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)to the party named Leviathan Magnificent
+17:37:00.032 [Chat - Global]("Akira"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): trying to figure out why its not picking my mic up
+17:40:40.442 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): hey saint, are you online?
+17:40:44.343 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): hey man
+17:40:45.159 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): yes
+17:40:47.320 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): by the heli
+17:41:04.557 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): i ran all the way to nadbor to grab the merlin chopper for us, but forgot the spark for it
+17:41:12.166 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): dang it
+17:41:12.904 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): i thought it needed a regular spark plug 
+17:41:20.713 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): are you there?
+17:41:24.358 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): i can bring one
+17:41:32.701 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): yeah do we have an ignitor plug?
+17:41:36.972 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): yep
+17:41:42.655 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): sick! if you bring it ill fly it back to base
+17:42:02.623 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): also what tool do you need to remove tires?
+17:42:04.077 [VehicleEnter] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) entered vehicle Land Rover Defender (id=9E837385694113FF4B61A2A698A3FB0A pos=<9127.36, 339.8, 4430.08>) as driver
+17:42:04.417 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): omw
+17:42:15.480 [VehicleEngine] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) started vehicle Land Rover Defender (id=9E837385694113FF4B61A2A698A3FB0A pos=<9127.36, 339.8, 4430.08>)
+17:42:34.713 [VehicleEnter] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) entered vehicle Land Rover Defender (id=9E837385694113FF4B61A2A698A3FB0A pos=<9109.23, 340.53, 4440.88>) as passenger
+17:43:14.823 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Land Rover Defender (id=9E837385694113FF4B61A2A698A3FB0A pos=<8909.51, 350.88, 4266.84>)
+17:43:14.860 [VehicleLeave] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) left vehicle Land Rover Defender (id=9E837385694113FF4B61A2A698A3FB0A pos=<8909.51, 350.88, 4266.84>)
+17:43:15.114 [VehicleLeave] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) left vehicle Land Rover Defender (id=9E837385694113FF4B61A2A698A3FB0A pos=<8909.51, 350.88, 4266.84>)
+17:43:21.665 [VehicleEnter] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) entered vehicle Land Rover Defender (id=9E837385694113FF4B61A2A698A3FB0A pos=<8909.51, 350.88, 4266.84>) as driver
+17:43:26.349 [VehicleEnter] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) entered vehicle Land Rover Defender (id=9E837385694113FF4B61A2A698A3FB0A pos=<8909.51, 350.88, 4266.84>) as passenger
+17:43:26.690 [VehicleEngine] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) started vehicle Land Rover Defender (id=9E837385694113FF4B61A2A698A3FB0A pos=<8909.51, 350.88, 4266.84>)
+17:43:43.756 [AI Object Patrol 00291] Spawning 3 West bots at <9087.773438, 333.983551, 4302.549316>
+17:43:43.792 [AI Object Patrol 00291] Global patrol count: 3
+17:43:43.802 [AI Object Patrol 00291] ContaminatedArea category patrol count: 1
+17:44:15.792 [VehicleEnter] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) entered vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<6190.91, 381.4, 3903.06>) as pilot
+17:44:18.359 [VehicleLeave] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) left vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<6190.91, 381.39, 3903.04>)
+17:45:31.848 [VehicleLeave] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) left vehicle Land Rover Defender (id=9E837385694113FF4B61A2A698A3FB0A pos=<6241.08, 382.5, 3957.49>)
+17:45:36.285 [AI Object Patrol 00288] Despawning 3 East bots (spawn position <9914.865234, 354.191376, 3879.152832>, 0/3 deceased)
+17:45:36.373 [AI Object Patrol 00288] Global patrol count: 2
+17:45:36.493 [AI Object Patrol 00288] HelicopterWreck category patrol count: 0
+17:45:38.907 [VehicleEngine] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) stopped vehicle Land Rover Defender (id=9E837385694113FF4B61A2A698A3FB0A pos=<6241.5, 382.49, 3957.7>)
+17:45:42.247 [VehicleLeave] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) left vehicle Land Rover Defender (id=9E837385694113FF4B61A2A698A3FB0A pos=<6241.5, 382.49, 3957.7>)
+17:47:14.413 [VehicleAttachments] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) detached Jerrycan (type=CanisterGasoline) from vehicle Land Rover Defender (id=9E837385694113FF4B61A2A698A3FB0A pos=<6241.5, 382.49, 3957.7>)
+17:48:40.822 [VehicleEnter] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) entered vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<6190.91, 381.39, 3903.03>) as passenger
+17:48:45.018 [VehicleLeave] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) left vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<6190.91, 381.39, 3903.03>)
+17:48:48.187 [VehicleEnter] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) entered vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<6190.91, 381.39, 3903.02>) as pilot
+17:48:51.458 [VehicleLeave] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) left vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<6190.91, 381.39, 3902.99>)
+17:50:37.955 [VehicleEnter] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) entered vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<6190.91, 381.38, 3902.96>) as pilot
+17:50:40.485 [VehicleEngine] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) started vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<6190.91, 381.38, 3902.94>)
+17:52:08.166 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): shit did you fall
+17:52:25.427 [VehicleEnter] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) entered vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<7758.14, 808.78, 4563.99>) as passenger
+17:52:50.032 [SpawnSelection] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) spawned at <7638.410156, 245.850006, 5157.709961>
+17:52:50.052 [AI Object Patrol 00008] Spawning 2 West bots at <7438.066406, 236.332458, 6087.094727>
+17:52:50.088 [AI Object Patrol 00008] Global patrol count: 3
+17:52:50.097 [AI Object Patrol 00008] ContaminatedArea category patrol count: 2
+17:52:50.106 [AI Object Patrol 00298] Spawning 3 East bots at <8368.777344, 276.263123, 5504.277832>
+17:52:50.139 [AI Object Patrol 00298] Global patrol count: 4
+17:52:50.148 [AI Object Patrol 00298] HelicopterWreck category patrol count: 1
+17:53:05.204 [Chat - Global]("Akira"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): OOF
+17:53:05.230 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): akira?
+17:53:12.111 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): how did you fall omg
+17:53:29.058 [Chat - Global]("Akira"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): no idea ill get my stuff quick
+17:55:06.334 [VehicleEngine] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) stopped vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<9101.51, 345.98, 4491.07>)
+17:55:08.446 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): shit LOL
+17:55:11.534 [VehicleLeave] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) left vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<9101.51, 345.98, 4491.07>)
+17:55:19.948 [VehicleLeave] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) left vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<9101.51, 345.98, 4491.07>)
+17:55:35.587 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): fuck i got pox
+17:55:38.167 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): hahahahahha
+17:56:24.772 [AI Object Patrol 00291] Despawning 3 West bots (spawn position <9087.773438, 333.983551, 4302.549316>, 0/3 deceased)
+17:56:24.930 [AI Object Patrol 00291] Global patrol count: 3
+17:56:25.083 [AI Object Patrol 00291] ContaminatedArea category patrol count: 1
+17:56:39.296 [Chat - Global]("Akira"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): all good
+17:58:39.469 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): akira
+17:58:51.586 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): are you in nadbor?
+17:59:39.609 [Chat - Global]("Akira"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): waiting on my body to fall lol im in the feild near the gas station
+17:59:55.859 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): lol it hasnt fall?
+18:00:09.693 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): im running back 
+18:00:10.642 [Chat - Global]("Akira"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): its coming very slow
+18:00:28.796 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): gotta get there and kill myself 
+18:00:39.148 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): if i dont die first 
+18:01:05.640 [Chat - Global]("Akira"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): did he hop off?
+18:01:21.725 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): yea hes gotta do a phone call
+18:01:37.454 [Chat - Global]("Akira"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): ight
+18:01:50.975 [Chat - Global]("Akira"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): my bodys still 200m up in the air lol
+18:01:51.801 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): we have to move base
+18:02:58.351 [Chat - Global]("Akira"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): you want a tp?
+18:03:06.981 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): sure
+18:03:57.388 [AI Object Patrol 00008] Despawning 2 West bots (spawn position <7438.066406, 236.332458, 6087.094727>, 0/2 deceased)
+18:03:57.477 [AI Object Patrol 00008] Global patrol count: 2
+18:03:57.564 [AI Object Patrol 00008] ContaminatedArea category patrol count: 0
+18:06:13.560 [AI Object Patrol 00298] Despawning 3 East bots (spawn position <8368.777344, 276.263123, 5504.277832>, 0/3 deceased)
+18:06:13.570 [AI Object Patrol 00298] Global patrol count: 1
+18:06:13.580 [AI Object Patrol 00298] HelicopterWreck category patrol count: 0
+18:12:43.663 [AI Object Patrol 00302] Spawning 1 West bots at <5612.376465, 422.170013, 3861.340088>
+18:12:43.693 [AI Object Patrol 00302] Global patrol count: 2
+18:12:43.703 [AI Object Patrol 00302] ContaminatedArea category patrol count: 1
+18:15:12.903 [VehicleEnter] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) entered vehicle Land Rover Defender (id=9E837385694113FF4B61A2A698A3FB0A pos=<6241.5, 382.49, 3957.7>) as driver
+18:15:17.135 [VehicleEngine] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) started vehicle Land Rover Defender (id=9E837385694113FF4B61A2A698A3FB0A pos=<6241.5, 382.49, 3957.7>)
+18:15:24.289 [VehicleEnter] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) entered vehicle Land Rover Defender (id=9E837385694113FF4B61A2A698A3FB0A pos=<6241.5, 382.49, 3957.7>) as passenger
+18:16:01.372 [AI Object Patrol 00301] Spawning 3 East bots at <5931.290039, 376.466827, 5023.840332>
+18:16:01.408 [AI Object Patrol 00301] Global patrol count: 3
+18:16:01.418 [AI Object Patrol 00301] HelicopterWreck category patrol count: 1
+18:17:25.359 [AI Object Patrol 00304] Spawning 2 West bots at <6373.183105, 299.865265, 6130.059570>
+18:17:25.393 [AI Object Patrol 00304] Global patrol count: 4
+18:17:25.404 [AI Object Patrol 00304] HelicopterWreck category patrol count: 2
+18:25:07.547 [VehicleLeave] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) left vehicle Land Rover Defender (id=9E837385694113FF4B61A2A698A3FB0A pos=<4517.39, 226.21, 10419>)
+18:25:20.799 [VehicleEnter] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) entered vehicle Land Rover Defender (id=9E837385694113FF4B61A2A698A3FB0A pos=<4527.65, 225.39, 10415.3>) as passenger
+18:25:23.536 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Land Rover Defender (id=9E837385694113FF4B61A2A698A3FB0A pos=<4527.65, 225.39, 10415.3>)
+18:25:23.581 [VehicleLeave] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) left vehicle Land Rover Defender (id=9E837385694113FF4B61A2A698A3FB0A pos=<4527.65, 225.39, 10415.3>)
+18:25:28.262 [VehicleLeave] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) left vehicle Land Rover Defender (id=9E837385694113FF4B61A2A698A3FB0A pos=<4527.65, 225.39, 10415.3>)
+18:26:51.834 [AI Object Patrol 00302] Despawning 1 West bots (spawn position <5612.376465, 422.170013, 3861.340088>, 0/1 deceased)
+18:26:51.846 [AI Object Patrol 00302] Global patrol count: 3
+18:26:51.857 [AI Object Patrol 00302] ContaminatedArea category patrol count: 0
+18:27:50.266 [AI Object Patrol 00301] Despawning 3 East bots (spawn position <5931.290039, 376.466827, 5023.840332>, 0/3 deceased)
+18:27:50.276 [AI Object Patrol 00301] Global patrol count: 2
+18:27:50.286 [AI Object Patrol 00301] HelicopterWreck category patrol count: 1
+18:28:53.739 [AI Object Patrol 00304] Despawning 2 West bots (spawn position <6373.183105, 299.865265, 6130.059570>, 0/2 deceased)
+18:28:53.748 [AI Object Patrol 00304] Global patrol count: 1
+18:28:53.758 [AI Object Patrol 00304] HelicopterWreck category patrol count: 0
+18:37:21.798 [Chat - Global]("Akira"(id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=)): yo saint come back across the airfield
+18:37:25.892 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): omw
+18:38:01.402 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): where
+18:39:17.924 [VehicleEnter] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) entered vehicle Vodnik (id=AD2C5D40C74F2AC0C2018F8ECCA1DD56 pos=<4015.33, 238.49, 10428.7>) as passenger
+18:39:22.067 [VehicleLeave] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) left vehicle Vodnik (id=AD2C5D40C74F2AC0C2018F8ECCA1DD56 pos=<4015.33, 238.49, 10428.7>)
+18:40:08.016 [VehicleEnter] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) entered vehicle Vodnik (id=AD2C5D40C74F2AC0C2018F8ECCA1DD56 pos=<4015.33, 238.49, 10428.7>) as driver
+18:40:12.103 [VehicleEngine] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) started vehicle Vodnik (id=AD2C5D40C74F2AC0C2018F8ECCA1DD56 pos=<4015.33, 238.49, 10428.7>)
+18:40:36.036 [VehicleEngine] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) stopped vehicle Vodnik (id=AD2C5D40C74F2AC0C2018F8ECCA1DD56 pos=<4025.03, 238.32, 10435.6>)
+18:40:39.459 [VehicleLeave] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) left vehicle Vodnik (id=AD2C5D40C74F2AC0C2018F8ECCA1DD56 pos=<4025.03, 238.32, 10435.6>)
+18:40:59.697 [VehicleEnter] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) entered vehicle Vodnik (id=AD2C5D40C74F2AC0C2018F8ECCA1DD56 pos=<4025.03, 238.32, 10435.6>) as driver
+18:41:03.104 [VehicleEngine] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) started vehicle Vodnik (id=AD2C5D40C74F2AC0C2018F8ECCA1DD56 pos=<4025.03, 238.32, 10435.6>)
+18:41:21.546 [VehicleEngine] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) stopped vehicle Vodnik (id=AD2C5D40C74F2AC0C2018F8ECCA1DD56 pos=<4025.03, 238.32, 10435.6>)
+18:41:23.657 [VehicleEngine] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) started vehicle Vodnik (id=AD2C5D40C74F2AC0C2018F8ECCA1DD56 pos=<4025.03, 238.32, 10435.6>)
+18:41:37.098 [VehicleEngine] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) stopped vehicle Vodnik (id=AD2C5D40C74F2AC0C2018F8ECCA1DD56 pos=<4025.03, 238.32, 10435.6>)
+18:41:40.752 [VehicleLeave] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) left vehicle Vodnik (id=AD2C5D40C74F2AC0C2018F8ECCA1DD56 pos=<4025.03, 238.32, 10435.6>)
+18:41:45.874 [VehicleEnter] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) entered vehicle Vodnik (id=AD2C5D40C74F2AC0C2018F8ECCA1DD56 pos=<4025.03, 238.32, 10435.6>) as driver
+18:42:04.137 [VehicleLeave] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) left vehicle Vodnik (id=AD2C5D40C74F2AC0C2018F8ECCA1DD56 pos=<4025.03, 238.32, 10435.6>)
+18:42:27.751 [VehicleEnter] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) entered vehicle Vodnik (id=AD2C5D40C74F2AC0C2018F8ECCA1DD56 pos=<4025.03, 238.32, 10435.6>) as driver
+18:42:34.052 [VehicleEngine] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) started vehicle Vodnik (id=AD2C5D40C74F2AC0C2018F8ECCA1DD56 pos=<4025.03, 238.32, 10435.6>)
+18:42:40.322 [VehicleEngine] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) stopped vehicle Vodnik (id=AD2C5D40C74F2AC0C2018F8ECCA1DD56 pos=<4025.84, 238.31, 10435.4>)
+18:42:43.346 [VehicleEngine] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) started vehicle Vodnik (id=AD2C5D40C74F2AC0C2018F8ECCA1DD56 pos=<4025.84, 238.31, 10435.4>)
+18:42:46.778 [VehicleEngine] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) stopped vehicle Vodnik (id=AD2C5D40C74F2AC0C2018F8ECCA1DD56 pos=<4025.84, 238.31, 10435.4>)
+18:42:49.613 [VehicleLeave] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) left vehicle Vodnik (id=AD2C5D40C74F2AC0C2018F8ECCA1DD56 pos=<4025.84, 238.31, 10435.4>)
+18:43:12.349 [VehicleEnter] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) entered vehicle Vodnik (id=AD2C5D40C74F2AC0C2018F8ECCA1DD56 pos=<4025.84, 238.31, 10435.4>) as driver
+18:43:17.513 [VehicleEngine] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) started vehicle Vodnik (id=AD2C5D40C74F2AC0C2018F8ECCA1DD56 pos=<4025.84, 238.31, 10435.4>)
+18:43:39.482 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): shit thats fast
+18:46:45.271 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Vodnik (id=AD2C5D40C74F2AC0C2018F8ECCA1DD56 pos=<11300.2, 346.88, 4238.62>)
+18:46:45.397 [VehicleLeave] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8=) left vehicle Vodnik (id=AD2C5D40C74F2AC0C2018F8ECCA1DD56 pos=<11300.2, 346.88, 4238.62>)
+18:49:24.246 [VehicleAttachments] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) detached UAZ 469 Wheel (type=ExpansionUAZWheel) from vehicle UAZ 469 (id=32317BFF2749C6E3952520A20E657A60 pos=<4275.04, 240.14, 10379>)
+18:50:35.262 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): does it need truck battery?
+18:59:16.863 [VehicleEnter] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) entered vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<9102.61, 343.07, 4489.04>) as pilot
+18:59:21.676 [VehicleEngine] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) started vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<9102.6, 343.07, 4489.02>)
+18:59:51.942 [VehicleEnter] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) entered vehicle UAZ 469 Cargo (id=26E5559D50493EF98CE69DB47921B331 pos=<4051.79, 237.98, 10210.2>) as driver
+18:59:55.942 [VehicleLeave] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) left vehicle UAZ 469 Cargo (id=26E5559D50493EF98CE69DB47921B331 pos=<4051.79, 237.98, 10210.2>)
+19:01:13.817 [VehicleEngine] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) stopped vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<9146.89, 336.59, 4380.66>)
+19:01:18.414 [VehicleLeave] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) left vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<9146.92, 336.36, 4380.38>)
+19:02:36.312 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): ok im gonna head over to the airfield
+19:02:41.721 [VehicleCarKey] PPlayer "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8= pos=<11301.5, 346.92, 4240.74>) paired ExpansionCarKey to ExpansionVodnik_Camo (id=AD2C5D40C74F2AC0C2018F8ECCA1DD56 pos=<11300.2, 346.88, 4238.62>)
+19:02:44.870 [VehicleCarKey] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8= pos=<11301.5, 346.92, 4240.74>) used ExpansionCarKey to lock ExpansionVodnik_Camo (id=AD2C5D40C74F2AC0C2018F8ECCA1DD56 pos=<11300.2, 346.88, 4238.62>)
+19:02:49.280 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): if you have filters bring them
+19:03:01.474 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): and food
+19:03:13.035 [AI Object Patrol 00316] Spawning 3 East bots at <12308.331055, 287.214508, 4298.018066>
+19:03:13.069 [AI Object Patrol 00316] Global patrol count: 2
+19:03:13.080 [AI Object Patrol 00316] HelicopterWreck category patrol count: 1
+19:03:48.311 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): why food? lol
+19:03:55.491 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): im starving hahaha
+19:04:02.273 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): ok ill bring some
+19:05:11.737 [VehicleEnter] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) entered vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<9146.93, 336.31, 4380.31>) as pilot
+19:05:13.121 [VehicleEngine] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) started vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<9146.93, 336.31, 4380.31>)
+19:06:06.891 [VehicleEnter] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) entered vehicle UAZ 469 Cargo (id=26E5559D50493EF98CE69DB47921B331 pos=<4051.79, 238.04, 10210.2>) as driver
+19:06:08.980 [VehicleEngine] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) started vehicle UAZ 469 Cargo (id=26E5559D50493EF98CE69DB47921B331 pos=<4051.79, 238.04, 10210.2>)
+19:06:16.311 [VehicleLeave] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) left vehicle UAZ 469 Cargo (id=26E5559D50493EF98CE69DB47921B331 pos=<4051.79, 238.04, 10210.2>)
+19:06:20.104 [VehicleEnter] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) entered vehicle UAZ 469 Cargo (id=26E5559D50493EF98CE69DB47921B331 pos=<4051.79, 238.04, 10210.2>) as driver
+19:06:21.691 [VehicleEngine] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) stopped vehicle UAZ 469 Cargo (id=26E5559D50493EF98CE69DB47921B331 pos=<4051.79, 238.04, 10210.2>)
+19:06:24.656 [VehicleLeave] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) left vehicle UAZ 469 Cargo (id=26E5559D50493EF98CE69DB47921B331 pos=<4051.79, 238.04, 10210.2>)
+19:06:40.600 [VehicleEnter] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) entered vehicle UAZ 469 Cargo (id=26E5559D50493EF98CE69DB47921B331 pos=<4051.79, 238.04, 10210.2>) as driver
+19:06:45.670 [VehicleLeave] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) left vehicle UAZ 469 Cargo (id=26E5559D50493EF98CE69DB47921B331 pos=<4051.79, 238.04, 10210.2>)
+19:06:50.404 [AI Object Patrol 00011] Spawning 2 West bots at <7591.800293, 232.604828, 5990.311035>
+19:06:50.439 [AI Object Patrol 00011] Global patrol count: 3
+19:06:50.448 [AI Object Patrol 00011] ContaminatedArea category patrol count: 1
+19:06:57.592 [AI Object Patrol 00009] Spawning 3 West bots at <7412.457031, 226.183365, 6482.084961>
+19:06:57.620 [AI Object Patrol 00009] Global patrol count: 4
+19:06:57.630 [AI Object Patrol 00009] ContaminatedArea category patrol count: 2
+19:09:45.717 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<4565.98, 209.22, 9742.7>)
+19:09:45.744 [VehicleLeave] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) left vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<4565.98, 209.22, 9742.7>)
+19:10:04.718 [VehicleEnter] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) entered vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<4566.02, 209.23, 9742.67>) as pilot
+19:10:06.387 [VehicleEngine] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) started vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<4566.02, 209.23, 9742.66>)
+19:10:13.340 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): im about to be there where should i land
+19:10:26.073 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): im at the end of the tarmac
+19:10:33.488 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): where there isnt gas
+19:10:46.236 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): do you see me
+19:11:04.991 [VehicleEnter] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) entered vehicle Gyrocopter (id=255DEB8C484DFB366EE057B82AC0D9E0 pos=<3708.15, 238.1, 10087.9>) as pilot
+19:11:13.886 [VehicleLeave] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) left vehicle Gyrocopter (id=255DEB8C484DFB366EE057B82AC0D9E0 pos=<3708.06, 238.1, 10087.9>)
+19:11:23.744 [VehicleLeave] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) left vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<3827.15, 237.93, 10042.5>)
+19:11:59.526 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): this one?
+19:12:21.897 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): should be good ot go
+19:12:24.655 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): heres food
+19:12:42.426 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): i think ill loot the airfield a bit ive never been here
+19:13:44.614 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): how do i take the battery out here
+19:13:54.335 [VehicleEnter] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) entered vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<3827.8, 238.1, 10042.8>) as pilot
+19:14:01.650 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): should just let you pull it out with yourh ands
+19:14:07.301 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): hit tab to view the inventory
+19:14:12.244 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): fond it
+19:15:41.973 [VehicleEngine] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) stopped vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<4092.68, 238.47, 10412.5>)
+19:15:45.546 [VehicleLeave] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) left vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<4092.71, 238.3, 10412.4>)
+19:16:37.204 [VehicleEnter] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) entered vehicle Mh-6 Little Bird (id=88AD25DCD34BD892271C24BE4203600D pos=<4224.01, 238.48, 10507>) as pilot
+19:16:39.764 [VehicleEngine] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) started vehicle Mh-6 Little Bird (id=88AD25DCD34BD892271C24BE4203600D pos=<4223.96, 238.48, 10507>)
+19:16:51.088 [AI Object Patrol 00316] Despawning 3 East bots (spawn position <12308.331055, 287.214508, 4298.018066>, 0/3 deceased)
+19:16:51.099 [AI Object Patrol 00316] Global patrol count: 3
+19:16:51.108 [AI Object Patrol 00316] HelicopterWreck category patrol count: 0
+19:17:15.311 [AI Object Patrol 00011] Despawning 2 West bots (spawn position <7591.800293, 232.604828, 5990.311035>, 0/2 deceased)
+19:17:15.320 [AI Object Patrol 00011] Global patrol count: 2
+19:17:15.329 [AI Object Patrol 00011] ContaminatedArea category patrol count: 1
+19:17:31.193 [AI Object Patrol 00009] Despawning 3 West bots (spawn position <7412.457031, 226.183365, 6482.084961>, 0/3 deceased)
+19:17:31.202 [AI Object Patrol 00009] Global patrol count: 1
+19:17:31.212 [AI Object Patrol 00009] ContaminatedArea category patrol count: 0
+19:19:01.261 [AI Object Patrol 00323] Spawning 1 East bots at <7818.194336, 256.079651, 7873.789551>
+19:19:01.293 [AI Object Patrol 00323] Global patrol count: 2
+19:19:01.304 [AI Object Patrol 00323] HelicopterWreck category patrol count: 1
+19:20:20.019 [VehicleCarKey] Player "Akira" (id=_AiYSOqBTsXk7V79zSlYdl-x8y50J1nzzpoqKcKH0v8= pos=<11311.2, 346.92, 4234.62>) used ExpansionCarKey to lock Expansion_Landrover_Red (id=673F062D2B46F14078CCD5B9AD1713C0 pos=<11309.1, 346.87, 4234.72>)
+19:21:32.813 [VehicleDeleted] ExpansionVodnik_Camo (id=AD2C5D40C74F2AC0C2018F8ECCA1DD56 pos=<11300.2, 346.88, 4238.62>)
+19:22:29.861 [VehicleEnter] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) entered vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<4092.65, 238.29, 10412.4>) as pilot
+19:22:31.647 [VehicleEngine] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) started vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<4092.64, 238.29, 10412.4>)
+19:22:49.800 [VehicleEngine] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) stopped vehicle Mh-6 Little Bird (id=88AD25DCD34BD892271C24BE4203600D pos=<9162.88, 347.1, 4413.14>)
+19:23:17.551 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): yea we need different place for base
+19:23:23.916 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): i hate these stupid trees
+19:23:26.850 [VehicleEngine] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) started vehicle Mh-6 Little Bird (id=88AD25DCD34BD892271C24BE4203600D pos=<9164.76, 344.47, 4413.67>)
+19:24:12.347 [VehicleEngine] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) stopped vehicle Mh-6 Little Bird (id=88AD25DCD34BD892271C24BE4203600D pos=<9163.86, 344.83, 4413.97>)
+19:24:12.446 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): lets throw everything in these big choppers
+19:24:30.184 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): i made it to base but got trapped in a tree
+19:24:43.637 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): i feel like if i jump ill break a leg lol
+19:24:48.365 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): damn
+19:24:48.934 [VehicleLeave] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) left vehicle Mh-6 Little Bird (id=88AD25DCD34BD892271C24BE4203600D pos=<9164.03, 343.7, 4414.39>)
+19:24:54.517 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): i made it
+19:26:43.162 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): also a stupid amount of zombies in this town
+19:27:34.076 [VehicleEngine] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) stopped vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<9081.3, 343.79, 4488.21>)
+19:27:39.637 [VehicleLeave] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) left vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<9081.28, 343.78, 4488.3>)
+19:29:32.583 [AI Object Patrol 00323] Despawning 1 East bots (spawn position <7818.194336, 256.079651, 7873.789551>, 0/1 deceased)
+19:29:32.593 [AI Object Patrol 00323] Global patrol count: 1
+19:29:32.602 [AI Object Patrol 00323] HelicopterWreck category patrol count: 0
+19:30:03.328 [VehicleEnter] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) entered vehicle Olga 24 (id=64D2A073D144116D22E9FD8F531A42E5 pos=<9124.69, 339.82, 4430.24>) as driver
+19:30:05.390 [VehicleEngine] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) started vehicle Olga 24 (id=64D2A073D144116D22E9FD8F531A42E5 pos=<9124.69, 339.82, 4430.24>)
+19:30:25.494 [VehicleEnter] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) entered vehicle Mh-6 Little Bird (id=88AD25DCD34BD892271C24BE4203600D pos=<9164.57, 338.37, 4414.11>) as pilot
+19:30:27.329 [VehicleEngine] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) started vehicle Mh-6 Little Bird (id=88AD25DCD34BD892271C24BE4203600D pos=<9164.57, 338.37, 4414.09>)
+19:30:38.788 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Olga 24 (id=64D2A073D144116D22E9FD8F531A42E5 pos=<9075.68, 344.2, 4488.3>)
+19:30:38.817 [VehicleLeave] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) left vehicle Olga 24 (id=64D2A073D144116D22E9FD8F531A42E5 pos=<9075.68, 344.2, 4488.3>)
+19:31:53.344 [VehicleEngine] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) stopped vehicle Mh-6 Little Bird (id=88AD25DCD34BD892271C24BE4203600D pos=<9003.62, 353.87, 4512.76>)
+19:32:06.989 [VehicleLeave] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) left vehicle Mh-6 Little Bird (id=88AD25DCD34BD892271C24BE4203600D pos=<9003.8, 348.54, 4513.22>)
+19:32:38.548 [VehicleEnter] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) entered vehicle Mh-6 Little Bird (id=88AD25DCD34BD892271C24BE4203600D pos=<9003.8, 348.55, 4513.24>) as pilot
+19:32:40.519 [VehicleEngine] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) started vehicle Mh-6 Little Bird (id=88AD25DCD34BD892271C24BE4203600D pos=<9003.8, 348.55, 4513.24>)
+19:33:12.032 [VehicleEngine] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) stopped vehicle Mh-6 Little Bird (id=88AD25DCD34BD892271C24BE4203600D pos=<8997.15, 349.73, 4521.69>)
+19:33:15.774 [VehicleLeave] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) left vehicle Mh-6 Little Bird (id=88AD25DCD34BD892271C24BE4203600D pos=<8997.23, 349.78, 4521.69>)
+19:33:52.682 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): do you have a wrench?
+19:37:50.732 [VehicleEnter] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) entered vehicle Olga 24 (id=64D2A073D144116D22E9FD8F531A42E5 pos=<9075.68, 344.2, 4488.3>) as driver
+19:37:52.608 [VehicleEngine] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) started vehicle Olga 24 (id=64D2A073D144116D22E9FD8F531A42E5 pos=<9075.68, 344.2, 4488.3>)
+19:38:31.126 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): this one has only 200 storage
+19:38:31.978 [VehicleEngine] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) stopped vehicle Olga 24 (id=64D2A073D144116D22E9FD8F531A42E5 pos=<9124.49, 339.82, 4431.39>)
+19:38:34.365 [VehicleLeave] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) left vehicle Olga 24 (id=64D2A073D144116D22E9FD8F531A42E5 pos=<9124.49, 339.82, 4431.39>)
+19:38:40.508 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): the merlin?
+19:38:46.110 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): little bird
+19:38:48.530 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): ooh
+19:39:30.498 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): what about potoki?
+19:40:24.545 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): nvm we need something close to a fountain
+19:41:52.496 [VehicleEnter] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) entered vehicle Mh-6 Little Bird (id=88AD25DCD34BD892271C24BE4203600D pos=<8997.29, 348.42, 4521.61>) as pilot
+19:41:57.211 [VehicleEngine] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) started vehicle Mh-6 Little Bird (id=88AD25DCD34BD892271C24BE4203600D pos=<8997.27, 348.42, 4521.61>)
+19:46:47.230 [AI Object Patrol 00333] Spawning 3 West bots at <6496.161621, 288.242645, 7564.736816>
+19:46:47.298 [AI Object Patrol 00333] Global patrol count: 2
+19:46:47.324 [AI Object Patrol 00333] HelicopterWreck category patrol count: 1
+19:49:04.625 [VehicleEngine] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) stopped vehicle Mh-6 Little Bird (id=88AD25DCD34BD892271C24BE4203600D pos=<4559.65, 223.37, 10424.6>)
+19:49:53.465 [VehicleLeave] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) left vehicle Mh-6 Little Bird (id=88AD25DCD34BD892271C24BE4203600D pos=<4560.15, 222.84, 10424.6>)
+19:53:02.400 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): trying to do some recon
+19:53:09.084 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): to find a base place
+19:53:21.188 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): im gonna do the same
+19:53:49.297 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): what about next to a lake
+19:53:54.532 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): so we can fish and shit
+19:54:05.591 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): thatd be badass
+19:54:13.744 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): can still fill water bottles and use the pills to make it drinkable
+19:54:39.525 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): can also fill up jerry cans when were in town and bring them back
+19:54:46.043 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): yeaaa
+19:56:19.691 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): what about the lake next to giraltow
+19:56:59.257 [VehicleEnter] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) entered vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<9080.89, 343.54, 4489.11>) as pilot
+19:57:01.346 [VehicleEngine] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) started vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<9080.88, 343.54, 4489.15>)
+19:57:04.495 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): Theres a clearing without trees next to it
+19:57:09.794 [VehicleEnter] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) entered vehicle Mh-6 Little Bird (id=88AD25DCD34BD892271C24BE4203600D pos=<4560.18, 222.84, 10424.6>) as pilot
+19:57:11.925 [VehicleEngine] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) started vehicle Mh-6 Little Bird (id=88AD25DCD34BD892271C24BE4203600D pos=<4560.23, 222.83, 10424.6>)
+19:57:20.135 [AI Object Patrol 00333] Despawning 3 West bots (spawn position <6496.161621, 288.242645, 7564.736816>, 0/3 deceased)
+19:57:20.145 [AI Object Patrol 00333] Global patrol count: 1
+19:57:20.155 [AI Object Patrol 00333] HelicopterWreck category patrol count: 0
+19:57:22.433 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Mh-6 Little Bird (id=88AD25DCD34BD892271C24BE4203600D pos=<4560.42, 222.85, 10424.6>)
+19:57:22.466 [VehicleLeave] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) left vehicle Mh-6 Little Bird (id=88AD25DCD34BD892271C24BE4203600D pos=<4560.42, 222.85, 10424.6>)
+19:57:36.156 [VehicleAttachments] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) detached Jerrycan (type=CanisterGasoline) from vehicle Land Rover Defender (id=9E837385694113FF4B61A2A698A3FB0A pos=<4527.65, 225.39, 10415.3>)
+19:57:54.314 [VehicleEnter] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) entered vehicle Mh-6 Little Bird (id=88AD25DCD34BD892271C24BE4203600D pos=<4560.77, 222.79, 10424.6>) as pilot
+19:57:59.097 [VehicleEngine] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) started vehicle Mh-6 Little Bird (id=88AD25DCD34BD892271C24BE4203600D pos=<4560.85, 222.79, 10424.6>)
+19:58:47.352 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<9033.42, 348.13, 4534.17>)
+19:58:47.375 [VehicleLeave] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) left vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<9033.43, 348.13, 4534.16>)
+20:01:37.128 [AI Object Patrol 00332] Spawning 1 West bots at <11844.667969, 281.422729, 6028.764648>
+20:01:37.167 [AI Object Patrol 00332] Global patrol count: 2
+20:01:37.186 [AI Object Patrol 00332] HelicopterWreck category patrol count: 1
+20:03:06.093 [VehicleEngine] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) stopped vehicle Mh-6 Little Bird (id=88AD25DCD34BD892271C24BE4203600D pos=<12575.3, 255.36, 4760.91>)
+20:03:17.450 [VehicleLeave] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) left vehicle Mh-6 Little Bird (id=88AD25DCD34BD892271C24BE4203600D pos=<12575.3, 255.36, 4760.91>)
+20:03:50.419 [VehicleEnter] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) entered vehicle Mh-6 Little Bird (id=88AD25DCD34BD892271C24BE4203600D pos=<12575.3, 255.33, 4760.68>) as passenger
+20:03:58.405 [VehicleLeave] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) left vehicle Mh-6 Little Bird (id=88AD25DCD34BD892271C24BE4203600D pos=<12575.3, 255.33, 4760.68>)
+20:04:05.453 [VehicleEnter] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) entered vehicle Mh-6 Little Bird (id=88AD25DCD34BD892271C24BE4203600D pos=<12575.3, 255.33, 4760.68>) as passenger
+20:04:10.211 [VehicleLeave] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) left vehicle Mh-6 Little Bird (id=88AD25DCD34BD892271C24BE4203600D pos=<12575.3, 255.33, 4760.69>)
+20:04:38.112 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): welp i parked it upside down
+20:05:03.986 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): lol
+20:05:24.786 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): im in the clearing tho
+20:05:30.332 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): and it looks nice
+20:06:14.647 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): theres a small shack
+20:06:32.124 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): where at?
+20:06:57.596 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): next to girealtow
+20:07:26.424 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): im running to the city see if i can find a wrench
+20:07:39.885 [VehicleEnter] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) entered vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<9034.37, 348.04, 4532.48>) as pilot
+20:07:45.858 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): ok im gonna grab some wheels for my heli and then ill be over
+20:07:48.870 [VehicleEngine] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) started vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<9034.37, 348.04, 4532.46>)
+20:07:58.016 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): okay
+20:08:56.477 [VehicleEngine] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) stopped vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<9075.72, 345.63, 4518.51>)
+20:09:01.749 [VehicleLeave] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) left vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<9075.55, 345.59, 4517.62>)
+20:09:28.221 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): damn its not flying right
+20:09:36.419 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): it just spins around for no reason as i lift off
+20:09:50.302 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): theres a pipe wrench somewhere
+20:09:55.098 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): that will fix it
+20:10:08.787 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): i found kitchen shelves with 550 storage lol
+20:11:57.984 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): i dont see it, is your car around? maybe its in there
+20:12:19.870 [AI Object Patrol 00332] Despawning 1 West bots (spawn position <11844.667969, 281.422729, 6028.764648>, 0/1 deceased)
+20:12:19.880 [AI Object Patrol 00332] Global patrol count: 1
+20:12:19.890 [AI Object Patrol 00332] HelicopterWreck category patrol count: 0
+20:12:31.891 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): car is in airfield 
+20:13:13.068 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): if i find wrench ill come help
+20:16:08.261 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): ofc now that i need one i wont find it lol
+20:16:23.759 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): yeah wheneve ryou need something you dont find it lol
+20:17:38.226 [VehicleEnter] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) entered vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<9075.15, 345.59, 4516.9>) as pilot
+20:17:39.781 [VehicleEngine] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) started vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<9075.15, 345.59, 4516.9>)
+20:18:44.187 [VehicleEngine] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) stopped vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<9070.36, 345.88, 4516.91>)
+20:18:49.052 [VehicleLeave] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) left vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<9070.13, 345.9, 4517.49>)
+20:20:34.125 [VehicleEnter] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) entered vehicle Olga 24 (id=64D2A073D144116D22E9FD8F531A42E5 pos=<9124.49, 339.82, 4431.39>) as driver
+20:20:36.868 [VehicleEngine] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) started vehicle Olga 24 (id=64D2A073D144116D22E9FD8F531A42E5 pos=<9124.49, 339.82, 4431.39>)
+20:20:57.446 [VehicleLeave] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) left vehicle Olga 24 (id=64D2A073D144116D22E9FD8F531A42E5 pos=<9107.34, 340.62, 4440.43>)
+20:23:53.332 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): 2 hatches crowbar scredriver
+20:23:56.505 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): no wrnch
+20:24:21.886 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): figures lol
+20:26:41.291 [VehicleEnter] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) entered vehicle Olga 24 (id=64D2A073D144116D22E9FD8F531A42E5 pos=<9107.34, 340.62, 4440.43>) as driver
+20:28:19.207 [AI Object Patrol 00342] Spawning 1 West bots at <7181.692383, 381.619324, 3731.304443>
+20:28:19.258 [AI Object Patrol 00342] Global patrol count: 2
+20:28:19.268 [AI Object Patrol 00342] HelicopterWreck category patrol count: 1
+20:29:10.159 [AI Object Patrol 00340] Spawning 3 West bots at <5917.597168, 405.218842, 3581.326660>
+20:29:10.197 [AI Object Patrol 00340] Global patrol count: 3
+20:29:10.207 [AI Object Patrol 00340] HelicopterWreck category patrol count: 2
+20:29:31.495 [VehicleLeave] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) left vehicle Olga 24 (id=64D2A073D144116D22E9FD8F531A42E5 pos=<6575.02, 380.71, 3947.71>)
+20:29:53.232 [VehicleEnter] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) entered vehicle Olga 24 (id=64D2A073D144116D22E9FD8F531A42E5 pos=<6575.03, 380.71, 3947.71>) as driver
+20:30:36.133 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): literally nothing this is stupid
+20:30:37.043 [VehicleEngine] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) stopped vehicle Olga 24 (id=64D2A073D144116D22E9FD8F531A42E5 pos=<6256.94, 382.41, 3956.97>)
+20:30:41.325 [VehicleLeave] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) left vehicle Olga 24 (id=64D2A073D144116D22E9FD8F531A42E5 pos=<6256.95, 382.41, 3956.97>)
+20:30:46.253 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): i just drove to nadbor gonna look for stuff
+20:32:12.845 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): see some AI gonna go fuck em up
+20:32:28.549 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): okay im still looking for a stupid wrench
+20:38:55.262 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): yeah no wrenches
+20:39:19.930 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): looked everywhere too
+20:39:21.995 [AI Object Patrol 00340] West bots were wiped out (spawn position <5917.597168, 405.218842, 3581.326660>, 3/3 deceased)
+20:39:22.005 [AI Object Patrol 00340] Global patrol count: 2
+20:39:22.015 [AI Object Patrol 00340] HelicopterWreck category patrol count: 1
+20:39:28.517 [AI Object Patrol 00339] Spawning 3 West bots at <11573.099609, 335.015656, 3212.053711>
+20:39:28.547 [AI Object Patrol 00339] Global patrol count: 3
+20:39:28.556 [AI Object Patrol 00339] HelicopterWreck category patrol count: 2
+20:41:42.522 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): found a medium tent tho
+20:42:30.241 [AI Object Patrol 00342] Despawning 1 West bots (spawn position <7181.692383, 381.619324, 3731.304443>, 0/1 deceased)
+20:42:30.251 [AI Object Patrol 00342] Global patrol count: 2
+20:42:30.261 [AI Object Patrol 00342] HelicopterWreck category patrol count: 1
+20:45:16.884 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): the AI fucked me up lol they knocked me out but i got them
+20:45:30.745 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): yea theyre strong now
+20:49:18.725 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): hey snake!
+20:50:46.063 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): yoo
+20:50:59.516 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): ee
+20:52:18.144 [Chat - Global]("Saint"(id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=)): yeah fuck it im gonna log off
+20:53:51.680 [Party] Player "Saint" (id=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw=) left the party "Leviathan Magnificent" (id=3 ownerUID=f-_TR5GiRJHALUs-Bpx5ZJmLko5lr6ptvdfijtGV8Dw= ownerName=Saint (2))
+20:54:02.188 [AI Object Patrol 00339] Despawning 3 West bots (spawn position <11573.099609, 335.015656, 3212.053711>, 0/3 deceased)
+20:54:02.198 [AI Object Patrol 00339] Global patrol count: 1
+20:54:02.209 [AI Object Patrol 00339] HelicopterWreck category patrol count: 0
+20:57:05.746 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): sup snake?
+21:17:27.717 [AI Object Patrol 00353] Spawning 3 East bots at <6871.855469, 377.399139, 4157.733887>
+21:17:27.781 [AI Object Patrol 00353] Global patrol count: 2
+21:17:27.820 [AI Object Patrol 00353] HelicopterWreck category patrol count: 1
+21:17:47.510 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): i found a .50 beowulf ar15
+21:24:47.236 [Party] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) joined the party "Dragon Shadowed" (id=4 ownerUID=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU= ownerName=PoiiZoner3)
+21:30:49.649 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): theres a frickin bear in nadbor
+21:31:46.171 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): its stuck in a house LOL
+21:36:35.569 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Is it still there?
+21:39:42.091 [AI Object Patrol 00353] East bots were wiped out (spawn position <6871.855469, 377.399139, 4157.733887>, 3/3 deceased)
+21:39:42.102 [AI Object Patrol 00353] Global patrol count: 1
+21:39:42.113 [AI Object Patrol 00353] HelicopterWreck category patrol count: 0
+21:48:42.335 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): yeah i think so
+21:49:13.302 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): I want to find out what the RSh-12 does to it
+21:49:20.700 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): its in nadbor
+21:49:41.191 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): theres also AI nearby we cuold fight
+21:49:52.601 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): Hello
+22:02:54.253 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): u unstuck now saint?
+22:03:00.857 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): he logged off
+22:03:12.429 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): ahh kk
+22:07:35.909 [AI Object Patrol 00368] Spawning 3 West bots at <5503.983398, 419.894867, 3753.169189>
+22:07:35.947 [AI Object Patrol 00368] Global patrol count: 2
+22:07:35.958 [AI Object Patrol 00368] ContaminatedArea category patrol count: 1
+22:16:03.866 [VehicleEnter] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) entered vehicle UH-1H (id=81F79584E1468E326FDD019A29A500E3 pos=<6494.13, 392.78, 3800.84>) as passenger
+22:16:11.389 [VehicleEnter] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) entered vehicle UH-1H (id=81F79584E1468E326FDD019A29A500E3 pos=<6494.13, 392.78, 3800.85>) as pilot
+22:16:23.809 [VehicleEngine] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) started vehicle UH-1H (id=81F79584E1468E326FDD019A29A500E3 pos=<6494.13, 392.78, 3800.98>)
+22:16:58.117 [AI Object Patrol 00367] Spawning 2 West bots at <6188.117676, 382.570007, 3987.234863>
+22:16:58.145 [AI Object Patrol 00367] Global patrol count: 3
+22:16:58.155 [AI Object Patrol 00367] ContaminatedArea category patrol count: 2
+22:17:31.785 [AI Object Patrol 00340] Despawning West patrol (spawn position <5911.492676, 405.854950, 3589.998535>)
+22:17:31.795 [AI Object Patrol 00353] Despawning East patrol (spawn position <6865.583496, 377.843689, 4160.069336>)
+22:18:02.782 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): its that big white and green one
+22:18:34.395 [VehicleEngine] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) stopped vehicle UH-1H (id=81F79584E1468E326FDD019A29A500E3 pos=<9060.46, 344.64, 4480.91>)
+22:18:37.881 [VehicleLeave] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) left vehicle UH-1H (id=81F79584E1468E326FDD019A29A500E3 pos=<9060.5, 344.56, 4480.9>)
+22:18:44.744 [VehicleLeave] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) left vehicle UH-1H (id=81F79584E1468E326FDD019A29A500E3 pos=<9060.53, 344.53, 4480.72>)
+22:19:56.696 [VehicleEnter] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) entered vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<9069.88, 345.98, 4518.21>) as pilot
+22:20:00.597 [VehicleEngine] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) started vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<9069.88, 345.98, 4518.22>)
+22:20:39.851 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): o7
+22:21:02.404 [VehicleEngine] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) stopped vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<9071.62, 345.84, 4514.46>)
+22:21:05.964 [VehicleLeave] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) left vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<9071.62, 345.83, 4514.46>)
+22:24:12.612 [VehicleEnter] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) entered vehicle UH-1H (id=81F79584E1468E326FDD019A29A500E3 pos=<9060.58, 344.46, 4479.86>) as pilot
+22:24:14.883 [VehicleEngine] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) started vehicle UH-1H (id=81F79584E1468E326FDD019A29A500E3 pos=<9060.58, 344.46, 4479.85>)
+22:25:25.480 [AI Object Patrol 00369] Spawning 2 East bots at <9493.610352, 288.408813, 6848.466797>
+22:25:25.514 [AI Object Patrol 00369] Global patrol count: 4
+22:25:25.524 [AI Object Patrol 00369] HelicopterWreck category patrol count: 1
+22:26:41.704 [VehicleEngine] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) stopped vehicle UH-1H (id=81F79584E1468E326FDD019A29A500E3 pos=<9030.56, 297.95, 6565.29>)
+22:26:47.860 [VehicleLeave] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) left vehicle UH-1H (id=81F79584E1468E326FDD019A29A500E3 pos=<9030.61, 297.92, 6565.26>)
+22:27:07.286 [AI Object Patrol 00368] Despawning 3 West bots (spawn position <5503.983398, 419.894867, 3753.169189>, 0/3 deceased)
+22:27:07.296 [AI Object Patrol 00368] Global patrol count: 3
+22:27:07.306 [AI Object Patrol 00368] ContaminatedArea category patrol count: 1
+22:27:18.988 [AI Object Patrol 00367] Despawning 2 West bots (spawn position <6188.117676, 382.570007, 3987.234863>, 0/2 deceased)
+22:27:18.998 [AI Object Patrol 00367] Global patrol count: 2
+22:27:19.008 [AI Object Patrol 00367] ContaminatedArea category patrol count: 0
+22:33:39.263 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Absolutely 0 chance
+22:34:01.332 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Helping you gave me the good karma I needed for RNGesus to reward me with a black SCAR-H lmao
+22:34:12.433 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): wow you got it? lol
+22:34:41.230 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): Randomly decided to go to Lembork after helping you since I need new pants and could do with refueling my Huey and whatnot
+22:34:56.017 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): And here one is, laying in a Sniper Tower like it was waiting for me
+22:35:03.560 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): You can't make this shit up
+22:36:47.185 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): thats awesome
+22:37:32.234 [VehicleEnter] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) entered vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<9071.61, 345.83, 4514.36>) as pilot
+22:37:34.361 [VehicleEngine] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) started vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<9071.61, 345.83, 4514.36>)
+22:38:18.610 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): i might try swarog
+22:38:27.064 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): is that a ai area
+22:38:32.875 [Chat - Global]("PoiiZoner3"(id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=)): No, just mili
+22:43:08.902 [VehicleEngine] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) stopped vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<5023.72, 517.36, 2140.56>)
+22:43:12.850 [VehicleLeave] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) left vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<5023.58, 517.34, 2140.49>)
+22:53:54.878 [Chat - Global]("snake"(id=0nsyEhm9INQy3se8y-fXlbMHVv4YsIXloUCLC2unDyo=)): l8r guys
+22:54:07.867 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): ok see ya
+23:02:14.326 [VehicleEnter] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) entered vehicle UH-1H (id=81F79584E1468E326FDD019A29A500E3 pos=<9030.62, 297.91, 6565.25>) as pilot
+23:02:17.015 [VehicleEngine] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) started vehicle UH-1H (id=81F79584E1468E326FDD019A29A500E3 pos=<9030.62, 297.91, 6565.25>)
+23:03:42.931 [AI Object Patrol 00369] Despawning 2 East bots (spawn position <9493.610352, 288.408813, 6848.466797>, 0/2 deceased)
+23:03:42.941 [AI Object Patrol 00369] Global patrol count: 1
+23:03:42.951 [AI Object Patrol 00369] HelicopterWreck category patrol count: 0
+23:04:42.443 [AI Object Patrol 00375] Spawning 3 East bots at <5909.974609, 405.636169, 3569.237061>
+23:04:42.477 [AI Object Patrol 00375] Global patrol count: 2
+23:04:42.487 [AI Object Patrol 00375] HelicopterWreck category patrol count: 1
+23:05:36.510 [VehicleEngine] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) stopped vehicle UH-1H (id=81F79584E1468E326FDD019A29A500E3 pos=<6495.4, 393.02, 3797.42>)
+23:05:47.020 [VehicleLeave] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) left vehicle UH-1H (id=81F79584E1468E326FDD019A29A500E3 pos=<6495.45, 392.78, 3797.38>)
+23:05:57.585 [VehicleEnter] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) entered vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<5023.36, 517.35, 2140.42>) as pilot
+23:06:01.074 [VehicleEngine] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) started vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<5023.36, 517.35, 2140.42>)
+23:06:56.534 [VehicleEngine] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) stopped vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<5024.84, 517.38, 2136.08>)
+23:07:08.795 [VehicleLeave] Player "MeltingHolster" (id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=) left vehicle Merlin (id=489EF7186D4DFC2EECDE47AFE6649F9E pos=<5023.57, 517.42, 2136.29>)
+23:13:27.360 [AI Object Patrol 00375] East bots were wiped out (spawn position <5909.974609, 405.636169, 3569.237061>, 3/3 deceased)
+23:13:27.370 [AI Object Patrol 00375] Global patrol count: 1
+23:13:27.381 [AI Object Patrol 00375] HelicopterWreck category patrol count: 0
+23:17:21.347 [Chat - Global]("MeltingHolster"(id=wvhHOzdrtpIguVWymckDHtFfQcLi1rp3tRjwamgpvBQ=)): hey poi you still there?
+23:53:24.664 [AI Object Patrol 00392] Spawning 2 West bots at <7174.584473, 381.179565, 3710.231445>
+23:53:24.718 [AI Object Patrol 00392] Global patrol count: 2
+23:53:24.771 [AI Object Patrol 00392] HelicopterWreck category patrol count: 1
+23:59:56.548 [Party] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) left the party "Dragon Shadowed" (id=4 ownerUID=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU= ownerName=PoiiZoner3)
+00:00:08.636 [AI Object Patrol 00375] Despawning East patrol (spawn position <5909.974609, 405.636169, 3569.237061>)
+00:09:50.772 [AI Object Patrol 00392] Despawning 2 West bots (spawn position <7174.584473, 381.179565, 3710.231445>, 0/2 deceased)
+00:09:50.782 [AI Object Patrol 00392] Global patrol count: 1
+00:09:50.792 [AI Object Patrol 00392] HelicopterWreck category patrol count: 0
+01:49:03.518 [Party] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) joined the party "Dragon Shadowed" (id=4 ownerUID=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU= ownerName=PoiiZoner3)
+02:03:06.778 [VehicleEnter] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) entered vehicle UH-1H (id=81F79584E1468E326FDD019A29A500E3 pos=<6495.45, 392.78, 3797.54>) as pilot
+02:03:12.378 [VehicleEngine] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) started vehicle UH-1H (id=81F79584E1468E326FDD019A29A500E3 pos=<6495.45, 392.78, 3797.59>)
+02:04:40.820 [AI Object Patrol 00398] Spawning 3 East bots at <5407.503906, 434.866028, 1446.166504>
+02:04:40.857 [AI Object Patrol 00398] Global patrol count: 2
+02:04:40.869 [AI Object Patrol 00398] HelicopterWreck category patrol count: 1
+02:05:38.345 [VehicleEngine] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) stopped vehicle UH-1H (id=81F79584E1468E326FDD019A29A500E3 pos=<4951.35, 525.21, 2150.84>)
+02:05:47.782 [VehicleLeave] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) left vehicle UH-1H (id=81F79584E1468E326FDD019A29A500E3 pos=<4951.55, 524.4, 2149.99>)
+02:30:41.953 [VehicleEnter] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) entered vehicle UH-1H (id=81F79584E1468E326FDD019A29A500E3 pos=<4951.32, 524.4, 2149.97>) as pilot
+02:30:51.599 [VehicleEngine] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) started vehicle UH-1H (id=81F79584E1468E326FDD019A29A500E3 pos=<4951.24, 524.4, 2149.96>)
+02:32:07.316 [AI Object Patrol 00398] Despawning 3 East bots (spawn position <5407.503906, 434.866028, 1446.166504>, 0/3 deceased)
+02:32:07.327 [AI Object Patrol 00398] Global patrol count: 1
+02:32:07.338 [AI Object Patrol 00398] HelicopterWreck category patrol count: 0
+02:33:42.647 [VehicleEngine] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) stopped vehicle UH-1H (id=81F79584E1468E326FDD019A29A500E3 pos=<6493.04, 411.11, 3799.24>)
+02:33:52.671 [VehicleLeave] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) left vehicle UH-1H (id=81F79584E1468E326FDD019A29A500E3 pos=<6492.78, 392.78, 3797.32>)
+02:52:20.423 [AI Object Patrol 00418] Spawning 3 West bots at <6509.007324, 314.427307, 3178.751221>
+02:52:20.455 [AI Object Patrol 00418] Global patrol count: 2
+02:52:20.465 [AI Object Patrol 00418] HelicopterWreck category patrol count: 1
+02:59:39.602 [Party] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) left the party "Dragon Shadowed" (id=4 ownerUID=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU= ownerName=PoiiZoner3)
+03:09:35.980 [AI Object Patrol 00418] Despawning 3 West bots (spawn position <6509.007324, 314.427307, 3178.751221>, 0/3 deceased)
+03:09:35.991 [AI Object Patrol 00418] Global patrol count: 1
+03:09:36.001 [AI Object Patrol 00418] HelicopterWreck category patrol count: 0
+03:16:42.305 [Party] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) joined the party "Dragon Shadowed" (id=4 ownerUID=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU= ownerName=PoiiZoner3)
+03:30:49.788 [AI Object Patrol 00419] Spawning 3 West bots at <1930.955078, 291.721832, 11098.424805>
+03:30:49.821 [AI Object Patrol 00419] Global patrol count: 2
+03:30:49.832 [AI Object Patrol 00419] ContaminatedArea category patrol count: 1
+03:34:18.144 [AI Object Patrol 00426] Spawning 1 East bots at <4741.073242, 427.850189, 3212.515869>
+03:34:18.177 [AI Object Patrol 00426] Global patrol count: 3
+03:34:18.187 [AI Object Patrol 00426] HelicopterWreck category patrol count: 1
+03:41:32.896 [AI Object Patrol 00419] Despawning 3 West bots (spawn position <1930.955078, 291.721832, 11098.424805>, 0/3 deceased)
+03:41:32.907 [AI Object Patrol 00419] Global patrol count: 2
+03:41:32.916 [AI Object Patrol 00419] ContaminatedArea category patrol count: 0
+03:43:53.522 [Party] Player "PoiiZoner3" (id=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU=) left the party "Dragon Shadowed" (id=4 ownerUID=cZC_vl4onJwtCEZaOtA89yPcwyGnN7Qy01WI28TQhbU= ownerName=PoiiZoner3)
+03:47:45.077 [AI Object Patrol 00426] Despawning 1 East bots (spawn position <4741.073242, 427.850189, 3212.515869>, 0/1 deceased)
+03:47:45.088 [AI Object Patrol 00426] Global patrol count: 1
+03:47:45.098 [AI Object Patrol 00426] HelicopterWreck category patrol count: 0
+04:27:55.332 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle Land Rover Defender (id=F14DA84150452B93C83C85BA2443F68D pos=<1327.03, 370.47, 11467.4>) as driver
+04:27:56.725 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) started vehicle Land Rover Defender (id=F14DA84150452B93C83C85BA2443F68D pos=<1327.03, 370.47, 11467.4>)
+04:28:07.998 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Land Rover Defender (id=F14DA84150452B93C83C85BA2443F68D pos=<1315.71, 366.68, 11482.7>)
+04:28:08.033 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle Land Rover Defender (id=F14DA84150452B93C83C85BA2443F68D pos=<1315.71, 366.68, 11482.7>)
+04:28:22.324 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle Land Rover Defender (id=F14DA84150452B93C83C85BA2443F68D pos=<1315.71, 366.68, 11482.7>) as driver
+04:28:24.143 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) started vehicle Land Rover Defender (id=F14DA84150452B93C83C85BA2443F68D pos=<1315.71, 366.68, 11482.7>)
+04:33:24.971 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Land Rover Defender (id=F14DA84150452B93C83C85BA2443F68D pos=<4267.68, 229.71, 10699.3>)
+04:33:24.991 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle Land Rover Defender (id=F14DA84150452B93C83C85BA2443F68D pos=<4267.68, 229.71, 10699.3>)
+07:35:37.311 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle Land Rover Defender (id=F14DA84150452B93C83C85BA2443F68D pos=<4267.68, 229.71, 10699.3>) as driver
+07:35:54.704 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) started vehicle Land Rover Defender (id=F14DA84150452B93C83C85BA2443F68D pos=<4267.68, 229.71, 10699.3>)
+07:37:14.697 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Land Rover Defender (id=F14DA84150452B93C83C85BA2443F68D pos=<3717.31, 252.02, 11776.1>)
+07:37:14.730 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle Land Rover Defender (id=F14DA84150452B93C83C85BA2443F68D pos=<3717.31, 252.02, 11776.1>)
+08:33:28.800 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle Land Rover Defender (id=F14DA84150452B93C83C85BA2443F68D pos=<3717.31, 252.02, 11776.1>) as driver
+08:33:33.725 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) started vehicle Land Rover Defender (id=F14DA84150452B93C83C85BA2443F68D pos=<3717.31, 252.02, 11776.1>)
+08:34:12.919 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Land Rover Defender (id=F14DA84150452B93C83C85BA2443F68D pos=<3613.51, 257.91, 11642.9>)
+08:34:12.952 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle Land Rover Defender (id=F14DA84150452B93C83C85BA2443F68D pos=<3613.51, 257.91, 11642.9>)
+08:34:18.008 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle Land Rover Defender (id=F14DA84150452B93C83C85BA2443F68D pos=<3613.5, 257.91, 11642.9>) as driver
+08:34:19.459 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) started vehicle Land Rover Defender (id=F14DA84150452B93C83C85BA2443F68D pos=<3613.5, 257.91, 11642.9>)
+08:40:30.469 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Land Rover Defender (id=F14DA84150452B93C83C85BA2443F68D pos=<1317.86, 368.85, 11475.2>)
+08:40:30.669 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle Land Rover Defender (id=F14DA84150452B93C83C85BA2443F68D pos=<1317.86, 368.85, 11475.2>)
+08:40:37.948 [VehicleEnter] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) entered vehicle Land Rover Defender (id=F14DA84150452B93C83C85BA2443F68D pos=<1317.86, 368.85, 11475.2>) as driver
+08:40:39.363 [VehicleEngine] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) started vehicle Land Rover Defender (id=F14DA84150452B93C83C85BA2443F68D pos=<1317.86, 368.85, 11475.2>)
+08:40:46.979 [VehicleEngine] Player "NULL" (id=NULL) stopped vehicle Land Rover Defender (id=F14DA84150452B93C83C85BA2443F68D pos=<1326.94, 370.47, 11467.1>)
+08:40:47.013 [VehicleLeave] Player "Bad Boy" (id=7EOOpe6Cv8QB45p22zWB29TPheQCYualmurDzSA3CR0=) left vehicle Land Rover Defender (id=F14DA84150452B93C83C85BA2443F68D pos=<1326.94, 370.47, 11467.1>)
+08:41:26.137 [VehicleDestroyed] Boat_01_Orange (id=6BCE7B160644B4D5AFC316975D9E7B01 pos=<7927.33, 169.81, 11881.3>)
+08:47:39.251 [VehicleDeleted] Boat_01_Orange (id=6BCE7B160644B4D5AFC316975D9E7B01 pos=<7927.35, 169.41, 11881.4>)
