@@ -1,6 +1,6 @@
 # 3rd ID Dayz
 
-**Search for name:** 3rd ID Dayz
+**Search for name:** 3rd ID Dayz  
 **Address:** 85.190.152.95:11000  
 **Server Version:** 1.28.160123  
 **Required Game Version:** 1.28.0
