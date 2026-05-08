@@ -7,7 +7,7 @@ Welcome to **3rd ID Dayz**, a hardcore survival experience designed for players 
 # 🌍 Server Information
 
 🧭 **Server Name:** 3rd ID Dayz  
-📡 **Address:** `95.156.238.18:11000`  
+📡 **Address:** `95.156.238.18:10600`  
 ⚙️ **Server Version:** `1.29.162510`  
 🎮 **Required Game Version:** `1.29.0`
 
